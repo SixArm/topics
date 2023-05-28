@@ -1,3 +1,3 @@
 # Topics
 
-Topics explain, akin to a glossary, wordbook, terminology guide, and the like.
+Topics and their explanations, akin to a glossary, wordbook, terminology guide, summary encyclopedia, etc. 
