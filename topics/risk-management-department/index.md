@@ -1,6 +1,6 @@
-# Risk Management department
+# Risk management department
 
-The Risk Management aimts to identify, assess, and mitigate risks that may affect an organization's ability to achieve its objectives.
+The Risk management department aims to identify, assess, and mitigate risks that may affect an organization's ability to achieve its objectives.
 
 Key functions often include:
 
