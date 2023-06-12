@@ -1,6 +1,6 @@
-# AAAA Auditing
+# Auditing
 
-The fourth A in AAAA stands for Auditing, which is an essential component of information security and data protection. Auditing involves the regular review and analysis of system activity logs to detect any unauthorized access or suspicious activity that may compromise the integrity, confidentiality, or availability of sensitive information.
+Auditing involves the regular review and analysis of system activity logs to detect any unauthorized access or suspicious activity that may compromise the integrity, confidentiality, or availability of sensitive information.
 
 In the context of information security, auditing helps ensure that access to sensitive data is properly controlled, monitored, and recorded.
 
