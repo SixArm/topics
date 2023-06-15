@@ -1,4 +1,4 @@
-# User Experience (UX) - Benefits
+# User Experience (UX) - benefits
 
 UX encompasses every aspect of the user's interaction, including their initial impression, ease of use, efficiency, effectiveness, and overall satisfaction. It goes beyond the visual aesthetics and considers factors such as usability, functionality, accessibility, and emotional response.
 

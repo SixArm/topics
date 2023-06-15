@@ -1,4 +1,4 @@
-# Developer Experience (DX) - Benefits
+# Developer Experience (DX) - benefits
 
 DX focuses on improving the productivity, efficiency, and satisfaction of developers by providing them with well-designed and developer-friendly tools, documentation, resources, and support. It recognizes that developers are the key users and stakeholders in the software development process, and their experience directly impacts the quality and speed of application development.
 

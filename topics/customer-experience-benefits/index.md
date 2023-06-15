@@ -1,4 +1,4 @@
-# Customer Experience (CX) - Benefits
+# Customer Experience (CX) - benefits
 
 Customer Experience (CX) is a holistic approach that focuses on understanding and improving the customer's feelings, emotions, and satisfaction at every stage of their engagement with the company. It goes beyond simply providing a product or service and aims to create positive and memorable experiences that foster loyalty, advocacy, and long-term customer relationships.
 
