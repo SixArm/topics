@@ -12,4 +12,4 @@ Communication and Collaboration: Storyboards serve as a communication tool, allo
 
 Timing and Pacing: Storyboards can include indications of timing and pacing through the use of arrows, notes, or additional annotations. This helps visualize the rhythm and tempo of the story, ensuring that the desired dramatic or comedic effect is achieved.
 
-Cost and Resource Estimation: Storyboards can also assist in estimating the resources and budget required for the project. By visualizing the scenes and shots, the team can identify the necessary locations, props, special effects, or other production elements needed, helping with cost estimation and resource allocation.
+Cost and Resource Estimation: Storyboards help estimate the resources required for a project. By visualizing the work, the team can identify the necessary locations, props, special effects, or other production elements needed, helping with cost estimation and resource allocation.

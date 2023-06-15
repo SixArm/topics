@@ -1,21 +1,19 @@
 # Task analysis
 
-Task analysis is a systematic method used to break down complex tasks or activities into smaller, more manageable steps. It involves studying and documenting the actions, processes, and cognitive activities required to complete a specific task or achieve a particular goal. Task analysis is commonly used in various fields such as psychology, human-computer interaction, industrial engineering, instructional design, and user experience research.
+Task analysis is a systematic method used to break down complex tasks or activities into smaller, more manageable steps. It involves studying and documenting the actions, processes, and cognitive activities required to complete a specific task or achieve a particular goal. Task analysis enables researchers to identify potential bottlenecks, errors, or inefficiencies, and find ways to optimize.
 
-The primary purpose of task analysis is to gain a detailed understanding of how individuals perform a task, with the goal of improving performance, identifying areas for improvement, designing effective training programs, or creating user-friendly systems or interfaces. By breaking down a task into its constituent parts, task analysis allows researchers or practitioners to identify potential bottlenecks, errors, or inefficiencies, and find ways to optimize performance or simplify the task.
-
-Here's a general process for conducting a task analysis:
+General process…
 
 1. Identify the Task: Select a specific task or activity that you want to analyze. It could be a complex work task, a user interaction with a software application, or any other goal-oriented activity.
 
-2. Collect Information: Gather information about the task by observing individuals performing the task, interviewing subject matter experts, or consulting existing documentation or manuals. It is important to involve individuals who are familiar with the task or are experienced in performing it.
+2. Collect Information: Gather information about the task by observing individuals performing the task, interviewing subject matter experts, or consulting existing documentation or manuals. 
 
-3. Decompose the Task: Break down the task into smaller steps or subtasks. Start with a high-level view of the task and gradually decompose it into more detailed actions. Each step should be discrete and represent a meaningful unit of activity.
+3. Decompose the Task: Break down the task into smaller steps or subtasks. Start with a high-level view of the task, and decompose it into more detailed actions. Each step should be discrete and meaningful.
 
-4. Sequence the Steps: Arrange the steps in the order in which they need to be performed to achieve the task's goal. Consider the dependencies and relationships between the steps and ensure a logical flow.
+4. Sequence the Steps: Arrange the steps in the order in which they need to be performed. Consider dependencies and relationships between the steps and ensure a logical flow.
 
-5. Document the Analysis: Create a detailed record of the task analysis, either in written form or using visual aids such as flowcharts, diagrams, or hierarchical task analysis (HTA) diagrams. Include the steps, actions, decisions, and any other relevant information related to each subtask.
+5. Document: Create a detailed record of the task analysis, either in written form or using visual aids such as flowcharts, diagrams, or hierarchical task analysis (HTA) diagrams. 
 
-6. Evaluate and Refine: Review the task analysis and seek feedback from experts or individuals who perform the task. Identify any missing steps, redundant actions, or unclear instructions. Revise and refine the analysis as needed to improve accuracy and completeness.
+6. Evaluate: Identify any missing steps, redundant actions, or unclear instructions. Refine the analysis as needed to improve accuracy and completeness. Seek advice from experts and stakeholders.
 
-7. Identify Opportunities for Improvement: Analyze the task analysis to identify areas where performance can be optimized, errors can be reduced, or the task can be simplified. This may involve redesigning processes, modifying interfaces, providing training or guidance, or implementing automation.
+7. Improve: Work on areas where performance can be optimized, errors can be reduced, or processes can be simplified. This may involve redesigns, training courses, or adding automation.

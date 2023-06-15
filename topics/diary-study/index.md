@@ -4,15 +4,13 @@ A diary study is a research method used to collect qualitative data about indivi
 
 General overview…
 
-Participant Recruitment: Researchers identify and recruit participants who are willing to keep a diary and provide regular entries. The number of participants can vary depending on the research goals and available resources.
+Recruitment: Identify and recruit participants who are willing to keep a diary and provide regular entries. Participation can vary depending on the research goals and available resources.
 
-Instructions and Guidelines: Participants are provided with clear instructions on what to record in their diaries and any specific guidelines or prompts to follow. Researchers may ask participants to document specific events, activities, emotions, or any other aspects relevant to the study.
+Guidelines: Provide instructions on what to record in the diaries, such as documenting specific events, activities, emotions, or any other aspects relevant to the study.
 
 Diary Keeping: Participants are expected to record entries in their diaries regularly, often on a daily or weekly basis, depending on the study's duration. The entries can be in written form, audio recordings, or even multimedia formats, depending on the study design.
 
-Duration: Diary studies can span a short period, such as a few days or weeks, or extend over longer durations, such as several months or even years. The length of the study depends on the research objectives and the specific phenomenon being investigated.
-
-Data Collection: Once participants have completed the diary keeping period, researchers collect the diaries and associated materials from the participants. They may also conduct additional interviews or surveys to gather more context or clarify certain aspects of the diary entries, if needed.
+Data Collection: Once participants have completed the diary keeping period, researchers collect the diaries and associated materials from the participants. They may also conduct additional interviews or surveys to gather more context or clarify certain aspects of the diary entries.
 
 Data Analysis: Researchers analyze the diary entries and other collected data using qualitative analysis methods. They look for patterns, themes, and insights to gain a deeper understanding of participants' experiences, behaviors, or attitudes.
 

@@ -1,6 +1,8 @@
 # Storyboard steps
 
-Storyboarding allows creators to visualize their ideas and communicate them effectively, making it an essential tool in the planning and production of visual narratives. Creating a storyboard typically involves six steps…
+Storyboarding allows creators to visualize their ideas and communicate them effectively, making it an essential tool in the planning and production of visual narratives. 
+
+Creating a storyboard typically involves six steps…
 
 1. Script or Concept: Start with a script or a concept for the story. Identify the key scenes, actions, and important visual elements that need to be represented in the storyboard.
 
