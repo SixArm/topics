@@ -1,6 +1,6 @@
-# Project management lifecycle
+# Project management life cycle (PMLC)
 
-The project management lifecycle is a framework that outlines the stages or phases through which a project progresses from initiation to closure. It provides a structured approach for managing projects and helps ensure that key activities and deliverables are completed in a logical sequence. While specific terminologies and the number of phases may vary, a typical project management lifecycle includes the following key phases:
+The project management life cycle (PMLC) is a framework that outlines the stages or phases through which a project progresses from initiation to closure. It provides a structured approach for managing projects and helps ensure that key activities and deliverables are completed in a logical sequence. While specific terminologies and the number of phases may vary, a typical project management life cycle includes the following key phases:
 
 * Initiation: This is the starting phase of a project, where the need for the project is identified, and the project's objectives, scope, and feasibility are determined. The initiation phase involves defining the project's goals, conducting initial assessments, and obtaining approval to proceed.
 
@@ -12,4 +12,4 @@ The project management lifecycle is a framework that outlines the stages or phas
 
 * Closure: The closure phase marks the formal end of the project. It involves completing final deliverables, conducting project reviews and evaluations, documenting lessons learned, and obtaining formal project acceptance. Project closure activities also include transitioning the project's outcomes to the appropriate stakeholders, archiving project documentation, and releasing project resources.
 
-It's important to note that the project management lifecycle is iterative and dynamic. It allows for feedback loops, adjustments, and continuous improvement throughout the project. The specific activities and deliverables within each phase may vary based on the project's size, complexity, and industry. Effective project management requires adapting the lifecycle to meet the unique needs and requirements of the project.
+It's important to note that the project management life cycle is iterative and dynamic. It allows for feedback loops, adjustments, and continuous improvement throughout the project. The specific activities and deliverables within each phase may vary based on the project's size, complexity, and industry. Effective project management requires adapting the life cycle to meet the unique needs and requirements of the project.
