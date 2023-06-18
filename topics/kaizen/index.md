@@ -1,4 +1,4 @@
-# Kaizen 
+# Kaizen (continous improvement)
 
 Kaizen is a Japanese term that means "continuous improvement." It is a philosophy and methodology that emphasizes a systematic, incremental approach to improving processes and products in a way that involves all employees of an organization, from top management to frontline workers.
 
