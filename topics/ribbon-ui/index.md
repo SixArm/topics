@@ -1,6 +1,6 @@
-# Ribbon control
+# Ribbon UI
 
-A ribbon control, in user interface (UI) and user experience (UX) design, is a graphical user interface element that presents a set of commands or actions in a horizontal bar across the top of an application or document. The ribbon control is often used in productivity software, such as word processors, spreadsheet applications, or design tools, to provide a visually organized and easily accessible set of tools and options to users.
+A ribbon user interface is a graphical control that presents a set of commands or actions in a horizontal bar across the top of an application or document. The ribbon control is often used in productivity software, such as word processors, spreadsheet applications, or design tools, to provide a visually organized and easily accessible set of tools and options to users.
 
 Key characteristics…
 

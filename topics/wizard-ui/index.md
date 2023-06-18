@@ -1,6 +1,6 @@
-# Wizard control
+# Wizard UI
 
-In UI/UX design, a wizard control is a step-by-step interactive process that guides users through a series of tasks or decisions. It is designed to simplify complex processes and make them more manageable for users by breaking them down into smaller, sequential steps.
+A wizard user interface is a step-by-step interactive process that guides users through a series of tasks or decisions. It is designed to simplify complex processes and make them more manageable for users by breaking them down into smaller, sequential steps.
 
 Wizards are commonly used in a variety of applications and scenarios, such as user registrations, onboarding processes, form submissions, configuration setups, and complex task workflows. By providing a structured and guided experience, wizards help users navigate through processes more easily and increase the likelihood of successful completion.
 

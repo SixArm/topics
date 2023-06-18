@@ -1,10 +1,10 @@
-# Accordion control
+# Accordion UI
 
-In user interface (UI) design, an accordion control is a graphical element that allows users to expand or collapse sections of content within a limited amount of screen space. It helps to organize and manage large amounts of information or content in a compact and easily navigable manner.
+An accordion user interface is a graphical control that allows users to expand or collapse sections of content within a limited amount of screen space. It helps to organize and manage large amounts of information or content in a compact and easily navigable manner.
 
 An accordion typically consists of vertically stacked panels or sections, where each panel represents a category or topic. The panels are collapsible, meaning they can be expanded or collapsed by the user. When a panel is expanded, its content is visible, and when it is collapsed, the content is hidden, conserving screen space.
 
-Key aspects…
+Key characteristics…
 
 Space Efficiency: Accordions are useful when there is limited space to display all the content upfront. By allowing users to expand or collapse sections, accordions conserve screen space, making it easier to present a large amount of information without overwhelming the user.
 

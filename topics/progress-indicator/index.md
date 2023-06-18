@@ -1,8 +1,6 @@
-# Progress indicators
+# Progress indicator
 
-Progress indicators, in the context of user interface (UI) and user experience (UX) design, are visual elements that communicate the progress or status of a process, task, or operation to the user. They provide valuable feedback to users, letting them know that something is happening, and help manage their expectations regarding the completion time.
-
-Some common progress indicators are progress bars, counter tickers, percentage-complete displays, spinning icons, thermometer charts, odometers, and the like.
+A progress indicator, in the context of user interface (UI) and user experience (UX) design, is a visual element that communicates the progress or status of a process, task, or operation to the user. Some common progress indicators are progress bars, counter tickers, percentage-complete displays, spinning icons, thermometer charts, odometers, and the like. They provide feedback to users that something is happening, and can help users understand the expected completion time.
 
 Key aspects…
 
