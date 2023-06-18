@@ -2,17 +2,11 @@
 
 Some popular and highly recommended books in the field…
 
-"Don't Make Me Think" by Steve Krug: This classic book focuses on usability and provides practical advice on how to create intuitive and user-friendly designs.
-
 "The Design of Everyday Things" by Don Norman: Exploring the principles of design and usability, this book delves into the psychology behind human-centered design and provides insights into creating intuitive and functional user experiences.
-
-"Seductive Interaction Design" by Stephen Anderson: This book explores the emotional and persuasive aspects of user experience design, helping designers create engaging and compelling interactions.
 
 "Designing Interfaces" by Jenifer Tidwell: Covering a wide range of interface design patterns and techniques, this book serves as a comprehensive guide to designing effective and aesthetically pleasing user interfaces.
 
 "Universal Principles of Design" by William Lidwell, Kritina Holden, and Jill Butler: Although not specifically focused on UI/UX design, this book provides a collection of 125 design principles that can be applied to various design disciplines, including user experience design.
-
-"Mobile First" by Luke Wroblewski: With a focus on mobile design, this book explores the principles and best practices for designing user experiences for mobile devices.
 
 "The Elements of User Experience" by Jesse James Garrett: Providing a holistic view of the user experience design process, this book covers various aspects, including strategy, scope, structure, and surface.
 

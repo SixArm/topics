@@ -4,12 +4,12 @@ In web design and accessibility, the "alt" attribute (short for alternative text
 
 Key aspects…
 
-Text Alternative: The alt attribute allows you to describe the content and purpose of an image in text format. This description should be concise, accurate, and meaningful, providing a representation of the image's information or function. It should convey the same message or convey the intended context that the image is trying to communicate.
+Text Alternative: The alt attribute allows you to describe the content and purpose of an image in text format. This description should be concise, accurate, and meaningful. It should convey the same message or convey the intended context that the image is trying to communicate.
 
-Screen Reader Compatibility: Screen readers are assistive technologies that read aloud the content of a web page to individuals who are visually impaired. When an image contains an alt attribute, the screen reader can read the alternative text, enabling users to understand the visual content of the image even if they cannot see it.
+Accessibility Compliance: Providing alt text for images is a requirement for web accessibility compliance, as specified by the Web Content Accessibility Guidelines (WCAG). Including alt attributes ensures that your website is accessible to individuals with visual impairments.
 
-Accessibility Compliance: Providing alt text for images is a requirement for web accessibility compliance, as specified by the Web Content Accessibility Guidelines (WCAG). Including alt attributes ensures that your website is accessible to individuals with visual impairments and conforms to accessibility standards.
+Screen Reader Compatibility: Screen readers are assistive technologies that read aloud the content of a web page to individuals who are visually impaired. When an image contains an alt attribute, the screen reader can read the alternative text.
 
-SEO Benefits: Alt text also serves a search engine optimization (SEO) purpose. Search engines rely on alt text to understand and index images, which can improve the visibility and ranking of your web pages in search results. By using descriptive alt text, you can provide relevant information to search engines and potentially increase organic traffic to your website.
+SEO Benefits: Alt text also serves a search engine optimization (SEO) purpose. Search engines rely on alt text to understand and index images, which can improve the visibility and ranking of your web pages in search results. 
 
-Image Loading Failure: In cases where an image fails to load due to slow connections, broken links, or browser issues, the alt attribute serves as a fallback. Instead of a broken or missing image, users will see the alternative text, providing them with some context and information about the missing image.
+Image Loading Failure: In cases where an image fails to load due to slow connections, broken links, or browser issues, the alt attribute serves as a fallback. Instead of a broken or missing image, users will see the alternative text, providing them with some context.

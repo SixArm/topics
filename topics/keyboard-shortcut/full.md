@@ -1,4 +1,4 @@
-# Keyboard shortcut
+# Keyboard shortcut (a.k.a. hotkey)
 
 A keyboard shortcut, also known as a hotkey or key combination, is a combination of one or more keys on a computer keyboard that triggers a specific action or command in a software application or operating system. Keyboard shortcuts are designed to provide a quick and efficient way for users to perform common tasks without relying solely on mouse clicks or navigating through menus.
 
