@@ -17,5 +17,3 @@ Some of the important elements that can be represented in a deployment diagram i
 * Association: A connection between a node and a component or between two nodes.
 
 * Dependency: A relationship in which a component depends on another component or artifact.
-
-Deployment diagrams are important tools for understanding and communicating the architecture of a system, especially in distributed systems where components are spread across multiple nodes. They help to identify potential issues, such as bottlenecks or single points of failure, and can aid in planning the deployment and configuration of a system.
