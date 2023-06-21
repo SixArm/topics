@@ -1,4 +1,4 @@
-# AI Project Management
+# AI project management
 
 AI (Artificial Intelligence) has the potential to revolutionize project management by automating repetitive tasks, providing intelligent insights, and improving decision-making. 
 
