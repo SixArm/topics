@@ -10,12 +10,10 @@ Content Structure: Runbooks typically have a standardized structure, organizing 
 
 Procedures and Steps: Runbooks provide detailed procedures and step-by-step instructions for executing tasks or resolving issues. The steps should be clear, concise, and easy to follow.
 
-Troubleshooting Guides: Runbooks often include troubleshooting guides that help operators diagnose and resolve common issues or incidents. These guides may include flowcharts, decision trees, or checklists to aid in problem-solving.
+Troubleshooting Guides: Runbooks often include troubleshooting guides that help operators diagnose and resolve common issues or incidents. These guides may include flowcharts, decision trees, or checklists.
 
-Dependencies and Prerequisites: Runbooks may outline any dependencies or prerequisites that need to be met before executing a particular task. This ensures that operators have the necessary resources, permissions, or access before proceeding.
-
-Communication and Escalation Procedures: Runbooks may include guidelines on how to communicate with other team members, stakeholders, or escalate issues to higher levels of support if necessary.
+Dependencies and Prerequisites: Runbooks should outline whatever necessities need to be met before executing a particular task.
 
 Recovery and Incident Response: For incident management, runbooks provide instructions for responding to specific types of incidents, including containment, analysis, mitigation, and recovery steps.
 
-Contacts and Resources: Runbooks may include a list of contacts, both internal and external, who should be notified or consulted during different scenarios. They may also provide references to additional resources such as documentation, tools, or systems.
+Communication and Escalation Procedures: Runbooks may include guidelines on how to communicate with other team members, stakeholders, or escalate issues to higher levels of support if necessary.

@@ -1,25 +1,23 @@
 # Meeting types
 
-There are several types of meetings that serve different purposes within organizations. Here are some common types:
+Meetings serve different purposes within organizations…
 
-* Informational Meetings: These meetings are held to provide updates, share information, or communicate important announcements. They are typically one-way communication, with one person or a small group presenting information to the rest of the attendees.
+Informational meetings provide updates, show presentations, or communicate announcements. They are typically one-way.
 
-* Decision-Making Meetings: These meetings are focused on making important decisions regarding projects, strategies, policies, or other matters. The goal is to gather input, discuss options, and reach a consensus or make a final decision.
+Decision-making meetings focus on gathering input, discussing options, and reaching a consensus or making a final decision.
 
-* Problem-Solving Meetings: These meetings are dedicated to identifying and addressing specific problems or challenges. Participants collaborate to analyze the problem, generate ideas, and develop solutions. Problem-solving meetings often involve brainstorming and collaborative decision-making.
+Problem-solving meetings identify and address specific challenges. Participants collaborate to analyze the issues and develop solutions.
 
-* Planning Meetings: These meetings are aimed at developing or refining plans for future projects, initiatives, or goals. They involve setting objectives, defining strategies, allocating resources, and establishing timelines and responsibilities.
+Planning meetings develop projects, initiatives, goals, objectives, timelines, resource requirements, roles, and responsibilities.
 
-* Team Building Meetings: These meetings focus on fostering collaboration, improving communication, and building relationships within a team. They can include team-building exercises, icebreakers, and activities designed to enhance teamwork and camaraderie.
+Team building meetings can include team-building exercises, icebreakers, and activities designed to enhance teamwork, mutual understanding, and mutual respect.
 
-* Review Meetings: These meetings involve reviewing progress, performance, or outcomes of a project, task, or process. They provide an opportunity to evaluate results, identify areas for improvement, and discuss lessons learned.
+Review meetings evaluate results, outputs, and outcomes, then identify areas for improvement, and discuss lessons learned.
 
-* Status Update Meetings: These meetings are meant to provide updates on ongoing projects, tasks, or assignments. Each team member or representative shares progress, challenges, and next steps. It helps ensure everyone is informed about the current status of various initiatives.
+Status update meetings are informative, for team members to share progress, challenges, blockers, change needs, and next steps.
 
-* Training or Workshop Meetings: These meetings are organized to provide education, training, or skill development to attendees. They may involve presentations, demonstrations, hands-on exercises, and interactive discussions.
+Training meetings provide education, skill development, practice exercises, growth opportunities, and coursework to attendees.
 
-* Client or Stakeholder Meetings: These meetings involve engaging with clients or stakeholders to discuss projects, address concerns, provide updates, or gather feedback. They aim to maintain strong relationships and ensure alignment with external parties.
+Stakeholder meetings are for engaging with clients or stakeholders to discuss projects, address concerns, provide updates, gather feedback, harmonize alignment, and maintain relationships.
 
-* Ad Hoc or Emergency Meetings: These meetings are unscheduled and are called on short notice to address urgent matters or unexpected events that require immediate attention.
-
-It's important to note that meetings should be well-organized, have a clear purpose, and involve the appropriate participants. By selecting the appropriate type of meeting and structuring it effectively, organizations can enhance communication, collaboration, and decision-making processes.
+Ad hoc emergency meetings are unscheduled, and are called on short notice to address urgent matters or unexpected events that require immediate attention.

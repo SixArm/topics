@@ -1,6 +1,6 @@
 # Standard Operating Procedure (SOP)
 
-A Standard Operating Procedure (SOP) is a documented set of step-by-step instructions that outlines how to perform a specific task or activity within an organization. SOPs are developed to ensure consistency, efficiency, and quality in executing routine or critical processes. They serve as guidelines for employees to follow, providing a standardized approach to perform tasks, maintain quality standards, and promote safety. Benefits include consistency and efficiency, and improvements in training, quality assurance, compliance, continuous improvement, and knowledge management
+A Standard Operating Procedure (SOP) is a documented set of step-by-step instructions that outlines how to perform a specific task or activity within an organization. SOPs are developed to ensure consistency, efficiency, and quality in executing routine or critical processes. They serve as guidelines for employees to follow, providing a standardized approach to perform tasks, maintain quality standards, and promote safety. Benefits can include improvements in training, quality assurance, compliance, and kaizen.
 
 Key elements…
 
@@ -10,10 +10,10 @@ Scope: SOPs define the scope of the procedure, outlining the specific activities
 
 Responsibilities: They assign roles and responsibilities to individuals or teams involved in executing the procedure, clarifying who is accountable for each step.
 
-Procedure Steps: SOPs provide detailed, step-by-step instructions to perform the task or activity. The steps should be clear, specific, and easy to follow.
+Procedure Steps: SOPs provide step-by-step instructions to perform the task. Steps should be clear, specific, and easy to follow.
 
 Safety Measures: When applicable, SOPs incorporate safety precautions and guidelines to ensure the well-being of employees and compliance with relevant regulations.
 
 References and Supporting Documents: SOPs may reference relevant documents, forms, templates, or other resources that are necessary to complete the task.
 
-Revision and Approval: SOPs should have a revision date and indicate who has approved the document. They should be periodically reviewed and updated to reflect changes in processes, regulations, or best practices.
+Revision and Approval: SOPs should have a revision date and indicate who has approved the document. They should be periodically reviewed and updated as needed.
