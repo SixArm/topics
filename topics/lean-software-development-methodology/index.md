@@ -1,4 +1,4 @@
-# Lean software development
+# Lean software development methodology
 
 Lean software development is a methodology for software development that emphasizes the importance of delivering value to the customer, minimizing waste, and continuous improvement. It is inspired by lean manufacturing, developed by Toyota in the 1940s and 1950s.
 

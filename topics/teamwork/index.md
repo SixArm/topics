@@ -1,6 +1,6 @@
 # Teamwork
 
-Teamwork refers to the collaborative effort of a group of individuals working together towards a common goal. It involves the coordination, cooperation, and mutual support of team members to achieve shared objectives. 
+Teamwork refers to the collaborative effort of a group of individuals working together towards a common goal. It involves the coordination, cooperation, and mutual support of team members.
 
 Key aspects…
 
