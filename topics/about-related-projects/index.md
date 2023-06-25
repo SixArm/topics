@@ -2,31 +2,31 @@
 
 These projects by the author describe more about startup strategy, tactics, and tools. These are links to git repostories that are free libre open source.
 
-* <a href="https://github.com/joelparkerhenderson/architecture-decision-record">Architecture Decision Record (ADR)</a>
-* <a href="https://github.com/joelparkerhenderson/business-model-canvas">Business model canvas (BMC)</a>
-* <a href="https://github.com/joelparkerhenderson/code-of-conduct-guidelines">Code of conduct guidelines</a>
-* <a href="https://github.com/joelparkerhenderson/company-culture">Company culture</a>
-* <a href="https://github.com/joelparkerhenderson/coordinated-disclosure">Coordinated disclosure</a>
-* <a href="https://github.com/joelparkerhenderson/crucial-conversations">Crucial conversations</a>
-* <a href="https://github.com/joelparkerhenderson/decision-record">Decision Record (DR) template</a>
-* <a href="https://github.com/joelparkerhenderson/functional-specifications-tutorial">Functional specifications tutorial</a>
-* <a href="https://github.com/joelparkerhenderson/icebreaker-questions">Icebreaker questions</a>
-* <a href="https://github.com/joelparkerhenderson/intent-plan">Intent plan</a>
-* <a href="https://github.com/joelparkerhenderson/key-performance-indicator">Key Performance Indicator (KPI)</a>
-* <a href="https://github.com/joelparkerhenderson/key-risk-indicator">Key Risk Indicator (KRI)</a>
-* <a href="https://github.com/joelparkerhenderson/maturity-models">Maturity models (MMs)</a>
-* <a href="https://github.com/joelparkerhenderson/objectives-and-key-results">Objectives &amp; Key Results (OKR)</a>
-* <a href="https://github.com/joelparkerhenderson/oblique-strategies">Oblique strategies for creative thinking</a>
-* <a href="https://github.com/joelparkerhenderson/ooda-loop">OODA loop: Observe Orient Decide Act</a>
-* <a href="https://github.com/joelparkerhenderson/outputs-vs-outcomes">Outputs vs. outcomes (OVO)</a>
-* <a href="https://github.com/joelparkerhenderson/pitch-deck-quick-start">Pitch deck quick start</a>
-* <a href="https://github.com/joelparkerhenderson/queueing-theory">Queueing theory</a>
-* <a href="https://github.com/joelparkerhenderson/responsibility-assignment-matrix">Responsibility assignment matrix (RAM)</a>
-* <a href="https://github.com/joelparkerhenderson/smart-criteria">SMART criteria</a>
-* <a href="https://github.com/joelparkerhenderson/social-value-orientation">Social value orientation (SVO)</a>
-* <a href="https://github.com/joelparkerhenderson/statement-of-work">Statement Of Work (SOW) template</a>
-* <a href="https://github.com/joelparkerhenderson/strategic-balanced-scorecard">Strategic Balanced Scorecard (SBS)</a>
-* <a href="https://github.com/joelparkerhenderson/system-quality-attributes">System quality attributes (SQAs)</a>
-* <a href="https://github.com/joelparkerhenderson/team-focus">TEAM FOCUS teamwork framework</a>
-* <a href="https://github.com/joelparkerhenderson/value-stream-mapping">Value Stream Mapping (VSM)</a>
-* <a href="https://github.com/joelparkerhenderson/ways-of-working">Ways of Working (WOW)</a>
+* [Architecture Decision Record (ADR)](https://github.com/joelparkerhenderson/architecture-decision-record)
+* [Business model canvas (BMC)](https://github.com/joelparkerhenderson/business-model-canvas)
+* [Code of conduct guidelines](https://github.com/joelparkerhenderson/code-of-conduct-guidelines)
+* [Company culture](https://github.com/joelparkerhenderson/company-culture)
+* [Coordinated disclosure](https://github.com/joelparkerhenderson/coordinated-disclosure)
+* [Crucial conversations](https://github.com/joelparkerhenderson/crucial-conversations)
+* [Decision Record (DR) template](https://github.com/joelparkerhenderson/decision-record)
+* [Functional specifications tutorial](https://github.com/joelparkerhenderson/functional-specifications-tutorial)
+* [Icebreaker questions](https://github.com/joelparkerhenderson/icebreaker-questions)
+* [Intent plan](https://github.com/joelparkerhenderson/intent-plan)
+* [Key Performance Indicator (KPI)](https://github.com/joelparkerhenderson/key-performance-indicator)
+* [Key Risk Indicator (KRI)](https://github.com/joelparkerhenderson/key-risk-indicator)
+* [Maturity models (MMs)](https://github.com/joelparkerhenderson/maturity-models)
+* [Objectives &amp; Key Results (OKR)](https://github.com/joelparkerhenderson/objectives-and-key-results)
+* [Oblique strategies for creative thinking](https://github.com/joelparkerhenderson/oblique-strategies)
+* [OODA loop: Observe Orient Decide Act](https://github.com/joelparkerhenderson/ooda-loop)
+* [Outputs vs. outcomes (OVO)](https://github.com/joelparkerhenderson/outputs-vs-outcomes)
+* [Pitch deck quick start](https://github.com/joelparkerhenderson/pitch-deck-quick-start)
+* [Queueing theory](https://github.com/joelparkerhenderson/queueing-theory)
+* [Responsibility assignment matrix (RAM)](https://github.com/joelparkerhenderson/responsibility-assignment-matrix)
+* [SMART criteria](https://github.com/joelparkerhenderson/smart-criteria)
+* [Social value orientation (SVO)](https://github.com/joelparkerhenderson/social-value-orientation)
+* [Statement Of Work (SOW) template](https://github.com/joelparkerhenderson/statement-of-work)
+* [Strategic Balanced Scorecard (SBS)](https://github.com/joelparkerhenderson/strategic-balanced-scorecard)
+* [System quality attributes (SQAs)](https://github.com/joelparkerhenderson/system-quality-attributes)
+* [TEAM FOCUS teamwork framework](https://github.com/joelparkerhenderson/team-focus)
+* [Value Stream Mapping (VSM)](https://github.com/joelparkerhenderson/value-stream-mapping)
+* [Ways of Working (WOW)](https://github.com/joelparkerhenderson/ways-of-working)

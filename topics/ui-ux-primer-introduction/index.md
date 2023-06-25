@@ -4,11 +4,11 @@ UI/UX Primer is a glossary guide ebook that describes one topic per page. The pr
 
 ### Why these topics?
 
-All the topics here are chosen because they have come up in real-world projects, with real-world stakeholders who want to learn about the topic.
+All the topics here are chosen because they have come up in real-world UI/UX work, with real-world stakeholders who want to learn about the topic.
 
 If you have suggestions for more topics, the please let me know.
 
-Some of the topics are related, so they are grouped into sections. For example, see the topic about change management: in the table of contents, it's listed as the first topic in a section that contains various kinds of change management techniques. The section grouping is intended to help readers get up to speed faster. If you have suggestions for new groups, or topics that should be in existing groups, then please let me know.
+Some of the topics are related, so they are grouped into sections. For example, see the topic about task analysis: in the table of contents, it's listed as the first topic in a section that contains various kinds of task analysis techniques. The section grouping is intended to help readers get up to speed faster. If you have suggestions for new groups, or topics that should be in existing groups, then please let me know.
 
 ### What is the topic order?
 
@@ -17,7 +17,7 @@ You can read any topic page, in any order, at any time. Each topic page is inten
 
 ## Who should read this?
 
-People should read this primer if they want to learn quickly about user iterface (UI) design and user experience (UX) development, and how these concepts are practiced in companies today.
+People should read this primer if they want to learn quickly about user interface (UI) design and user experience (UX) development, and how these concepts are practiced in companies today.
 
 ### For practitioners
 
@@ -29,7 +29,7 @@ For people whose work intersects with UI/UX topics, this primer is intending to 
 
 ### For students
 
-For students and educators, this primer is a snapshot of industry techniques and practices that can help bridge the gap between academic studies, such as computer science studies, and industry jobs, such as  computer programming jobs. If students are able to learn what's in this book, they will have a big advantage when they go for job interviews for roles that involve project management.
+For students and educators, this primer is a snapshot of industry techniques and practices that can help bridge the gap between academic studies, such as computer science studies, and industry jobs, such as  computer programming jobs. If students are able to learn what's in this book, they will have a big advantage when they go for job interviews for roles that involve UI/UX.
 
 
 ## Why did I write this?
@@ -39,9 +39,9 @@ I created this ebook based on years of experience in UI/UX work, with a wide ran
 
 ### For team collaboration
 
-When I work with companies and teams, then I'm able to use glossaries like this one to help create shared context and clearer communication. This can accelerate working together, and can help teams forge better project plans, in my direct experience.
+When I work with companies and teams, then I'm able to use glossaries like this one to help create shared context and clearer communication. This can accelerate working together, and can help teams forge better UI/UX, in my direct experience.
 
-For example, one of my enterprise clients describes this kind of shared context and clear communication in a postivie sense as "singing from the same songbook". When a team understands project management terminology, and has a quick easy glossary for definitions and explainations, then it's akin to the teammates having the same songbook.
+For example, one of my enterprise clients describes this kind of shared context and clear communication in a postivie sense as "singing from the same songbook". When a team understands UI/UX terminology, and has a quick easy glossary for definitions and explainations, then it's akin to the teammates having the same songbook.
 
 
 ### For cross-cultural communication

@@ -2,11 +2,11 @@
 
 I'm Joel Parker Henderson. I'm a software developer and writer.
 
-https://linkedin.com/in/joelparkerhenderson
+<https://linkedin.com/in/joelparkerhenderson>
 
-https://linktr.ee/joelparkerhenderson
+<https://github.com/joelparkerhenderson>
 
-https://github.com/joelparkerhenderson
+<https://linktr.ee/joelparkerhenderson>
 
 
 ## Professional
