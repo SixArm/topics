@@ -4,14 +4,14 @@
 
 Key concepts…
 
-Data-Ink Ratio: The principle of maximizing the proportion of ink or graphical elements that directly represent the data, while minimizing non-essential decoration or "chartjunk." Tufte advocates for simplicity and clarity in data visualization.
+Data-Ink Ratio: Maximize the proportion of ink or graphical elements that directly represent the data, while minimizing non-essential decoration or "chartjunk." 
 
-Graphical Integrity: The importance of maintaining the integrity of the data when creating visual representations. Tufte discusses methods to avoid distortion, misleading scales, or inappropriate visual encodings that can misrepresent the information.
+Graphical Integrity: Maintain the integrity of the data when creating visual representations. Tufte discusses methods to avoid distortion, misleading scales, or inappropriate visual encodings.
 
-Visualizing Relationships: Techniques for visually representing relationships and comparisons between variables, such as through scatter plots, bar charts, and line graphs. Tufte explores different graphical approaches to highlight patterns and insights within the data.
+Visualizing Relationships: Represent relationships and comparisons between variables, such as through scatter plots, bar charts, and line graphs. Highlight patterns and insights within data.
 
-Multivariate Data: Strategies for effectively visualizing and communicating data with multiple variables or dimensions. Tufte provides examples of techniques such as small multiples, parallel coordinate plots, and color mapping to present complex information clearly.
+Multivariate Data: Visualize and communicate data with multiple variables or dimensions. Tufte provides examples of techniques such as small multiples, parallel coordinate plots, and color mapping.
 
-Narratives and Explanatory Graphics: The use of visual storytelling and explanatory graphics to communicate complex concepts or processes. Tufte demonstrates how to guide the viewer through a narrative by carefully designing the flow and sequence of information.
+Narratives and Explanatory Graphics: Use visual storytelling and explanatory graphics to communicate complex concepts or processes. Guide the viewer through a narrative by carefully designing the flow and sequence of information.
 
-Typography and Information Design: The role of typography in information design and its impact on legibility, hierarchy, and visual coherence. Tufte discusses the importance of choosing appropriate typefaces, font sizes, and text formatting to enhance clarity and readability.
+Typography and Information Design: Leverage typography in information design and its impact on legibility, hierarchy, and visual coherence. Choose appropriate typefaces, font sizes, and text formatting, to enhance clarity and readability.

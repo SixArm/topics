@@ -1,20 +1,19 @@
 # Don't Make Me Think by Steve Krug 
 
-"Don't Make Me Think" is a book written by Steve Krug that focuses on web usability and user experience design. It offers practical advice and insights for creating intuitive and user-friendly websites.
-Krug emphasizes that websites should be designed so users don't need to think too much or make unnecessary decisions.
+"Don't Make Me Think" is a book written by Steve Krug that focuses on web usability and user experience design. It offers practical advice and insights for creating intuitive and user-friendly websites, so users don't need to think too much or make unnecessary decisions.
 
 Key concepts…
 
-Usability Testing: The importance of conducting usability testing to gather feedback from real users and identify usability issues. Krug emphasizes the value of observing users interacting with a website and using their feedback to make informed design decisions.
+Usability Testing: Conduct usability testing to gather feedback from real users, to identify usability issues. Krug emphasizes the value of observing users interacting with a website.
 
-Clear Concise Communication: The need for clear and concise content that effectively communicates the purpose, functionality, and relevance of a website. Krug encourages using straightforward language and avoiding jargon or complex terminology.
+Clear Concise Communication: Provide clear and concise content that effectively communicates the purpose, functionality, and relevance of a website. Use straightforward language.
 
-Visual Hierarchy and Navigation: The significance of establishing a clear visual hierarchy and intuitive navigation structure. Krug suggests using visual cues, consistent conventions, and easily identifiable links and buttons to guide users through the website.
+Visual Hierarchy and Navigation: Establish a clear visual hierarchy and intuitive navigation structure. Use visual cues, consistent conventions, and easily identifiable links and buttons.
 
-Scannability and Readability: The importance of designing content that is easy to scan and read. Krug suggests using headings, subheadings, bullet points, and concise paragraphs to break up text and make it more digestible for users.
+Scannability and Readability: Design content that is easy to scan and read. Use headings, subheadings, bullet points, and concise paragraphs to make text more digestible for users.
 
-Eliminating Unnecessary Clutter: The value of simplifying the interface by removing unnecessary elements, distractions, or information overload. Krug emphasizes that a clean and focused design helps users find what they need quickly and effortlessly.
+Eliminating Unnecessary Clutter: Simplify the interface by removing unnecessary elements, distractions, or information overload. A clean and focused design helps users find what they need.
 
-Form Design and User Input: The guidelines for designing user-friendly forms and minimizing friction during the input process. Krug provides tips for streamlining form fields, providing clear instructions, and utilizing input validation to minimize errors.
+Form Design and User Input: Design user-friendly forms and minimize friction during the input process. Streamline form fields. Provide clear instructions. Utilize input validation to minimize errors.
 
-Mobile and Responsive Design: The importance of considering mobile users and implementing responsive design principles. Krug highlights the need for designing websites that adapt to different screen sizes and devices, ensuring a seamless experience for mobile users.
+Mobile and Responsive Design: Consider mobile users and implement responsive design principles. Design websites that adapt to different screen sizes and devices.

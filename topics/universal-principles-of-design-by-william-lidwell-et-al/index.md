@@ -4,17 +4,18 @@ The book "Universal Principles of Design" is written by William Lidwell, Kritina
 
 The book covers a wide range of design principles such as…
 
-Aesthetic-Usability Effect: The principle that aesthetically pleasing designs are perceived as more usable and effective.
+Aesthetic-Usability Effect: Aesthetically pleasing designs are perceived as more usable and effective.
 
-Feedback: Providing clear and immediate feedback to users to confirm their actions or inform them about the system's status.
+Feedback: Provide clear immediate feedback to users to confirm their actions or inform them about the system's status.
 
-Fitts's Law: The principle that the time required to reach a target is based on the target's size and distance, helping inform the placement and sizing of interactive elements.
+Fitts's Law: The time required to reach a target is based on the target's size and distance, helping inform the placement and sizing of interactive elements.
 
-Hierarchy: Designing visual elements to create a clear hierarchy of importance, guiding users' attention and understanding.
+Hierarchy: Design visual elements to create a clear hierarchy of importance, guiding users' attention and understanding.
 
-Mapping: The principle that the relationship between controls and their effects should be intuitive and closely aligned to the user's mental model.
+Mapping: The relationship between controls and their effects should be intuitive and closely aligned to the user's mental model.
 
-Progressive Disclosure: Presenting information and functionality in a way that reveals complexity gradually, allowing users to focus on the most relevant information first.
+Progressive Disclosure: Present information and functionality in a way that reveals complexity gradually, allowing users to focus on the most relevant information first.
 
-Simplicity: Striving for simplicity in design by removing unnecessary complexity and clutter, making the user experience more intuitive and efficient.
+Simplicity: Strive for simplicity in design by removing unnecessary complexity and clutter. Make the user experience more intuitive and efficient.
 
+Error Prevention: Design to minimize the occurrence of errors. Provide safeguards or warnings when errors may occur.
