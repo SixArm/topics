@@ -6,7 +6,7 @@ Project Management Primer is a glossary guide ebook that describes one topic per
 
 All the topics here are chosen because they have come up in real-world projects, with real-world stakeholders who want to learn about the topic.
 
-If you have suggestions for more topics, the please let me know.
+If you have suggestions for more topics, then please let me know.
 
 Some of the topics are related, so they are grouped into sections. For example, see the topic about change management: in the table of contents, it's listed as the first topic in a section that contains various kinds of change management techniques. The section grouping is intended to help readers get up to speed faster. If you have suggestions for new groups, or topics that should be in existing groups, then please let me know.
 
@@ -17,13 +17,13 @@ You can read any topic page, in any order, at any time. Each topic page is inten
 If you're interested in a comprehensive cover-to-cover book, you may want to try the Project Management Book of Knowledge (PMBOK), which is one of the authoritative sources in the project management field.
 
 
-## Who should read this?
+## Who is this for?
 
 People should read this primer if they want to learn quickly about project management concepts, and how these concepts are practiced in companies today.
 
 ### For project managers
 
-For project managers, this primer is intending to summarize and distill many of your daily concepts and terminology. For you, the value of the primer is in being able to quickly easily teach stakeholders about your project management concepts. For example, if you want to use a particular technique such as PDCA or OODA or DMAIC with your project stakeholders, then you can quickly easily direct the stakeholders to this primer and its relevant topic pages, as one aspect of your communications. You can freely excerpt, remix, and share these pages with your coworkers.
+For project managers, this primer is intending to summarize and distill many of your daily concepts and terminology. For you, the value of the primer is in being able to quickly and easily teach stakeholders about your project management concepts. For example, if you want to use a particular technique such as PDCA or OODA or DMAIC with your project stakeholders, then you can quickly and easily direct the stakeholders to this primer and its relevant topic pages, as one aspect of your communications. You can freely excerpt, remix, and share these pages with your coworkers.
 
 ### For project stakeholders
 

@@ -36,7 +36,7 @@ Venture funders:
 * [Menlo Ventures](https://menlovc.com)
 * [500 Global](https://500.co)
 * [Andreessen Horowitz](https://a16z.com)
-* [Union Square Ventures](https://www.usv.com).
+* [Union Square Ventures](https://www.usv.com)
 
 Universities: 
 
@@ -51,6 +51,7 @@ Foundations:
 * [Apache Software Foundation](https://apache.org)
 * [The Rust Foundation](https://foundation.rust-lang.org)
 
-Special thanks to [Pragmatic Bookshelf](https://pragprog.com) and [O'Reilly Media](https://oreilly.com) for excellent books that teach me so much.
+Special thanks to [Pragmatic Bookshelf](https://pragprog.com) and [O'Reilly Media](https://oreilly.com) for excellent books.
 
-Super-special thanks to all the project managers, project teams, and project stakeholders who have worked with me over so many years.
+Special thanks to all the project managers, teams, and stakeholders who have worked with me and taught me so much.
+

@@ -6,7 +6,7 @@ UI/UX Primer is a glossary guide ebook that describes one topic per page. The pr
 
 All the topics here are chosen because they have come up in real-world UI/UX work, with real-world stakeholders who want to learn about the topic.
 
-If you have suggestions for more topics, the please let me know.
+If you have suggestions for more topics, then please let me know.
 
 Some of the topics are related, so they are grouped into sections. For example, see the topic about task analysis: in the table of contents, it's listed as the first topic in a section that contains various kinds of task analysis techniques. The section grouping is intended to help readers get up to speed faster. If you have suggestions for new groups, or topics that should be in existing groups, then please let me know.
 
@@ -15,13 +15,13 @@ Some of the topics are related, so they are grouped into sections. For example, 
 You can read any topic page, in any order, at any time. Each topic page is intended be clear on its own, without needing cross-references or links.
 
 
-## Who should read this?
+## Who is this for?
 
 People should read this primer if they want to learn quickly about user interface (UI) design and user experience (UX) development, and how these concepts are practiced in companies today.
 
 ### For practitioners
 
-For UI/UX practitioners, this primer is intending to summarize and distill many of your daily concepts and terminology. For you, the value of the primer is in being able to quickly easily teach stakeholders about general UI/UX topics. For example, if you want to use a particular technique such as user-centered design or task analysis with your stakeholders, then you can quickly easily direct the stakeholders to this primer and its relevant topic pages, as one aspect of your communications. You can freely excerpt, remix, and share these pages with your coworkers.
+For UI/UX practitioners, this primer is intending to summarize and distill many of your daily concepts and terminology. For you, the value of the primer is in being able to quickly and easily teach stakeholders about general UI/UX topics. For example, if you want to use a particular technique such as user-centered design or task analysis with your stakeholders, then you can quickly and easily direct the stakeholders to this primer and its relevant topic pages, as one aspect of your communications. You can freely excerpt, remix, and share these pages with your coworkers.
 
 ### For stakeholders
 
