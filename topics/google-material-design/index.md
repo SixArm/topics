@@ -4,7 +4,7 @@ Google Material Design is a design language and set of guidelines developed by G
 
 Key principles…
 
-Material Metaphor: Represent a tangible surface that has depth and responds to user interactions, such as touch or motion. Use depth, shadows, and animations to help create a sense of hierarchy and interactivity.
+Material Metaphor: Represent a tangible surface that has depth and responds to user interactions, such as touch or motion. Use depth, shadows, and animations to help create hierarchy and interactivity.
 
 Bold Intentional Typography: Use a typographic hierarchy that emphasizes readability and clarity. It promotes the use of a consistent and legible typeface with appropriate font weights, sizes, and spacing.
 
@@ -14,6 +14,6 @@ Color and Contrast: Employ a vibrant and bold color palette to create visual int
 
 Responsive and Adaptive Design: Be responsive and adaptable to different screen sizes and orientations. Adapt layouts and interactions to optimize the user experience across a variety of devices.
 
-Motion and Animation: Use motion and animation to provide feedback, guide users' attention, and enhance the overall user experience. Transitions and animations should be smooth, purposeful, and meaningful.
+Motion: Use motion and animation to provide feedback, guide attention, and enhance the experience. Transitions and animations should be smooth, purposeful, and meaningful.
 
 Consistency and Continuity: Promotes consistency across different apps and platforms, ensuring a familiar experience for users. Standardize components, interactions, and patterns to maintain continuity.

@@ -1,6 +1,6 @@
 # Forms that Work by Caroline Jarrett et al.
 
-"Forms that Work: Designing Web Forms for Usability" is a book written by Caroline Jarrett and Gerry Gaffney. It focuses on the design and usability of web forms, providing practical guidance and best practices for creating forms that are user-friendly and effective in achieving their intended goals.
+"Forms that Work: Designing Web Forms for Usability" is a book written by Caroline Jarrett and Gerry Gaffney. It focuses on the design and usability of web forms, providing practical guidance and best practices for creating forms that are user-friendly and effective.
 
 Key concepts…
 
@@ -10,7 +10,7 @@ Form Structure and Flow: The organization and flow of form elements and question
 
 Labeling and Instructional Text: Strategies for crafting clear and concise labels and instructional text that help users understand the purpose of form fields and provide guidance on how to complete them accurately.
 
-Error Prevention and Handling: Techniques for preventing errors and providing effective error messages and validation feedback. Jarrett discusses how to design forms that minimize the likelihood of user errors and how to communicate errors in a helpful and user-friendly manner.
+Error Handling: Techniques for preventing errors and providing effective error messages and validation feedback. Jarrett discusses how to design forms that minimize the likelihood of user errors and how to communicate errors in helpful and friendly ways.
 
 Accessibility and Inclusive Design: Considerations for designing web forms that are accessible to users with disabilities. The book provides guidance on designing for keyboard accessibility, using proper markup, and addressing the needs of users with visual impairments.
 
