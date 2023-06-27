@@ -1,6 +1,6 @@
 # Ideas are easy, implementation is hard
 
-The phrase "ideas are easy, implementation is hard" is a quotation by Guy Kawasaki. It highlights the common understanding that coming up with an idea is the easy part, while executing it is the difficult part. The phrase is often used in the context of entrepreneurship, innovation, and business, where ideas are plentiful but successful implementation is rare.
+"Ideas are easy, implementation is hard" is a quotation by Guy Kawasaki. It highlights the common understanding that coming up with an idea is the easy part, while executing it is the difficult part. The phrase is often used in the context of entrepreneurship, innovation, and business, where ideas are plentiful but successful implementation is rare.
 
 While ideas are important, they are only the starting point of the process. Implementation requires careful planning, resource allocation, and the ability to execute on the plan. It involves overcoming a range of challenges, including operational issues, market changes, competition, and other external factors.
 
