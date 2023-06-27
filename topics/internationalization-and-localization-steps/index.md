@@ -1,4 +1,4 @@
-# Internationalization and Localization - steps
+# Internationalization and localization - steps
 
 Internationalization generally uses these steps:
 
