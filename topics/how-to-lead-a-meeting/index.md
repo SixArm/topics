@@ -10,9 +10,11 @@ Prepare Meeting Materials: Gather and prepare any necessary materials, documents
 
 Start with an Introduction: Begin the meeting by welcoming participants and providing a brief overview of the agenda and meeting objectives. If there are any new attendees, introduce them to the group.
 
-Facilitate Discussion: As the meeting progresses, guide the discussion and ensure that everyone has an opportunity to contribute. Encourage active participation. Manage time effectively.
+Facilitate Discussion: As the meeting progresses, guide the discussion and ensure that everyone has an opportunity to contribute. Encourage active participation.
 
 Encourage Collaboration: Foster a collaborative environment where participants feel comfortable sharing their ideas and perspectives. 
+
+Manage Time: Start on time. End on time. Focus on the agenda. Defer/delegate aspects as needed. Schedule follow-ups as needed.
 
 Manage Conflict: If disagreements arise, address them calmly and respectfully. Encourage dialogue, seek common ground, and find solutions or compromises.
 
