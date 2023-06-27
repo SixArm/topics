@@ -34,9 +34,9 @@ For people who work with projects, this primer is intending to bring you up to s
 For students and educators, this primer is a snapshot of industry techniques and practices that can help bridge the gap between academic studies, such as computer science studies, and industry jobs, such as  computer programming jobs. If students are able to learn what's in this book, they will have a big advantage when they go for job interviews for roles that involve project management.
 
 
-## Why did I write this?
+## Why am I creating this?
 
-I created this ebook based on years of experience in project management work, with a wide range of clients, from small startups to enormous enterprises. 
+I am creating this ebook because of  years of experience in project management work, with a wide range of clients, from small startups to enormous enterprises. 
 
 
 ### For team collaboration
