@@ -29,19 +29,19 @@ For people whose work intersects with UI/UX topics, this primer is intending to 
 
 ### For students
 
-For students and educators, this primer is a snapshot of industry techniques and practices that can help bridge the gap between academic studies, such as computer science studies, and industry jobs, such as  computer programming jobs. If students are able to learn what's in this book, they will have a big advantage when they go for job interviews for roles that involve UI/UX.
+For students and educators, this primer is a snapshot of industry techniques and practices that can help bridge the gap between academic studies, such as computer science studies, and industry jobs, such as computer programming jobs. If students are able to learn what's in this book, they will have a big advantage when they go for job interviews for roles that involve UI/UX.
 
 
 ## Why am I creating this?
 
-I am creating this ebook because of  years of experience in UI/UX work, with a wide range of clients, from small startups to enormous enterprises. 
+I am creating this ebook because of years of experience in UI/UX work, with a wide range of clients, from small startups to enormous enterprises. 
 
 
 ### For team collaboration
 
 When I work with companies and teams, then I'm able to use glossaries like this one to help create shared context and clearer communication. This can accelerate working together, and can help teams forge better UI/UX, in my direct experience.
 
-For example, one of my enterprise clients describes this kind of shared context and clear communication in a postivie sense as "singing from the same songbook". When a team understands UI/UX terminology, and has a quick easy glossary for definitions and explainations, then it's akin to the teammates having the same songbook.
+For example, one of my enterprise clients describes this kind of shared context and clear communication in a positive sense as "singing from the same songbook". When a team understands UI/UX terminology, and has a quick easy glossary for definitions and explanations, then it's akin to teammates with the same songbook.
 
 
 ### For cross-cultural communication
