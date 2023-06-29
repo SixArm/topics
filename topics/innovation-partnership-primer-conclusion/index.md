@@ -1,6 +1,6 @@
 # Conclusion
 
-Thank you for reading Innovation Primer. I hope it can be helpful to you and your project.
+Thank you for reading Innovation Partnership Primer. I hope it can be helpful to you and your project.
 
 Your feedback and suggestions are very much appreciated, because this helps the primer improve and evolve.
 
@@ -8,7 +8,7 @@ Your feedback and suggestions are very much appreciated, because this helps the 
 
 The repository URL is:
 
-<https://github.com/sixarm/innovation-primer>
+<https://github.com/sixarm/innovation-partnership-primer>
 
 You can open any issue you like on the repository. For example, you can use the issue link to ask any question, suggest any improvement, point out any error, and the like.
 
