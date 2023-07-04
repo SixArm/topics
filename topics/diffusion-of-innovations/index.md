@@ -13,3 +13,5 @@ Stages…
 4. Late Majority: They are more skeptical, and often adopt due to social pressure or necessity. They may have concerns about the innovation's risks or compatibility with existing practices.
 
 5. Laggards: They are resistant to change and may have limited exposure or access to the innovation. Laggards often rely on traditional ways of doing things and are reluctant to embrace new ideas.
+
+The theory also considers factors that influence the adoption process, including the characteristics of the innovation itself (relative advantage, compatibility, complexity, trialability, and observability) and its communication channels.
