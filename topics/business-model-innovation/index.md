@@ -1,4 +1,4 @@
-# Business model innovation
+# Business model innovation (BMI)
 
 Business model innovation refers to the creation, modification, or reconfiguration of the fundamental elements and components of a business model to deliver new value propositions, capture new markets, or improve existing operations. It involves changing how a company creates, delivers, and captures value to achieve a competitive advantage and drive growth.
 
