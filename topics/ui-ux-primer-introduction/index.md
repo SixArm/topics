@@ -55,18 +55,20 @@ Yes there are three more primers that may be of interest to you.
 
 Startup Business Primer: 
 
-* [Free download via GitHub](https://github.com/sixarm/startup-business-primer)
+* Learn about startup concepts that help with entrepreneurship. Some examples are pitch decks, market/customer/product discovery, product-market fit (PMF), minimum viable product (MVP), technology industries and sectors, company roles and responsbilties, sales and marketing, venture capital (VC) and investors, legal entities and useful contracts.
 
-* [Pay what you wish via Gumroad](https://gumroad.com/l/startup-business-primer)
+* Get it via [Gumroad](https://gumroad.com/l/startup-business-primer) or [GitHub](https://github.com/sixarm/startup-business-primer)
 
 Project Management Primer:
 
-* [Free download via GitHub](https://github.com/sixarm/project-management-primer)
+* Learn about concepts that help with leading projects, programs, and portfolios. Some examples are the project management life cycle (PMLC), outputs versus outcomes (OVO), Objectives and Key Results (OKRs), Key Performance Indicators (KPIs), SMART criteria, Work Breakdown Structure (WBS), change management, digital transformation, and project management practices includein agile, lean, kanban, and kaizen.
 
-* [Pay what you wish via Gumroad](https://gumroad.com/l/project-management-primer)
+* Get it via [Gumroad](https://gumroad.com/l/project-management-primer) or [GitHub](https://github.com/sixarm/project-management-primer)
+
 
 Business Lingo Primer:
 
-* [Free download via GitHub](https://github.com/sixarm/business-lingo-primer)
+* Learn about popular terminology that shows up in United-States-oriented workplaces and projects. Some examples are aphorisms like "Conway's Law" and "The Pereto Principle", idioms like "Get on the front foot" and "Unknown unknowns", and quotations like "Execution eats strategy for lunch" and "Make mistakes faster". This primer can be especially helpful for cross-cultural communication.
 
-* [Pay what you wish via Gumroad](https://gumroad.com/l/business-lingo-primer)
+* Get it via [Gumroad](https://gumroad.com/l/business-lingo-primer) or [GitHub](https://github.com/sixarm/business-lingo-primer)
+

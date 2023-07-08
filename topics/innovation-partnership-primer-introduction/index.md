@@ -47,3 +47,26 @@ For example, one of my enterprise clients describes this kind of shared context 
 ### For cross-cultural communication
 
 What I discovered is that these kinds of glossaries can be especially helpful for teams with members coming from various cultures, such as from different countries, or different industries, or different ways of working. The topic pages help provide a baseline for better collaboration.
+
+
+## Are there more primers?
+
+Yes there are three more primers that may be of interest to you.
+
+Project Management Primer:
+
+* Learn about concepts that help with leading projects, programs, and portfolios. Some examples are the project management life cycle (PMLC), outputs versus outcomes (OVO), Objectives and Key Results (OKRs), Key Performance Indicators (KPIs), SMART criteria, Work Breakdown Structure (WBS), change management, digital transformation, and project management practices includein agile, lean, kanban, and kaizen.
+
+* Get it via [Gumroad](https://gumroad.com/l/project-management-primer) or [GitHub](https://github.com/sixarm/project-management-primer)
+
+Startup Business Primer: 
+
+* Learn about startup concepts that help with entrepreneurship. Some examples are pitch decks, market/customer/product discovery, product-market fit (PMF), minimum viable product (MVP), technology industries and sectors, company roles and responsbilties, sales and marketing, venture capital (VC) and investors, legal entities and useful contracts.
+
+* Get it via [Gumroad](https://gumroad.com/l/startup-business-primer) or [GitHub](https://github.com/sixarm/startup-business-primer)
+
+UI/UX Primer:
+
+* Learn about user interface (UI) design and user experience (UX) development. Some examples are User-Centered Design (UCD), Information Architecture (IA), design management, task analysis, ideation, mockups, use cases, user stories, modeling diagrams, affordances, accessibility, internationalization and localization, UI/UX testing, and AI for UI/UX. 
+
+* Get it via [Gumroad](https://gumroad.com/l/ui-uix-primer) or [GitHub](https://github.com/sixarm/ui-uix-primer)

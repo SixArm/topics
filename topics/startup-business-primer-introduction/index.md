@@ -52,3 +52,25 @@ What I discovered with teammates from non-Western or non-English backgrounds is 
 
 For example, my peers in San Francisco Bay Area startups will likely know the quotation "Move fast and break things", the aphorism "Brook's Law", and the idiom "Get on the front foot". But these aren't familiar to many people from many other places. The topic pages cover these, to improve shared understanding.
 
+
+## Are there more primers?
+
+Yes there are three more primers that may be of interest to you.
+
+Project Management Primer:
+
+* Learn about concepts that help with leading projects, programs, and portfolios. Some examples are the project management life cycle (PMLC), outputs versus outcomes (OVO), Objectives and Key Results (OKRs), Key Performance Indicators (KPIs), SMART criteria, Work Breakdown Structure (WBS), change management, digital transformation, and project management practices includein agile, lean, kanban, and kaizen.
+
+* Get it via [Gumroad](https://gumroad.com/l/project-management-primer) or [GitHub](https://github.com/sixarm/project-management-primer)
+
+UI/UX Primer:
+
+* Learn about user interface (UI) design and user experience (UX) development. Some examples are User-Centered Design (UCD), Information Architecture (IA), design management, task analysis, ideation, mockups, use cases, user stories, modeling diagrams, affordances, accessibility, internationalization and localization, UI/UX testing, and AI for UI/UX. 
+
+* Get it via [Gumroad](https://gumroad.com/l/ui-uix-primer) or [GitHub](https://github.com/sixarm/ui-uix-primer)
+
+Business Lingo Primer:
+
+* Learn about popular terminology that shows up in United-States-oriented workplaces and projects. Some examples are aphorisms like "Conway's Law" and "The Pereto Principle", idioms like "Get on the front foot" and "Unknown unknowns", and quotations like "Execution eats strategy for lunch" and "Make mistakes faster". This primer can be especially helpful for cross-cultural communication.
+
+* Get it via [Gumroad](https://gumroad.com/l/business-lingo-primer) or [GitHub](https://github.com/sixarm/business-lingo-primer)
