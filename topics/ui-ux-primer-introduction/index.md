@@ -47,3 +47,26 @@ For example, one of my enterprise clients describes this kind of shared context 
 ### For cross-cultural communication
 
 What I discovered is that these kinds of glossaries can be especially helpful for teams with members coming from various cultures, such as from different countries, or different industries, or different ways of working. The topic pages help provide a baseline for better collaboration.
+
+
+## Are there more primers?
+
+Yes there are three more primers that may be of interest to you.
+
+Startup Business Primer: 
+
+* [Free download via GitHub](https://github.com/sixarm/startup-business-primer)
+
+* [Pay what you wish via Gumroad](https://gumroad.com/l/startup-business-primer)
+
+Project Management Primer:
+
+* [Free download via GitHub](https://github.com/sixarm/project-management-primer)
+
+* [Pay what you wish via Gumroad](https://gumroad.com/l/project-management-primer)
+
+Business Lingo Primer:
+
+* [Free download via GitHub](https://github.com/sixarm/business-lingo-primer)
+
+* [Pay what you wish via Gumroad](https://gumroad.com/l/business-lingo-primer)
