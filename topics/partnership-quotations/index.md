@@ -1,6 +1,6 @@
 # Partnership quotations
 
-“Success is best when it’s shared.” – Howard Schultz, businessman, author, and former CEO of Starbucks
+“Success is best when it’s shared.” – Howard Schultz, former CEO of Starbucks
 
 “Great things in business are never done by one person; they’re done by a team of people.” – Steve Jobs, entrepreneur, business magnate, and investor, media proprietor
 
@@ -12,16 +12,10 @@
 
 “The best partnerships aren’t dependent on a more common goal but on a shared path of equality, desire, and no small amount of passion.” – Sarah MacLean, New York Times bestselling author
 
-“Partnership is not a legal contract between two equal individuals. It’s an emotional alliance between two people who are committed to each other’s success.” – Warren Buffet, businessman, investor, and philanthropist
+“Partnership is not a legal contract between two equal individuals. It’s an emotional alliance between two people who are committed to each other’s success.” – Warren Buffet, businessman and investor
 
-“All lasting business is built on friendship.” – Alfred A. Montaper,  engineer, philosopher, and author
+“Contract law is essentially a defensive scorched-earth battleground where the constant question is, 'If my business partner was possessed by a brain-eating monster from beyond spacetime tomorrow, what’s the worst thing they could do to me?'” – Charles Stross, writer
 
 “It’s rare to find a business partner who’s selfless. If you’re lucky it happens once in a lifetime.” – Michael Eisner, former CEO of The Walt Disney Company
 
 “If everyone is moving forward together, then success takes care of itself.” – Henry Ford, founder of the Ford Motor Company
-
-“Collaboration is the essence of life. The wind, bees, and flowers work together, to spread the pollen.” – Amit Ray, Indian author and “spiritual master”
-
-“Contract law is essentially a defensive scorched-earth battleground where the constant question is, 'If my business partner was possessed by a brain-eating monster from beyond spacetime tomorrow, what’s the worst thing they could do to me?'” – Charles Stross, writer
-
-“The man who’ll use his skill and constructive imagination to see how much he can give for a dollar, instead of how little he can give for a dollar, is bound to succeed.” – Henry Ford founder of the Ford Motor Company
