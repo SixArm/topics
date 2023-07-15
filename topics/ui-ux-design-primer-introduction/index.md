@@ -1,6 +1,6 @@
 # What is this book?
 
-UI/UX Primer is a glossary guide ebook that describes one topic per page. The primer is intended for quick easy learning about concepts, tactics, and ideas. 
+UI/UX Design Primer is a glossary guide ebook that describes one topic per page. The primer is intended for quick easy learning about concepts, tactics, and ideas. 
 
 ### Why these topics?
 

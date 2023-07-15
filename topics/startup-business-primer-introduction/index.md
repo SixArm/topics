@@ -63,11 +63,11 @@ Project Management Primer:
 
 * Get it via [Gumroad](https://gumroad.com/l/project-management-primer) or [GitHub](https://github.com/sixarm/project-management-primer)
 
-UI/UX Primer:
+UI/UX Design Primer:
 
 * Learn about user interface (UI) design and user experience (UX) development. Some examples are User-Centered Design (UCD), Information Architecture (IA), design management, task analysis, ideation, mockups, use cases, user stories, modeling diagrams, affordances, accessibility, internationalization and localization, UI/UX testing, and AI for UI/UX. 
 
-* Get it via [Gumroad](https://gumroad.com/l/ui-uix-primer) or [GitHub](https://github.com/sixarm/ui-uix-primer)
+* Get it via [Gumroad](https://gumroad.com/l/ui-ux-design-primer) or [GitHub](https://github.com/sixarm/ui-ux-design-primer)
 
 Business Lingo Primer:
 
