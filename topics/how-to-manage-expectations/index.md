@@ -1,8 +1,8 @@
 # How to manage expectations
 
-Managing expectations is essential for maintaining strong relationships, avoiding misunderstandings, and achieving successful outcomes. Here are some tips to help you.
+Managing expectations is essential for maintaining strong relationships, avoiding misunderstandings, and achieving successful outcomes.
 
-Clear Transparent Communication: Communicate openly and honestly with all parties involved. Clearly articulate project goals, deliverables, timelines, constraints, and limitations.
+Use Clear Communication: Communicate openly and honestly with all parties involved. Articulate goals, deliverables, timelines, constraints, and limitations. Avoid jargon. Avoid ambiguity.
 
 Be Realistic: Ensure expectations are realistic and aligned with the project scope, resources, and constraints. Avoid overpromising or committing to unrealistic timelines or outcomes.
 
