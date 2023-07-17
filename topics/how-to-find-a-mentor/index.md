@@ -1,6 +1,6 @@
 # How to find a mentor
 
-Finding a mentor can be a valuable step in personal and professional growth. Here are some steps you can take.
+Finding a mentor can be a valuable step in personal and professional growth. Here are some steps you can take…
 
 Define Your Goals: Clarify your objectives and determine what you would like guidance and support in. Having a clear understanding will help you identify the right mentor.
 
