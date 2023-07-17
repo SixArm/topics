@@ -1,6 +1,6 @@
-# Cause-and-effect diagrams
+# Cause-and-effect diagram
 
-Cause-and-effect diagrams, also known as Ishikawa diagrams or fishbone diagrams, are visual tools used to analyze and solve problems. The diagram is shaped like a fishbone, with the problem statement or effect placed at the head of the fish, and the potential causes branching out along the spine. They were developed by quality control expert Kaoru Ishikawa, and are often used in manufacturing, engineering, and quality management.
+A cause-and-effect diagram, also known as an Ishikawa diagram or fishbone diagram, is a visual tool used to analyze and solve problems. The diagram is shaped like a fishbone, with the problem statement or effect placed at the head of the fish, and the potential causes branching out along the spine. They were developed by quality control expert Kaoru Ishikawa, and are often used in manufacturing, engineering, and quality management.
 
 A cause-and-effect diagram is a structured tool that helps identify possible causes of a particular problem or event. It is based on the idea that there are multiple factors that contribute to a problem, and that by identifying and addressing these factors, the problem can be solved. 
 
