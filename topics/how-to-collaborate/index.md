@@ -1,8 +1,6 @@
 # How to collaborate
 
-Collaboration is essential for successful teamwork and achieving common goals. 
-
-Here are some tips…
+Collaboration is essential for successful teamwork and achieving common goals. Here are some tips…
 
 Establish Expectations: Define clear goals, guidelines, and objectives for the collaboration. Ensure that everyone understands their roles, responsibilities, and the expected outcomes.
 
