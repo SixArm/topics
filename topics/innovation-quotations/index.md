@@ -1,6 +1,6 @@
 # Innovation quotations
 
-These innovation quotations highlight the importance of creativity and forward-thinking in various aspects of life, business, and technology. They inspire individuals to embrace change, take risks, and pursue new ideas to make a positive impact on the world.
+These innovation quotations highlight the importance of creativity and forward-thinking in various aspects of life, business, and technology. 
 
 "Innovation distinguishes between a leader and a follower." - Steve Jobs
 

@@ -8,14 +8,4 @@ Vector databases are often used in applications that require similarity search, 
 
 One of the most popular types of vector databases is the approximate nearest neighbor (ANN) database. These databases use techniques such as locality-sensitive hashing and tree-based indexing to speed up similarity search by identifying candidate vectors that are likely to be similar to the query vector. This allows the database to provide fast and accurate search results even for very large datasets.
 
-Some examples of vector databases include:
-
-* Faiss: an open-source vector database developed by Facebook AI Research
-
-* Annoy: a lightweight C++ library for approximate nearest neighbor search
-
-* Milvus: an open-source vector database that supports both CPU and GPU computing
-
-* Hnswlib: a fast and efficient ANN library developed by Yandex
-
-* Elasticsearch: a search engine that can be used as a vector database by indexing vectors using dense vectors or sparse vectors.
+Some examples of vector databases include: Faiss, Milvus, Hnswlib, and the Elasticsearch search engine that can be used as a vector database by indexing vectors using dense vectors or sparse vectors.

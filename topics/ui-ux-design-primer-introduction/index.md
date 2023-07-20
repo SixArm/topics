@@ -51,24 +51,17 @@ What I discovered is that these kinds of glossaries can be especially helpful fo
 
 ## Are there more primers?
 
-Yes there are three more primers that may be of interest to you.
+Yes there are more primers that may be of interest to you.
 
-Startup Business Primer: 
-
-* Learn about startup concepts that help with entrepreneurship. Some examples are pitch decks, market/customer/product discovery, product-market fit (PMF), minimum viable product (MVP), technology industries and sectors, company roles and responsbilties, sales and marketing, venture capital (VC) and investors, legal entities and useful contracts.
+Startup Business Primer: Learn topics that help with entrepreneurship, such as pitch decks, market/customer/product discovery, product-market fit (PMF), minimum viable product (MVP), technology industries and sectors, company roles and responsbilties, sales and marketing, venture capital (VC), and legal agreements.
 
 * Get it via [Gumroad](https://gumroad.com/l/startup-business-primer) or [GitHub](https://github.com/sixarm/startup-business-primer)
 
-Project Management Primer:
-
-* Learn about concepts that help with leading projects, programs, and portfolios. Some examples are the project management life cycle (PMLC), outputs versus outcomes (OVO), Objectives and Key Results (OKRs), Key Performance Indicators (KPIs), SMART criteria, Work Breakdown Structure (WBS), change management, digital transformation, and project management practices includein agile, lean, kanban, and kaizen.
+Project Management Primer: Learn topics that help with leading projects, programs, and portfolios. Example: the project management life cycle (PMLC), outputs versus outcomes (OVO), Key Performance Indicators (KPIs), SMART criteria, Work Breakdown Structure (WBS), change management, digital transformation, and practices including agile, lean, kanban, and kaizen.
 
 * Get it via [Gumroad](https://gumroad.com/l/project-management-primer) or [GitHub](https://github.com/sixarm/project-management-primer)
 
-
-Business Lingo Primer:
-
-* Learn about popular terminology that shows up in United-States-oriented workplaces and projects. Some examples are aphorisms like "Conway's Law" and "The Pereto Principle", idioms like "Get on the front foot" and "Unknown unknowns", and quotations like "Execution eats strategy for lunch" and "Make mistakes faster". This primer can be especially helpful for cross-cultural communication.
+Business Lingo Primer: Learn about topics that show up in many workplaces. Examples: analysis tools like the 2x2 grid, aphorisms the Pereto Principle, idioms like "Get on the front foot", and quotations like "Make mistakes faster", and soft skills like how to collaborate. This primer can be especially helpful for cross-cultural communication.
 
 * Get it via [Gumroad](https://gumroad.com/l/business-lingo-primer) or [GitHub](https://github.com/sixarm/business-lingo-primer)
 
