@@ -8,6 +8,6 @@ Validators are chosen through a process called "coin-age" selection, which consi
 
 Once a validator has been chosen to create a new block, they are responsible for verifying transactions and adding them to the blockchain. Validators are also responsible for approving other validators' blocks to maintain the integrity of the blockchain.
 
-One of the main advantages of PoS is its energy efficiency, as it does not require validators to solve complex mathematical puzzles using large amounts of computing power. This makes it a more environmentally friendly consensus mechanism than PoW.
+One of the main advantages of PoS is its energy efficiency, as it does not require validators to solve complex mathematical puzzles using large amounts of computing power.
 
-However, PoS is not without its drawbacks. One potential issue is the risk of centralization, as validators with a large amount of cryptocurrency may have more influence over the network than smaller validators. Another issue is the "nothing-at-stake" problem, which arises when validators are not incentivized to vote on the correct blockchain since they have nothing to lose if their vote is incorrect.
+However, PoS is not without its drawbacks. There is risk of centralization, as validators with a large amount of cryptocurrency may have more influence over the network than smaller validators. Another issue is the "nothing-at-stake" problem, when validators have nothing to lose if their vote is incorrect.

@@ -9,5 +9,3 @@ Multitasking is a technique where multiple tasks are performed by a single proce
 Concurrent processing is particularly useful for applications that involve large amounts of data or complex calculations, such as scientific simulations, financial modeling, and video processing. It can also improve the performance of web servers and database systems by allowing multiple requests to be processed simultaneously.
 
 However, concurrent processing also presents certain challenges such as race conditions, deadlocks, and synchronization issues. These issues arise when multiple processes or threads access shared resources, such as memory or files, leading to conflicts or inconsistencies. To address these issues, concurrency control mechanisms such as locks, semaphores, and monitors are used to ensure that only one process or thread can access a shared resource at a time.
-
-In summary, concurrent processing is a powerful computing model that enables faster and more efficient execution of programs by allowing multiple tasks to be executed simultaneously. While it presents certain challenges, these can be addressed using concurrency control mechanisms.

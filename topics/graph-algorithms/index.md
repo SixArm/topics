@@ -13,5 +13,3 @@ Graph algorithms are a set of techniques used to solve problems that involve gra
 * Prim's Algorithm: This algorithm is similar to Kruskal's algorithm but starts with a single node and adds edges that connect the node to the rest of the graph.
 
 * Floyd-Warshall Algorithm: This algorithm is used to find the shortest paths between all pairs of nodes in a weighted graph. It works by updating a matrix of distances until it contains the shortest path between all pairs of nodes.
-
-There are many other graph algorithms, and each has its own specific use case. These algorithms are widely used in many areas of computer science, including network routing, image processing, and social network analysis, to name a few.

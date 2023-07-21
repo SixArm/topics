@@ -13,5 +13,3 @@ Some benefits of using the circuit breaker pattern include:
 * Improved scalability: The circuit breaker pattern helps to prevent overload and enables better scalability by managing the flow of requests to the system.
 
 * Improved fault tolerance: The circuit breaker pattern helps to improve the fault tolerance of the system by reducing the impact of faults and allowing the system to recover quickly.
-
-The circuit breaker pattern is a powerful tool for improving the resilience and reliability of distributed systems. It is particularly useful in situations where multiple services are involved, and a failure in one service could lead to a cascade of failures throughout the system.

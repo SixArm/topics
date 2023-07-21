@@ -2,7 +2,7 @@
 
 Organizing code effectively is crucial for creating maintainable, scalable, and readable software. 
 
-Some tips…
+Tips…
 
 Use Modular Design: Break your code into smaller, self-contained modules or components. Each module should have a clear specific responsibility, making it easier to understand, test, and maintain.
 
@@ -15,8 +15,6 @@ Avoid Duplication: Don't repeat code across multiple places. Instead, extract co
 Use Version Control: Utilize version control systems like Git to track changes to your code and collaborate with other developers effectively.
 
 Document: Include comments and documentation that explain the purpose, behavior, and usage of functions, classes, and modules.
-
-Test: Write tests for your code before you implement the functionality. This approach ensures that your code meets requirements and allows for easier refactoring.
 
 Use Dependency Management: Use dependency management tools to handle external libraries and modules. This simplifies the installation and updating of dependencies.
 

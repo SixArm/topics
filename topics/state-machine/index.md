@@ -6,8 +6,6 @@ The state machine model consists of a set of states, which represent the possibl
 
 State machines can be classified as deterministic or non-deterministic, depending on whether the next state of the system is uniquely determined by the current state and input, or whether there are multiple possible next states for a given input. In deterministic state machines, the behavior of the system is completely determined by its current state and the input, whereas in non-deterministic state machines, there may be multiple possible next states for a given input.
 
-State machines are widely used in software engineering and computer science, where they are used to model the behavior of complex systems such as compilers, network protocols, and user interfaces. They are also used in hardware design, where they are used to model the behavior of digital circuits.
-
 One of the advantages of using a state machine to model a system is that it can help to identify and eliminate potential sources of errors or bugs in the system. By defining the states and transitions of the system in a systematic way, it is possible to identify conditions where the system may enter an unexpected or invalid state, and to take appropriate action to prevent this from happening.
 
 Another advantage of using a state machine is that it can help to make the behavior of the system more explicit and easier to understand. By representing the behavior of the system graphically as a state diagram, it is possible to visualize the behavior of the system and to identify patterns and regularities in the behavior that may not be apparent from the source code or other documentation.

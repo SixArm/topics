@@ -2,7 +2,7 @@
 
 Naming functions is an essential aspect of writing clean and maintainable code. A well-chosen function name should be descriptive, concise, and meaningful, providing a clear indication of its purpose and behavior. 
 
-Some guidelines…
+Tips…
 
 Use descriptive names: Choose names that clearly describe what the function does, like "calculateTotal," "sendEmail," or "validateInput". Avoid generic names like "process," "execute," or "handle." 
 
@@ -14,10 +14,6 @@ Use nouns for simple operations: For functions that return a value without perfo
 
 Avoid abbreviations: Use descriptive names rather than abbreviations. However, if an abbreviation is widely understood within your domain, consider using it, such as "URL" for Uniform Resource Locator.
 
-Be concise: Aim for a short and concise name that still conveys the function's purpose. Avoid overly long names that might make the code harder to read.
-
 Avoid overloading: Don't use the same function name for different behaviors (function overloading) unless the functions are clearly related and perform similar operations. Overloading can lead to confusion.
 
 Choose specific names over comments: If the function name is descriptive enough, it can replace the need for extensive comments, making the code more self-documenting.
-
-Refactor when necessary: If you later realize that a function's name doesn't accurately represent its behavior, don't hesitate to refactor and choose a better name.

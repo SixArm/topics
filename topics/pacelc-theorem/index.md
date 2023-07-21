@@ -1,6 +1,8 @@
 # PACELC theorem
 
-The PACELC theorem is an extension of the CAP theorem that is used to analyze the behavior of distributed computer systems. PACELC stands for the following six consistency models:
+The PACELC theorem is an extension of the CAP theorem that is used to analyze the behavior of distributed computer systems. The PACELC theorem can help developers and architects choose the appropriate consistency model for a given system by considering the trade-offs between consistency, availability, and partition tolerance.
+
+PACELC stands for the following six consistency models:
 
 * Partition tolerance (P): This means that the system continues to function even when network partitions occur, i.e., when a network communication failure causes a subset of nodes to be unable to communicate with the rest of the network.
 
@@ -14,6 +16,4 @@ The PACELC theorem is an extension of the CAP theorem that is used to analyze th
 
 * Cost (C): This refers to the monetary cost of executing an operation.
 
-The PACELC theorem acknowledges that partition tolerance is essential in any distributed system, but it does not necessarily imply that the system is highly available or highly consistent. Instead, the theorem states that a system can only provide high availability or strong consistency when there is no network partition. When a network partition occurs, the system must choose between availability and consistency.
-
-The PACELC theorem can help developers and architects choose the appropriate consistency model for a given system by considering the trade-offs between consistency, availability, and partition tolerance. It can also help in designing and deploying distributed systems that can function effectively even in the presence of network partitions.
+PACELC acknowledges that partition tolerance is essential in any distributed system. PACELC states that a system can provide high availability and strong consistency when there is no network partition, but when a network partition occurs, the system must choose between availability and consistency.
