@@ -1,8 +1,6 @@
 # Premature optimization is the root of all evil
 
-"Premature optimization is the root of all evil" is a famous quote attributed to Donald Knuth, a computer scientist and pioneer in the field of algorithms and programming languages. 
-
-The phrase warns against the practice of optimizing code for performance prematurely, before identifying and focusing on the essential aspects of software development. It emphasizes that developers should prioritize writing clear, maintainable, and correct code first, rather than obsessing over performance optimizations that may not be necessary or beneficial.
+"Premature optimization is the root of all evil" is a quotation attributed to Donald Knuth, a computer scientist. The phrase warns against the practice of optimizing code for performance prematurely, before identifying and focusing on the essential aspects of software development.
 
 Rationale…
 

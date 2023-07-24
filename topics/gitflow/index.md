@@ -12,32 +12,8 @@ In addition to these main branches, Gitflow includes several types of supporting
 
 * Hotfix branches: These are created for fixing critical bugs in the production code. They are created from the master branch and merged back into both the master and develop branches once the fix is complete.
 
-The Gitflow model also includes a set of rules for when and how to create and merge these branches, as well as how to manage conflicts and releases.
+The Gitflow model also includes a set of rules for when and how to create and merge these branches, as well as how to manage conflicts and releases. 
 
-Here are the general steps for using Gitflow:
+Gitflow can be especially useful for software that has long-lived release branches, such as on-premise deployments to customer sites. 
 
-* Create a new feature branch from the develop branch for each new feature or change.
-
-* Develop and test the feature on the feature branch.
-
-* Merge the feature branch back into the develop branch once the feature is complete and tested.
-
-* Create a new release branch from the develop branch when preparing for a new release.
-
-* Finalize any remaining features and bug fixes on the release branch.
-
-* Merge the release branch into both the master and develop branches once the release is complete.
-
-* Create a new hotfix branch from the master branch to fix any critical bugs in production.
-
-* Merge the hotfix branch back into both the master and develop branches once the fix is complete.
-
-Using Gitflow can provide several benefits, including:
-
-* Clear structure: The Gitflow model provides a clear and organized structure for managing code changes and releases, making it easier for teams to collaborate and manage the codebase.
-
-* Improved quality: By using separate branches for features, releases, and hotfixes, Gitflow allows teams to more easily manage changes and minimize the risk of introducing bugs or conflicts.
-
-* Better collaboration: Gitflow encourages collaboration and communication among team members, as everyone is working on their own branches and can easily share their work with others.
-
-However, Gitflow can also be complex and require careful planning and coordination to manage multiple branches and merges effectively. It is important for teams to understand the model thoroughly and to follow best practices for using Gitflow to avoid potential issues or conflicts.
+Gitflow can be complex and require careful planning and coordination to manage multiple branches and merges effectively. Gitflow to avoid potential issues or conflicts.

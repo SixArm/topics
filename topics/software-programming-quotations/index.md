@@ -2,8 +2,6 @@
 
 "Programs must be written for people to read, and only incidentally for machines to execute." - Harold Abelson
 
-"Any fool can write code that a computer can understand. Good programmers write code that humans can understand." - Martin Fowler
-
 "It's not at all important to get it right the first time. It's vitally important to get it right the last time." - Andrew Hunt and David Thomas, The Pragmatic Programmer
 
 "First, solve the problem. Then, write the code." - John Johnson
@@ -27,5 +25,3 @@
 "Software is a great combination of artistry and engineering." - Bill Gates
 
 "Most of you are familiar with the virtues of a programmer. There are three, of course: laziness, impatience, and hubris." - Larry Wall
-
-"One man's constant is another man's variable." - Alan Perlis

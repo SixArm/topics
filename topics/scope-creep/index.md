@@ -14,6 +14,4 @@ Scope creep can arise due to various reasons, such as…
 
 * Scope Creep by Incremental Additions: Small changes or additions, individually appearing minor, can collectively lead to significant scope expansion.
 
-The consequences of scope creep can be detrimental to the project's success: delays, budget overruns, reduced quality, and team frustration.
-
-To manage scope creep effectively, project managers and teams should establish change control processes, prioritize tasks, and increase stakeholder involvement.
+Scope creep can be detrimental to the project's success by causing delays, budget overruns, quality slippage, and team frustration. To manage scope creep effectively, project managers and teams should establish change control processes, educate stakeholders about tradeoffs, and potentially reprioritize tasks. 

@@ -16,14 +16,6 @@ The basic workflow of a pull request is as follows:
 
 * If there are conflicts or issues with the changes, the developer can make updates and continue the review process until the changes are approved.
 
-Using pull requests can provide several benefits, including:
-
-* Encouraging collaboration: By allowing developers to propose and discuss changes before they are merged, pull requests can encourage collaboration and improve the quality of code changes.
-
-* Facilitating code reviews: Pull requests provide a structured way for code reviews to take place, making it easier for developers to catch potential issues or conflicts.
-
-* Providing a record of changes: Pull requests create a permanent record of changes and discussions, making it easier for developers to track changes and understand the evolution of the codebase.
-
-* Minimizing errors: Pull requests allow developers to test their changes before they are merged, minimizing the risk of introducing errors or conflicts into the codebase.
+Using pull requests can provide benefits including: improving collaboration, facilitating code reviews, providing a change log, and enabling pull-request testing.
 
 In addition to the basic workflow, pull requests can also include additional features such as automated tests, code linting, and continuous integration, which can help improve the overall quality and consistency of the codebase.

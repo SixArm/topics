@@ -6,12 +6,6 @@ The knapsack problem is an NP-hard problem, which means that there is no known a
 
 One of the most commonly used approaches to solving the knapsack problem is dynamic programming. In dynamic programming, the problem is broken down into subproblems, and the solutions to these subproblems are combined to find the solution to the original problem.
 
-In the knapsack problem, the subproblem is to find the maximum value that can be obtained using a subset of the items and a limited weight capacity. The solution to the subproblem can be computed using the following recursive formula:
-
-    If the weight capacity is 0 or there are no items left, the value is 0.
-    If the weight of the current item is greater than the weight capacity, the item cannot be included and the solution is the same as the solution for the remaining items.
-    Otherwise, the maximum value is either the value of the current item plus the maximum value of the remaining items and the remaining weight capacity, or the maximum value of the remaining items and the remaining weight capacity.
-
-The dynamic programming approach to solving the knapsack problem has a time complexity of O(nW), where n is the number of items and W is the weight capacity of the knapsack. This approach is efficient for small to medium-sized problems, but it becomes impractical for very large problems.
+The subproblem is to find the maximum value that can be obtained using a subset of the items and a limited weight capacity. The solution can be computed using the following recursive formula: If the weight capacity is 0 or there are no items left, the value is 0. If the weight of the current item is greater than the weight capacity, the item cannot be included and the solution is the same as the solution for the remaining items. Otherwise, the maximum value is either the value of the current item plus the maximum value of the remaining items and the remaining weight capacity, or the maximum value of the remaining items and the remaining weight capacity.
 
 Other approaches to solving the knapsack problem include greedy algorithms, branch and bound algorithms, and approximation algorithms. These approaches provide reasonably good solutions to the problem in a reasonable amount of time, but they do not guarantee an optimal solution.

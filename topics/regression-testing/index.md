@@ -15,5 +15,3 @@ Regression testing is typically performed after a software update or change has 
 * Defect resolution - The development team fixes any defects or issues discovered during regression testing.
 
 * Retesting - The fixed software application or system is retested to verify that the issues have been resolved and that the software is functioning as intended.
-
-Regression testing can be performed manually or through automated testing tools. Automated regression testing is often preferred, as it can save time and resources by automating the process of executing and re-executing test cases. However, it is important to ensure that the automated tests are accurate and reliable and that they cover all relevant areas of the application.

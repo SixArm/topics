@@ -19,5 +19,3 @@ The Tower of Hanoi problem can be solved recursively. Suppose there are n disks 
 This algorithm can be visualized as a tree of recursive function calls, where each node represents a subproblem and the edges represent the function calls. The base case is when n=1, in which case the problem is trivial and can be solved in one move.
 
 The Tower of Hanoi problem is an example of a problem that can be solved recursively but has an exponential time complexity, meaning that the number of steps required to solve the problem grows exponentially with the size of the input. Therefore, for large values of n, the problem becomes impractical to solve using a recursive algorithm.
-
-The puzzle was invented by the French mathematician Edouard Lucas in 1883 and has since been used as a pedagogical tool in computer science and programming courses. The problem is also known as the Tower of Brahma. 

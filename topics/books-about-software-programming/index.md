@@ -12,10 +12,6 @@
 
 "Introduction to the Theory of Computation" by Michael Sipser: This book is an excellent resource for understanding the theoretical foundations of computation and computational complexity.
 
-"Effective Java" by Joshua Bloch: Geared towards Java developers, this book offers best practices, tips, and guidelines for writing effective and efficient Java code.
-
 "Patterns of Enterprise Application Architecture" by Martin Fowler: Focusing on software architecture, this book explores common patterns and principles used in enterprise-level applications.
 
 "Domain-Driven Design: Tackling Complexity in the Heart of Software" by Eric Evans: This book introduces the principles and practices of domain-driven design for building complex software systems.
-
-"The Mythical Man-Month: Essays on Software Engineering" by Frederick P. Brooks Jr.: While not solely focused on programming, this classic book explores software project management and the challenges of large-scale development.
