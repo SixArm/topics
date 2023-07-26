@@ -1,6 +1,6 @@
 # What is this book?
 
-Project Management Primer is a glossary guide ebook that describes one topic per page. The primer is intended for quick easy learning about concepts, tactics, and ideas. 
+Project Management Guide is a glossary guide ebook that describes one topic per page. The guide is intended for quick easy learning about concepts, tactics, and ideas. 
 
 ### Why these topics?
 
@@ -19,19 +19,19 @@ If you're interested in a comprehensive cover-to-cover book, you may want to try
 
 ## Who is this for?
 
-People should read this primer if they want to learn quickly about project management concepts, and how these concepts are practiced in companies today.
+People should read this guide if they want to learn quickly about project management concepts, and how these concepts are practiced in companies today.
 
 ### For project managers
 
-For project managers, this primer is intending to summarize and distill many of your daily concepts and terminology. For you, the value of the primer is in being able to quickly and easily teach stakeholders about your project management concepts. For example, if you want to use a particular technique such as PDCA or OODA or DMAIC with your project stakeholders, then you can quickly and easily direct the stakeholders to this primer and its relevant topic pages, as one aspect of your communications. You can freely excerpt, remix, and share these pages with your coworkers.
+For project managers, this guide is intending to summarize and distill many of your daily concepts and terminology. For you, the value of the guide is in being able to quickly and easily teach stakeholders about your project management concepts. For example, if you want to use a particular technique such as PDCA or OODA or DMAIC with your project stakeholders, then you can quickly and easily direct the stakeholders to this guide and its relevant topic pages, as one aspect of your communications. You can freely excerpt, remix, and share these pages with your coworkers.
 
 ### For project stakeholders
 
-For people who work with projects, this primer is intending to bring you up to speed quickly and easily, so you can work better together with your project team, your project managers, and your other project stakeholders. When you know the right terminology, then you're better-able to share information, collaborate, and create the working relationships that you value.
+For people who work with projects, this guide is intending to bring you up to speed quickly and easily, so you can work better together with your project team, your project managers, and your other project stakeholders. When you know the right terminology, then you're better-able to share information, collaborate, and create the working relationships that you value.
 
 ### For students
 
-For students and educators, this primer is a snapshot of industry techniques and practices that can help bridge the gap between academic studies, such as computer science studies, and industry jobs, such as computer programming jobs. If students are able to learn what's in this book, they will have a big advantage when they go for job interviews for roles that involve project management.
+For students and educators, this guide is a snapshot of industry techniques and practices that can help bridge the gap between academic studies, such as computer science studies, and industry jobs, such as computer programming jobs. If students are able to learn what's in this book, they will have a big advantage when they go for job interviews for roles that involve project management.
 
 
 ## Why am I creating this?
@@ -55,24 +55,24 @@ What I discovered with teammates from non-Western or non-English backgrounds is 
 For example, my peers in San Francisco Bay Area startups will likely know the quotation "Move fast and break things", the aphorism "Brook's Law", and the idiom "Get on the front foot". But these aren't familiar to many people from many other places. The topic pages cover these, to improve shared understanding.
 
 
-## Are there more primers?
+## Are there more guides?
 
-Yes there are three more primers that may be of interest to you.
+Yes there are three more guides that may be of interest to you.
 
-Startup Business Primer: 
+Startup Business Guide: 
 
 * Learn about startup concepts that help with entrepreneurship. Some examples are pitch decks, market/customer/product discovery, product-market fit (PMF), minimum viable product (MVP), technology industries and sectors, company roles and responsbilties, sales and marketing, venture capital (VC) and investors, legal entities and useful contracts.
 
-* Get it via [Gumroad](https://gumroad.com/l/startup-business-primer) or [GitHub](https://github.com/sixarm/startup-business-primer)
+* Get it via [Gumroad](https://gumroad.com/l/startup-business-guide) or [GitHub](https://github.com/sixarm/startup-business-guide)
 
-UI/UX Design Primer:
+UI/UX Design Guide:
 
 * Learn about user interface (UI) design and user experience (UX) development. Some examples are User-Centered Design (UCD), Information Architecture (IA), design management, task analysis, ideation, mockups, use cases, user stories, modeling diagrams, affordances, accessibility, internationalization and localization, UI/UX testing, and AI for UI/UX. 
 
-* Get it via [Gumroad](https://gumroad.com/l/ui-ux-design-primer) or [GitHub](https://github.com/sixarm/ui-ux-design-primer)
+* Get it via [Gumroad](https://gumroad.com/l/ui-ux-design-guide) or [GitHub](https://github.com/sixarm/ui-ux-design-guide)
 
-Business Lingo Primer:
+Business Lingo Guide:
 
-* Learn about popular terminology that shows up in United-States-oriented workplaces and projects. Some examples are aphorisms like "Conway's Law" and "The Pereto Principle", idioms like "Get on the front foot" and "Unknown unknowns", and quotations like "Execution eats strategy for lunch" and "Make mistakes faster". This primer can be especially helpful for cross-cultural communication.
+* Learn about popular terminology that shows up in United-States-oriented workplaces and projects. Some examples are aphorisms like "Conway's Law" and "The Pereto Principle", idioms like "Get on the front foot" and "Unknown unknowns", and quotations like "Execution eats strategy for lunch" and "Make mistakes faster". This guide can be especially helpful for cross-cultural communication.
 
-* Get it via [Gumroad](https://gumroad.com/l/business-lingo-primer) or [GitHub](https://github.com/sixarm/business-lingo-primer)
+* Get it via [Gumroad](https://gumroad.com/l/business-lingo-guide) or [GitHub](https://github.com/sixarm/business-lingo-guide)

@@ -1,14 +1,14 @@
 # Conclusion
 
-Thank you for reading Project Management Primer. I hope it can be helpful to you and your project.
+Thank you for reading Innovation Partnership Guide. I hope it can be helpful to you and your project.
 
-Your feedback and suggestions are very much appreciated, because this helps the primer improve and evolve.
+Your feedback and suggestions are very much appreciated, because this helps the guide improve and evolve.
 
 ### Repository
 
 The repository URL is:
 
-<https://github.com/sixarm/project-management-primer>
+<https://github.com/sixarm/innovation-partnership-guide>
 
 You can open any issue you like on the repository. For example, you can use the issue link to ask any question, suggest any improvement, point out any error, and the like.
 
@@ -21,7 +21,7 @@ If you prefer to use email, my email address is:
 
 ## Thanks
 
-Thanks to many hundreds of people and organizations who helped with the ideas leading to this primer.
+Thanks to many hundreds of people and organizations who helped with the ideas leading to this guide.
 
 Consultancies:
 
@@ -53,5 +53,4 @@ Foundations:
 
 Special thanks to [Pragmatic Bookshelf](https://pragprog.com) and [O'Reilly Media](https://oreilly.com) for excellent books.
 
-Special thanks to all the project managers, teams, and stakeholders who have worked with me and taught me so much.
-
+Special thanks to all the mentors, managers, teams, and stakeholders who have worked with me and taught me so much.

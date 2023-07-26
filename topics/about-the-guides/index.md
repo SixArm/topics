@@ -1,8 +1,8 @@
-# Innovation Partnership Primer
+# Innovation Partnership Guide
 
 Covers topics such as professional organizational collaboration, innovation research and development, commercialization of discoveries, cross-company legal structures, and technology transfer agreements.
 
-* Get it via [Gumroad](https://gumroad.com/l/innovation-partnership-primer) or [GitHub](https://github.com/sixarm/innovation-partnership-primer)
+* Get it via [Gumroad](https://gumroad.com/l/innovation-partnership-guide) or [GitHub](https://github.com/sixarm/innovation-partnership-guide)
 
 Topics sampler:
 
@@ -29,11 +29,11 @@ Topics sampler:
 * And more…
 
 
-# Startup Business Primer
+# Startup Business Guide
 
 Covers topics such as entrepreneurship, pitch decks, market/customer/product discovery, product-market fit (PMF), minimum viable product (MVP), industries and sectors, roles and responsbilties, sales and marketing, and venture capital (VC).
 
-* Get it via [Gumroad](https://gumroad.com/l/startup-business-primer) or [GitHub](https://github.com/sixarm/startup-business-primer)
+* Get it via [Gumroad](https://gumroad.com/l/startup-business-guide) or [GitHub](https://github.com/sixarm/startup-business-guide)
 
 Topics sampler:
 
@@ -61,11 +61,11 @@ Topics sampler:
 * And more…
 
 
-# Business Lingo Primer
+# Business Lingo Guide
 
 Learn topics for workplace teamwork, such as analysis tools like the 2x2 grid, aphorisms like the Pereto Principle, idioms like "Get on the front foot", quotations like "Make mistakes faster", and soft skills like how to collaborate.
 
-* Get it via [Gumroad](https://gumroad.com/l/business-lingo-primer) or [GitHub](https://github.com/sixarm/business-lingo-primer)
+* Get it via [Gumroad](https://gumroad.com/l/business-lingo-guide) or [GitHub](https://github.com/sixarm/business-lingo-guide)
 
 Topics sampler:
 
@@ -82,11 +82,11 @@ Topics sampler:
 * And more…
 
 
-# Project Management Primer
+# Project Management Guide
 
 Learn topics for leading projects, programs, and portfolios, such as the project management life cycle (PMLC), Key Performance Indicators (KPIs), SMART criteria, change management, digital transformation, agile, lean, kanban, and kaizen.
 
-* Get it via [Gumroad](https://gumroad.com/l/project-management-primer) or [GitHub](https://github.com/sixarm/project-management-primer)
+* Get it via [Gumroad](https://gumroad.com/l/project-management-guide) or [GitHub](https://github.com/sixarm/project-management-guide)
 
 Topics sampler:
 
@@ -116,11 +116,11 @@ Topics sampler:
 * And more…
 
 
-# UI/UX Design Primer
+# UI/UX Design Guide
 
 Covers topics for user interface (UI) design and user experience (UX) development, such as information architecture, task analysis, ideation, mockups, use cases, user stories, modeling diagrams, affordances, accessibility, and internationalization/localization.
 
-* Get it via [Gumroad](https://gumroad.com/l/ui-ux-design-primer) or [GitHub](https://github.com/sixarm/ui-ux-design-primer)
+* Get it via [Gumroad](https://gumroad.com/l/ui-ux-design-guide) or [GitHub](https://github.com/sixarm/ui-ux-design-guide)
 
 Topics sampler:
 
@@ -151,11 +151,11 @@ Topics sampler:
 * And more…
 
 
-# Software Programming Primer
+# Software Programming Guide
 
 Covers topics for coding, development, and engineering, such as algorithms and data structures, APIs and SDKs, software architectures, markup/query/modeling languages, testing, technical debt and refactoring.
 
-* Get it via [Gumroad](https://gumroad.com/l/software-programming-primer) or [GitHub](https://github.com/sixarm/software-programming-primer)
+* Get it via [Gumroad](https://gumroad.com/l/software-programming-guide) or [GitHub](https://github.com/sixarm/software-programming-guide)
 
 Topics sampler:
 
