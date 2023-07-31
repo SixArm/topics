@@ -1,4 +1,4 @@
-# How to find startup product market fit
+# How to achieve product market fit (PMF)
 
 Finding product-market fit for a startup follows a similar process to finding it for any product. However, startups often face unique challenges, such as limited resources and brand recognition. 
 
