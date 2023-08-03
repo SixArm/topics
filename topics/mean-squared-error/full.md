@@ -4,13 +4,13 @@ Mean Squared Error (MSE) is a commonly used performance metric for regression pr
 
 The formula for computing the Mean Squared Error is as follows:
 
-* MSE = (1/n) * Σ(yᵢ - ȳ)²
+* MSE = (1/n) * Σ(yᵢ - ȳᵢ)²
 
 Where:
 
 * n is the number of data points (samples) in the dataset.
 * yᵢ represents the actual (ground truth) value of the target variable for the i-th data point.
-* ȳ is the predicted value of the target variable for the i-th data point.
+* ȳᵢ is the predicted value of the target variable for the i-th data point.
 
 The steps to calculate MSE are as follows:
 
