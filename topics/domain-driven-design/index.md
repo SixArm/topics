@@ -1,6 +1,6 @@
-# Domain-Driven Design (DDD) 
+# Domain-Driven Design (DDD)
 
-Domain-Driven Design (DDD) is a software development approach that aims to help teams create software aligned with a business's needs and requirements. DDD focuses on breaking down complex business domains into components, which can then be implemented in software. The business domains are the subject matter and context in which a particular business operates. 
+Domain-Driven Design (DDD) is a software development approach that aims to help teams create software aligned with a business's needs and requirements. DDD focuses on breaking down complex business domains into components, which can then be implemented in software. The business domains are the subject matter and context in which a particular business operates.
 
 DDD proposes a set of practices, concepts, and patterns:
 

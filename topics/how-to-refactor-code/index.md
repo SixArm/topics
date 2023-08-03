@@ -1,6 +1,6 @@
 # How to refactor code
 
-Refactoring code is the process of making improvements to the structure, design, and readability of existing code without changing its external behavior. The goal of refactoring is to enhance the code's maintainability, extensibility, and overall quality. 
+Refactoring code is the process of making improvements to the structure, design, and readability of existing code without changing its external behavior. The goal of refactoring is to enhance the code's maintainability, extensibility, and overall quality.
 
 Tips…
 
@@ -8,7 +8,7 @@ Understand the Code: Before starting the refactoring process, thoroughly underst
 
 Create a Backup: Before making any changes, create a backup or use version control (e.g., Git) to ensure you can revert to the original code if necessary.
 
-Identify Code Smells: Code smells are indicators of areas that may benefit from refactoring. Look for smells such as duplicated code, long methods, unclear names, large classes, complex logic, or slow benchmarks. 
+Identify Code Smells: Code smells are indicators of areas that may benefit from refactoring. Look for smells such as duplicated code, long methods, unclear names, large classes, complex logic, or slow benchmarks.
 
 Write Tests: Ensure you have a test suite in place to validate that the refactored code still produces the correct results. This helps prevent introducing new bugs during refactoring.
 

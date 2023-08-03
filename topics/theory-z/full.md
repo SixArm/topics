@@ -1,4 +1,4 @@
-# Theory Z 
+# Theory Z
 
 Theory Z is a management theory that was developed by William Ouchi in the 1980s. It combines elements of Japanese and American management practices to create a hybrid approach. Theory Z is often seen as a response to the perceived limitations of Theory X and Theory Y, as well as an attempt to reconcile cultural differences between the East and the West.
 

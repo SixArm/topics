@@ -1,6 +1,6 @@
 # Limited Liability Company (LLC)
 
-A Limited Liability Company (LLC) is a type of business entity that is designed to provide limited liability protection to its owners, while also offering the benefits of a partnership or sole proprietorship. 
+A Limited Liability Company (LLC) is a type of business entity that is designed to provide limited liability protection to its owners, while also offering the benefits of a partnership or sole proprietorship.
 
 Limited liability protection is a key feature of LLCs. It means that if the company faces legal issues, such as lawsuits or bankruptcy, the personal assets of the members, such as their homes or cars, are not at risk. Only the assets of the LLC itself are at risk. This is different from sole proprietorships and partnerships, where the personal assets of the owners are at risk in case of legal issues.
 

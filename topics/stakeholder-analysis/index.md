@@ -1,8 +1,8 @@
-# Stakeholder analysis 
+# Stakeholder analysis
 
 Stakeholder analysis is a process of identifying and analyzing the various groups or individuals who have an interest in a particular project or organization. The goal is to understand the needs, expectations, interests, and influence of each stakeholder, in order to effectively manage relationships.
 
-Stakeholders can be internal or external to the organization, and can include individuals or groups such as employees, customers, suppliers, investors, government agencies, NGOs, and the media. 
+Stakeholders can be internal or external to the organization, and can include individuals or groups such as employees, customers, suppliers, investors, government agencies, NGOs, and the media.
 
 Analysis typically involves the following steps:
 

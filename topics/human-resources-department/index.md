@@ -1,6 +1,6 @@
 # Human resources (HR) department
 
-The human resources (HR) department of a company is responsible for managing its workforce and ensuring that the company's policies and practices align with the interests of its employees. 
+The human resources (HR) department of a company is responsible for managing its workforce and ensuring that the company's policies and practices align with the interests of its employees.
 
 Key functions include:
 

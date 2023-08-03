@@ -8,7 +8,7 @@ Geographic Expansion: Enter new geographical regions or countries. This may requ
 
 Demographic Expansion: Target new customer segments or demographics. Understand the needs, preferences, and behaviors of the new target audience and tailoring marketing strategies and product offerings.
 
-Product or Service Expansion: Introduce new products or services to the existing market or expanding the product/service line to address additional customer needs. 
+Product or Service Expansion: Introduce new products or services to the existing market or expanding the product/service line to address additional customer needs.
 
 Channel Expansion: Use new distribution channels to reach a wider customer base. This could include partnering with new retailers, distributors, e-commerce platforms, or direct-to-consumer channels.
 

@@ -1,6 +1,6 @@
 # How to get feedback
 
-Getting feedback is essential for personal and professional growth. 
+Getting feedback is essential for personal and professional growth.
 
 Here are some steps you can take…
 
@@ -12,7 +12,7 @@ Be Specific in Your Request: When seeking feedback, be clear about the specific 
 
 Ask Open-Ended Questions: Instead of asking simple yes/no questions, ask open-ended questions that encourage detailed responses.
 
-Actively Listen: When receiving feedback, actively listen without interrupting or becoming defensive. Give the person your full attention and try to understand their perspective. 
+Actively Listen: When receiving feedback, actively listen without interrupting or becoming defensive. Give the person your full attention and try to understand their perspective.
 
 Respond Graciously: Express appreciation for the feedback, regardless of whether it's positive or constructive. Thank the person for taking the time to provide their insights.
 

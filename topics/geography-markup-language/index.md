@@ -1,4 +1,4 @@
-# Geography Markup Language (GML) 
+# Geography Markup Language (GML)
 
 Geography Markup Language (GML) is an XML-based encoding for the representation and exchange of geographical features, their attributes, and their relationships. It is an open standard format for describing geographical data, and it was developed by the Open Geospatial Consortium (OGC) to support interoperability between different software systems.
 

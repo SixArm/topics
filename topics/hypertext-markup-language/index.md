@@ -1,4 +1,4 @@
-# Hypertext Markup Language (HTML) 
+# Hypertext Markup Language (HTML)
 
 Hypertext Markup Language (HTML) is a standard markup language used to create web pages and web applications. It is the foundation of web development and is used to structure content on the web. HTML allows developers to define the structure and content of a web page using tags, attributes, and elements.
 

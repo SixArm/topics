@@ -2,7 +2,7 @@
 
 Neural Radiance Fields (NeRF) is a technique for computer graphics, particularly in 3D scene reconstruction and rendering. It is a data-driven approach that uses deep neural networks to model the volumetric representation of a scene's appearance and geometry.
 
-Traditional methods for 3D scene reconstruction often rely on point clouds, meshes, or voxel grids, which can be memory-intensive and struggle to capture fine details and complex lighting effects. 
+Traditional methods for 3D scene reconstruction often rely on point clouds, meshes, or voxel grids, which can be memory-intensive and struggle to capture fine details and complex lighting effects.
 
 NeRF, on the other hand, provides a continuous volumetric representation of the scene. The key idea of NeRF is to model a 3D scene as a continuous function, where the function takes a 3D point (position in space) as input, then outputs the radiance (color and opacity) of that point. By learning this function using deep neural networks, NeRF can model complex and realistic scenes.
 

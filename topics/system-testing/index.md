@@ -1,4 +1,4 @@
-# System testing 
+# System testing
 
 System testing is a type of software testing that is used to evaluate and verify the entire system's behavior and functionality as a whole. This testing technique ensures that all the software components work together correctly and satisfy the system requirements. The objective of system testing is to identify defects and ensure that the system operates as expected.
 

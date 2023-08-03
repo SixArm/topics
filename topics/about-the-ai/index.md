@@ -9,7 +9,7 @@ OpenAI ChatGPT is a large language model based on "Generative Pre-trained Transf
 
 The model was trained on a massive amount of text data, including books, articles, and websites, enabling the model to generate responses that are contextually relevant and grammatically correct.
 
-The model can be used for a variety of tasks, including answering questions, generating text, translating languages, and writing code. 
+The model can be used for a variety of tasks, including answering questions, generating text, translating languages, and writing code.
 
 
 ## Can ChatGPT generate text and write a book?

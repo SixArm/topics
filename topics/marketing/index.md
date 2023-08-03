@@ -10,10 +10,10 @@ Product Development: Collaborate with product teams to identify gaps, plan featu
 
 Channel Management: Manage distribution channels to reach target markets. Channels can include direct sales, retail stores, e-commerce platforms, distribution partners, and others.
 
-Promotion: Generate interest among customers, such as via advertising, public relations, sales promotions, direct marketing, and digital marketing. 
+Promotion: Generate interest among customers, such as via advertising, public relations, sales promotions, direct marketing, and digital marketing.
 
 Branding: Build and manage brand identity and personality. Create brand strategies for the brand's values, assets, and positioning.
 
 Customer Relationship: Nurture customers throughout the customer journey. Use tactics such as customer loyalty programs, personalized marketing, and customer feedback systems.
 
-Analytics: Analyze campaign results, customer behavior, market trends, and ROI to optimize marketing strategies. 
+Analytics: Analyze campaign results, customer behavior, market trends, and ROI to optimize marketing strategies.

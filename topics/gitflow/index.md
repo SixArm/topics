@@ -12,8 +12,8 @@ In addition to these main branches, Gitflow includes several types of supporting
 
 * Hotfix branches: These are created for fixing critical bugs in the production code. They are created from the master branch and merged back into both the master and develop branches once the fix is complete.
 
-The Gitflow model also includes a set of rules for when and how to create and merge these branches, as well as how to manage conflicts and releases. 
+The Gitflow model also includes a set of rules for when and how to create and merge these branches, as well as how to manage conflicts and releases.
 
-Gitflow can be especially useful for software that has long-lived release branches, such as on-premise deployments to customer sites. 
+Gitflow can be especially useful for software that has long-lived release branches, such as on-premise deployments to customer sites.
 
 Gitflow can be complex and require careful planning and coordination to manage multiple branches and merges effectively. Gitflow to avoid potential issues or conflicts.

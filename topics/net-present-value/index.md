@@ -1,4 +1,4 @@
-# Net Present Value (NPV) 
+# Net Present Value (NPV)
 
 Net Present Value (NPV) is a financial metric that helps businesses evaluate the profitability of an investment by comparing the present value of expected cash inflows to the present value of expected cash outflows over a given period of time. In other words, NPV measures the net difference between the present value of expected future cash flows and the initial investment amount.
 

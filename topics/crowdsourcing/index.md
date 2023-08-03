@@ -1,6 +1,6 @@
 # Crowdsourcing
 
-Crowdsourcing refers to the practice of obtaining ideas, services, or content from a large and undefined group of people, typically through the internet. The process of crowdsourcing involves creating a call-to-action, usually through a platform or website, where individuals can participate in a specific task or project. 
+Crowdsourcing refers to the practice of obtaining ideas, services, or content from a large and undefined group of people, typically through the internet. The process of crowdsourcing involves creating a call-to-action, usually through a platform or website, where individuals can participate in a specific task or project.
 
 Organizations use crowdsourcing for a variety of purposes, including idea generation, content creation, problem-solving, bug bounties, and fundraising (commonly referred to as crowdfunding).
 

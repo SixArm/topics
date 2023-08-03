@@ -1,4 +1,4 @@
-# Zero-shot learning 
+# Zero-shot learning
 
 Zero-shot learning is a machine learning paradigm where a model is capable of making predictions for classes that it has never seen or been directly trained on. Unlike traditional supervised learning, where the model is trained on labeled data for a specific set of classes, zero-shot learning enables the model to generalize to new classes not present in the training data.
 

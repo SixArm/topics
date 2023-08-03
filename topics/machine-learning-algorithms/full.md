@@ -1,4 +1,4 @@
-# Machine learning algorithms 
+# Machine learning algorithms
 
 Machine learning algorithms are computational methods and techniques that enable computers to learn from data and make predictions or decisions without being explicitly programmed for every specific task. These algorithms are a crucial component of machine learning, as they allow models to discover patterns, relationships, and insights from data, leading to more accurate predictions and intelligent decision-making.
 

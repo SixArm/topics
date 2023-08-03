@@ -1,6 +1,6 @@
 # Social value orientation (SVO)
 
-Social value orientation (SVO) is a psychological construct that describes an individual's preference for how they distribute resources in social situations. It refers to the extent to which an individual values cooperation and helping others, versus competition and self-interest. 
+Social value orientation (SVO) is a psychological construct that describes an individual's preference for how they distribute resources in social situations. It refers to the extent to which an individual values cooperation and helping others, versus competition and self-interest.
 
 There are three main types of social value orientations:
 
@@ -14,4 +14,4 @@ SVO is often measured through games and tasks that require participants to make 
 
 An individual's social value orientation can have a significant impact on their behavior in social situations, including their willingness to cooperate, trust, and punish others. Individuals with a prosocial orientation are more likely to engage in cooperative behaviors and to trust others, while those with an individualistic or competitive orientation are more likely to engage in selfish or harmful behaviors.
 
-Understanding an individual's social value orientation can be useful in a variety of settings, such as in business negotiations, conflict resolution, or in designing public policies that promote cooperation and social welfare. 
+Understanding an individual's social value orientation can be useful in a variety of settings, such as in business negotiations, conflict resolution, or in designing public policies that promote cooperation and social welfare.

@@ -1,10 +1,10 @@
-# AI + cleantech 
+# AI + cleantech
 
 AI + cleantech is the combination of artificial intelligence and clean technology.
 
 Examples…
 
-Energy Management: AI can analyze energy consumption patterns, weather data, renewable sourcing, and other factors to optimize energy generation, grid stability, storage and distribution, and consumption. 
+Energy Management: AI can analyze energy consumption patterns, weather data, renewable sourcing, and other factors to optimize energy generation, grid stability, storage and distribution, and consumption.
 
 Smart Buildings: AI can optimize energy consumption in buildings by analyzing data from usage sensors and occupancy patterns. AI can automate and optimize heating, cooling, lighting, and other energy processes.
 

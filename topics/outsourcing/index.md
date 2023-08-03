@@ -1,4 +1,4 @@
-# Outsourcing 
+# Outsourcing
 
 Outsourcing is the practice of hiring a third-party provider to perform specific business functions or processes that were previously handled in-house. The outsourcing provider is often located in a different country, which enables businesses to take advantage of lower labor costs, increased efficiency, and improved quality of service.
 
@@ -6,11 +6,11 @@ Common types of outsourcing include information technology (IT) services, custom
 
 Typical benefits:
 
-* Outsourcing can allow businesses to focus on their core competencies, while leaving non-core functions to external providers who can perform them more efficiently and effectively. 
+* Outsourcing can allow businesses to focus on their core competencies, while leaving non-core functions to external providers who can perform them more efficiently and effectively.
 
 * Outsourcing can provide access to specialized expertise not available in-house. For example, a business may lack resources or skills for in-house software applications, but can outsource function to a software consultancy.
 
-* Some outsourcing providers cost less than in-house employees. 
+* Some outsourcing providers cost less than in-house employees.
 
 There are potential risks and challenges associated with outsourcing. One major challenge is the risk of data security breaches and intellectual property theft. Outsourcing providers may not have the same level of security measures in place as in-house employees, which can leave businesses vulnerable to data breaches and other security risks.
 

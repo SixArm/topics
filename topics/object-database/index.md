@@ -6,6 +6,6 @@ In an object database, objects can be stored in their native form, and complex o
 
 Object databases typically use a query language that is specifically designed to work with objects, rather than the SQL language used by relational databases. Some examples of query languages used in object databases include ODMG Query Language (OQL), Object Query Language (OQL), and Java Persistence Query Language (JPQL).
 
-Object databases are well-suited for object-oriented programming applications: object databases can help simplify programming by allowing objects to be stored directly in the database. 
+Object databases are well-suited for object-oriented programming applications: object databases can help simplify programming by allowing objects to be stored directly in the database.
 
 However, object databases are not the best choice for all applications, as they can be more complex to design and maintain than traditional relational databases or document databases, and may not have the same level of standardization as traditional relational databases, making it harder to find qualified developers and tools.

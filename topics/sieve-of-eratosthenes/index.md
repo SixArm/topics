@@ -1,6 +1,6 @@
 # Sieve of Eratosthenes
 
-The Sieve of Eratosthenes is an algorithm for finding all the prime numbers up to a given limit. It is named after the ancient Greek mathematician Eratosthenes who first described the algorithm. 
+The Sieve of Eratosthenes is an algorithm for finding all the prime numbers up to a given limit. It is named after the ancient Greek mathematician Eratosthenes who first described the algorithm.
 
 The algorithm works by marking all the multiples of each prime number, starting with 2, and eliminating the composites. The remaining numbers that are not marked are prime.
 

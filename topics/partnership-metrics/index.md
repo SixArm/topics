@@ -1,6 +1,6 @@
 # Partnership metrics
 
-Partnership metrics are key performance indicators (KPIs) used to measure the effectiveness, efficiency, and overall success of a partnership between organizations. These metrics provide insights into the partnership's performance, impact, and alignment with desired outcomes. 
+Partnership metrics are key performance indicators (KPIs) used to measure the effectiveness, efficiency, and overall success of a partnership between organizations. These metrics provide insights into the partnership's performance, impact, and alignment with desired outcomes.
 
 Typical metrics…
 

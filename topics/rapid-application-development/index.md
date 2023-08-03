@@ -2,7 +2,7 @@
 
 Rapid Application Development (RAD) is an iterative software development methodology that focuses on building software quickly and efficiently. The RAD model emphasizes prototyping and user feedback to create software that meets user needs and requirements.
 
-The RAD model consists of four phases: 
+The RAD model consists of four phases:
 
 1. Requirements Planning phase: the project team identifies the key requirements and scope of the project. This includes identifying user needs and requirements, as well as any technical requirements that need to be met. The project team also defines the overall project plan, including timelines and milestones.
 

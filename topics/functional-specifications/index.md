@@ -1,4 +1,4 @@
-# Functional specifications 
+# Functional specifications
 
 Functional specifications are documents that describe the functional requirements of a software system or product. They outline what the system or product should do and how it should behave, in terms of its features, functionality, and user interactions.
 

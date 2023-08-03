@@ -10,6 +10,6 @@ Investment and Support: Upon acceptance into the accelerator program, BGV provid
 
 Impact Investing: Startups in the BGV portfolio are encouraged to track and assess the social and environmental impact of their products or services. BGV supports startups in integrating impact measurement frameworks into their operations.
 
-Portfolio and Alumni: Open Bionics (a company creating affordable and customizable bionic limbs), GoodGym (a community fitness platform that combines exercise with social impact), and Open Utility (a peer-to-peer energy marketplace). 
+Portfolio and Alumni: Open Bionics (a company creating affordable and customizable bionic limbs), GoodGym (a community fitness platform that combines exercise with social impact), and Open Utility (a peer-to-peer energy marketplace).
 
 Partnerships and Collaboration: BGV collaborates with a wide range of organizations, including corporations, foundations, government entities, and academic institutions. BGV also works closely with investors interested in impact-driven ventures.

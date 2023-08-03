@@ -1,6 +1,6 @@
 # How to run a focus group
 
-Running a focus group involves gathering a small group of individuals with similar characteristics or experiences to gather insights, opinions, and feedback on a specific topic or product. 
+Running a focus group involves gathering a small group of individuals with similar characteristics or experiences to gather insights, opinions, and feedback on a specific topic or product.
 
 Steps…
 
@@ -14,6 +14,6 @@ Develop a Guide: Create a structured discussion guide that outlines the key topi
 
 Facilitate Focus: Start the focus group by introducing yourself and explaining the purpose and guidelines of the session. Encourage participants to share their opinions and experiences openly. Actively listen.
 
-Manage Group Dynamics: Foster interaction. Ensure all participants have opportunities to contribute. Keep the group respectful and focused. Manage dominant individuals or overly quiet participants. 
+Manage Group Dynamics: Foster interaction. Ensure all participants have opportunities to contribute. Keep the group respectful and focused. Manage dominant individuals or overly quiet participants.
 
 Report Findings: Analyze the results to extract key findings, relevant quotes, anecdotes, and observations. Create a report or presentation and share it with stakeholders to inform future work.

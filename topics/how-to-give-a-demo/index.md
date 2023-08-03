@@ -1,6 +1,6 @@
 # How to give a demo
 
-Giving a demo involves showcasing a product, service, or concept to an audience, whether it's in-person, through a virtual presentation, or a combination of both. 
+Giving a demo involves showcasing a product, service, or concept to an audience, whether it's in-person, through a virtual presentation, or a combination of both.
 
 Steps…
 

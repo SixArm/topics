@@ -1,6 +1,6 @@
 # Perfect is the enemy of good
 
-"Perfect is the enemy of good" is an aphorism that emphasizes the potential negative impact of striving for perfection in various aspects of life. This suggests that pursuing perfection can hinder progress and prevent the achievement of satisfactory results. 
+"Perfect is the enemy of good" is an aphorism that emphasizes the potential negative impact of striving for perfection in various aspects of life. This suggests that pursuing perfection can hinder progress and prevent the achievement of satisfactory results.
 
 One interpretation of this aphorism is that the quest for perfection often sets unrealistic standards that are difficult, if not impossible, to meet. Perfectionism can become a self-imposed barrier to success and satisfaction. Instead of embracing incremental progress or accepting good outcomes, perfectionism can breed dissatisfaction and create a cycle of never-ending refinement.
 

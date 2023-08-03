@@ -1,4 +1,4 @@
-# Data lake 
+# Data lake
 
 A data lake is a centralized and scalable repository that allows businesses to store vast amounts of raw, unstructured, and structured data in a single location. It provides an efficient way to store and manage large amounts of data from various sources such as IoT devices, social media platforms, and enterprise applications.
 

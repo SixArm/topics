@@ -1,6 +1,6 @@
 # How to write a partnership statement
 
-Writing a partnership statement involves clearly and concisely articulating the purpose, goals, and values of the partnership. 
+Writing a partnership statement involves clearly and concisely articulating the purpose, goals, and values of the partnership.
 
 Steps…
 
@@ -10,7 +10,7 @@ Goals: Clearly articulate the shared goals of the partnership. Describe the desi
 
 Values: Highlight the core values and principles that guide the partnership. These may include integrity, transparency, collaboration, innovation, sustainability, or any other shared beliefs.
 
-Roles: Clearly outline the roles and responsibilities of each partner. Specify the contributions, expertise, or resources that each partner brings to the collaboration. 
+Roles: Clearly outline the roles and responsibilities of each partner. Specify the contributions, expertise, or resources that each partner brings to the collaboration.
 
 Benefits: Describe the benefits the partnership offers to each partner and to the stakeholders involved. Highlight the unique strengths and synergies that the partnership brings.
 

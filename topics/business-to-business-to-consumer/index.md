@@ -1,6 +1,6 @@
 # Business-to-Business-to-Consumer (B2B2C)
 
-Business-to-Business-to-Consumer (B2B2C) is a business model that involves a company selling its products or services to other businesses, which in turn sell the same products or services to consumers. 
+Business-to-Business-to-Consumer (B2B2C) is a business model that involves a company selling its products or services to other businesses, which in turn sell the same products or services to consumers.
 
 The B2B2C model is often used in industries where businesses work together to provide a comprehensive solution to consumers. For example, a company that produces a software application might partner with a hardware manufacturer to bundle their software with the manufacturer's hardware, and then sell the bundled product to consumers. In this case, the software company sells to the hardware manufacturer (B2B), and the hardware manufacturer sells to the end customer (B2C).
 

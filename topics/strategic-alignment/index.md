@@ -1,4 +1,4 @@
-# Strategic alignment 
+# Strategic alignment
 
 Strategic alignment refers to the process of ensuring that the goals, objectives, and activities of different entities within an organization are coordinated and synchronized to support the overall strategic direction. It involves aligning various elements such as business units, departments, teams, projects, processes, and resources to work together towards a common purpose.
 

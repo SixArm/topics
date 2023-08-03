@@ -2,7 +2,7 @@
 
 Fibonacci task estimation is a technique used in Agile project management to estimate the relative size or effort of tasks or user stories. It is based on the Fibonacci sequence, where each number is the sum of the two preceding numbers: 0, 1, 1, 2, 3, 5, 8, 13, and so on. In Fibonacci task estimation, team members assign Fibonacci numbers to tasks based on their perceived complexity or effort required. The higher the Fibonacci number, the larger or more complex the task is considered.
 
-Fibonacci task estimation promotes a relative sizing, and is based on the principle that as tasks increase in complexity, the effort required tends to grow in a nonlinear manner. 
+Fibonacci task estimation promotes a relative sizing, and is based on the principle that as tasks increase in complexity, the effort required tends to grow in a nonlinear manner.
 
 Here's how it typically works:
 

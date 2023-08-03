@@ -1,4 +1,4 @@
-# Remote Procedure Call (RPC) 
+# Remote Procedure Call (RPC)
 
 Remote Procedure Call (RPC) is a software architecture approach for communication between different applications or software components that are distributed across different computers or devices.
 

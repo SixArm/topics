@@ -1,4 +1,4 @@
-# Business plan competition 
+# Business plan competition
 
 A business plan competition is an event or program that provides entrepreneurs and startup companies with the opportunity to present their business plans to a panel of judges, investors, and other industry professionals. The competition is designed to encourage the development of new and innovative businesses, as well as to provide support and funding opportunities for the most promising startups.
 

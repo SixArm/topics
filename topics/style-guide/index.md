@@ -4,7 +4,7 @@ A style guide is a comprehensive set of guidelines that establishes rules, stand
 
 Style guides typically cover…
 
-Visual Elements: Guide the typography, color palette, logo usage, imagery, iconography, and other visual elements. 
+Visual Elements: Guide the typography, color palette, logo usage, imagery, iconography, and other visual elements.
 
 Layout and Grid Systems: Guide the layout and grid systems to maintain consistency in the placement and alignment of elements within designs, such as for spacing, margins, and proportions.
 

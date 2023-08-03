@@ -1,6 +1,6 @@
 # What is this book?
 
-Startup Business Guide is a glossary guide ebook that describes one topic per page. The guide is intended for quick easy learning about concepts, tactics, and ideas. 
+Startup Business Guide is a glossary guide ebook that describes one topic per page. The guide is intended for quick easy learning about concepts, tactics, and ideas.
 
 ### Why these topics?
 
@@ -34,7 +34,7 @@ For students and educators, this guide is a snapshot of industry techniques and 
 
 ## Why am I creating this?
 
-I am creating this ebook because of years of experience in startup business work, with a wide range of clients, from small startups to enormous enterprises. 
+I am creating this ebook because of years of experience in startup business work, with a wide range of clients, from small startups to enormous enterprises.
 
 
 ### For team collaboration
@@ -48,7 +48,7 @@ For example, one of my enterprise clients describes this kind of shared context 
 
 What I discovered is that these kinds of glossaries can be especially helpful for teams with members coming from various cultures, such as from different countries, or different industries, or different ways of working. The topic pages help provide a baseline for better collaboration.
 
-What I discovered with teammates from non-Western or non-English backgrounds is that startup business has many social quotations, aphorisms, and idioms that come up frequently and that that teammates are expected to know. 
+What I discovered with teammates from non-Western or non-English backgrounds is that startup business has many social quotations, aphorisms, and idioms that come up frequently and that that teammates are expected to know.
 
 For example, my peers in San Francisco Bay Area startups will likely know the quotation "Move fast and break things", the aphorism "Brook's Law", and the idiom "Get on the front foot". But these aren't familiar to many people from many other places. The topic pages cover these, to improve shared understanding.
 
@@ -65,7 +65,7 @@ Project Management Guide:
 
 UI/UX Design Guide:
 
-* Learn about user interface (UI) design and user experience (UX) development. Some examples are User-Centered Design (UCD), Information Architecture (IA), design management, task analysis, ideation, mockups, use cases, user stories, modeling diagrams, affordances, accessibility, internationalization and localization, UI/UX testing, and AI for UI/UX. 
+* Learn about user interface (UI) design and user experience (UX) development. Some examples are User-Centered Design (UCD), Information Architecture (IA), design management, task analysis, ideation, mockups, use cases, user stories, modeling diagrams, affordances, accessibility, internationalization and localization, UI/UX testing, and AI for UI/UX.
 
 * Get it via [Gumroad](https://gumroad.com/l/ui-ux-design-guide) or [GitHub](https://github.com/sixarm/ui-ux-design-guide)
 

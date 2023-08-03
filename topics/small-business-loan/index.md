@@ -1,4 +1,4 @@
-# Small business loan 
+# Small business loan
 
 A small business loan is a financial product that allows small business owners to borrow money from a lender to fund their operations, purchase inventory or equipment, expand their business, or cover any other business-related expenses. Small business loans are often offered by banks, credit unions, or other financial institutions, and are typically available in different forms, such as term loans, lines of credit, or Small Business Administration (SBA) loans.
 
@@ -10,4 +10,4 @@ SBA loans are another type of small business loan that is backed by the Small Bu
 
 When applying for a small business loan, lenders will typically review the credit score and financial history of the business owner, as well as the financial health and potential of the business. Some lenders may also require collateral or a personal guarantee from the business owner to secure the loan.
 
-Small business loans can be a valuable tool for small business owners looking to grow their business or overcome financial challenges, but it's important to carefully consider the terms and conditions of the loan before accepting any offer. 
+Small business loans can be a valuable tool for small business owners looking to grow their business or overcome financial challenges, but it's important to carefully consider the terms and conditions of the loan before accepting any offer.

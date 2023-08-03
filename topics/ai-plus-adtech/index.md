@@ -6,7 +6,7 @@ Examples…
 
 Audience Targeting: AI can analyze data to segment audiences based on demographics, behaviors, interests, and other relevant factors, to identify target segments and deliver personalized advertisements.
 
-Ad Optimization: AI can automatically optimize ad creatives, headlines, and copy based on performance data and user engagement metrics, to maximize engagement and conversion rates. 
+Ad Optimization: AI can automatically optimize ad creatives, headlines, and copy based on performance data and user engagement metrics, to maximize engagement and conversion rates.
 
 Real-time Bidding: AI can analyze available ad inventory and user data to evaluate ad placement opportunities, bid on available impressions, and optimize ad delivery for reach and efficiency.
 

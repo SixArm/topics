@@ -1,4 +1,4 @@
-# Investors 
+# Investors
 
 Investors play a crucial role in the success of a startup. There are various types of investors who can provide funding to startups and businesses.
 
@@ -6,7 +6,7 @@ Typical types:
 
 * Friends and family investors: These are often the first funders, and invest based on personal relationships, rather than a business plan. However, there are risks of conflicts and strained relationships.
 
-* Angel investors: Angel investors are high net worth individuals who provide funding in the early stages of development, before a proven track record. They typically invest less than venture capital firms. They provide valuable mentorship. 
+* Angel investors: Angel investors are high net worth individuals who provide funding in the early stages of development, before a proven track record. They typically invest less than venture capital firms. They provide valuable mentorship.
 
 * Venture capital investors: These are professional investors who provide funding to startups with high growth potential. They are typically looking for a very high return on their investment.
 

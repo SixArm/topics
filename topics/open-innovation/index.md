@@ -4,7 +4,7 @@ Open innovation is an approach to innovation that emphasizes collaboration, know
 
 Key aspects…
 
-External Partnerships: Open innovation involves forming strategic partnerships and collaborations with external entities such as customers, suppliers, research institutions, startups, and even competitors. 
+External Partnerships: Open innovation involves forming strategic partnerships and collaborations with external entities such as customers, suppliers, research institutions, startups, and even competitors.
 
 Idea Generation and Sourcing: Open innovation seeks external inputs, such as customer feedback, user insights, and also via open calls, hackathons, crowdsourcing platforms, or innovation challenges.
 

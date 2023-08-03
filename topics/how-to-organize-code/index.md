@@ -1,6 +1,6 @@
 # How to organize code
 
-Organizing code effectively is crucial for creating maintainable, scalable, and readable software. 
+Organizing code effectively is crucial for creating maintainable, scalable, and readable software.
 
 Tips…
 

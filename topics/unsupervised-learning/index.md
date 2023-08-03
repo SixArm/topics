@@ -1,6 +1,6 @@
 # Unsupervised learning
 
-Unsupervised learning is a type of machine learning where the algorithm is trained on a dataset without explicit labels or target outputs. The objective is to find patterns, structures, or representations in the data. 
+Unsupervised learning is a type of machine learning where the algorithm is trained on a dataset without explicit labels or target outputs. The objective is to find patterns, structures, or representations in the data.
 
 Key steps…
 

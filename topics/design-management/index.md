@@ -1,6 +1,6 @@
-# Design management 
+# Design management
 
-Design management refers to the process of planning, coordinating, and overseeing the design activities within an organization to achieve strategic objectives and drive innovation. It involves managing the design function and integrating it into the broader business strategy and operations. 
+Design management refers to the process of planning, coordinating, and overseeing the design activities within an organization to achieve strategic objectives and drive innovation. It involves managing the design function and integrating it into the broader business strategy and operations.
 
 Key aspects…
 

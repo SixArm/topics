@@ -1,4 +1,4 @@
-# Screen reader testing 
+# Screen reader testing
 
 Screen reader testing is the process of evaluating the accessibility and usability of a digital interface for individuals who rely on screen readers to access content. It involves assessing how well a website, application, or other digital product can be perceived, navigated, and interacted with using a screen reader.
 

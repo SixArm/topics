@@ -1,4 +1,4 @@
-# Forward propagation 
+# Forward propagation
 
 Forward propagation is the process in which input data is fed into a neural network, and the data is processed through the network's layers to produce an output or prediction. It is the first step in the operation of a neural network and is essential for making predictions during both training and inference phases.
 

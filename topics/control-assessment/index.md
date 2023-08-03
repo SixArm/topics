@@ -6,7 +6,7 @@ Key aspects…
 
 Objectives and Criteria: Control assessment is performed against specific objectives and criteria established by the organization, such as for finance, operations, IS/IT, and compliance.
 
-Control Evaluation Methods: Control assessment can be conducted through various methods, including interviews, documentation review, walkthroughs, testing, and data analysis. 
+Control Evaluation Methods: Control assessment can be conducted through various methods, including interviews, documentation review, walkthroughs, testing, and data analysis.
 
 Control Frameworks: Control assessments often rely on established control frameworks or standards, such as the COSO (Committee of Sponsoring Organizations of the Treadway Commission) Internal Control Framework or ISO (International Organization for Standardization) standards.
 

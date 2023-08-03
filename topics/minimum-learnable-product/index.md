@@ -4,7 +4,7 @@ Minimum Learnable Product (MLnP) is a product development approach that focuses 
 
 The MLnP approach is a variation of the minimum viable product (MVP) and minimum lovable product (MLP) approaches. MVP creates the minimum set of features necessary to test a product idea. MLP creates a product that is emotionally engaging and lovable. MLnP emphasizes the importance of education and skill development.
 
-To create an MLnP, product teams need to focus on understanding the key skills and knowledge that users need to effectively use the product. 
+To create an MLnP, product teams need to focus on understanding the key skills and knowledge that users need to effectively use the product.
 
 Once the key learning moments have been identified, product teams can create a product that satisfies users' immediate needs plus helps them develop skills to use the product effectively. This may involve tutorials, tips, and other educational materials, as well as designing the product in a way that guides users through the learning process.
 

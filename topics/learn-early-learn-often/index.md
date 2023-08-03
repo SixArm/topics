@@ -4,7 +4,7 @@
 
 The concept behind "Learn early, learn often" is closely tied to the lean startup methodology, which emphasizes rapid experimentation and iteration to quickly validate or invalidate assumptions about a product or service. By learning early and often, startups can quickly identify and correct errors in their assumptions, refine their products or services, and make data-driven decisions.
 
-The "learn" part of the phrase refers to the importance of acquiring knowledge and insights through experimentation, feedback, and data analysis. This learning can come from a variety of sources, such as user feedback, market research, customer behavior analysis, and product usage metrics. 
+The "learn" part of the phrase refers to the importance of acquiring knowledge and insights through experimentation, feedback, and data analysis. This learning can come from a variety of sources, such as user feedback, market research, customer behavior analysis, and product usage metrics.
 
 The "early" part of the phrase refers to the importance of starting the learning process as soon as possible, even before a product or service is fully developed or launched.
 

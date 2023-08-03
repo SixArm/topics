@@ -1,4 +1,4 @@
-# Vision, mission, values 
+# Vision, mission, values
 
 Vision, mission, and values are three key components of a company's overall strategic plan. They represent the company's purpose, direction, and guiding principles, respectively. Here is a more detailed explanation of each component:
 

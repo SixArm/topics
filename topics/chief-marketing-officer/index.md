@@ -1,6 +1,6 @@
 # Chief Marketing Officer (CMO)
 
-A Chief Marketing Officer (CMO) is a senior executive in a company responsible for the development, implementation, and management of marketing strategies and initiatives. 
+A Chief Marketing Officer (CMO) is a senior executive in a company responsible for the development, implementation, and management of marketing strategies and initiatives.
 
 Some specific responsibilities of a CMO include:
 

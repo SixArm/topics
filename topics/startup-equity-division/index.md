@@ -1,4 +1,4 @@
-# Startup equity division 
+# Startup equity division
 
 Startup equity division refers to the process of dividing equity among the founders, employees, and investors of a startup. It is a crucial aspect of the startup ecosystem as equity division affects the alignment of interests, motivation, and retention of key people.
 

@@ -8,9 +8,9 @@ The United States H-1B visa is a non-immigrant visa category that allows U.S. em
 
 * Visa Cap and Lottery System: The H-1B visa program has an annual cap on the number of visas available, which is set by the U.S. Congress. Due to high demand, a lottery system is used.
 
-* Duration of Stay: The initial period of stay on an H-1B visa is up to three years, and it can typically be extended for a maximum total period of six years. 
+* Duration of Stay: The initial period of stay on an H-1B visa is up to three years, and it can typically be extended for a maximum total period of six years.
 
-* Dependents: H-1B visa holders can bring their spouses and unmarried children under the age of 21 to the U.S. as dependents. 
+* Dependents: H-1B visa holders can bring their spouses and unmarried children under the age of 21 to the U.S. as dependents.
 
 * Dual Intent: One notable feature of the H-1B visa is the concept of "dual intent." Unlike some other non-immigrant visas, H-1B visa holders are allowed to have the intention to immigrate permanently to the United States.
 

@@ -1,4 +1,4 @@
-# Resource Description Framework (RDF) 
+# Resource Description Framework (RDF)
 
 Resource Description Framework (RDF) is a standard for representing and sharing information on the web. It is part of the Semantic Web framework and provides a structured format for describing resources, such as web pages, people, and products, in a way that can be understood by machines.
 

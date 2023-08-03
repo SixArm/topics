@@ -1,4 +1,4 @@
-# Screen reader 
+# Screen reader
 
 A screen reader is an assistive technology software designed to help individuals with visual impairments or blindness access and interact with digital content. It is a crucial tool for ensuring inclusive user experiences in UI/UX design.
 

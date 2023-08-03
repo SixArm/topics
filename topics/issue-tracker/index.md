@@ -1,4 +1,4 @@
-# Issue tracker 
+# Issue tracker
 
 An issue tracker is a software tool that allows organizations to manage and track bugs, issues, and tasks within a project or system. It helps teams to collaborate and communicate more effectively by providing a centralized location for tracking and resolving issues.
 

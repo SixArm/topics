@@ -1,4 +1,4 @@
-# Fixed costs 
+# Fixed costs
 
 Fixed costs are expenses that do not vary with changes in the level of output or production of a business. They are expenses that a business incurs regardless of how much it produces or sells, and are typically time-based, meaning they are incurred over a specific period of time, such as a month or a year.
 

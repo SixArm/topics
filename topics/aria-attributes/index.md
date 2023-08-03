@@ -14,4 +14,4 @@ Enhancing Interactive Elements: ARIA attributes are helpful for making interacti
 
 Integration with JavaScript: ARIA attributes are often used in conjunction with JavaScript. JavaScript can be used to update the ARIA attributes dynamically as the user interacts with the page, ensuring that the accessibility information remains up to date.
 
-Compatibility and Support: ARIA attributes are supported by most modern web browsers and widely recognized by assistive technologies. 
+Compatibility and Support: ARIA attributes are supported by most modern web browsers and widely recognized by assistive technologies.

@@ -1,4 +1,4 @@
-# Seed round 
+# Seed round
 
 A seed round is a type of financing that takes place in the early stages of a startup's development. It typically occurs after the startup has completed its initial product development and is seeking funding to support further growth and expansion.
 

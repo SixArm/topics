@@ -12,8 +12,8 @@ Layers: Neurons in a neural network are organized into layers, such as one input
 
 Activation Functions: Activation functions introduce non-linearity to the output of neurons. The functions enable modeling complex relationships in the data. Common activation functions include ReLU (Rectified Linear Unit), sigmoid, and tanh.
 
-Forward Propagation: During this phase, input data is fed into the network, and the data is processed via layers of interconnected neurons. 
+Forward Propagation: During this phase, input data is fed into the network, and the data is processed via layers of interconnected neurons.
 
 Training with Backpropagation: During this phase, the network's parameters (weights and biases) are adjusted to minimize a loss function, which represents the network's error.
 
-Deep Learning: Neural networks with multiple hidden layers are known as deep neural networks; the process of training such networks is known as deep learning. 
+Deep Learning: Neural networks with multiple hidden layers are known as deep neural networks; the process of training such networks is known as deep learning.

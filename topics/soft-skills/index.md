@@ -1,6 +1,6 @@
 # Soft skills
 
-Soft skills, also known as interpersonal skills or people skills, refer to the personal attributes and qualities that enable individuals to effectively interact with others and navigate various social and professional situations. 
+Soft skills, also known as interpersonal skills or people skills, refer to the personal attributes and qualities that enable individuals to effectively interact with others and navigate various social and professional situations.
 
 Some important soft skills…
 

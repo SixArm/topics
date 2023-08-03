@@ -1,6 +1,6 @@
 # How to give feedback
 
-Giving feedback effectively is an important skill that can contribute to personal and professional growth. 
+Giving feedback effectively is an important skill that can contribute to personal and professional growth.
 
 Guidelines to help you provide constructive feedback…
 
@@ -16,8 +16,8 @@ Balance Feedback: Whenever possible, start with positive feedback to recognize t
 
 Be Sincere and Respectful: Approach the feedback conversation with empathy and respect. Use a calm and non-confrontational tone. Show genuine care and interest in the recipient's growth and development.
 
-Encourage Dialogue and Active Listening: Give the recipient an opportunity to respond, ask questions, or seek clarification. Be open to their perspective and actively listen to their point of view. 
+Encourage Dialogue and Active Listening: Give the recipient an opportunity to respond, ask questions, or seek clarification. Be open to their perspective and actively listen to their point of view.
 
-Follow up and Offer Support: After providing feedback, follow up with the person to check their progress, offer additional support, or address any questions or concerns they may have. 
+Follow up and Offer Support: After providing feedback, follow up with the person to check their progress, offer additional support, or address any questions or concerns they may have.
 
 Lead by Example: Demonstrate openness to receiving feedback yourself. By showing that you value feedback and actively use it to improve, you create an environment that encourages others to do the same.

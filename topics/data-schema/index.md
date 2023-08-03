@@ -1,4 +1,4 @@
-# Data schema 
+# Data schema
 
 A data schema is the structure or blueprint of a database. It defines the organization, storage, and relationships among data elements, tables, views, and other database objects. The schema provides a framework for organizing data and ensuring data integrity and consistency.
 

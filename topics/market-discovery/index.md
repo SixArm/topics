@@ -1,4 +1,4 @@
-# Market discovery 
+# Market discovery
 
 Market discovery is the process by which startups identify and evaluate the size, viability, and potential of the market they are entering. The goal is to understand the market landscape and determine whether there is a viable market opportunity for the startup's product or service.
 

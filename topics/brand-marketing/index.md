@@ -12,6 +12,6 @@ Typical aspects:
 
 * Brand experience: This refers to the overall experience that customers have with a brand. A positive brand experience helps to create loyal customers and positive word-of-mouth.
 
-Brand marketing is typically implemented through various marketing channels and tactics, such as advertising, public relations, social media, content marketing, and experiential marketing. 
+Brand marketing is typically implemented through various marketing channels and tactics, such as advertising, public relations, social media, content marketing, and experiential marketing.
 
 Some benefits of effective brand marketing include increased brand awareness thus increased sales, differentiation thus competitive advantage, emotional connection thus increased loyalty, and increased customer lifetime value.

@@ -8,7 +8,7 @@ Another advantage of an S-Corp is that it allows the company's income and losses
 
 To qualify as an S-Corp, a business must meet certain eligibility requirements, including having no more than 100 shareholders and only one class of stock. Additionally, all shareholders must be be U.S. citizens or residents, or certain types of trusts or estates.
 
-One disadvantage of an S-Corp is that it requires more formalities and paperwork than some other business structures, such as a sole proprietorship or partnership. S-Corps must file annual tax returns with the IRS, hold regular meetings of shareholders and directors, and maintain records of these meetings and other corporate activities. 
+One disadvantage of an S-Corp is that it requires more formalities and paperwork than some other business structures, such as a sole proprietorship or partnership. S-Corps must file annual tax returns with the IRS, hold regular meetings of shareholders and directors, and maintain records of these meetings and other corporate activities.
 
 Another disadvantage is that S-Corps are subject to some restrictions on ownership and transfer of shares, which can make it more difficult to raise capital or sell the business.
 

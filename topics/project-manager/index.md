@@ -1,10 +1,10 @@
 # Project Manager (PM)
 
-A Project Manager (PM) is company role responsible for overseeing a project within defined constraints of scope, time, cost, and quality. 
+A Project Manager (PM) is company role responsible for overseeing a project within defined constraints of scope, time, cost, and quality.
 
 Key responsbilities can include:
 
-* Project Planning: Initiate projects by defining objectives, scope, schedule, budget, outputs, and outcomes. Work with stakeholders to create a project plan with tasks, risks, timelines, and dependencies. 
+* Project Planning: Initiate projects by defining objectives, scope, schedule, budget, outputs, and outcomes. Work with stakeholders to create a project plan with tasks, risks, timelines, and dependencies.
 
 * Team Leadership: Facilitate teamwork, assign roles and goals, promote team culture, motivate members, and manage conflicts.
 

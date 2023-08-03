@@ -8,4 +8,4 @@ The message-oriented programming approach has several benefits. First, it provid
 
 Message-oriented programming is commonly used in distributed systems, where components are spread across different servers or even different geographic regions. In these systems, message-oriented programming helps to ensure that data is transferred efficiently and reliably between components.
 
-Some popular message-oriented programming languages are Smalltalk and Self. 
+Some popular message-oriented programming languages are Smalltalk and Self.

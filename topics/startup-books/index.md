@@ -1,4 +1,4 @@
-# Startup books 
+# Startup books
 
 Startup books provide guidance and advice for entrepreneurs and startup founders. These books cover a wide range of topics, from ideation and fundraising to marketing and scaling a company. Here are some of the key themes and topics that startup books typically cover:
 

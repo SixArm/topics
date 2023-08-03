@@ -1,6 +1,6 @@
 # Project management methodologies
 
-Project management methodologies are structured approaches or frameworks that provide guidelines and best practices for managing projects. These methodologies offer a set of processes, tools, and techniques to initiate, plan, execute, control, and close projects. 
+Project management methodologies are structured approaches or frameworks that provide guidelines and best practices for managing projects. These methodologies offer a set of processes, tools, and techniques to initiate, plan, execute, control, and close projects.
 
 Some widely recognized project management methodologies…
 

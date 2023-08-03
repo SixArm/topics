@@ -1,4 +1,4 @@
-# Cultural dimensions 
+# Cultural dimensions
 
 Geert Hofstede, a renowned cultural psychologist, identified several cultural dimensions that provide insights into cultural values and preferences. Here is a summary of the six cultural dimensions proposed by Hofstede:
 

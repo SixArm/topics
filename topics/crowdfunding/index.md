@@ -1,4 +1,4 @@
-# Crowdfunding 
+# Crowdfunding
 
 Crowdfunding is a financing model where individuals and organizations can raise money for a project, product, or service through small contributions from a large number of people, typically via an online platform. It involves reaching out to a large number of people, often through social media and other online channels, to solicit small amounts of money in exchange for a product, service, or simply the satisfaction of supporting a cause.
 

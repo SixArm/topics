@@ -1,6 +1,6 @@
-# Usability 
+# Usability
 
-Usability refers to the ease of use and effectiveness of a product, system, or interface in achieving its intended purpose. Usability plays a crucial role in user experience (UX) design, as it directly impacts how users perceive and interact with a product. 
+Usability refers to the ease of use and effectiveness of a product, system, or interface in achieving its intended purpose. Usability plays a crucial role in user experience (UX) design, as it directly impacts how users perceive and interact with a product.
 
 Benefits can include enhanced user experience, increased productivity, reduced support costs, reduced errors, and competitive advantages.
 

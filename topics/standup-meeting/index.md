@@ -5,7 +5,7 @@ A standup meeting, also known as a daily scrum, is a short meeting held by a tea
 The standup meeting typically follows a specific format. Each team member takes turns answering three questions:
 
 * What did you work on yesterday?
-    
+
 * What are you planning to work on today?
 
 * What obstacles or challenges are preventing you from making progress?

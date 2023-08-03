@@ -14,6 +14,6 @@ The key features of a convertible note typcially include:
 
 * Repayment: If the startup is unable to raise funds or is unable to meet the repayment obligations, the convertible note may be converted into equity, or it may be repaid with interest.
 
-Convertible notes are popular among startups because they offer a way to raise capital without having to agree on a valuation, which can be difficult in the early stages of a startup. 
+Convertible notes are popular among startups because they offer a way to raise capital without having to agree on a valuation, which can be difficult in the early stages of a startup.
 
-However, convertible notes also have some drawbacks, due to legal fees and administrative costs. 
+However, convertible notes also have some drawbacks, due to legal fees and administrative costs.

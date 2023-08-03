@@ -1,4 +1,4 @@
-# AI tools 
+# AI tools
 
 AI tools refer to software applications, libraries, or frameworks that leverage artificial intelligence techniques to assist users in performing various tasks. These tools often use machine learning, natural language processing, computer vision, and other AI technologies to automate processes, make predictions, extract insights, and improve decision-making.
 

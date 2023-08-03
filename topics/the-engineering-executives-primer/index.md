@@ -1,4 +1,4 @@
-# The Engineering Executive’s Primer 
+# The Engineering Executive’s Primer
 
 The Engineering Executive’s Primer is a book by Brian Hough that provides a comprehensive guide to engineering management. The book covers a wide range of topics, including leadership, project management, team building, communication, and career development. Here are some of the key themes and insights from the book:
 

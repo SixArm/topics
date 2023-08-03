@@ -1,6 +1,6 @@
 # Financing
 
-Financing is the process of raising funds to start or grow a business. Startups require financing to support their initial operating costs and to scale their business as they grow. There are various types of financing available for startups, each with their own advantages and disadvantages. 
+Financing is the process of raising funds to start or grow a business. Startups require financing to support their initial operating costs and to scale their business as they grow. There are various types of financing available for startups, each with their own advantages and disadvantages.
 
 Some common types of financing options for startups…
 

@@ -10,6 +10,6 @@ Key characteristics…
 
 Consistency: The header and footer are consistent elements that appear across all pages of a website. This helps users navigate easily and find information regardless of their location within the website.
 
-Aesthetics: The header and footer contribute to the overall design and aesthetics of a website. They can be customized to match the website's visual style and create a cohesive user experience. 
+Aesthetics: The header and footer contribute to the overall design and aesthetics of a website. They can be customized to match the website's visual style and create a cohesive user experience.
 
 SEO and Conversion Opportunities: The header and footer offer opportunities to include relevant keywords, optimize internal linking, and improve search engine optimization (SEO). The header and footer can be used to include calls-to-action (CTAs) or links to encourage user engagement, conversions, or sign-ups.

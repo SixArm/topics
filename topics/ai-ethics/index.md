@@ -1,6 +1,6 @@
 # AI ethics
 
-AI ethics refers to the ethical considerations and principles that guide the development, deployment, and use of artificial intelligence systems. As AI technologies continue to advance and become more integrated into various aspects of society, it becomes crucial to address the potential ethical implications they may have. 
+AI ethics refers to the ethical considerations and principles that guide the development, deployment, and use of artificial intelligence systems. As AI technologies continue to advance and become more integrated into various aspects of society, it becomes crucial to address the potential ethical implications they may have.
 
 Key aspects…
 

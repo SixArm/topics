@@ -1,6 +1,6 @@
-# UI/UX 
+# UI/UX
 
-UI/UX stands for User Interface (UI) and User Experience (UX), which are two essential components of designing and developing digital products, such as websites, mobile applications, and software interfaces. 
+UI/UX stands for User Interface (UI) and User Experience (UX), which are two essential components of designing and developing digital products, such as websites, mobile applications, and software interfaces.
 
 While UI and UX are distinct, they are closely related and work together to create an optimal user experience.
 

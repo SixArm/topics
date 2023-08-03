@@ -1,6 +1,6 @@
 # AI + business sectors
 
-Artificial intelligence (AI) is increasingly applied across various business sectors to enhance performance, automate processes, and deliver innovative solutions. 
+Artificial intelligence (AI) is increasingly applied across various business sectors to enhance performance, automate processes, and deliver innovative solutions.
 
 Here's an overview of some sectors…
 
@@ -12,7 +12,7 @@ Retail: AI enhances customer experiences, optimizing inventory management, and e
 
 Manufacturing: AI enables predictive maintenance, quality control, and process optimization. Computer vision and robotics are also used for automated quality control and production line optimization.
 
-Transportation: AI drives innovation in autonomous vehicles, traffic management, predictive scheduling, and logistics optimization. 
+Transportation: AI drives innovation in autonomous vehicles, traffic management, predictive scheduling, and logistics optimization.
 
 Energy: AI optimizes energy generation, improves grid management, and enhances energy efficiency. AI analyzes energy consumption patterns to optimize energy generation and distribution.
 

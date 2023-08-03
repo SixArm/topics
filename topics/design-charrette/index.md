@@ -1,6 +1,6 @@
 # Design charrette
 
-A design charrette is a collaborative, intensive, and time-limited design process that brings together a group of designers, stakeholders, and subject matter experts to generate ideas, explore solutions, and develop a plan for a specific project or problem. 
+A design charrette is a collaborative, intensive, and time-limited design process that brings together a group of designers, stakeholders, and subject matter experts to generate ideas, explore solutions, and develop a plan for a specific project or problem.
 
 The goal is to produce a comprehensive, cohesive, and innovative design solution that meets the needs of all stakeholders. Key benefits include improving collaboration, innovation, efficiency, and engagement.
 

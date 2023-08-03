@@ -4,11 +4,16 @@ The Davies-Bouldin Index is a clustering evaluation metric used to assess the qu
 
 A lower value indicates better clustering, with clusters well-separated and more-distinct from each other, with each cluster having a relatively high similarity to its most similar cluster. A higher value indicates poorer clustering, with clusters poorly-separated and less-distinct from each other.
 
-Formula: DB = (1/n) * Σ(maximum similarity distance)
+Formula:
 
-* n is the number of clusters in the clustering result.
+* $DB = \frac{1}{n} * \sum_{i=1}^nD_i$
 
-* maximum similarity distance is the maximum similarity between the points in cluster i and cluster j, where i ≠ j.
+* $n$ is the number of clusters in the clustering result.
+
+* $D_i \equiv \max_{j \neq i} R_{i,j}$
+
+* $D_i$ is the maximum similarity distance. This is the maximum similarity between the points in cluster $i$ and cluster $j$, where $i ≠ j$. The maximum is the worst-case separation of the clusters and worst-case 'tightness' inside the clusters.
+
 
 The similarity between two clusters is calculated using a chosen distance metric, such as Euclidean distance or cosine similarity, depending on the nature of the data.
 

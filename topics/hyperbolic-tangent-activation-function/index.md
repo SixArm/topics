@@ -1,6 +1,6 @@
 # Hyperbolic tangent activation function
 
-The hyperbolic tangent activation function, often abbreviated as tanh, is a non-linear activation function widely used in artificial neural networks. It is similar to the sigmoid activation function but has a range between -1 and 1, making it a zero-centered function. 
+The hyperbolic tangent activation function, often abbreviated as tanh, is a non-linear activation function widely used in artificial neural networks. It is similar to the sigmoid activation function but has a range between -1 and 1, making it a zero-centered function.
 
 Formula:
 

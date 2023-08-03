@@ -1,4 +1,4 @@
-# Schema.org 
+# Schema.org
 
 Schema.org is a collaborative, community-driven effort to create a structured data markup schema that would help webmasters to provide more contextually relevant search results to users. It is a semantic markup language that aims to improve the way search engines display and understand content on web pages.
 

@@ -1,6 +1,6 @@
 # Accessibility testing
 
-Accessibility testing is the process of evaluating a website, application, or program to ensure it is usable by people with disabilities. The goal is to ensure that everyone, regardless of their ability, can use the application or website without any barriers. 
+Accessibility testing is the process of evaluating a website, application, or program to ensure it is usable by people with disabilities. The goal is to ensure that everyone, regardless of their ability, can use the application or website without any barriers.
 
 Accessibility testing helps to ensure that people with disabilities have equal access to digital services and content, and it can also help businesses avoid potential legal issues related to accessibility.
 

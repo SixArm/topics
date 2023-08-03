@@ -1,4 +1,4 @@
-# Ransomware 
+# Ransomware
 
 Ransomware is a type of malicious software (malware) designed to block access to a system or its data until a sum of money is paid. The victim's data is encrypted, making it inaccessible, and a ransom message is displayed demanding payment in exchange for a decryption key.
 

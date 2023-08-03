@@ -12,9 +12,9 @@ Provide Updates: Keep stakeholders informed about the progress of the project. P
 
 Manage Changes: Have a process in place to manage changes. Assess the impact of changes on the project timeline, budget, and resources, and communicate the consequences to stakeholders.
 
-Provide Rationale: Help stakeholders understand the reasoning behind decisions or limitations that may affect their expectations. Provide rationale and context for any constraints, trade-offs, or changes. 
+Provide Rationale: Help stakeholders understand the reasoning behind decisions or limitations that may affect their expectations. Provide rationale and context for any constraints, trade-offs, or changes.
 
-Involve Stakeholders: Involve stakeholders in relevant decision-making processes. Seek their input and include them in discussions to ensure their expectations are considered. 
+Involve Stakeholders: Involve stakeholders in relevant decision-making processes. Seek their input and include them in discussions to ensure their expectations are considered.
 
 Address Issues: If there are conflicts or issues related to expectations, address them promptly and directly. Engage in open respectful discussions to understand concerns and find agreeable solutions.
 

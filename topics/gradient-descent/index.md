@@ -16,4 +16,4 @@ Gradient Update: With the gradients calculated, the algorithm updates the model'
 
 Iteration: Repeat the above, each time adjusting the parameters in the direction that reduces the loss. The algorithm continues until a stopping condition is met, such as a maximum number of iterations or when the change in loss becomes negligible.
 
-Variants of gradient descent, such as stochastic gradient descent (SGD), mini-batch gradient descent, and adaptive learning rate methods (e.g., Adam), introduce additional optimizations and efficiencies to improve the convergence speed and stability of the algorithm during model training. 
+Variants of gradient descent, such as stochastic gradient descent (SGD), mini-batch gradient descent, and adaptive learning rate methods (e.g., Adam), introduce additional optimizations and efficiencies to improve the convergence speed and stability of the algorithm during model training.

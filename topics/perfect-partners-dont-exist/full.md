@@ -2,7 +2,7 @@
 
 The quotation "Perfect partners don't exist. Perfect conditions exist for a limited time in which partnerships express themselves best." is by Wayne Rooney, English professional football manager.
 
-The statement reflects an important reality in partnerships and collaborations. While perfect partners may not exist, it is possible for partnerships to thrive under ideal conditions for a limited duration. 
+The statement reflects an important reality in partnerships and collaborations. While perfect partners may not exist, it is possible for partnerships to thrive under ideal conditions for a limited duration.
 
 Here's a further elaboration on the concept:
 

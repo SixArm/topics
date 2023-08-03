@@ -1,6 +1,6 @@
 # How to influence people
 
-Influencing people involves understanding human behavior, building relationships, and effectively communicating your ideas. 
+Influencing people involves understanding human behavior, building relationships, and effectively communicating your ideas.
 
 Influencing is about building positive relationships, understanding needs, and finding mutually beneficial outcomes. Approach each interaction with authenticity, respect, and a focus on shared goals.
 
@@ -14,6 +14,6 @@ Find common ground: Identify shared goals and interests, and foster a sense of c
 
 Use persuasive techniques: Support your ideas with logic and evidence. Use stories, anecdotes, and testimonials, to illustrate your points, create emotional connections, and make your message memorable.
 
-Be open: Acknowledge and consider alternative perspectives. Foster collaboration and cooperation. Adapt or compromise when appropriate. Seek win-win outcomes that benefit all parties involved. 
+Be open: Acknowledge and consider alternative perspectives. Foster collaboration and cooperation. Adapt or compromise when appropriate. Seek win-win outcomes that benefit all parties involved.
 
 Lead by example: Behave consistently, with integrity, respect, and professionalism. Value others' input and actively seek opportunities to learn from their expertise.

@@ -1,6 +1,6 @@
 # Time-to-market (TTM)
 
-Time-to-market (TTM) is the amount of time it takes for a company to bring a new product or service to market, from the initial idea or concept to the launch of the product or service. 
+Time-to-market (TTM) is the amount of time it takes for a company to bring a new product or service to market, from the initial idea or concept to the launch of the product or service.
 
 TTM can be influenced by a variety of factors, including the complexity of the product or service, the regulatory environment, supply chain constraints, manufacturing and production processes, the speed and effectiveness of the development and testing process, and the company's commitment to continuous learning and improvement.
 

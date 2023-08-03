@@ -1,4 +1,4 @@
-# DevOps 
+# DevOps
 
 DevOps, short for developer-operations, is a software development approach that seeks to break down traditional silos between developers and operations personnel, and create a culture of collaboration and continuous improvement.
 

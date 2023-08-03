@@ -8,7 +8,7 @@ Task Chunking: Break down complex tasks or processes into smaller, more manageab
 
 Step-by-Step Progression: Provide a sequence of screens or pages, with each step representing a specific task or decision point. Users are guided through the process by moving forward from one step to the next.
 
-Clear Instructions and Guidance: Provide clear instructions and guidance to users at each step. This helps users understand what they need to do and what information they are required to provide. 
+Clear Instructions and Guidance: Provide clear instructions and guidance to users at each step. This helps users understand what they need to do and what information they are required to provide.
 
 Validation: Provide real-time feedback to users as they complete each step. This can include validation of user inputs, error messages, or confirmation of successful completion of a step.
 

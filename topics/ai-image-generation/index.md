@@ -1,6 +1,6 @@
 # AI image generation
 
-AI image generation refers to the process of using artificial intelligence techniques to create new and original images. It tyipcally involves training AI models on vast datasets of existing images, then creating visually coherent and realistic images that resemble the style and content of the training data. AI image generation has a wide range of applications, including computer graphics, art, design, and entertainment. 
+AI image generation refers to the process of using artificial intelligence techniques to create new and original images. It tyipcally involves training AI models on vast datasets of existing images, then creating visually coherent and realistic images that resemble the style and content of the training data. AI image generation has a wide range of applications, including computer graphics, art, design, and entertainment.
 
 Key aspects…
 

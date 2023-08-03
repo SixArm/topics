@@ -1,8 +1,8 @@
 # Material Transfer Agreement (MTA)
 
-A Material Transfer Agreement (MTA) is a legal contract that governs the transfer of tangible research materials between two organizations, such as academic or research institutions, government agencies, or commercial companies. 
+A Material Transfer Agreement (MTA) is a legal contract that governs the transfer of tangible research materials between two organizations, such as academic or research institutions, government agencies, or commercial companies.
 
-MTAs are used when a researcher or organization wants to obtain materials from another organization for research purposes, but the provider wishes to retain ownership and control over the materials. 
+MTAs are used when a researcher or organization wants to obtain materials from another organization for research purposes, but the provider wishes to retain ownership and control over the materials.
 
 Typical provisions:
 

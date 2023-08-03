@@ -6,7 +6,7 @@ Organic Growth: Leverage existing resources and capabilities for incremental gro
 
 Market Expansion: Enter new markets or segments with existing products or services. This can include targeting new demographics, geographic regions, or industry sectors.
 
-Product Diversification: Introduce new products or services to existing markets. This can be via internal development or acquisitions. 
+Product Diversification: Introduce new products or services to existing markets. This can be via internal development or acquisitions.
 
 Mergers and Acquisitions (M&A): Merge with or acquire other companies to achieve rapid growth and gain access to new markets, technologies, or capabilities, ideally with synergistic effects.
 
@@ -14,7 +14,7 @@ Partnerships and Alliances: Collaborate with organizations to leverage their cap
 
 Franchising: Grant rights to operate under a brand and business model to independent franchisees. This enables rapid expansion by leveraging franchisees while maintaining brand control.
 
-Licensing: Grant others the rights to use intellectual property, such as patents, trademarks, or copyrights, in exchange for royalties or fees. 
+Licensing: Grant others the rights to use intellectual property, such as patents, trademarks, or copyrights, in exchange for royalties or fees.
 
 Digital Transformation: Leverage technology to drive growth and innovation, such as via e-commerce, digitizing operations, implementing data analytics, or developing digital products or services.
 

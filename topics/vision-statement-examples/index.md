@@ -22,7 +22,7 @@ Samsung:  Inspire the world. Create the future.
 
 Sony: Our vision is to use our passion for technology, content and services to deliver kando, in ways that only Sony can.
 
-TED: We believe passionately in the power of ideas to change attitudes, lives and, ultimately, the world. 
+TED: We believe passionately in the power of ideas to change attitudes, lives and, ultimately, the world.
 
 Whole Foods: Whole Foods, Whole People, Whole Planet.
 

@@ -1,10 +1,10 @@
-# Computer processors 
+# Computer processors
 
-Computer processors are essential components that perform different types of computations and tasks in a computer system. 
+Computer processors are essential components that perform different types of computations and tasks in a computer system.
 
 Some common types of processors…
 
-Central Processing Unit (CPU): The CPU is a general-purpose processor responsible for executing instructions and handling most of the computations in a computer. It performs tasks such as running applications, managing the operating system, and handling input/output operations. 
+Central Processing Unit (CPU): The CPU is a general-purpose processor responsible for executing instructions and handling most of the computations in a computer. It performs tasks such as running applications, managing the operating system, and handling input/output operations.
 
 Graphics Processing Unit (GPU): The GPU is a specialized processor for graphical computations, rendering images, videos, and 3D graphics, making it well-suited for gaming, video editing, computer-aided design (CAD), and other graphics-intensive applications. In addition to graphics, GPUs can also be used for general-purpose parallel computations, a concept known as General-Purpose GPU (GPGPU) computing.
 

@@ -1,4 +1,4 @@
-# Commoditization of trust 
+# Commoditization of trust
 
 Commoditization of trust refers to the process where trust becomes a commodity in a market, and it can be bought, sold, and traded like any other product or service. This concept is often associated with the rise of digital platforms and the sharing economy, which have disrupted traditional industries and enabled new forms of peer-to-peer interactions.
 

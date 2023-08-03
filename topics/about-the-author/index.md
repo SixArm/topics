@@ -16,7 +16,7 @@ For work, I consult for companies that seek to leverage technology capabilities 
 For technology capabilities, I provide repositories for developers who work with architecture decision records, functional specifications, system quality attributes, git workflow recommendations, monorepo versus polyrepo guidance, and hands-on code demonstrations.
 
 For business capabilities, I provide repositories for managers who work with objectives and key results (OKRs), key performance indicators (KPIs), strategic balanced scorecards (SBS), value stream mappings (VSMs), statements of work (SOWs), and similar practices.
- 
+
 
 ## Personal
 

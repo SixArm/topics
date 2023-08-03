@@ -12,6 +12,6 @@ The SPADE decision framework is a tool that can be used to make complex decision
 
 * Execution: Execute the decision. This involves implementing the chosen solution and monitoring the results to ensure that the problem has been solved.
 
-The SPADE decision framework is a structured approach to decision-making that involves gathering information, analyzing it, and then making a decision based on that analysis. 
+The SPADE decision framework is a structured approach to decision-making that involves gathering information, analyzing it, and then making a decision based on that analysis.
 
 The SPADE decision framework is a useful tool for complex decision-making because it provides a structured approach to the problem-solving process. It can be used in a variety of contexts, from personal decision-making to business strategy development. By following the steps of the SPADE framework, decision-makers can ensure that they have considered all the relevant factors before making a decision.

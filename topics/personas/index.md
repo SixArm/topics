@@ -1,4 +1,4 @@
-# Personas 
+# Personas
 
 Personas are a tool used in product design and development to create a representation of the typical user of a product. A user persona is a fictional character that represents a group of users who share similar goals, needs, motivations, and behaviors. It is based on research and analysis of real users, including their demographics, behavior patterns, and preferences.
 

@@ -8,7 +8,7 @@ The CAP theorem states that in a distributed system, it is impossible to simulta
 
 * Partition tolerance: The system continues to function even when network partitions occur.
 
-The CAP theorem, also known as Brewer's theorem, describes trade-offs that must be made in distributed systems. 
+The CAP theorem, also known as Brewer's theorem, describes trade-offs that must be made in distributed systems.
 
 In a distributed system, data is often replicated across multiple nodes to ensure availability and fault tolerance. However, as data is replicated across multiple nodes, it becomes difficult to maintain consistency across all nodes in real-time, especially in the face of network partitions or failures.
 

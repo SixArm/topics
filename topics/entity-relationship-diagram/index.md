@@ -1,4 +1,4 @@
-# Entity-relationship diagram (ERD) 
+# Entity-relationship diagram (ERD)
 
 An entity-relationship diagram (ERD) is a type of data modeling diagram that represents entities, their attributes, and their relationships to each other.
 

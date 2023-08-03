@@ -1,4 +1,4 @@
-# Growth hacking 
+# Growth hacking
 
 Growth hacking refers to a set of marketing strategies and tactics aimed at achieving rapid and sustained growth for a company or product. It involves using data-driven experimentation, creativity, and unconventional methods to rapidly test and iterate on different marketing approaches.
 

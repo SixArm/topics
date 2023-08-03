@@ -1,4 +1,4 @@
-# Lifestyle business 
+# Lifestyle business
 
 A lifestyle business is a type of small business that is built around the lifestyle and interests of the owner. Unlike traditional businesses that are primarily focused on maximizing profits and growth, lifestyle businesses are designed to provide a comfortable and enjoyable way of life for the owner.
 

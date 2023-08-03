@@ -1,6 +1,6 @@
 # There are only two hard things in computer science
 
-The quotation "There are only two hard things in computer science: cache invalidation and naming things" 
+The quotation "There are only two hard things in computer science: cache invalidation and naming things"
 is a humorous and insightful highlight of two challenging aspects of software development. The quotation is often attributed to Phil Karlton, a computer scientist and software engineer who worked at Netscape and Netscape Communications Corporation.
 
 * Cache Invalidation: Caching is a technique used to store frequently accessed data in a cache to improve performance. However, one of the biggest challenges with caching is ensuring that the cached data remains consistent and up-to-date with the underlying data source. Cache invalidation refers to the process of removing or updating cached data when the original data changes. It can be complex, especially in distributed systems or scenarios where multiple caches are involved.

@@ -1,4 +1,4 @@
-# Demo day 
+# Demo day
 
 A demo day is an event typically held at the end of an accelerator program or incubation period, during which startups pitch their products, services, and business plans to a group of potential investors and other stakeholders. The purpose of a demo day is to provide startups with an opportunity to showcase their progress, gain visibility, and potentially secure funding.
 

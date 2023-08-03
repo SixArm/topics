@@ -6,7 +6,7 @@ MAE is particularly useful for evaluating how well a regression model's predicti
 
 MAE is a robust metric because it does not penalize outliers as much as Mean Squared Error (MSE), which squares the differences between predicted and actual values. As a result, MAE is less sensitive to extreme values in the data.
 
-Formula: 
+Formula:
 
 * $\operatorname{MAE}=\frac{1}{n} \sum_{i=1}^n |Y_i-\hat{Y_i}|$
 

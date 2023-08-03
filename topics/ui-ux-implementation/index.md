@@ -1,6 +1,6 @@
 # UI/UX implementation
 
-UI/UX implementation refers to the process of bringing the user interface (UI) and user experience (UX) designs to life. It involves translating the design concepts, wireframes, and prototypes into functional and visually appealing digital products, such as websites, mobile applications, or software interfaces. 
+UI/UX implementation refers to the process of bringing the user interface (UI) and user experience (UX) designs to life. It involves translating the design concepts, wireframes, and prototypes into functional and visually appealing digital products, such as websites, mobile applications, or software interfaces.
 
 Key steps…
 

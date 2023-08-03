@@ -1,6 +1,6 @@
-# EU Blue Card 
+# EU Blue Card
 
-The European Union Blue Card is a residence and work permit that allows highly skilled non-European Union citizens to live and work in participating EU member states. It is designed to attract and retain highly qualified professionals from around the world, contributing to the economic growth and competitiveness of the European Union. 
+The European Union Blue Card is a residence and work permit that allows highly skilled non-European Union citizens to live and work in participating EU member states. It is designed to attract and retain highly qualified professionals from around the world, contributing to the economic growth and competitiveness of the European Union.
 
 * Eligibility Criteria: Applicants must meet certain criteria, which typically include: a. Holding a valid job offer or employment contract from a company or organization in an EU member state; b. Possessing a higher education degree or equivalent qualifications; c. Meeting minimum salary requirements, which vary depending on the country and profession.
 

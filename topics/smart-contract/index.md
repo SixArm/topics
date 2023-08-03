@@ -1,6 +1,6 @@
 # Smart contract
 
-A smart contract is a self-executing digital contract that enables the automation and management of an agreement between parties, without the need for intermediaries like banks, legal professionals, or other third parties. 
+A smart contract is a self-executing digital contract that enables the automation and management of an agreement between parties, without the need for intermediaries like banks, legal professionals, or other third parties.
 
 Smart contracts operate on a predefined set of rules that are encoded in computer code and are automatically executed when certain predetermined conditions are met. These conditions are often referred to as "if-then" statements, which define the actions that will be triggered when certain events occur.
 

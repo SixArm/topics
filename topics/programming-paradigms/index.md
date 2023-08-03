@@ -1,6 +1,6 @@
 # Programming paradigms
 
-Programming paradigms refer to the approaches or methodologies used in software development. Each paradigm is a way of solving problems in programming. 
+Programming paradigms refer to the approaches or methodologies used in software development. Each paradigm is a way of solving problems in programming.
 
 Some kinds…
 
@@ -14,7 +14,7 @@ Functional Programming: Use functions to solve problems, to manipulate data, and
 
 Object-Oriented Programming: Use of objects, encapsulation, inheritance, and polymorphism, to represent data and its operations.
 
-Aspect-Oriented Programming: Modularize cross-cutting concerns, such as logging, security, and transaction management. 
+Aspect-Oriented Programming: Modularize cross-cutting concerns, such as logging, security, and transaction management.
 
 Message-Oriented Programming: coordinate by sending/receiving messages, with queues, inboxes, actors, and distributed resources.
 

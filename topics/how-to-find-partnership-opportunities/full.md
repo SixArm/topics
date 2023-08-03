@@ -1,6 +1,6 @@
 # How to find partnership opportunities
 
-Finding partnership opportunities involves a systematic approach to identifying potential partners that align with your organization's goals, values, and objectives. 
+Finding partnership opportunities involves a systematic approach to identifying potential partners that align with your organization's goals, values, and objectives.
 
 Here are some steps to help you find partnership opportunities:
 

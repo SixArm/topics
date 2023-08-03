@@ -6,7 +6,7 @@ Typical steps…
 
 Define a Search Space: Define a range or set of possible values for each hyperparameter that you want to tune. An optimization algorithm will search this space for the best hyperparameters.
 
-Choose an Optimization Strategy: There are strategies to explore the hyperparameter search space, including grid search, random search, Bayesian optimization, genetic algorithms, and more. 
+Choose an Optimization Strategy: There are strategies to explore the hyperparameter search space, including grid search, random search, Bayesian optimization, genetic algorithms, and more.
 
 Evaluation: For each combination of hyperparameters, the model is trained on a subset of the training data (usually called the validation set). A predefined evaluation metric (e.g., accuracy, F1-score, mean squared error) is used to measure how well the model performs.
 

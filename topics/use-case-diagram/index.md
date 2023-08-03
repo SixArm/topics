@@ -1,4 +1,4 @@
-# Use case diagram 
+# Use case diagram
 
 A use case diagram is a type of behavioral diagram that illustrates the interactions between actors (users or other systems) and a system. It models the functionality from the user's perspective.
 

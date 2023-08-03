@@ -1,6 +1,6 @@
 # Business development
 
-Business development refers to the activities, strategies, and initiatives undertaken by a company to improve its market position, expand its customer base, and generate growth opportunities. 
+Business development refers to the activities, strategies, and initiatives undertaken by a company to improve its market position, expand its customer base, and generate growth opportunities.
 
 Key aspects…
 

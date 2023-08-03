@@ -1,4 +1,4 @@
-# Validation data, 
+# Validation data
 
 Validation data, also known as the validation set, is a separate subset of data used to assess the performance of a machine learning model during the training process. It serves as an intermediate step between the training data and the test data, helping to evaluate how well the model generalizes to new, unseen data.
 

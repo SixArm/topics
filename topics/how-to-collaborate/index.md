@@ -4,7 +4,7 @@ Collaboration is essential for successful teamwork and achieving common goals. H
 
 Establish Expectations: Define clear goals, guidelines, and objectives for the collaboration. Ensure that everyone understands their roles, responsibilities, and the expected outcomes.
 
-Foster Open Communication: Maintain open and transparent communication throughout the collaboration process. Encourage all team members to share their ideas, opinions, and concerns. 
+Foster Open Communication: Maintain open and transparent communication throughout the collaboration process. Encourage all team members to share their ideas, opinions, and concerns.
 
 Build Trust: Create a supportive and inclusive environment where team members feel safe to express their thoughts and take risks. Encourage trust-building activities and promote respect.
 

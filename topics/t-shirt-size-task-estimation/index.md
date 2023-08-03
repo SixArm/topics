@@ -1,6 +1,6 @@
 # T-shirt size task estimation
 
-When it comes to estimating project tasks, the concept of "t-shirt sizes" is a simple and intuitive technique that can be used. T-shirt sizes are used to categorize tasks or user stories based on their relative size or complexity, similar to how different sizes of t-shirts represent different levels of effort. 
+When it comes to estimating project tasks, the concept of "t-shirt sizes" is a simple and intuitive technique that can be used. T-shirt sizes are used to categorize tasks or user stories based on their relative size or complexity, similar to how different sizes of t-shirts represent different levels of effort.
 
 The most common t-shirt sizes used for task estimation are:
 

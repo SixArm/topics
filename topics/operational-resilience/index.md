@@ -4,7 +4,7 @@ Operational resilience is the ability of an organization to continue operating e
 
 Operational resilience helps recover from disruptions, and adapt and evolve in response to changing circumstances. This may include creating contingency plans, establishing redundant systems and processes, investing in infrastructure, and cultivating a culture of resilience across the organization.
 
-Operational resilience is especially important in industries where even brief disruptions can have serious consequences, such as financial services, healthcare, and critical infrastructure. 
+Operational resilience is especially important in industries where even brief disruptions can have serious consequences, such as financial services, healthcare, and critical infrastructure.
 
 Operational resilience includes the following steps:
 

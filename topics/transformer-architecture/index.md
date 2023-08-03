@@ -6,7 +6,7 @@ Main concepts…
 
 Self-Attention Mechanism: Self-attention allows the model to weigh the importance of different words (or tokens) in a sequence i.e. how much focus should be given to each word. This enables the model to capture long-range dependencies in the input sequence.
 
-Positional Encoding: Transformers lack an inherent sequential order in their architecture (unlike recurrent neural networks), so add positional encodings to provide information about the relative positions of tokens in the input sequence. 
+Positional Encoding: Transformers lack an inherent sequential order in their architecture (unlike recurrent neural networks), so add positional encodings to provide information about the relative positions of tokens in the input sequence.
 
 Encoder and Decoder Stacks: Transformers consist of multiple layers of encoders and decoders. In the original Transformer model for machine translation, the encoder processes the input sequence, and the decoder generates the output sequence. Each layer in the encoder and decoder contains a self-attention sub-layer and a feed-forward neural network sub-layer.
 

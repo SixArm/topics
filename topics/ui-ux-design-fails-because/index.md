@@ -14,7 +14,7 @@ Ignoring Accessibility: Neglecting accessibility guidelines can result in design
 
 Slow Performance: Slow-loading websites or slow interactions can frustrate users and lead to high bounce rates.
 
-Lack of Clear Call-to-Action: Unclear or ambiguous calls-to-action (CTAs) can confuse users and hinder their ability to complete desired actions. 
+Lack of Clear Call-to-Action: Unclear or ambiguous calls-to-action (CTAs) can confuse users and hinder their ability to complete desired actions.
 
 Ineffective Information Architecture: A disorganized or confusing structure can lead to a frustrating user experience, making it challenging for users to navigate and locate content.
 

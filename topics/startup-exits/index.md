@@ -1,6 +1,6 @@
 # Startup exits
 
-Startup exits refer to the strategies and processes through which startup founders and investors realize a return on their investment by exiting or selling their ownership stakes in a startup company. 
+Startup exits refer to the strategies and processes through which startup founders and investors realize a return on their investment by exiting or selling their ownership stakes in a startup company.
 
 Typical exits include…
 
@@ -8,7 +8,7 @@ Initial Public Offering (IPO): An IPO occurs when a startup offers its shares to
 
 Acquisition/Acquihire/Merger: A larger company can purchas a startup, to gain access to its talent, customers, or intellectual property. This can provide a significant financial return, and enable the startup team to continue working.
 
-Strategic Partnership/Joint Venture: Startups may opt for strategic partnerships or joint ventures with established companies. This allows both parties to collaborate, share resources, and leverage each other's strengths. 
+Strategic Partnership/Joint Venture: Startups may opt for strategic partnerships or joint ventures with established companies. This allows both parties to collaborate, share resources, and leverage each other's strengths.
 
 Secondary Market Sales: Early-stage investors or employees can sell their ownership stakes in the startup to other investors. This can happen through private sales or specialized platforms designed for secondary market transactions.
 

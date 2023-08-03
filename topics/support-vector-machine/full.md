@@ -9,7 +9,7 @@ For classification tasks, SVM aims to find the hyperplane that separates the pos
 Hyperplane formula: w · x + b = 0
 
 * w is the weight vector perpendicular to the hyperplane.
-* 
+*
 * x is the input feature vector.
 
 * b is the bias term (intercept).

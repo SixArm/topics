@@ -1,6 +1,6 @@
 # AI customer service
 
-AI (Artificial Intelligence) is revolutionizing customer service by providing efficient and personalized experiences to customers. 
+AI (Artificial Intelligence) is revolutionizing customer service by providing efficient and personalized experiences to customers.
 
 Examples…
 

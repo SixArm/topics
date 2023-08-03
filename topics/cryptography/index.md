@@ -4,7 +4,7 @@ Cryptography is the practice of securing communication from third-party interven
 
 Cryptography uses a set of algorithms to convert plaintext (unencrypted data) into ciphertext (encrypted data) and vice versa. The process of encryption involves using a secret key to convert plaintext data into ciphertext data, which is unreadable and meaningless to anyone without the key. Similarly, decryption is the process of using the secret key to convert the ciphertext back into the original plaintext.
 
-There are two main types of cryptography: symmetric and asymmetric. 
+There are two main types of cryptography: symmetric and asymmetric.
 
 Symmetric cryptography uses the same key for encryption and decryption. The key is kept secret by the communicating parties, and anyone without the key cannot read the message. Examples ofalgorithms include Advanced Encryption Standard (AES), Data Encryption Standard (DES), and Blowfish.
 

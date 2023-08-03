@@ -2,7 +2,7 @@
 
 "Buy-in" refers to the process of getting people to agree with and support a particular idea, project, or decision. In a business or organizational context, buy-in is crucial for the success of a project or initiative, as it ensures that everyone is on board and working together towards the same goal.
 
-The term "buy-in" comes from the idea that people need to invest something, either financially or emotionally, in order to commit to a project. In the business world, this investment can take many forms, such as time, resources, or political capital. 
+The term "buy-in" comes from the idea that people need to invest something, either financially or emotionally, in order to commit to a project. In the business world, this investment can take many forms, such as time, resources, or political capital.
 
 By engaging stakeholders, communicating effectively, and addressing concerns and objections, leaders can build a sense of shared ownership and commitment to a project, which can help ensure its success.
 

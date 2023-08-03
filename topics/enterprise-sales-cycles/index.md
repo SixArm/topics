@@ -1,6 +1,6 @@
 # Enterprise sales cycles
 
-Enterprise sales cycles refer to the process and timeline involved in selling products or services to large organizations, with complex buying processes, many stakeholders, and long decision-making times. 
+Enterprise sales cycles refer to the process and timeline involved in selling products or services to large organizations, with complex buying processes, many stakeholders, and long decision-making times.
 
 Key stages:
 
@@ -16,6 +16,6 @@ Key stages:
 
 6. Implementation: Implement the solution within the customer's organization. Ensure successful adoption of the solution.
 
-7. Management: Build long-term relationships with customers. Ensure customer satisfaction, address post-implementation challenges, and provide ongoing support. 
+7. Management: Build long-term relationships with customers. Ensure customer satisfaction, address post-implementation challenges, and provide ongoing support.
 
 8. Expansion: Continue engaging with customers to understand their changing requirements and propose relevant solutions, such as cross-sells and upsells.

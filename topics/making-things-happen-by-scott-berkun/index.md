@@ -12,6 +12,6 @@ Execution and Teamwork: The book emphasizes the significance of effective projec
 
 Dealing with Uncertainty and Change: The book provides insights on how to embrace uncertainty, manage risks, and adapt to changes in project requirements or circumstances.
 
-Managing Stakeholders: The book discusses the importance of stakeholder management and offers techniques for identifying, understanding, engaging, and aligning project stakeholders. 
+Managing Stakeholders: The book discusses the importance of stakeholder management and offers techniques for identifying, understanding, engaging, and aligning project stakeholders.
 
 Project Reviews and Lessons Learned: The author provides guidance on conducting post-project reviews, documenting lessons learned, and using feedback to improve future projects.

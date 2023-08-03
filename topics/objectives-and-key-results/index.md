@@ -1,6 +1,6 @@
 # Objectives and Key Results
 
-Objectives and Key Results (OKRs) is a goal-setting framework that helps organizations align goals with outcomes. 
+Objectives and Key Results (OKRs) is a goal-setting framework that helps organizations align goals with outcomes.
 
 OKRs typically use these steps:
 

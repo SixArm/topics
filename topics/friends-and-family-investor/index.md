@@ -1,6 +1,6 @@
 # Friends and family investor
 
-A friends and family investor refers to individuals within an entrepreneur's personal network, who can provide financial support for a business venture. These individuals invest their personal funds into the venture, typically in the early stages when other sources of funding may be limited or unavailable. 
+A friends and family investor refers to individuals within an entrepreneur's personal network, who can provide financial support for a business venture. These individuals invest their personal funds into the venture, typically in the early stages when other sources of funding may be limited or unavailable.
 
 More in-depth explanation:
 

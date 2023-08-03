@@ -1,6 +1,6 @@
 # Financial ratios
 
-Financial ratios are quantitative measurements used to evaluate and analyze the financial performance, position, and efficiency of a company. These metrics provide insights into various aspects of a company's financial health and help stakeholders make informed decisions. 
+Financial ratios are quantitative measurements used to evaluate and analyze the financial performance, position, and efficiency of a company. These metrics provide insights into various aspects of a company's financial health and help stakeholders make informed decisions.
 
 Liquidity ratios assess a company's ability to meet its short-term obligations and measure its liquidity or cash flow position. Common liquidity ratios include the current ratio and quick ratio a.k.a. acid-test ratio.
 

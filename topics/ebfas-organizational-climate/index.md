@@ -10,7 +10,7 @@ Military strategist John Boyd developed EBFAS as guidance for how an organizatio
 
 * Fingerspitzengefühl (fingertip feeling). Means intuitive flair or instinct. It describes a great situational awareness, and the ability to respond appropriately and tactfully, such as a superior ability to respond to an escalated situation.
 
-* Auftragstaktik (task tactic). This is a form of military tactics where the emphasis is on the outcome of a mission rather than the specific means of achieving it. 
-  
+* Auftragstaktik (task tactic). This is a form of military tactics where the emphasis is on the outcome of a mission rather than the specific means of achieving it.
+
 * Schwerpunkt (main point). Means the center of gravity, focus of main effort, focus and direction. This is a heuristic to make decisions from tactics to strategy about priority. Everyone from leaders to supports should know the schwerpunkt i.e. know what is most important and why.
-  
+

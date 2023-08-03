@@ -1,4 +1,4 @@
-# Process Mapping 
+# Process Mapping
 
 Process Mapping is a technique used in business analysis to visually represent the flow of work or processes within an organization. It helps identify bottlenecks, inefficiencies, and redundancies in processes. It finds ways to improve them. It is often used in conjunction with other business analysis tools and techniques such as workflow diagrams, swimlane diagrams, and value stream maps. The goal is clear view of a process.
 

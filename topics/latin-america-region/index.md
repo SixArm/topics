@@ -4,7 +4,7 @@ The Latin America (LATAM) region encompasses the countries and territories in Ce
 
 Key features:
 
-* Economic Diversity: Some countries, such as Brazil and Mexico, have large diversified economies, while others have smaller economies based on specific sectors like agriculture, mining, or tourism. 
+* Economic Diversity: Some countries, such as Brazil and Mexico, have large diversified economies, while others have smaller economies based on specific sectors like agriculture, mining, or tourism.
 
 * Natural Resources: Many countries are rich in natural resources, including oil, gas, minerals, and agricultural products. The exploitation of these resources play a significant role in economies.
 

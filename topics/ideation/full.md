@@ -1,4 +1,4 @@
-# Ideation 
+# Ideation
 
 Ideation is a creative process or technique used to generate ideas, concepts, or solutions to a problem or challenge. It involves brainstorming and exploring various possibilities without judgment or evaluation. The goal of ideation is to foster a free-flowing environment that encourages diverse thinking and promotes the emergence of innovative and novel ideas.
 

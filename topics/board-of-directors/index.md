@@ -1,6 +1,6 @@
 # Board of directors (BOD)
 
-The board of directors (BOD) is a group of individuals who oversee the management and direction of a company or organization. They are responsible for ensuring that the company is being run in a way that maximizes value and minimizes risk. They are elected or appointed by the shareholders or members of the organization. 
+The board of directors (BOD) is a group of individuals who oversee the management and direction of a company or organization. They are responsible for ensuring that the company is being run in a way that maximizes value and minimizes risk. They are elected or appointed by the shareholders or members of the organization.
 
 The BOD has a number of key responsibilities, including:
 

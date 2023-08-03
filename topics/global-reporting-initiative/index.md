@@ -1,4 +1,4 @@
-# Global Reporting Initiative 
+# Global Reporting Initiative
 
 The Global Reporting Initiative (GRI) is an independent, non-profit organization that promotes sustainability reporting among organizations around the world. Founded in 1997, GRI has become a widely accepted and internationally recognized framework for sustainability reporting.
 

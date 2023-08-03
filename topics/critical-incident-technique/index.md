@@ -1,7 +1,7 @@
 # Critical Incident Technique (CIT)
 
 The Critical Incident Technique (CIT) is a qualitative research method used to gather detailed and specific information about significant events or incidents that have occurred in a particular context.
-The primary objective is to extract valuable insights and actionable knowledge from real-life events that can inform decision-making, problem-solving, training, or process improvement efforts. 
+The primary objective is to extract valuable insights and actionable knowledge from real-life events that can inform decision-making, problem-solving, training, or process improvement efforts.
 
 General process…
 

@@ -1,4 +1,4 @@
-# Continuous Deployment (CD) 
+# Continuous Deployment (CD)
 
 Continuous Deployment (CD) is a software development practice that builds upon Continuous Integration (CI) by automatically deploying code changes to production environments after they pass all tests and quality checks. The goal of CD is to reduce the time between writing code and getting it into the hands of users, while maintaining a high level of quality and reliability.
 

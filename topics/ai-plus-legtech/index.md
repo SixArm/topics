@@ -1,4 +1,4 @@
-# AI + legtech 
+# AI + legtech
 
 AI + legtech is the combination of artificial intelligence and legal technology.
 
@@ -8,7 +8,7 @@ Legal Research: AI can assist in legal research by analyzing legal texts, case l
 
 Contract Management: AI can review contracts, identify key clauses, extract relevant information, and assess contract risks. AI can automate contract creation, negotiation, and tracking.
 
-Predictive Analytics: AI algorithms can analyze historical case data, court decisions, and legal precedents to predict case outcomes, assess litigation risks, and guide legal strategy. 
+Predictive Analytics: AI algorithms can analyze historical case data, court decisions, and legal precedents to predict case outcomes, assess litigation risks, and guide legal strategy.
 
 Compliance: AI can monitor regulatory texts, detect changes, assess compliance risks, automate compliance processes, and recommend risk mitigation methods.
 

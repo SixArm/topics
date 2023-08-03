@@ -6,7 +6,7 @@ Customer discovery is a process that helps startups gain a deep understanding of
 
 2. Develop hypotheses about your customers' needs: Based on each target customer segment, develop hypotheses about their needs and pain points. These hypotheses will guide your customer discovery efforts.
 
-3. Engage with potential customers, to validate your hypotheses and refine them. This may involve conducting surveys, interviews, or focus groups to gather feedback. 
+3. Engage with potential customers, to validate your hypotheses and refine them. This may involve conducting surveys, interviews, or focus groups to gather feedback.
 
 4. Iterate and refine: Customer discovery is an iterative process, so use the feedback you gather to refine your product or service and test it with potential customers again. This may involve making changes to your product or service, your target customer segments, or your value proposition.
 

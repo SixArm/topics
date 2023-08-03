@@ -1,4 +1,4 @@
-# Getting Things Done (GTD) 
+# Getting Things Done (GTD)
 
 Getting Things Done (GTD) is a productivity methodology created by David Allen, aimed at helping individuals effectively manage their tasks, projects, and commitments. It provides a systematic approach to organizing and prioritizing tasks, reducing stress, and increasing productivity.
 

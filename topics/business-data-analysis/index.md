@@ -1,4 +1,4 @@
-# Business data analysis 
+# Business data analysis
 
 Busness data analysis is the process of collecting, processing, and interpreting data to create insights that inform business decisions. It involves the use of various statistical methods and tools to identify patterns, trends, and relationships in data. Data analysis is an essential component of business analysis and is used to understand business performance, customer behavior, market trends, and other key metrics that impact business operations.
 

@@ -8,7 +8,7 @@ Under the ADA, employers with 15 or more employees are required to provide reaso
 
 Public accommodations, such as restaurants, hotels, and stores, are required to provide equal access to individuals with disabilities. This may include providing accessible entrances, parking spaces, and restrooms, or providing auxiliary aids and services, such as braille menus or wheelchair ramps.
 
-Telecommunications companies are required to provide relay services for individuals with hearing or speech impairments. 
+Telecommunications companies are required to provide relay services for individuals with hearing or speech impairments.
 
 State and local governments are required to provide equal access to government services and programs.
 

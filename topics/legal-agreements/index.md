@@ -4,9 +4,9 @@ Legal agreements are legally-binding documents that establish rights and obligat
 
 Typical types:
 
-* Contracts: These establish the terms and conditions of a business transaction. They can cover a wide range of topics, from the sale of goods or services to employment agreements. 
+* Contracts: These establish the terms and conditions of a business transaction. They can cover a wide range of topics, from the sale of goods or services to employment agreements.
 
-* Non-disclosure agreements (NDAs): These prohibit parties from disclosing confidential information to others. NDAs are useful to protect trade secrets. 
+* Non-disclosure agreements (NDAs): These prohibit parties from disclosing confidential information to others. NDAs are useful to protect trade secrets.
 
 * Operating agreements: These establish the terms and conditions of collaboration, such as the rules and procedures for running a company, the management structure, the distribution of profits and losses, and the rights and obligations of the members.
 

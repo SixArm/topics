@@ -8,7 +8,7 @@ Understanding Project Management: The book introduces fundamental concepts, prin
 
 Core Project Management Processes: The book covers essential project management processes, including project initiation, planning, execution, monitoring, and closure. It provides guidance on each phase.
 
-Project Leadership and Communication: Effective project management involves strong leadership, communication skills, building relationships, and influencing stakeholders to gain support and alignment. 
+Project Leadership and Communication: Effective project management involves strong leadership, communication skills, building relationships, and influencing stakeholders to gain support and alignment.
 
 Managing Project Constraints: Projects often face constraints such as limited resources, tight timelines, and changing requirements. The authors discuss strategies for identifying and managing these constraints.
 

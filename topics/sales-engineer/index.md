@@ -1,6 +1,6 @@
 # Sales Engineer
 
-A Sales Engineer, also known as a Technical Sales Engineer or a Pre-Sales Engineer, supports the sales process of complex products and services. Sales Engineers bridge the gap between the needs of potential customers and the company's technical offerings. 
+A Sales Engineer, also known as a Technical Sales Engineer or a Pre-Sales Engineer, supports the sales process of complex products and services. Sales Engineers bridge the gap between the needs of potential customers and the company's technical offerings.
 
 Key responsibilties include:
 

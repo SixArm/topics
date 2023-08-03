@@ -1,6 +1,6 @@
 # How to sketch a user interface
 
-Sketching a user interface can be an effective way to quickly explore and visualize design ideas. 
+Sketching a user interface can be an effective way to quickly explore and visualize design ideas.
 
 Steps…
 

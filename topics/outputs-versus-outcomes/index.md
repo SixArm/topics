@@ -2,7 +2,7 @@
 
 Outputs and outcomes are two related but distinct concepts in project management.
 
-* Outputs refer to the tangible or intangible products, services, or deliverables that result from a project. They are the immediate or direct results of project activities, such as a new software application, a report, or a physical infrastructure. 
+* Outputs refer to the tangible or intangible products, services, or deliverables that result from a project. They are the immediate or direct results of project activities, such as a new software application, a report, or a physical infrastructure.
 
 * Outcomes refer to the changes, benefits, or impacts that result from the project outputs. They are the longer-term or indirect results of project activities, such as improved customer satisfaction, increased revenue, or enhanced social well-being.
 

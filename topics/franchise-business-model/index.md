@@ -1,4 +1,4 @@
-# Franchise business model 
+# Franchise business model
 
 The franchise business model is a type of business model in which a franchisor (the parent company) licenses its brand, business model, and operating system to a franchisee (an independent business owner). In exchange for the license, the franchisee pays an initial franchise fee and ongoing royalties to the franchisor.
 

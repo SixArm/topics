@@ -2,7 +2,7 @@
 
 Accuracy is a machine learning performance metric, particularly useful in classification tasks.
 
-Accuracy is a measure of how often the model's predictions are correct, given the total number of predictions. It represents the proportion of correctly classified samples (both true positives and true negatives) over the total number of samples in the dataset. 
+Accuracy is a measure of how often the model's predictions are correct, given the total number of predictions. It represents the proportion of correctly classified samples (both true positives and true negatives) over the total number of samples in the dataset.
 
 Formula: Accuracy = (Number of Correct Predictions) / (Total Number of Predictions)
 

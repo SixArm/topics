@@ -4,9 +4,9 @@ A keyboard shortcut, also known as a hotkey or key combination, is a combination
 
 Key points…
 
-Accelerate Workflow: Keyboard shortcuts can significantly speed up workflows by eliminating the need to navigate through menus or use the mouse for every action. 
+Accelerate Workflow: Keyboard shortcuts can significantly speed up workflows by eliminating the need to navigate through menus or use the mouse for every action.
 
-Increased Productivity: By reducing the reliance on mouse movements and clicks, keyboard shortcuts allow you to perform tasks more efficiently. 
+Increased Productivity: By reducing the reliance on mouse movements and clicks, keyboard shortcuts allow you to perform tasks more efficiently.
 
 Accessibility: Keyboard shortcuts offer an alternative method of interaction for individuals with mobility impairments or those who prefer keyboard-based navigation.
 

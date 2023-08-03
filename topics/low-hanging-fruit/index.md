@@ -1,6 +1,6 @@
 # Low-hanging fruit
 
-"Low-hanging fruit" is a metaphorical term used to describe tasks, actions or opportunities that are easily achievable, require minimal effort or resources, and provide immediate and significant benefits. 
+"Low-hanging fruit" is a metaphorical term used to describe tasks, actions or opportunities that are easily achievable, require minimal effort or resources, and provide immediate and significant benefits.
 
 The term "low-hanging fruit" comes from the practice of fruit-picking, where the fruit that is easily accessible and can be harvested quickly is picked first, while the higher or harder-to-reach fruit is left for later. In the context of business, low-hanging fruit can refer to a variety of different opportunities, such as:
 

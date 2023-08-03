@@ -1,8 +1,8 @@
 # All-hands meeting
 
-An all-hands meeting, also known as a town hall meeting or company-wide meeting, is a gathering that brings together all employees of an organization, from various levels and departments, to communicate important information, provide updates, foster transparency, and promote alignment across the company. 
+An all-hands meeting, also known as a town hall meeting or company-wide meeting, is a gathering that brings together all employees of an organization, from various levels and departments, to communicate important information, provide updates, foster transparency, and promote alignment across the company.
 
-By gathering all employees together, all-hands meetings promote a sense of unity, trust, and alignment across the organization. They help employees understand how their individual roles contribute to the overall success of the company. 
+By gathering all employees together, all-hands meetings promote a sense of unity, trust, and alignment across the organization. They help employees understand how their individual roles contribute to the overall success of the company.
 
 All-hands meetings can shape company culture. They provide an opportunity to celebrate successes, recognize employee achievements, reinforce core values, showcase employee accomplishments, promote teamwork, and emphasize the organization's vision, mission, and values.
 

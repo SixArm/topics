@@ -4,7 +4,7 @@ Microcopy refers to the small, concise blocks of text or copy that are used thro
 
 Key aspects…
 
-Clarity: Microcopy should be clear, concise, and easy to understand. It should communicate information in a straightforward manner without ambiguity or jargon. 
+Clarity: Microcopy should be clear, concise, and easy to understand. It should communicate information in a straightforward manner without ambiguity or jargon.
 
 Contextual Relevance: Microcopy should align with the user's current situation and provide guidance or information that is directly applicable to their needs at that moment.
 

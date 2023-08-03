@@ -1,10 +1,10 @@
 # Mean Squared Error (MSE)
 
-Mean Squared Error (MSE) is a commonly used performance metric for regression problems in machine learning. It measures the average squared difference between the predicted values and the actual (ground truth) values. 
+Mean Squared Error (MSE) is a commonly used performance metric for regression problems in machine learning. It measures the average squared difference between the predicted values and the actual (ground truth) values.
 
 MSE is particularly useful for evaluating how well a regression model's predictions match the true values and how much error is present in the predictions. Lower MSE indicates predictions are closer to the true values. Higher MSE indicates predictions are farther from the true values.
 
-Formula: 
+Formula:
 
 * $\operatorname{MSE}=\frac{1}{n} \sum_{i=1}^n \left(Y_i-\hat{Y_i}\right)^2$
 

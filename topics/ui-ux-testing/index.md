@@ -1,6 +1,6 @@
 # UI/UX testing
 
-UI/UX testing is a process of evaluating and assessing the usability, effectiveness, and user satisfaction of a user interface (UI) or user experience (UX) design. The primary goal is to identify any usability issues, such as pain points or areas for improvement in the design. 
+UI/UX testing is a process of evaluating and assessing the usability, effectiveness, and user satisfaction of a user interface (UI) or user experience (UX) design. The primary goal is to identify any usability issues, such as pain points or areas for improvement in the design.
 
 Typical approaches…
 

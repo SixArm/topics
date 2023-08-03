@@ -8,7 +8,7 @@ Touchpoints: Identify and optimize all touchpoints where customers interact with
 
 Personalization: Tailor the customer experience to individual preferences and needs. Collect and analyze customer data, to provide personalized recommendations, targeted marketing, and customized experiences.
 
-Ease of Use: Simplify complex tasks to enhance the overall experience. Customers appreciate intuitive interfaces, straightforward processes, and minimal friction when interacting with a brand. 
+Ease of Use: Simplify complex tasks to enhance the overall experience. Customers appreciate intuitive interfaces, straightforward processes, and minimal friction when interacting with a brand.
 
 Consistency: Build trust and reliability by creating consistency across all touchpoints and interactions. Customers expect a unified experience, regardless of the channel or device they use to engage.
 

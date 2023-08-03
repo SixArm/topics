@@ -1,6 +1,6 @@
 # Project versus program
 
-Projects and programs (a.k.a. programmes) are terms that both relate to initiatives within an organization. They differ in terms of scope, complexity, and objectives. 
+Projects and programs (a.k.a. programmes) are terms that both relate to initiatives within an organization. They differ in terms of scope, complexity, and objectives.
 
 A project is a temporary endeavor with a defined set of objectives, deliverables, and a specific timeline. It is typically a discrete effort undertaken to create a unique product, service, or result. Projects have clear start and end dates, well-defined tasks and activities, and a dedicated project team. They are aimed at achieving specific goals within a defined scope, budget, and timeline.
 

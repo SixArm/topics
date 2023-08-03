@@ -1,4 +1,4 @@
-# Level-Oriented Design (LOD) 
+# Level-Oriented Design (LOD)
 
 Level-Oriented Design (LOD) is a software design approach that emphasizes the importance of organizing the architecture of software systems around levels of abstraction. The LOD approach is based on the principle that a well-designed software system should have multiple levels of abstraction, each of which corresponds to a specific set of design goals, concerns, and requirements.
 

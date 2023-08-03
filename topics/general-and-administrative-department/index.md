@@ -1,6 +1,6 @@
 # General and Administrative (G&A) department
 
-The General and Administrative (G&A) department is responsible for the administrative functions of a company, to ensure operations are running smoothly. 
+The General and Administrative (G&A) department is responsible for the administrative functions of a company, to ensure operations are running smoothly.
 
 Typical functions include:
 

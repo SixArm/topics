@@ -1,4 +1,4 @@
-# Technology sectors 
+# Technology sectors
 
 Technology sectors refer to specific areas of innovation and development in which technology is used to solve problems and create new opportunities.
 
@@ -10,7 +10,7 @@ Technology sectors refer to specific areas of innovation and development in whic
 
 * Edtech (educational technology) focuses on helping students, teachers, and schools. This includes online learning platforms, educational apps, virtual/augmented reality experiences, improvements in accesbility and inclusivity, and innovative ways for students to learn and engage with courses.
 
-* Govtech (governmental technology) focuses on improving government operations and public services. This includes digital civics, e-voting platforms, open data initiatives, smart city technologies, and ways to to make government more efficient, transparent, and responsive. 
+* Govtech (governmental technology) focuses on improving government operations and public services. This includes digital civics, e-voting platforms, open data initiatives, smart city technologies, and ways to to make government more efficient, transparent, and responsive.
 
 * Legtech (legal technology) focuses on the practice of law and legal services. This includes legal research, document automation tools, e-discovery platforms, online dispute resolution systems, and ways to make legal services more efficient, accurate, and cost-effective.
 

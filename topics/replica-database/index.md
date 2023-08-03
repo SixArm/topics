@@ -1,4 +1,4 @@
-# Replica database 
+# Replica database
 
 A replica database is a copy of a primary or master database that is kept in sync with the original database through continuous replication. The purpose of a replica database is to improve data availability, accessibility, and reliability, especially in distributed systems where the primary database may be located in a different geographical region or may be subject to downtime or failure.
 

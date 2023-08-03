@@ -1,4 +1,4 @@
-# Branding 
+# Branding
 
 Branding is the process of creating and managing a brand, which is a unique identity or image associated with a product, service, or company. It involves the use of various marketing strategies and tactics to establish a positive perception of the brand in the minds of consumers.
 

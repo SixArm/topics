@@ -18,7 +18,7 @@ Some benefits of thought leadership include:
 
 * Competitive advantage: Thought leadership can help to differentiate an individual or organization from competitors..
 
-* Increased influence and impact: Thought leadership can help to shape the work of peers and the direction of the industry. 
+* Increased influence and impact: Thought leadership can help to shape the work of peers and the direction of the industry.
 
 * Business growth: Thought leadership can help to generate new business opportunities and partnerships.
 

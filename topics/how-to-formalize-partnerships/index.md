@@ -1,6 +1,6 @@
 # How to formalize partnerships
 
-Formalizing partnerships involves establishing clear agreements and frameworks to govern the collaboration between two or more organizations. 
+Formalizing partnerships involves establishing clear agreements and frameworks to govern the collaboration between two or more organizations.
 
 Steps to consider…
 

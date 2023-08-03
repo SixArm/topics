@@ -1,4 +1,4 @@
-# Don't Make Me Think by Steve Krug 
+# Don't Make Me Think by Steve Krug
 
 "Don't Make Me Think" is a book written by Steve Krug that focuses on web usability and user experience design. It offers practical advice and insights for creating intuitive and user-friendly websites, so users don't need to think too much or make unnecessary decisions.
 

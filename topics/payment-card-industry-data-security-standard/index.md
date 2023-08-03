@@ -1,6 +1,6 @@
 # Payment Card Industry Data Security Standard (PCI DSS)
 
-The Payment Card Industry Data Security Standard (PCI DSS) is a set of security standards established by major credit card companies, to ensure that merchants and service providers who handle cardholder data are protecting it in a secure manner. PCI DSS applies to any organization that accepts, processes, stores, or transmits credit card data. 
+The Payment Card Industry Data Security Standard (PCI DSS) is a set of security standards established by major credit card companies, to ensure that merchants and service providers who handle cardholder data are protecting it in a secure manner. PCI DSS applies to any organization that accepts, processes, stores, or transmits credit card data.
 
 The standard includes 12 requirements:
 

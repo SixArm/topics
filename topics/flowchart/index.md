@@ -2,7 +2,7 @@
 
 A flowchart is a graphical representation of a process, system, or workflow. It uses various symbols and arrows to depict the sequence of steps or actions involved in a process, illustrating how information or materials flow from one step to another.
 
-Flowcharts are widely used in various fields, including business, engineering, programming, and project management, to visually represent complex processes and facilitate understanding. 
+Flowcharts are widely used in various fields, including business, engineering, programming, and project management, to visually represent complex processes and facilitate understanding.
 
 Key components and symbols…
 

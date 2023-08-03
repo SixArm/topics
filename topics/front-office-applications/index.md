@@ -1,6 +1,6 @@
 # Front-office applications
 
-Front-office applications and back-office applications are two categories of software systems used in organization. 
+Front-office applications and back-office applications are two categories of software systems used in organization.
 
 Front-office applications focus on customer interactions and revenue generation, while back-office applications handle internal operations and administrative tasks.
 

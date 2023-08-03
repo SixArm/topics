@@ -1,4 +1,4 @@
-# Conway's law 
+# Conway's law
 
 Conway's law is a principle in software engineering that states that the structure of a software system reflects the communication structure of the organization that produced it. It was first proposed by Melvin Conway in 1968, who stated that "organizations which design systems ... are constrained to produce designs which are copies of the communication structures of these organizations."
 

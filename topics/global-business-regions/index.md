@@ -1,6 +1,6 @@
 # Global business regions
 
-Global business regions, also known as market regions, are commonly categorized based on geographical areas to group countries with similar economic characteristics, business practices, and market dynamics. 
+Global business regions, also known as market regions, are commonly categorized based on geographical areas to group countries with similar economic characteristics, business practices, and market dynamics.
 
 Three key global business regions:
 

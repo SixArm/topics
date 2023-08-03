@@ -4,7 +4,7 @@ Copywriting is the art and skill of writing persuasive and engaging content with
 
 Key elements…
 
-Understand the audience: Know the target audience's needs, desires, challenges, and motivations. 
+Understand the audience: Know the target audience's needs, desires, challenges, and motivations.
 
 Write compelling hooks: Make the headline and opening sentence intriguing and relevant, to gain the reader's attention.
 

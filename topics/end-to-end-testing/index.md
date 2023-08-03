@@ -1,4 +1,4 @@
-# End-to-end testing 
+# End-to-end testing
 
 End-to-end testing is a type of software testing that is designed to verify that an application or system is functioning as expected from beginning to end. This testing method is used to test the functionality of an application or system as it would be used by a real user. It involves testing the application's user interface, all the different components and modules of the system, and the integration between these components.
 

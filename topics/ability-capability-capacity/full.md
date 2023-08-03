@@ -1,6 +1,6 @@
 # Ability, Capability, Capacity (ACC)
 
-Ability, Capability, Capacity (ACC) refers to different aspects of an individual or an organization's potential or competence. 
+Ability, Capability, Capacity (ACC) refers to different aspects of an individual or an organization's potential or competence.
 
 * Ability: Ability refers to the inherent or acquired skill or talent to perform a specific task or activity. It is the proficiency or aptitude to do something. Abilities are individual attributes and can be natural or developed through learning and practice. For example, someone may have the ability to communicate effectively, problem-solve, or perform a specific technical task.
 

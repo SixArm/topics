@@ -1,6 +1,6 @@
 # Scope
 
-In project management, scope refers to the specific deliverables, objectives, tasks, and boundaries of a project. It defines the work that needs to be done to accomplish the project's goals and objectives. The scope outlines the project's boundaries by specifying what is included and what is not included. 
+In project management, scope refers to the specific deliverables, objectives, tasks, and boundaries of a project. It defines the work that needs to be done to accomplish the project's goals and objectives. The scope outlines the project's boundaries by specifying what is included and what is not included.
 
 Project managers use various techniques like scope statements, work breakdown structures (WBS), and change control processes to define, manage, and control project scope throughout its lifecycle.
 

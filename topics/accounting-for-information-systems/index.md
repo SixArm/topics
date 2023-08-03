@@ -4,7 +4,7 @@ In the context of AAAA (Authentication, Authorization, Accounting, and Auditing)
 
 Key areas…
 
-Auditing and Forensics: Provide an audit trail that can be used for forensic analysis and investigations. It helps trace the sequence of events and identify any suspicious or unauthorized activities within the system. 
+Auditing and Forensics: Provide an audit trail that can be used for forensic analysis and investigations. It helps trace the sequence of events and identify any suspicious or unauthorized activities within the system.
 
 Compliance and Governance: Provide evidence of adherence to security policies and practices. It helps organizations demonstrate their compliance efforts and respond to regulatory inquiries or audits effectively.
 

@@ -1,6 +1,6 @@
 # Globalization
 
-Globalization refers to the increasing interconnectedness and interdependence of countries and people across the globe. It is driven by advances in technology, communication, transportation, and the liberalization of trade and investment. 
+Globalization refers to the increasing interconnectedness and interdependence of countries and people across the globe. It is driven by advances in technology, communication, transportation, and the liberalization of trade and investment.
 Economic globalization is characterized by the free flow of goods, services, capital, and labor across borders. This integration is facilitated by the removal of trade barriers, such as tariffs and quotas, and the establishment of international organizations, such as the World Trade Organization (WTO), which promotes and regulates global trade.
 
 Globalization has resulted in the expansion of multinational corporations (MNCs) and the establishment of global supply chains. MNCs operate in multiple countries, capitalizing on lower production costs, accessing new markets, and leveraging global resources. Global supply chains involve the sourcing of raw materials, production, and distribution of goods across different countries, creating a global network of economic interdependence.

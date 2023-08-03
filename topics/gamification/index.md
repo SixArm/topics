@@ -1,4 +1,4 @@
-# Gamification 
+# Gamification
 
 Gamification is the process of incorporating game-like elements and mechanics into non-game environments to make them more engaging and enjoyable. It is used in a wide variety of contexts, from education and training to marketing and advertising, to encourage participation and increase motivation and engagement.
 

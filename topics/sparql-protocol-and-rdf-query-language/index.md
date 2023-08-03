@@ -1,6 +1,6 @@
 # SPARQL Protocol and RDF Query Language (SPARQL)
 
-SPARQL Protocol and RDF Query Language (SPARQL) is a query language used to retrieve and manipulate data stored in RDF (Resource Description Framework) format. RDF is a standard format used for representing and exchanging data on the Web. 
+SPARQL Protocol and RDF Query Language (SPARQL) is a query language used to retrieve and manipulate data stored in RDF (Resource Description Framework) format. RDF is a standard format used for representing and exchanging data on the Web.
 
 SPARQL is pronounced "Sparkle".
 

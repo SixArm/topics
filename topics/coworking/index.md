@@ -1,4 +1,4 @@
-# Coworking 
+# Coworking
 
 Coworking provides shared office workspace for individuals or groups from different companies or industries. It is a flexible and affordable alternative to traditional office spaces that can be beneficial to startups and small businesses.
 

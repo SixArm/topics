@@ -1,6 +1,6 @@
 # Technology Transfer Office (TTO)
 
-A Technology Transfer Office (TTO) is a department within a university, government agency, or research institute that is responsible for managing the intellectual property (IP) resulting from research and development (R&D) activities. The TTO's primary goal is to ensure that the discoveries and inventions arising from the research activities of the institution are used for the benefit of society. 
+A Technology Transfer Office (TTO) is a department within a university, government agency, or research institute that is responsible for managing the intellectual property (IP) resulting from research and development (R&D) activities. The TTO's primary goal is to ensure that the discoveries and inventions arising from the research activities of the institution are used for the benefit of society.
 
 TTOs are typically involved in:
 
@@ -10,6 +10,6 @@ TTOs are typically involved in:
 
 * Startups: Work with inventors to form start-up companies to commercialize their inventions. This involves providing support and advice on business development, funding, and intellectual property management.
 
-* Marketing: Promote the institution's technologies to potential industry partners, investors, and other stakeholders. 
+* Marketing: Promote the institution's technologies to potential industry partners, investors, and other stakeholders.
 
 * Outreach: Provide education and training to researchers on intellectual property management, entrepreneurship, and technology transfer.

@@ -1,4 +1,4 @@
-# Sales 
+# Sales
 
 Sales is a company function or department responsible for selling products or services to customers. The primary objective of the sales department is to generate sales and contribute to the company's growth and profitability. The sales team acquires new customers, nurtures relationships with existing customers, and maximizes revenue.
 
@@ -8,9 +8,9 @@ Customer Acquisition: Prospect for potential customers. Research target markets,
 
 Relationship Building: Strive to understand a customer's needs, preferences, and challenges. Provide customer guidance, address concerns, ensure satisfaction, and drive repeat business.
 
-Sales Pipeline Management: Organize the sales process from initial lead generation to deal closure. Use customer relationship management (CRM) to manage leads, track interactions, and forecast sales. 
+Sales Pipeline Management: Organize the sales process from initial lead generation to deal closure. Use customer relationship management (CRM) to manage leads, track interactions, and forecast sales.
 
-Sales Strategies: Develop sales strategies and targets to align with the company's business objectives. Analyze market trends, competitive landscapes, and customer insights to devise sales approaches. 
+Sales Strategies: Develop sales strategies and targets to align with the company's business objectives. Analyze market trends, competitive landscapes, and customer insights to devise sales approaches.
 
 Collaboration: Work with internal teams for marketing, product development, and customer support. Provide insights about sales trends, customer preferences, and competition. Work with customer support teams to address customer inquiries, resolve issues, and provide post-sales support.
 

@@ -1,4 +1,4 @@
-# Chain of command 
+# Chain of command
 
 A chain of command is an organization's hierarchicy of authority, communication, and accountability. It establishes clear lines of communication for decision-making, and helps an organization function effectively.
 

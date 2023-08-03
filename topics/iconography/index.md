@@ -8,7 +8,7 @@ Visual Communication: Icons are designed to be easily recognizable, using simple
 
 Consistency and Standards: Iconography often follows established conventions and standards to ensure consistency and familiarity. Commonly used icons, such as those for navigation (e.g., hamburger menu) or social media (e.g., Facebook or Twitter logos), have become widely recognized and understood.
 
-User Experience: Well-designed icons enhance the user experience by providing visual cues and aiding in navigation, information retrieval, and interaction within user interfaces. 
+User Experience: Well-designed icons enhance the user experience by providing visual cues and aiding in navigation, information retrieval, and interaction within user interfaces.
 
 Space Optimization: Icons can save screen space and reduce clutter by conveying information concisely. They are particularly useful in mobile interfaces and small-sized displays where space is limited.
 

@@ -1,6 +1,6 @@
-# Forward propagation 
+# Forward propagation
 
-Forward propagation is the process in which input data is fed into a neural network, and the data is processed through the network's layers to produce an output or prediction. 
+Forward propagation is the process in which input data is fed into a neural network, and the data is processed through the network's layers to produce an output or prediction.
 
 Steps…
 
@@ -10,7 +10,7 @@ Weights and Biases: Each connection between neurons in different layers has asso
 
 Weighted Sum: For each neuron in the hidden and output layers, multiply the input data by the corresponding weights, and compute the weighted sum of the inputs. The weights determine the importance of each input attribute.
 
-Activation Function: Pass the weighted sum through an activation function, which introduces non-linearity to the output. Common activation functions include ReLU (Rectified Linear Unit), sigmoid, and tanh. Use the activation function output as the input for the next layer. 
+Activation Function: Pass the weighted sum through an activation function, which introduces non-linearity to the output. Common activation functions include ReLU (Rectified Linear Unit), sigmoid, and tanh. Use the activation function output as the input for the next layer.
 
 Iterate: Repeat the steps through each layer of the neural network, including the hidden layers, until the output layer is reached. The output layer produces the final prediction.
 

@@ -1,4 +1,4 @@
-# Technology transfer 
+# Technology transfer
 
 Technology transfer for startups refers to the process of transferring technology, knowledge, or intellectual property from research institutions, universities, or established companies to startup ventures for commercialization.
 

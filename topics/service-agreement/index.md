@@ -1,6 +1,6 @@
 # Service agreement
 
-A service agreement is a legal contract between two parties that defines the scope of work and the terms and conditions of a service that is to be provided. 
+A service agreement is a legal contract between two parties that defines the scope of work and the terms and conditions of a service that is to be provided.
 
 The purpose of a service agreement is to ensure that both parties are clear on what is expected of them and to minimize the risk of any misunderstandings or disputes. It is typically used in situations where a company or individual is hiring a service provider to perform a specific task, such as website design, software development, or consulting services.
 

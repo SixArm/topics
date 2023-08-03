@@ -1,12 +1,12 @@
-# Front-office applications and back-office applications 
+# Front-office applications and back-office applications
 
 Front-office applications and back-office applications are two categories of software systems used in organizations, each serving different functions and supporting different aspects of business operations.
 
-Front-Office Application: 
+Front-Office Application:
 
-* A front-office application is software that is primarily focused on customer-facing activities and interactions. 
+* A front-office application is software that is primarily focused on customer-facing activities and interactions.
 
-* It is designed to support the front-end or public-facing functions of an organization, such as sales, marketing, customer service, and support. 
+* It is designed to support the front-end or public-facing functions of an organization, such as sales, marketing, customer service, and support.
 
 * The main goal of front-office applications is to facilitate customer engagement, improve customer experience, and drive revenue generation.
 
@@ -32,9 +32,9 @@ Examples of Front-Office Applications:
 
 * E-commerce platforms: These applications enable online sales and support customer shopping experiences.
 
-Back-Office Application: 
+Back-Office Application:
 
-* A back-office application is software that supports internal operations and administrative functions within an organization. 
+* A back-office application is software that supports internal operations and administrative functions within an organization.
 
 * It focuses on tasks and processes that are not directly visible to customers but are essential for the smooth functioning of the business.
 

@@ -1,8 +1,8 @@
 # The Spotify Model
 
-The Spotify Model is a popular approach to organizing software development teams, named after the company that first implemented it. It is based on the idea of cross-functional teams, autonomy, and continuous learning. 
+The Spotify Model is a popular approach to organizing software development teams, named after the company that first implemented it. It is based on the idea of cross-functional teams, autonomy, and continuous learning.
 
-The model's main components: 
+The model's main components:
 
 * Squads: Squads are cross-functional teams that work together to deliver specific business objectives or features. Each squad is made up of 6-12 people, including developers, designers, and product owners. They are self-organizing and have a high degree of autonomy to make decisions about how they work, what technologies they use, and how they deliver value to customers. The squad's work is based on agile principles and it has a backlog of work items that it prioritizes and delivers in short cycles.
 

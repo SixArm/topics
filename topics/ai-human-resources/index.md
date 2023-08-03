@@ -1,6 +1,6 @@
-# AI human resources (HR) 
+# AI human resources (HR)
 
-AI human resources (HR) refers to the use of artificial intelligence technologies and techniques to enhance various HR functions and processes within an organization. AI can be applied to streamline and automate HR tasks, improve decision-making, enhance employee experience, and enable data-driven insights. 
+AI human resources (HR) refers to the use of artificial intelligence technologies and techniques to enhance various HR functions and processes within an organization. AI can be applied to streamline and automate HR tasks, improve decision-making, enhance employee experience, and enable data-driven insights.
 
 Key areas…
 

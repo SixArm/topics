@@ -1,4 +1,4 @@
-# BANT-qualified sales leads 
+# BANT-qualified sales leads
 
 Budget, Authority, Need, Timeline (BANT) is a framework used in sales and marketing to assess the quality and potential of a sales opportunity. The BANT criteria help determine whether a lead is likely to convert into a successful sale.
 

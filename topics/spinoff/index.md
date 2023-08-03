@@ -1,4 +1,4 @@
-# Spinoff 
+# Spinoff
 
 A spinoff (a.k.a. corporate spinoff) is a type of corporate restructuring in which a parent company creates a new, independent company by selling or distributing some of its assets or operations.
 

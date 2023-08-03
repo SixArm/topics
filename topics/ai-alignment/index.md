@@ -1,6 +1,6 @@
 # AI alignment
 
-AI alignment, also known as value alignment or goal alignment, is the task of ensuring that the behavior and decision-making of an artificial intelligence system are consistent with human values, goals, and intentions. 
+AI alignment, also known as value alignment or goal alignment, is the task of ensuring that the behavior and decision-making of an artificial intelligence system are consistent with human values, goals, and intentions.
 
 The concept of AI alignment becomes particularly critical as AI technology advances and becomes more autonomous. It is essential to avoid scenarios where AI systems, even with good intentions, may take actions that are harmful or contrary to human values.
 
@@ -8,7 +8,7 @@ Dimensions to consider…
 
 Value Specification: Define human values and goals in a precise and formal manner that can be understood by AI systems. This involves specifying objectives and constraints that the AI system should follow.
 
-Value Learning: Ensure that AI systems can learn human values from data and interactions with humans. 
+Value Learning: Ensure that AI systems can learn human values from data and interactions with humans.
 
 Robustness and Adversarial Alignment: Designing AI systems to be robust to various adversarial inputs and situations, where potential adversarial attacks or unexpected scenarios could lead to misalignment.
 

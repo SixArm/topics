@@ -10,7 +10,7 @@ The split testing process typically involves the following steps:
 
 3. Random Allocation: Randomly assign users or a subset of users to each variation. This helps ensure a fair distribution of users across the different variations and minimizes bias.
 
-4. User Exposure: Expose each user to one of the variations when they interact with the webpage, interface, or marketing element. 
+4. User Exposure: Expose each user to one of the variations when they interact with the webpage, interface, or marketing element.
 
 5. Data Collection: Collect data on user interactions and behaviors for each variation. This can include metrics such as click-through rates, conversion rates, engagement time, or any other relevant data point.
 

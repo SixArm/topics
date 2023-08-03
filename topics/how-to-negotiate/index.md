@@ -12,7 +12,7 @@ Set the agenda: Collaborate with the other party to develop an agenda that cover
 
 Bargain: Seek win-win outcomes by focusing on interests, not positions. Find creative solutions. Give and take by making concessions while ensuring you receive value in return. Look for trade-offs that can create value for both sides.
 
-Overcome obstacles: Problem-solve by adopting a collaborative mindset, exploring alternative solutions, and finding common ground. Manage emotions by staying composed, patient, and respectful even in challenging situations. 
+Overcome obstacles: Problem-solve by adopting a collaborative mindset, exploring alternative solutions, and finding common ground. Manage emotions by staying composed, patient, and respectful even in challenging situations.
 
 Reach a mutually beneficial agreement: Document the agreed-upon terms and ensure both parties are aligned.
 Carefully review the agreement, and seek any necessary approvals or legal advice before finalizing it.

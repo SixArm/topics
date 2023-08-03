@@ -1,6 +1,6 @@
 # How to achieve product market fit (PMF)
 
-Finding product-market fit for a startup follows a similar process to finding it for any product. However, startups often face unique challenges, such as limited resources and brand recognition. 
+Finding product-market fit for a startup follows a similar process to finding it for any product. However, startups often face unique challenges, such as limited resources and brand recognition.
 
 Here are some specific steps to help…
 
@@ -8,7 +8,7 @@ Research the Market: Conduct thorough market research to identify existing compe
 
 Define Your Target Customer: Understand their demographics, behavior, pain points, and needs. Use this to tailor your product.
 
-Develop a Minimum Viable Product (MVP): Build the main feature needed to address the main pain point of your target customer. 
+Develop a Minimum Viable Product (MVP): Build the main feature needed to address the main pain point of your target customer.
 
 Validate Learning: Share your MVP with a small group of early adopters. Use their feedback to iterate and make improvements.
 

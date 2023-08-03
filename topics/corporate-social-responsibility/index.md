@@ -1,6 +1,6 @@
 # Corporate social responsibility (CSR)
 
-Corporate social responsibility (CSR) refers to a company's efforts to act ethically and responsibly towards society, the environment, and its stakeholders. CSR involves taking responsibility for the impact that a company's operations have on these various areas and ensuring that the company is making a positive contribution. 
+Corporate social responsibility (CSR) refers to a company's efforts to act ethically and responsibly towards society, the environment, and its stakeholders. CSR involves taking responsibility for the impact that a company's operations have on these various areas and ensuring that the company is making a positive contribution.
 
 CSR is increasingly seen as a crucial component of business strategy, with many companies now viewing it as a way to improve their reputation, attract and retain customers, differentiate themselves from competitors, and mitigate risk.
 

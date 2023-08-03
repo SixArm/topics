@@ -1,4 +1,4 @@
-# Social impact 
+# Social impact
 
 Social impact refers to the effect or influence that an individual, organization, or initiative has on society, with the goal of addressing social issues, improving communities, and creating positive change. It focuses on making a meaningful difference in people's lives and addressing societal challenges.
 

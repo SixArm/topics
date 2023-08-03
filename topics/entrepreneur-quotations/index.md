@@ -1,6 +1,6 @@
 # Entrepreneur quotations
 
-Entrepreneur quotations aim to inspire and encourage business leaders, and their mindsets, qualities, and attitudes. 
+Entrepreneur quotations aim to inspire and encourage business leaders, and their mindsets, qualities, and attitudes.
 
 Here are a few themes and examples…
 

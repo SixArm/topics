@@ -1,12 +1,12 @@
-# AI + agtech 
+# AI + agtech
 
 AI + agtech is the combination of artificial intelligence and agricultural technology.
 
 Examples…
 
-Crop Management: AI can analyze data from satellites, drones, computer vision, and Internet of Things (IoT) sensors to monitor crop health, growth, and nutrient levels. 
+Crop Management: AI can analyze data from satellites, drones, computer vision, and Internet of Things (IoT) sensors to monitor crop health, growth, and nutrient levels.
 
-Precision Agriculture: AI can help optimize resource usage in agriculture by providing insights on the optimal amount of water, fertilizers, and pesticides required for specific areas of farmland. 
+Precision Agriculture: AI can help optimize resource usage in agriculture by providing insights on the optimal amount of water, fertilizers, and pesticides required for specific areas of farmland.
 
 Prediction: AI can analyze historical and real-time data, such as weather conditions and soil quality, to predict crop yields, enabling farmers to plan their harvest and optimize logistical operations.
 

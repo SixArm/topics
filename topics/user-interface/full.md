@@ -1,4 +1,4 @@
-# User Interface (UI) 
+# User Interface (UI)
 
 User Interface (UI) refers to the visual elements, controls, and interactive components of a digital product or system that users interact with. It encompasses the graphical layout, icons, buttons, forms, menus, typography, and other elements that users see and interact with on a screen.
 

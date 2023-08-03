@@ -12,6 +12,6 @@ Sensing: Agents can perceive and gather information from their environment using
 
 Reasoning: AI agents use reasoning mechanisms to process the information they have gathered and make informed decisions or predictions about the best course of action to achieve their goals.
 
-Learning: Many AI agents are equipped with machine learning capabilities, allowing them to learn from data and improve their performance over time. 
+Learning: Many AI agents are equipped with machine learning capabilities, allowing them to learn from data and improve their performance over time.
 
 Goal-Directed Behavior: AI agents are designed to achieve specific objectives or goals, and their actions are directed towards optimizing their performance in pursuit of these objectives.

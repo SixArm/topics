@@ -1,4 +1,4 @@
-# Equality and equity 
+# Equality and equity
 
 Equality and equity are two concepts that are often discussed in the context of fairness and social justice. While they share similarities, they have distinct meanings:
 

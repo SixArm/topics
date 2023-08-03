@@ -16,4 +16,4 @@ Roles and Responsibilities: Examine the roles and responsibilities of individual
 
 Decisions: Analyze the decision-making process and its criteria, the rules or guidelines followed, and any dependencies or conditions that influence the decisions.
 
-Controls: Examine mechanisms for evaluating the workflow. Understand feedback, such as via customer input, employee suggestions, and performance metrics. Use the results to drive improvements. 
+Controls: Examine mechanisms for evaluating the workflow. Understand feedback, such as via customer input, employee suggestions, and performance metrics. Use the results to drive improvements.

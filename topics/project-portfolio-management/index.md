@@ -6,7 +6,7 @@ Key components…
 
 Prioritization: Assess project proposals based on strategic objectives, potential value, risks, and alignment with organizational priorities and return on investment (ROI).
 
-Resource Management: Allocate people, budget, technology, etc. across the project portfolio. Ensure projects are adequately resourced. Optimize resource utilization. 
+Resource Management: Allocate people, budget, technology, etc. across the project portfolio. Ensure projects are adequately resourced. Optimize resource utilization.
 
 Risk Management: Identify and manage risks associated with the project portfolio. This includes evaluating risks, implementing mitigations, and monitoring exposures.
 

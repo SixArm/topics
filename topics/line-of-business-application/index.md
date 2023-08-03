@@ -1,6 +1,6 @@
 # Line of Business (LOB) application
 
-A Line of Business (LOB) application refers to software applications or systems that are specifically designed to support and automate the operations of a department or business function in an organization. 
+A Line of Business (LOB) application refers to software applications or systems that are specifically designed to support and automate the operations of a department or business function in an organization.
 
 Key aspects…
 
@@ -12,4 +12,4 @@ User-Focused Interface: LOBs' interfaces may be optimized for ease of use, effic
 
 Security and Access Controls: LOB applications often handle sensitive data and may have built-in security features to protect the confidentiality, integrity, and availability of the information, all depending on the departmental roles and responsbilties.
 
-Integration with Enterprise Systems: LOB applications may need to integrate with other enterprise-level systems, such as enterprise resource planning (ERP) systems, supply chain management (SCM) systems, or business intelligence (BI) platforms. 
+Integration with Enterprise Systems: LOB applications may need to integrate with other enterprise-level systems, such as enterprise resource planning (ERP) systems, supply chain management (SCM) systems, or business intelligence (BI) platforms.

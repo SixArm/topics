@@ -1,4 +1,4 @@
-# Five Whys analysis 
+# Five Whys analysis
 
 Five Whys analysis is a problem-solving technique that is often used in the manufacturing and engineering industries, but can be applied to any field. It involves asking the question "why" five times to identify the root cause of a problem.
 
@@ -8,4 +8,4 @@ Five Whys analysis is typically conducted by a team of people who work together 
 
 It is important to note that Five Whys analysis should not stop at the obvious answers to the "why" questions. Instead, the team should dig deeper to get to the root cause of the problem, which may be less obvious or hidden behind other issues.
 
-Once the root cause of the problem has been identified, the team can then develop and implement a solution that addresses the underlying cause rather than just the symptoms. This approach can lead to more effective problem solving, as it prevents the same problem from recurring in the future. 
+Once the root cause of the problem has been identified, the team can then develop and implement a solution that addresses the underlying cause rather than just the symptoms. This approach can lead to more effective problem solving, as it prevents the same problem from recurring in the future.

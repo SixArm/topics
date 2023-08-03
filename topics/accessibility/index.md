@@ -14,4 +14,4 @@ Operability: Ensure that user interfaces can be operated by individuals with dif
 
 Understandability: Ensure that content and functionality are presented in a clear and understandable manner. For example, use plain language, logical organization, and provide assistance to guide users.
 
-Robustness: Ensure that system can be interpreted and accessed by a wide range of assistive technologies, devices, and platforms. Adhere to web standards, such as WCAG, alternate text attributes, and semantic markup. 
+Robustness: Ensure that system can be interpreted and accessed by a wide range of assistive technologies, devices, and platforms. Adhere to web standards, such as WCAG, alternate text attributes, and semantic markup.

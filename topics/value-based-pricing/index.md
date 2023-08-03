@@ -2,7 +2,7 @@
 
 Value-based pricing is a pricing model used by businesses to set prices based on the perceived value to the customer. By focusing on the benefits that the product or service provides to the customer, rather than the cost of production, businesses can capture more of the value they create and increase their profitability.
 
-The value provided to the customer can be measured in a number of ways, such as increased productivity, improved quality of life, or reduced costs. 
+The value provided to the customer can be measured in a number of ways, such as increased productivity, improved quality of life, or reduced costs.
 
 One of the key advantages of value-based pricing is that it allows businesses to capture more of the value they create. By pricing their products or services based on the benefits they provide to the customer, rather than the cost of production, businesses can capture more of the value they create and increase their profitability.
 

@@ -1,6 +1,6 @@
 # Investment Readiness Level (IRL)
 
-Investment Readiness Level (IRL) is a tool used in the startup and venture capital community to evaluate the maturity of a startup's business plan and the potential of its technology or product. 
+Investment Readiness Level (IRL) is a tool used in the startup and venture capital community to evaluate the maturity of a startup's business plan and the potential of its technology or product.
 
 IRL is a scale ranging from 1 to 9, where 1 represents the very early stage of the startup, and 9 indicates a successful, revenue-generating business that has achieved its full potential.
 

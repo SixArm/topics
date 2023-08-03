@@ -1,4 +1,4 @@
-# Copyright 
+# Copyright
 
 Copyright is a legal concept that protects the expression of creative works, such as literature, music, art, software, and other original works of authorship. It is a type of intellectual property right that grants the creator of an original work exclusive rights to control the use and distribution of the work, and to receive compensation for its use.
 

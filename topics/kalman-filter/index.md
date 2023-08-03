@@ -1,4 +1,4 @@
-# Kalman filter 
+# Kalman filter
 
 The Kalman filter is a mathematical algorithm used for state estimation and control of systems that have uncertain and noisy measurements or predictions. It was developed by Rudolf Kalman in the 1960s and has found extensive use in a variety of fields, including engineering, finance, and physics.
 

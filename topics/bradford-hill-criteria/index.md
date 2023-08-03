@@ -1,6 +1,6 @@
 # Bradford-Hill criteria
 
-The Bradford-Hill criteria are a set of guidelines used to assess the strength of evidence for causality in epidemiology and public health research. They were proposed by the British epidemiologist Sir Austin Bradford Hill in 1965. 
+The Bradford-Hill criteria are a set of guidelines used to assess the strength of evidence for causality in epidemiology and public health research. They were proposed by the British epidemiologist Sir Austin Bradford Hill in 1965.
 
 The Bradford-Hill criteria are as follows…
 

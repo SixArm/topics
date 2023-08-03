@@ -1,6 +1,6 @@
-# Creative thinking techniques 
+# Creative thinking techniques
 
-Creative thinking techniques stimulate and enhance the generation of new ideas, insights, and innovative solutions. These techniques help individuals or teams break free from traditional or linear thinking patterns and encourage out-of-the-box, imaginative, and unconventional ideas. 
+Creative thinking techniques stimulate and enhance the generation of new ideas, insights, and innovative solutions. These techniques help individuals or teams break free from traditional or linear thinking patterns and encourage out-of-the-box, imaginative, and unconventional ideas.
 
 Examples…
 
@@ -10,7 +10,7 @@ Mind Mapping: Create a visual representation of ideas, concepts, and their inter
 
 SCAMPER: Generate variations via prompts: Substitute, Combine, Adapt, Modify, Put to another use, Eliminate, Reverse.
 
-Random Association: Associate random words or images with a problem or challenge to trigger new ideas. 
+Random Association: Associate random words or images with a problem or challenge to trigger new ideas.
 
 Analogies: Draw comparisons between seemingly unrelated concepts, to find new perspectives.
 

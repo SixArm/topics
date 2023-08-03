@@ -1,4 +1,4 @@
-# “The Lean Startup” by Eric Ries 
+# “The Lean Startup” by Eric Ries
 
 "The Lean Startup" is a book by Eric Ries that focuses on building startups using a lean approach, with a particular emphasis on continuous improvement and experimentation. The central idea of the book is that startups can use lean principles to create more efficient and effective businesses.
 

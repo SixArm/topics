@@ -2,7 +2,7 @@
 
 Resource leveling is a project management technique that involves adjusting the project schedule to optimize the use of available resources while keeping the project on track. It involves managing and balancing the workload of project resources, such as people, equipment, and materials, so that no one is overburdened or idle.
 
-The goal of resource leveling is to ensure that resources are used efficiently and effectively, and that the project is completed on time and within budget. 
+The goal of resource leveling is to ensure that resources are used efficiently and effectively, and that the project is completed on time and within budget.
 
 Resource leveling involves several steps, including:
 

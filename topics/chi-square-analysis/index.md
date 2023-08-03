@@ -1,4 +1,4 @@
-# Chi-square analysis 
+# Chi-square analysis
 
 Chi-square analysis is a statistical method used to determine whether there is a significant association between two categorical variables. The categorical variables are usually represented in a contingency table, which displays the frequencies or proportions of observations for each category of both variables.
 

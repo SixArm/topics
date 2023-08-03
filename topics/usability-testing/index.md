@@ -1,4 +1,4 @@
-# Usability testing 
+# Usability testing
 
 Usability testing is a method used to evaluate the usability and user-friendliness of a product, system, or interface by observing users as they interact with it. The primary goal of usability testing is to identify any usability issues, obstacles, or areas for improvement to enhance the overall user experience.
 

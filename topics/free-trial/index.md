@@ -1,4 +1,4 @@
-# Free trial 
+# Free trial
 
 A free trial is a marketing strategy in which a business offers a limited-time period during which customers can use their product or service for free before deciding whether or not to purchase it. This strategy is commonly used in software, streaming services, and other subscription-based businesses.
 

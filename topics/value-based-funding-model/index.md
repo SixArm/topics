@@ -1,4 +1,4 @@
-# Value-based funding model 
+# Value-based funding model
 
 The value-based funding model is a framework for allocating resources based on the value of services provided to clients. This model focuses on incentivizing providers to deliver high-quality services that improve client outcomes, while also controlling costs.
 

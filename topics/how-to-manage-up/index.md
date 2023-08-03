@@ -1,6 +1,6 @@
 # How to manage up
 
-Managing up is the practice of proactively working with your supervisor or manager to build a strong and productive working relationship while effectively communicating your needs, accomplishments, and goals. 
+Managing up is the practice of proactively working with your supervisor or manager to build a strong and productive working relationship while effectively communicating your needs, accomplishments, and goals.
 
 Tips…
 
@@ -14,7 +14,7 @@ Understand and Align with Goals: Gain a clear understanding of your manager's an
 
 Anticipate Needs: Keep aware of upcoming projects, deadlines, and potential challenges. Take initiative to offer assistance, suggest solutions, or provide relevant information before being asked.
 
-Seek Feedback and Act on It: Request feedback from your manager on your performance, strengths, and areas for improvement. Act on the feedback and incorporate it into your work. 
+Seek Feedback and Act on It: Request feedback from your manager on your performance, strengths, and areas for improvement. Act on the feedback and incorporate it into your work.
 
 Manage Expectations: Clarify expectations about deliverables, deadlines, and quality standards early on. Discuss any concerns or constraints that may impact your ability to meet those expectations.
 

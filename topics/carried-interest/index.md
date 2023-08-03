@@ -1,4 +1,4 @@
-# Carried interest 
+# Carried interest
 
 Carried interest refers to the share of profits that general partners of private equity funds or venture capital firms receive in return for their management and performance of the fund. It is also commonly known as "carry."
 

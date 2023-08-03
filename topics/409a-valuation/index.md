@@ -1,6 +1,6 @@
 # 409A valuation
 
-A 409A valuation is a process for determining the fair market value of a private company's common stock. 
+A 409A valuation is a process for determining the fair market value of a private company's common stock.
 
 The name comes from Section 409A of the United States (US) Internal Revenue Service (IRS) code. The valuation is performed by an independent third-party valuation firm and is required by the IRS for companies that issue stock options to employees.
 

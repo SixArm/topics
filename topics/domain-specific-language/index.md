@@ -1,4 +1,4 @@
-# Domain-specific language (DSL) 
+# Domain-specific language (DSL)
 
 A domain-specific language (DSL) is a programming language designed to address a particular problem domain or application context. Unlike general-purpose programming languages (such as Java or C++), DSLs are designed to be concise, expressive, and closely aligned with the terminology and concepts used in the target domain.
 

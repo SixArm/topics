@@ -1,4 +1,4 @@
-# Design system 
+# Design system
 
 A design system is a collection of guidelines, principles, and reusable components that help maintain consistency and cohesion in the design of digital products or services. It serves as a central resource that defines the visual and interactive elements, patterns, and rules to be followed when creating user interfaces. A design system helps improve UI/UX consistency, efficiency, scalability, and collaboration.
 

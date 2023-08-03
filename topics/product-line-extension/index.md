@@ -1,6 +1,6 @@
 # Product line extension
 
-Product line extension refers to the strategy of introducing additional products or variations within an existing product line. It involves expanding the range of offerings to cater to different customer needs, preferences, or market segments while leveraging the existing brand equity and customer base. 
+Product line extension refers to the strategy of introducing additional products or variations within an existing product line. It involves expanding the range of offerings to cater to different customer needs, preferences, or market segments while leveraging the existing brand equity and customer base.
 
 Typical approaches…
 

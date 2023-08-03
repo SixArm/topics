@@ -1,4 +1,4 @@
-# Cross-border controls 
+# Cross-border controls
 
 Cross-border controls are a set of policies, procedures, and measures put in place by governments and regulatory authorities to regulate the flow of goods, services, capital, and people across international borders. These controls are designed to promote national security, protect public health, and safeguard the economic interests of countries.
 

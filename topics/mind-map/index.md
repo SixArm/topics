@@ -1,4 +1,4 @@
-# Mind map 
+# Mind map
 
 A mind map is a graphical tool that is used to organize and structure ideas and information visually. It is a type of diagram that is created by starting with a central idea or concept and then branching out to other related ideas or subtopics. The main idea is placed in the center of the diagram, and additional information is added in the form of branches that radiate out from the center.
 

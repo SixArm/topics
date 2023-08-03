@@ -8,7 +8,7 @@ Key drivers include:
 
 * Liberalization: The reduction of trade barriers, the signing of free trade agreements, and the liberalization of markets have opened opportunities for companies to expand. This has led to increased trade flows and global supply chains.
 
-* Access to Resources: Global business allows companies to access resources, such as raw materials, capital, and skilled labor, that may be scarce or more cost-effective in other countries. 
+* Access to Resources: Global business allows companies to access resources, such as raw materials, capital, and skilled labor, that may be scarce or more cost-effective in other countries.
 
 * Economies of Scale and Scope: Global business often provides companies with economies of scale and scope. By accessing larger markets, and spreading fixed costs over more customers, businesses can achieve cost efficiencies.
 

@@ -1,10 +1,10 @@
 # University partnership
 
-A university partnership refers to a collaborative relationship established between a university and another organization, such as another university, industry, nonprofit, government agency, or community group. These partnerships can take various forms, including research collaborations, educational initiatives, knowledge transfer programs, or community engagement projects. 
+A university partnership refers to a collaborative relationship established between a university and another organization, such as another university, industry, nonprofit, government agency, or community group. These partnerships can take various forms, including research collaborations, educational initiatives, knowledge transfer programs, or community engagement projects.
 
 Key aspects…
 
-Knowledge Exchange: University partnerships facilitate the exchange of knowledge, expertise, and research findings between academic institutions and other stakeholders. 
+Knowledge Exchange: University partnerships facilitate the exchange of knowledge, expertise, and research findings between academic institutions and other stakeholders.
 
 Resource Sharing: Partnerships allow for the sharing of resources, including facilities, equipment, and funding. This helps enhance the capabilities and reach of both parties.
 

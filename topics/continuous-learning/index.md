@@ -1,10 +1,10 @@
-# Continuous learning 
+# Continuous learning
 
 Continuous learning refers to the process of constantly seeking new knowledge and skills to improve oneself, both personally and professionally, throughout one's life. It involves an ongoing commitment to acquiring and applying new knowledge, staying current with industry trends, and developing new skills to adapt to a changing world.
 
 In today's fast-paced, rapidly changing world, continuous learning has become essential for staying competitive and relevant in the workforce. With new technologies and trends emerging at an ever-increasing pace, it is essential for individuals to continually upskill and reskill to remain employable and contribute to their organization's success.
 
-Continuous learning can take many forms, including formal education, on-the-job training, mentorship, networking, feedback from peers, and self-directed learning through online resources such as blogs, podcasts, and online courses. 
+Continuous learning can take many forms, including formal education, on-the-job training, mentorship, networking, feedback from peers, and self-directed learning through online resources such as blogs, podcasts, and online courses.
 
 Benefits of continuous learning include:
 

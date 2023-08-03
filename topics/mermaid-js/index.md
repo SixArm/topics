@@ -4,9 +4,9 @@ Mermaid.js is a JavaScript-based library that allows you to create diagrams and 
 
 Key features…
 
-Diagram Types: Includes flowcharts, sequence diagrams, Gantt charts, class diagrams, state diagrams, pie charts, and more. 
+Diagram Types: Includes flowcharts, sequence diagrams, Gantt charts, class diagrams, state diagrams, pie charts, and more.
 
-Markdown Syntax: Uses a concise and human-readable Markdown-like syntax for defining diagrams. This makes it easy to write and understand the diagram specifications, even for non-technical users. 
+Markdown Syntax: Uses a concise and human-readable Markdown-like syntax for defining diagrams. This makes it easy to write and understand the diagram specifications, even for non-technical users.
 
 Browser-Based: Runs entirely in the browser. There is no need for server-side processing or dependencies on external servers. This makes it convenient for creating and sharing diagrams on websites.
 

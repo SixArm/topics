@@ -16,6 +16,6 @@ Financial Reporting: Governance establishes systems for internal control, financ
 
 Compliance: Governance ensures compliance with laws, regulations, and industry standards. It establishes procedures for monitoring compliance, addressing non-compliance, and maintaining the company's legal and regulatory obligations.
 
-Stakeholder Engagement: Effective governance involves engaging and considering the interests of various stakeholders, including employees, customers, suppliers, and the local community. 
+Stakeholder Engagement: Effective governance involves engaging and considering the interests of various stakeholders, including employees, customers, suppliers, and the local community.
 
 Performance Evaluation: Governance establishes processes for setting goals, monitoring progress,  assessing outcomes, and evaluating the performance of the board, management, and the organization.

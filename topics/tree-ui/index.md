@@ -8,7 +8,7 @@ Hierarchical Data Representation: Represent hierarchical data, where items or ca
 
 Expandable and Collapsible Nodes: Enable users to expand or collapse branches to reveal or hide sub-levels of information. This lets users to focus on specific sections of the tree and navigate through the data efficiently.
 
-Visual Hierarchy: Use indentation and visual cues such as lines or connectors to convey the hierarchical structure and relationships between nodes. 
+Visual Hierarchy: Use indentation and visual cues such as lines or connectors to convey the hierarchical structure and relationships between nodes.
 
 Contextual Menu and Actions: Potentially provide context-specific actions or menus that users can access by right-clicking on a node. These menus allow users to perform operations on the selected item, such as editing, deleting, or creating new child nodes.
 

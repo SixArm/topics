@@ -1,4 +1,4 @@
-# Sweat equity 
+# Sweat equity
 
 Sweat equity is a term used to refer to the contribution of non-financial resources by an individual towards a project, company, or venture. It can be defined as the value of an individual's time and effort invested in a venture or project in lieu of monetary investment.
 

@@ -1,6 +1,6 @@
 # Database availability
 
-Database availability refers to the ability of a database system to be accessible and responsive to users and applications, providing uninterrupted access to data and services. High database availability is crucial for ensuring that critical applications and services dependent on the database can function properly and without disruptions. 
+Database availability refers to the ability of a database system to be accessible and responsive to users and applications, providing uninterrupted access to data and services. High database availability is crucial for ensuring that critical applications and services dependent on the database can function properly and without disruptions.
 
 Some techniques…
 

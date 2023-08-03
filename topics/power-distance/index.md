@@ -1,4 +1,4 @@
-# Power distance 
+# Power distance
 
 Power distance is one of six cultural dimensions described by cross-cultural researcher Geert Hofstede. It measures the extent to which individuals in a society accept and expect unequal distribution of power and authority.
 

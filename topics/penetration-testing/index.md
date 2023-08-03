@@ -1,6 +1,6 @@
 # Penetration testing
 
-Penetration testing (pen testing) is a method used to evaluate the security of computer systems or networks by simulating an attack on them. 
+Penetration testing (pen testing) is a method used to evaluate the security of computer systems or networks by simulating an attack on them.
 
 Penetration testing involves the use of various tools and techniques to identify vulnerabilities in a system. This can include scanning for open ports, attempting to exploit known vulnerabilities, and using social engineering tactics to trick users into revealing sensitive information.
 

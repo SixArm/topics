@@ -51,7 +51,7 @@ For example, one of my enterprise clients describes this kind of shared context 
 
 What I discovered is that these kinds of glossaries can be especially helpful for teams with members coming from various cultures, such as from different countries, or different industries, or different ways of working. The topic pages help provide a baseline for better collaboration.
 
-What I discovered with teammates from non-Western or non-English backgrounds is that business has many social quotations, aphorisms, and idioms that come up frequently and that that teammates are expected to know. 
+What I discovered with teammates from non-Western or non-English backgrounds is that business has many social quotations, aphorisms, and idioms that come up frequently and that that teammates are expected to know.
 
 For example, my peers in San Francisco Bay Area startups will likely know the lingo "Get on the front foot". But it turns out this idiom isn't immediately familiar to many people from many other places. The topic pages cover idioms, to improve shared understanding.
 
@@ -60,7 +60,7 @@ For example, my peers in San Francisco Bay Area startups will likely know the li
 
 Yes there are three more guides that may be of interest to you.
 
-Startup Business Guide: 
+Startup Business Guide:
 
 * Learn about startup concepts that help with entrepreneurship. Some examples are pitch decks, market/customer/product discovery, product-market fit (PMF), minimum viable product (MVP), technology industries and sectors, company roles and responsbilties, sales and marketing, venture capital (VC) and investors, legal entities and useful contracts.
 
@@ -74,6 +74,6 @@ Project Management Guide:
 
 UI/UX Design Guide:
 
-* Learn about user interface (UI) design and user experience (UX) development. Some examples are User-Centered Design (UCD), Information Architecture (IA), design management, task analysis, ideation, mockups, use cases, user stories, modeling diagrams, affordances, accessibility, internationalization and localization, UI/UX testing, and AI for UI/UX. 
+* Learn about user interface (UI) design and user experience (UX) development. Some examples are User-Centered Design (UCD), Information Architecture (IA), design management, task analysis, ideation, mockups, use cases, user stories, modeling diagrams, affordances, accessibility, internationalization and localization, UI/UX testing, and AI for UI/UX.
 
 * Get it via [Gumroad](https://gumroad.com/l/ui-ux-design-guide) or [GitHub](https://github.com/sixarm/ui-ux-design-guide)

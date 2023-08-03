@@ -1,6 +1,6 @@
 # What is this book?
 
-UI/UX Design Guide is a glossary guide ebook that describes one topic per page. The guide is intended for quick easy learning about concepts, tactics, and ideas. 
+UI/UX Design Guide is a glossary guide ebook that describes one topic per page. The guide is intended for quick easy learning about concepts, tactics, and ideas.
 
 ### Why these topics?
 
@@ -34,7 +34,7 @@ For students and educators, this guide is a snapshot of industry techniques and 
 
 ## Why am I creating this?
 
-I am creating this ebook because of years of experience in UI/UX work, with a wide range of clients, from small startups to enormous enterprises. 
+I am creating this ebook because of years of experience in UI/UX work, with a wide range of clients, from small startups to enormous enterprises.
 
 
 ### For team collaboration

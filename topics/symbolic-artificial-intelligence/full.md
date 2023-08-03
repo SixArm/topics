@@ -1,4 +1,4 @@
-# Symbolic Artificial Intelligence 
+# Symbolic Artificial Intelligence
 
 Symbolic Artificial Intelligence, also known as Classical AI or Good Old-Fashioned AI (GOFAI), is an approach to AI that focuses on the manipulation and processing of symbols and rules to simulate human cognitive processes. It was the dominant paradigm in AI research during the early years of the field and is characterized by its use of formal logic and symbolic representations.
 

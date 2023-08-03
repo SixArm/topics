@@ -1,6 +1,6 @@
 # Supervised learning algorithms
 
-Supervised learning algorithms are a category of machine learning algorithms that learn from labeled training data to make predictions or decisions on new, unseen data. 
+Supervised learning algorithms are a category of machine learning algorithms that learn from labeled training data to make predictions or decisions on new, unseen data.
 
 Various types…
 

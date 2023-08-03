@@ -1,4 +1,4 @@
-# Progressive enhancement 
+# Progressive enhancement
 
 Progressive enhancement is an approach to web or user interface (UI) design and development that focuses on delivering a basic, functional experience to all users while progressively adding enhanced features and functionality for those with more advanced or capable devices.
 

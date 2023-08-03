@@ -1,6 +1,6 @@
 # Product Manager (PM)
 
-A Product Manager (PM) is a company role responsible for the strategy, development, and management of a product or a product line throughout its lifecycle. PMs work with cross-functional teams, including engineering, design, marketing, and sales, to ensure the successful delivery of a product that provides customer value and aligns with company goals. 
+A Product Manager (PM) is a company role responsible for the strategy, development, and management of a product or a product line throughout its lifecycle. PMs work with cross-functional teams, including engineering, design, marketing, and sales, to ensure the successful delivery of a product that provides customer value and aligns with company goals.
 
 Typical responsbilities:
 

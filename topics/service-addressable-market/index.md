@@ -1,6 +1,6 @@
 # Service Addressable Market (SAM)
 
-A Service Addressable Market (SAM) is the portion of the total market for a particular product or service that a company can realistically target and serve with its offerings. 
+A Service Addressable Market (SAM) is the portion of the total market for a particular product or service that a company can realistically target and serve with its offerings.
 
 To calculate the SAM, companies typically begin with a thorough analysis of the market, including the size and growth rate of the overall market, market trends, and customer needs and preferences. They then identify the specific segments of the market that are most relevant to their offerings based on factors such as geography, industry, customer demographics, and other relevant criteria. Finally, they estimate the size and revenue potential of each segment to determine the SAM.
 

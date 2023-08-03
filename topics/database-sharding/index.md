@@ -1,4 +1,4 @@
-# Database sharding 
+# Database sharding
 
 Database sharding is a partitioning technique that breaks down a large database into smaller, more manageable parts known as shards. Each shard consists of a subset of the data, and it is stored on a separate server instance. The goal of sharding is to distribute the data processing load across multiple servers to improve performance and scalability.
 

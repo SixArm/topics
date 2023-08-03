@@ -1,6 +1,6 @@
-# AI for business strategy 
+# AI for business strategy
 
-AI for business strategy refers to organizations planning to leverage artificial intelligence (AI) technologies in their operations, products, and services to achieve business goals. It involves identifying opportunities where AI can create value and AI initiatives can align with business objectives. 
+AI for business strategy refers to organizations planning to leverage artificial intelligence (AI) technologies in their operations, products, and services to achieve business goals. It involves identifying opportunities where AI can create value and AI initiatives can align with business objectives.
 
 Key aspects…
 
@@ -14,7 +14,7 @@ Roadmap: Develop specific use cases. Prioritize them based on their potential im
 
 Collaboration: Work with external partners to accelerate AI implementation. Consider strategic partnerships to access expertise, leverage pre-built AI solutions, or explore co-development.
 
-Controls: Establish ethical guidelines and regulatory controls. Ensure data privacy and security. Provide AI transparency and fairness. 
+Controls: Establish ethical guidelines and regulatory controls. Ensure data privacy and security. Provide AI transparency and fairness.
 
 Integration: Design AI initiatives to integrate with existing business processes and systems. Address any system quality attributes.
 

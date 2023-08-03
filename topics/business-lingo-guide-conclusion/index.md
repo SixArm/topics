@@ -38,14 +38,14 @@ Venture funders:
 * [Andreessen Horowitz](https://a16z.com)
 * [Union Square Ventures](https://www.usv.com)
 
-Universities: 
+Universities:
 
 * [Berkeley](https://berkeley.edu)
 * [Brown](https://brown.edu)
 * [MIT](https://mit.edu)
 * [Harvard](https://harvard.edu)
 
-Foundations: 
+Foundations:
 
 * [Electronic Frontier Foundation](https://eff.org)
 * [Apache Software Foundation](https://apache.org)

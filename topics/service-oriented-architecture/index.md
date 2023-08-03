@@ -1,4 +1,4 @@
-# Service-oriented architecture (SOA) 
+# Service-oriented architecture (SOA)
 
 Service-oriented architecture (SOA) is a software architecture style that defines a way to create and use distributed services that can be accessed over a network. It is based on the idea of breaking down software systems into modular, reusable components called services, which can be accessed and combined to build larger applications.
 

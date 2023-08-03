@@ -1,4 +1,4 @@
-# Strategic partnership versus tactical partnership 
+# Strategic partnership versus tactical partnership
 
 Strategic Partnership and Tactical Partnership are two distinct types of partnerships, each serving different purposes and objectives. Here's a comparison between the two:
 

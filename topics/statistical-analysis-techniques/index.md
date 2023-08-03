@@ -1,6 +1,6 @@
 # Statistical analysis techniques
 
-Statistical analysis techniques refer to a variety of methods used to analyze and interpret data in order to draw meaningful conclusions, identify patterns, make predictions, and test hypotheses. 
+Statistical analysis techniques refer to a variety of methods used to analyze and interpret data in order to draw meaningful conclusions, identify patterns, make predictions, and test hypotheses.
 
 Some statistical analysis techniques:
 

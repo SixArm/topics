@@ -13,7 +13,7 @@ Communicate Regularly: Maintain open and transparent communication with stakehol
 
 Build Relationships: Foster trust and build positive relationships with stakeholders. Be reliable, responsive, and follow through on your commitments.
 
-Involve Stakeholders: Include stakeholders in decision-making processes when possible, such as through workshops, focus groups, or collaborations. Seek their input, opinions, and feedback. 
+Involve Stakeholders: Include stakeholders in decision-making processes when possible, such as through workshops, focus groups, or collaborations. Seek their input, opinions, and feedback.
 
 Resolve Conflicts: Act as a mediator when conflicts arise, facilitating constructive discussions and finding win-win solutions. Address conflicts early before they escalate.
 

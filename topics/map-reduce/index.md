@@ -2,7 +2,7 @@
 
 MapReduce is a programming model and software framework used for processing and generating large-scale data sets. It was originally developed by Google for processing and analyzing large data sets, particularly web pages and related data. The framework consists of two core components: a Map function and a Reduce function.
 
-* The Map function takes a set of input data and performs a transformation on it, producing a set of intermediate key-value pairs. 
+* The Map function takes a set of input data and performs a transformation on it, producing a set of intermediate key-value pairs.
 
 * The Reduce function then takes these intermediate key-value pairs and combines them to produce a final set of output data.
 

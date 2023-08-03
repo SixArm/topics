@@ -1,4 +1,4 @@
-# Project management 
+# Project management
 
 Project management is the process of planning, organizing, and executing a project in order to achieve specific results within a specified timeframe, budget, and scope. It involves coordinating and managing the resources, tasks, and people involved in a project, as well as controlling progress to ensure successful completion.
 

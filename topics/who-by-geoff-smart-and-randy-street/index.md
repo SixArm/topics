@@ -1,5 +1,5 @@
 #  “Who” by Geoff Smart and Randy Street
- 
+
 "Who: The A Method for Hiring" is a book written by Geoff Smart and Randy Street, which provides a comprehensive guide for hiring top-performing individuals for an organization. The book outlines a methodology called the "A Method," which is a step-by-step approach to identify, evaluate, and hire top talent.
 
 The "A Method" focuses on four key steps:

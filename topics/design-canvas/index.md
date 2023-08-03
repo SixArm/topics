@@ -8,7 +8,7 @@ Problem Statement: Define the problem or challenge that the design aims to solve
 
 Personas: Describe the target audience or user groups, including their characteristics, demographics, needs, perspectives, motivations, and goals.
 
-Journeys: Map out the user's journey or workflow, showing steps they take and touchpoints they encounter when interacting with the product or experience. 
+Journeys: Map out the user's journey or workflow, showing steps they take and touchpoints they encounter when interacting with the product or experience.
 
 Information Architecture: Plan the structure and organization of information within the design, including content hierarchy, navigation, and layout.
 
@@ -16,4 +16,4 @@ Visual Design: Sketch or represent the layout, components, and visual elements o
 
 Interaction Design: Define how users interact with the design, including user flows, navigation patterns, and interactive elements.
 
-Testing: Outline methods for evaluating and testing the design, such as usability testing, focus groups, feedback collection, behavioral analytics, or user research. 
+Testing: Outline methods for evaluating and testing the design, such as usability testing, focus groups, feedback collection, behavioral analytics, or user research.

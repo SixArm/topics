@@ -1,4 +1,4 @@
-# AI + govtech 
+# AI + govtech
 
 AI + govtech is the combination of artificial intelligence and governmental technology.
 

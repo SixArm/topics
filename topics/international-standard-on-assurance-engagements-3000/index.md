@@ -12,4 +12,4 @@ It includes the following key elements:
 
 ISAE 3000 also requires that the auditor obtain an understanding of the entity's internal controls, and design and perform procedures that are appropriate in the circumstances. The auditor must communicate with the entity's management and those charged with governance, to obtain relevant information and ensure that the engagement is properly planned and executed.
 
-ISAE 3000 is applicable to a wide range of assurance engagements, such as for sustainability, social responsibility, information security, risk management, compliance, and corporate governance practices. 
+ISAE 3000 is applicable to a wide range of assurance engagements, such as for sustainability, social responsibility, information security, risk management, compliance, and corporate governance practices.

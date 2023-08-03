@@ -2,7 +2,7 @@
 
 Innovation partnerships can fail for various reasons…
 
-Misaligned Goals: When oartners have different expectations or incompatible visions for the partnership, it can lead to diverging interests and conflicting priorities. 
+Misaligned Goals: When oartners have different expectations or incompatible visions for the partnership, it can lead to diverging interests and conflicting priorities.
 
 Lack of Collaboration: Poor communication, lack of transparency, or insufficient sharing of information can lead to misunderstandings, delays, and a breakdown in the partnership.
 

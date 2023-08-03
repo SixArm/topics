@@ -1,4 +1,4 @@
-# Grants manager 
+# Grants manager
 
 A grants manager is a professional responsible for managing the grant-seeking and grant-making processes within an organization. They oversee the entire lifecycle of grants, from identifying funding opportunities to administering and monitoring awarded grants. Grants managers play a crucial role in ensuring that the organization secures funding to support its programs and initiatives while adhering to grant requirements and reporting obligations.
 

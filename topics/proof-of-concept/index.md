@@ -1,4 +1,4 @@
-# Proof of concept (POC) 
+# Proof of concept (POC)
 
 A proof of concept (POC) is a demonstration of the feasibility of a concept, idea, or theory. In the business world, a proof of concept is often used to test the viability of a product or service before it is fully developed and launched. It can also be used to demonstrate the potential of a new technology or innovation.
 

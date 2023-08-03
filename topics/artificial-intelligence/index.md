@@ -1,4 +1,4 @@
-# Artificial Intelligence (AI) 
+# Artificial Intelligence (AI)
 
 Artificial Intelligence (AI) is a branch of computer science that focuses on creating machines that can perform tasks that typically require human intelligence. AI involves the development of algorithms and computer programs that can learn and make decisions based on data. It aims to create intelligent agents, which are systems that can perceive their environment, reason about it, and take actions to achieve specific goals.
 

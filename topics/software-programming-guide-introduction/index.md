@@ -1,6 +1,6 @@
 # What is this book?
 
-Software Programming Guide is a glossary guide ebook that describes one topic per page. The guide is intended for quick easy learning about concepts, tactics, and ideas. 
+Software Programming Guide is a glossary guide ebook that describes one topic per page. The guide is intended for quick easy learning about concepts, tactics, and ideas.
 
 ### Why these topics?
 
@@ -35,7 +35,7 @@ For students and educators, this guide is a snapshot of industry techniques and 
 
 ## Why am I creating this?
 
-I am creating this ebook because of years of experience in software programming work, with a wide range of clients, from small startups to enormous enterprises. 
+I am creating this ebook because of years of experience in software programming work, with a wide range of clients, from small startups to enormous enterprises.
 
 
 ### For team collaboration
@@ -49,7 +49,7 @@ For example, one of my enterprise clients describes this kind of shared context 
 
 What I discovered is that these kinds of glossaries can be especially helpful for teams with members coming from various cultures, such as from different countries, or different industries, or different ways of working. The topic pages help provide a baseline for better collaboration.
 
-What I discovered with teammates from non-Western or non-English backgrounds is that software programming has many social quotations, aphorisms, and idioms that come up frequently and that that teammates are expected to know. 
+What I discovered with teammates from non-Western or non-English backgrounds is that software programming has many social quotations, aphorisms, and idioms that come up frequently and that that teammates are expected to know.
 
 For example, my peers in San Francisco Bay Area startups will likely know the quotation "Move fast and break things", the aphorism "Brook's Law", and the idiom "Get on the front foot". But these aren't familiar to many people from many other places. The topic pages cover these, to improve shared understanding.
 

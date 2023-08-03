@@ -10,12 +10,12 @@ Procedures: Playbooks provide detailed procedures and workflows for executing ta
 
 Practices: Playbooks incorporate best practices and lessons learned from experiences or industry standards. They use proven approaches and methods.
 
-Templates and Examples: Playbooks often include templates, checklists, and examples to assist users in completing tasks or following specific processes. 
+Templates and Examples: Playbooks often include templates, checklists, and examples to assist users in completing tasks or following specific processes.
 
 Decision-Making: Playbooks may include decision-making frameworks to aid users in making informed choices. These help users evaluate options.
 
 Communication and Collaboration: Playbooks may include guidelines for effective communication and collaboration within teams or with stakeholders.
 
-Risk Mitigation and Contingency Plans: Playbooks may address potential risks or challenges associated with specific activities. 
+Risk Mitigation and Contingency Plans: Playbooks may address potential risks or challenges associated with specific activities.
 
 Updates: Playbooks should be regularly reviewed and updated to reflect evolving practices and processes, and new insights.

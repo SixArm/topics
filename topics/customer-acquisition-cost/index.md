@@ -1,4 +1,4 @@
-# Customer Acquisition Cost (CAC) 
+# Customer Acquisition Cost (CAC)
 
 Customer Acquisition Cost (CAC) is a metric in business that helps companies evaluate the amount of money they need to spend on acquiring a new customer. It is the total cost that a business incurs to acquire a single customer, and it includes all the expenses involved in marketing, advertising, and sales activities.
 

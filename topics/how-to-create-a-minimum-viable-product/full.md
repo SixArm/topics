@@ -22,4 +22,4 @@ Creating a Minimum Viable Product (MVP) is a common approach for startups and pr
 
 * Gradually expand: As you receive positive feedback and validate your assumptions, gradually expand the product, adding more features and improving the user experience.
 
-Remember, the primary purpose of an MVP is to learn and validate assumptions quickly. Be open to changes, stay adaptable, and listen to your users to steer the product in the right direction. As you continue to improve the MVP, it may evolve into a fully-fledged product that meets the needs of your target market.  
+Remember, the primary purpose of an MVP is to learn and validate assumptions quickly. Be open to changes, stay adaptable, and listen to your users to steer the product in the right direction. As you continue to improve the MVP, it may evolve into a fully-fledged product that meets the needs of your target market.

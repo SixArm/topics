@@ -6,7 +6,7 @@ Key elements…
 
 Openness to New Ideas: The culture values and encourages new ideas from all people, where individuals feel comfortable expressing their thoughts and suggestions without fear of criticism or judgment.
 
-Embracing Risk-Taking: The culture encourages calculated experimentation, and views failure as an opportunity for learning and growth, rather than a reason for punishment. 
+Embracing Risk-Taking: The culture encourages calculated experimentation, and views failure as an opportunity for learning and growth, rather than a reason for punishment.
 
 Empowering Employees: The culture empowers employees to contribute to innovation efforts and provides them with the autonomy and resources to pursue their ideas, fostering a sense of ownership and engagement.
 

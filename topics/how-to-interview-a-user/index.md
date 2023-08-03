@@ -6,7 +6,7 @@ Some steps to help you…
 
 Define: Determine the objectives of the interview. Create a structured interview discussion guide. Determine the logistics. Prepare any necessary materials.
 
-Establish Rapport: Begin the interview by introducing yourself and explaining the purpose of the interview. Create a friendly and comfortable environment to put the user at ease. 
+Establish Rapport: Begin the interview by introducing yourself and explaining the purpose of the interview. Create a friendly and comfortable environment to put the user at ease.
 
 Ask Open-Ended Questions: Use open-ended non-biased questions to encourage the user to provide detailed responses and share their experiences, thoughts, and preferences.
 

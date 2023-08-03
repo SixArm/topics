@@ -1,6 +1,6 @@
 # How to apply for grants
 
-Applying for grants involves a structured process that requires careful planning, preparation, and attention to detail. 
+Applying for grants involves a structured process that requires careful planning, preparation, and attention to detail.
 
 General steps…
 

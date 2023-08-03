@@ -1,6 +1,6 @@
 # System quality attributes
 
-System quality attributes refer to the characteristics of software or hardware that determine overall quality. The attributes are critical to ensuring the system meets user expectations and performs as intended. 
+System quality attributes refer to the characteristics of software or hardware that determine overall quality. The attributes are critical to ensuring the system meets user expectations and performs as intended.
 
 Examples:
 

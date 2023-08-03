@@ -1,6 +1,6 @@
 # Brainstorming
 
-Brainstorming is a creative problem-solving technique used to generate a large number of ideas in a short period of time. The goal is to promote a free-flowing and non-linear environment that allows for the exploration of diverse perspectives and possibilities, related to a specific topic or problem. 
+Brainstorming is a creative problem-solving technique used to generate a large number of ideas in a short period of time. The goal is to promote a free-flowing and non-linear environment that allows for the exploration of diverse perspectives and possibilities, related to a specific topic or problem.
 
 Brainstorming is widely used in various settings, including business, education, and problem-solving contexts, to foster innovation, creativity, and generate a wide range of ideas that can lead to new insights and solutions.
 
@@ -10,7 +10,7 @@ Key principles…
 
 Quantity over Quality: Generate many ideas without immediately evaluating or analyzing their feasibility.
 
-Non-judgmental Atmosphere: Refrain from criticizing or evaluating ideas during the brainstorming phase. 
+Non-judgmental Atmosphere: Refrain from criticizing or evaluating ideas during the brainstorming phase.
 
 Free Thinking: Encourage ideas that are unconventional, imaginative, and even seemingly wild.
 

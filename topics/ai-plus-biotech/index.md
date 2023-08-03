@@ -1,10 +1,10 @@
-# AI + biotech 
+# AI + biotech
 
 AI + biotech is the combination of artificial intelligence and biological technology.
 
 Examples…
 
-Drug Development: AI algorithms can help identify potential drug candidates, predict their effectiveness, optimize drug properties, and simulate drug interactions with biological targets. 
+Drug Development: AI algorithms can help identify potential drug candidates, predict their effectiveness, optimize drug properties, and simulate drug interactions with biological targets.
 
 Precision Healthcare: AI can analyze individual patient data, including genomic information, medical records, and clinical data, to predict disease, identify treatments, and enable personalized medicine.
 

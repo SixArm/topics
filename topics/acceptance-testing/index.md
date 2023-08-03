@@ -4,9 +4,9 @@ Acceptance testing is a type of software testing that evaluates whether a softwa
 
 The goal of acceptance testing is to verify that the software meets the client's requirements and performs as expected. The testing process is typically conducted by end-users, business analysts, or quality assurance professionals, who evaluate the application's functionality, usability, and performance.
 
-There are two main types of acceptance testing: 
+There are two main types of acceptance testing:
 
-* Functional acceptance testing evaluates the software's functionality, including its features, behavior, and compliance with the client's requirements. 
+* Functional acceptance testing evaluates the software's functionality, including its features, behavior, and compliance with the client's requirements.
 
 * Non-functional acceptance testing assesses the application's performance, scalability, security, and other non-functional aspects.
 

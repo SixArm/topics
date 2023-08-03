@@ -4,7 +4,7 @@
 
 Key concepts…
 
-Data-Ink Ratio: Maximize the proportion of ink or graphical elements that directly represent the data, while minimizing non-essential decoration or "chartjunk." 
+Data-Ink Ratio: Maximize the proportion of ink or graphical elements that directly represent the data, while minimizing non-essential decoration or "chartjunk."
 
 Graphical Integrity: Maintain the integrity of the data when creating visual representations. Tufte discusses methods to avoid distortion, misleading scales, or inappropriate visual encodings.
 

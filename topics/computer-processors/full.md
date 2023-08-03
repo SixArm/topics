@@ -1,4 +1,4 @@
-# Computer processors 
+# Computer processors
 
 Computer processors are essential components that perform different types of computations and tasks in a computer system. Here's a brief overview of some common types of processors:
 

@@ -1,4 +1,4 @@
-# Partnership company 
+# Partnership company
 
 A partnership company is a business structure in which two or more individuals come together to own and operate a business. Each partner contributes capital, skills, or labor, and shares the profits and losses. A partnership company is a pass-through entity, which means that the profits and losses of the business are reported on the partners' personal tax returns.
 

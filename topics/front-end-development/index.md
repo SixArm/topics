@@ -1,4 +1,4 @@
-# Front-end development 
+# Front-end development
 
 Front-end development refers to the process of creating and implementing the user interface and user experience of a website or application. It involves coding and designing the elements that users interact with directly, such as the visual layout, navigation menus, buttons, forms, and content presentation. Front-end development is focused on the client-side of web development, responsible for how a website or application looks and behaves in the user's browser.
 

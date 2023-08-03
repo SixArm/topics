@@ -1,4 +1,4 @@
-# Unit cost 
+# Unit cost
 
 Unit cost is a financial metric that represents the cost of producing or acquiring one unit of a product or service. It is calculated by dividing the total cost of production or acquisition by the total number of units produced or acquired.
 

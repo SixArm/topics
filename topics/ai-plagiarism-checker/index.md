@@ -1,6 +1,6 @@
 # AI plagiarism checker
 
-An AI plagiarism checker is a software tool or system that utilizes artificial intelligence techniques to detect and identify instances of plagiarism in written content. It helps ensure the originality and integrity of written work by comparing it against a vast database of sources, documents, and online content to identify any similarities or potential instances of plagiarism. 
+An AI plagiarism checker is a software tool or system that utilizes artificial intelligence techniques to detect and identify instances of plagiarism in written content. It helps ensure the originality and integrity of written work by comparing it against a vast database of sources, documents, and online content to identify any similarities or potential instances of plagiarism.
 
 Key aspects…
 

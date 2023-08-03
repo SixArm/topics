@@ -1,4 +1,4 @@
-# “Superbosses” by Sydney Finkelstein 
+# “Superbosses” by Sydney Finkelstein
 
 “Superbosses: How Exceptional Leaders Master the Flow of Talent” is a book by Sydney Finkelstein that explores the qualities and practices of exceptional leaders who have a track record of developing talented individuals into successful professionals. The author examines how these leaders identify, motivate, and cultivate talent, and how their strategies lead to long-term success for both the individual and the organization.
 

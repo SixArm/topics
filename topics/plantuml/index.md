@@ -1,6 +1,6 @@
 # PlantUML
 
-PlantUML is an open-source tool that allows you to create various types of diagrams using a textual syntax. It provides a way to write diagrams as plain text and then generates the corresponding visual representations. 
+PlantUML is an open-source tool that allows you to create various types of diagrams using a textual syntax. It provides a way to write diagrams as plain text and then generates the corresponding visual representations.
 
 The PlantUML syntax is straightforward and uses a set of keywords and symbols to define the elements and relationships in the diagrams. You write the diagram description in a plain text file with a ".puml" extension. PlantUML then processes the text file and generates the corresponding diagram in various formats, such as PNG, SVG, or PDF.
 

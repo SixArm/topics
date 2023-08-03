@@ -1,4 +1,4 @@
-# Shoshin 
+# Shoshin
 
 Shoshin is a Japanese term that translates to "beginner's mind" or "beginner's attitude." It refers to the state of having an open and curious mindset, free from preconceptions and assumptions, even when engaging in tasks or activities that one may have experience or expertise in.
 

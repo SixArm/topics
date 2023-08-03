@@ -1,4 +1,4 @@
-# Cynefin framework 
+# Cynefin framework
 
 The Cynefin framework is a sense-making tool for organizational management and strategic planning. It helps leaders recognize the nature of the problems they are facing and choose approaches for addressing them. Cynefin encourages adaptive thinking, helps navigate complexity, and emphasizes the need to probe, sense, and respond.
 

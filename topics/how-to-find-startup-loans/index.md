@@ -10,7 +10,7 @@ There are many ways to finance a startup, and one popular option is to secure a 
 
 * Consider crowdfunding. Crowdfunding is a way to raise money for your business from a large number of people. There are several crowdfunding platforms, such as Kickstarter and Indiegogo, where you can create a campaign to raise money and presell products.
 
-* Explore grants and competitions. There may be grants and competitions available for you. Some programs offer cash prizes, mentorship, and other resources that can help you launch and grow your business. 
+* Explore grants and competitions. There may be grants and competitions available for you. Some programs offer cash prizes, mentorship, and other resources that can help you launch and grow your business.
 
 * Prepare a solid business plan or pitch deck. Lenders and investors want to see a solid business plan or pitch deck that outlines your strategy, goals, and financial projections.
 

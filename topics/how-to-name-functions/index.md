@@ -1,10 +1,10 @@
 # How to name functions
 
-Naming functions is an essential aspect of writing clean and maintainable code. A well-chosen function name should be descriptive, concise, and meaningful, providing a clear indication of its purpose and behavior. 
+Naming functions is an essential aspect of writing clean and maintainable code. A well-chosen function name should be descriptive, concise, and meaningful, providing a clear indication of its purpose and behavior.
 
 Tips…
 
-Use descriptive names: Choose names that clearly describe what the function does, like "calculateTotal," "sendEmail," or "validateInput". Avoid generic names like "process," "execute," or "handle." 
+Use descriptive names: Choose names that clearly describe what the function does, like "calculateTotal," "sendEmail," or "validateInput". Avoid generic names like "process," "execute," or "handle."
 
 Follow a consistent style: Stick to a consistent naming convention throughout your codebase. Common conventions include camelCase (e.g., calculateInterestRate) or snake_case (e.g., check_file_exists).
 

@@ -1,6 +1,6 @@
 # Machine learning parameters
 
-In machine learning, parameters are variables that are learned from the training data during the training process. These parameters define the characteristics of the model and its decision boundaries, allowing the model to make predictions or classifications on new, unseen data. The specific parameters depend on the type of machine learning algorithm being used. 
+In machine learning, parameters are variables that are learned from the training data during the training process. These parameters define the characteristics of the model and its decision boundaries, allowing the model to make predictions or classifications on new, unseen data. The specific parameters depend on the type of machine learning algorithm being used.
 
 Examples…
 

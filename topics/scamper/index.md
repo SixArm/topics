@@ -1,4 +1,4 @@
-# SCAMPER 
+# SCAMPER
 
 SCAMPER is a creative thinking technique used to stimulate idea generation and innovative problem-solving. It is an acronym for prompts to examine existing ideas or concepts, and transform them into new and improved versions.
 

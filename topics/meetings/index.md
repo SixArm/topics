@@ -12,7 +12,7 @@ Preparation: Participants should be given sufficient time to prepare for the mee
 
 Facilitation: A designated meeting facilitator helps guide the discussion, keeps the meeting on track, ensures everyone has an opportunity to contribute, and manages the allotted time.
 
-Communication: Participants should listen actively, express their thoughts clearly, and ask clarifying questions when needed. 
+Communication: Participants should listen actively, express their thoughts clearly, and ask clarifying questions when needed.
 
 Decision-Making: Provide a structured process for decisions. This may involve discussing options, gathering input, weighing pros and cons, and reaching a consensus or taking a vote.
 

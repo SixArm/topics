@@ -1,7 +1,7 @@
 # Agile software development methodology
 
 Agile software development methodology is an iterative and incremental approach to software development that prioritizes flexibility, small frequent releases, and ongoing collaboration with customers.
-There are several different frameworks for Agile software development, including Scrum, Kanban, and Extreme Programming (XP), among others. 
+There are several different frameworks for Agile software development, including Scrum, Kanban, and Extreme Programming (XP), among others.
 
 Key principles…
 

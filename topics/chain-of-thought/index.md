@@ -6,7 +6,7 @@ Key stages…
 
 Input Processing: The AI model receives input data, which could be text, images, or other forms of data, depending on the type of AI model. For language models, the input is typically a sequence of words.
 
-Embedding: The input data is converted into a mathematical representation called an embedding. In natural language processing, for example, words or tokens are mapped to dense vectors in high-dimensional space. 
+Embedding: The input data is converted into a mathematical representation called an embedding. In natural language processing, for example, words or tokens are mapped to dense vectors in high-dimensional space.
 
 Computation: The embedded data is processed through layers of artificial neurons in the model. Each layer performs computations, such as matrix multiplications, element-wise operations, and activation functions.
 

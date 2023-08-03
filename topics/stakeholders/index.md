@@ -1,4 +1,4 @@
-# Stakeholders 
+# Stakeholders
 
 In a business context, stakeholders are individuals and groups who have roles in the operations, decisions, and outcomes of a project or organization. These can include customers, employees, investors, suppliers, agencies, communities, and others who are impacted by the activities of the project or organization.
 

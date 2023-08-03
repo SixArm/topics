@@ -1,4 +1,4 @@
-# WYSIWYG 
+# WYSIWYG
 
 WYSIWYG stands for "What You See Is What You Get." It refers to an interface or editor that allows users to see the final output of their work exactly as it will appear to the end-user. In other words, what is displayed on the screen during the editing process closely resembles the final printed or published result.
 

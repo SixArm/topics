@@ -1,4 +1,4 @@
-# Vector clock 
+# Vector clock
 
 Vector clock is a technique used in distributed systems to provide a partial ordering of events and to track causality among them. It is an algorithm that assigns a unique identifier, called a vector, to each event in a distributed system. The vector is a list of integers, where each integer represents the number of events that have occurred in a particular process.
 

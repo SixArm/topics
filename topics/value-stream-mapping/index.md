@@ -1,6 +1,6 @@
 # Value Stream Mapping (VSM)
 
-Value Stream Mapping (VSM) is a lean manufacturing technique used to analyze, visualize, and improve the flow of materials and information through a process. The value stream is defined as the sequence of activities required to transform raw materials or information into a finished product or service that is of value to the customer. 
+Value Stream Mapping (VSM) is a lean manufacturing technique used to analyze, visualize, and improve the flow of materials and information through a process. The value stream is defined as the sequence of activities required to transform raw materials or information into a finished product or service that is of value to the customer.
 
 Creating this involves several steps:
 

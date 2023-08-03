@@ -1,4 +1,4 @@
-# Training data, 
+# Training data,
 
 Training data, in the context of machine learning, refers to a labeled dataset used to train a machine learning model. It is the initial set of data that the model uses to learn patterns, relationships, and features from input examples and their corresponding output labels. The training data plays a fundamental role in the process of building and fine-tuning machine learning models.
 
