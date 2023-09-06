@@ -31,7 +31,7 @@ Topics sampler:
 
 # Startup Business Guide
 
-Covers topics such as entrepreneurship, pitch decks, market/customer/product discovery, product-market fit (PMF), minimum viable product (MVP), industries and sectors, roles and responsbilties, sales and marketing, and venture capital (VC).
+Covers topics such as entrepreneurship, pitch decks, market/customer/product discovery, product-market fit (PMF), minimum viable product (MVP), industries and sectors, roles and responsibilities, sales and marketing, and venture capital (VC).
 
 * Get it via [Gumroad](https://gumroad.com/l/startup-business-guide) or [GitHub](https://github.com/sixarm/startup-business-guide)
 
@@ -63,7 +63,7 @@ Topics sampler:
 
 # Business Lingo Guide
 
-Learn topics for workplace teamwork, such as analysis tools like the 2x2 grid, aphorisms like the Pereto Principle, idioms like "Get on the front foot", quotations like "Make mistakes faster", and soft skills like how to collaborate.
+Learn topics for workplace teamwork, such as analysis tools like the 2x2 grid, aphorisms like the Pareto Principle, idioms like "Get on the front foot", quotations like "Make mistakes faster", and soft skills like how to collaborate.
 
 * Get it via [Gumroad](https://gumroad.com/l/business-lingo-guide) or [GitHub](https://github.com/sixarm/business-lingo-guide)
 

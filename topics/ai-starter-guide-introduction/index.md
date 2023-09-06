@@ -56,7 +56,7 @@ Yes there are three more guides that may be of interest to you.
 
 Startup Business Guide:
 
-* Learn about startup concepts that help with entrepreneurship. Some examples are pitch decks, market/customer/product discovery, product-market fit (PMF), minimum viable product (MVP), technology industries and sectors, company roles and responsbilties, sales and marketing, venture capital (VC) and investors, legal entities and useful contracts.
+* Learn about startup concepts that help with entrepreneurship. Some examples are pitch decks, market/customer/product discovery, product-market fit (PMF), minimum viable product (MVP), technology industries and sectors, company roles and responsibilities, sales and marketing, venture capital (VC) and investors, legal entities and useful contracts.
 
 * Get it via [Gumroad](https://gumroad.com/l/startup-business-guide) or [GitHub](https://github.com/sixarm/startup-business-guide)
 
@@ -68,6 +68,6 @@ UI/UX Design Guide:
 
 Business Lingo Guide:
 
-* Learn about popular terminology that shows up in United-States-oriented workplaces and projects. Some examples are aphorisms like "Conway's Law" and "The Pereto Principle", idioms like "Get on the front foot" and "Unknown unknowns", and quotations like "Execution eats strategy for lunch" and "Make mistakes faster". This guide can be especially helpful for cross-cultural communication.
+* Learn about popular terminology that shows up in United-States-oriented workplaces and projects. Some examples are aphorisms like "Conway's Law" and "The Pareto Principle", idioms like "Get on the front foot" and "Unknown unknowns", and quotations like "Execution eats strategy for lunch" and "Make mistakes faster". This guide can be especially helpful for cross-cultural communication.
 
 * Get it via [Gumroad](https://gumroad.com/l/business-lingo-guide) or [GitHub](https://github.com/sixarm/business-lingo-guide)

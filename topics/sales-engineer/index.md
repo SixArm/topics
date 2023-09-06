@@ -2,7 +2,7 @@
 
 A Sales Engineer, also known as a Technical Sales Engineer or a Pre-Sales Engineer, supports the sales process of complex products and services. Sales Engineers bridge the gap between the needs of potential customers and the company's technical offerings.
 
-Key responsibilties include:
+Key responsibilities include:
 
 * Customer Engagement: Engage with potential customers to understand their business objectives and challenges. Research to how the company's products or services can address customer needs. Act as a trusted advisor for consultative support.
 

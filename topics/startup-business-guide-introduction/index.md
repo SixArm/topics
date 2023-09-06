@@ -71,6 +71,6 @@ UI/UX Design Guide:
 
 Business Lingo Guide:
 
-* Learn about popular terminology that shows up in United-States-oriented workplaces and projects. Some examples are aphorisms like "Conway's Law" and "The Pereto Principle", idioms like "Get on the front foot" and "Unknown unknowns", and quotations like "Execution eats strategy for lunch" and "Make mistakes faster". This guide can be especially helpful for cross-cultural communication.
+* Learn about popular terminology that shows up in United-States-oriented workplaces and projects. Some examples are aphorisms like "Conway's Law" and "The Pareto Principle", idioms like "Get on the front foot" and "Unknown unknowns", and quotations like "Execution eats strategy for lunch" and "Make mistakes faster". This guide can be especially helpful for cross-cultural communication.
 
 * Get it via [Gumroad](https://gumroad.com/l/business-lingo-guide) or [GitHub](https://github.com/sixarm/business-lingo-guide)

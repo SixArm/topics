@@ -20,4 +20,4 @@ Vanishing Gradient Problem: For very large positive or negative input values, th
 
 Symmetry: The sigmoid function is symmetric around the origin (0, 0.5), meaning that it maps both positive and negative inputs close to 0.5.
 
-The sigmoid activation function was widely used in the past, but became less popular for deep learning architectures. The vanishing gradient problem and the tendency of the sigmoid function to saturate for extreme inputs can hinder the training of deep neural networks, particularly in networks with many layers. For hidden layers in deep neural networks, the ReLU (Rectified Linear Unit) activation function and its variants (Leaky ReLU, Parametric ReLU, ELU) are commonly preferred over the sigmoid function.
+The sigmoid activation function was widely used in the past. For hidden layers in deep neural networks, the ReLU (Rectified Linear Unit) activation function and its variants (Leaky ReLU, Parametric ReLU, ELU) are commonly preferred.
