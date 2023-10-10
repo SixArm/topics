@@ -1,4 +1,4 @@
-# Insertion sort
+# Insertion sort algorithm
 
 Insertion sort is a simple sorting algorithm that builds the final sorted array one item at a time. It works by taking one element from the unsorted part of the list and inserting it into its correct position in the sorted part of the list. Insertion sort is efficient for small lists or lists that are mostly sorted.
 

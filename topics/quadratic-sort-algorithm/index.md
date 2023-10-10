@@ -1,4 +1,4 @@
-# Quadratic sort
+# Quadratic sort algorithm
 
 A quadratic sort algorithm is a class of sort algorithms. They are relatively easy to understand and implement. Two common examples are bubble sort and insertion sort. 
 

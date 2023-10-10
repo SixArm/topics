@@ -1,4 +1,4 @@
-# Quick sort
+# Quick sort algorithm
 
 Quick sort is a widely used, efficient, and in-place sorting algorithm. It is a divide-and-conquer algorithm that works by selecting a "pivot" element from the array and partitioning the other elements into two sub-arrays, according to whether they are less than or greater than the pivot. The sub-arrays are then sorted recursively. Quick sort is known for its speed and is commonly used in many programming libraries and applications.
 

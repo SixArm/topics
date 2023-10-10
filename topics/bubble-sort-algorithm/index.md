@@ -1,8 +1,8 @@
 # Bubble sort algorithm
 
-Bubble Sort is a simple sorting algorithm that repeatedly steps through the list, compares adjacent elements, and swaps them if they are in the wrong order. The pass through the list is repeated until the list is sorted. It is named "Bubble Sort" because the smaller elements "bubble" to the top of the list as the algorithm progresses. 
+Bubble sort is a simple sorting algorithm that repeatedly steps through the list, compares adjacent elements, and swaps them if they are in the wrong order. The pass through the list is repeated until the list is sorted. It is named "bubble sort" because the smaller elements "bubble" to the top of the list as the algorithm progresses. 
 
-Bubble Sort is not efficient for large lists, but it is easy to understand and implement, making it a common educational example.
+Bubble sort is not efficient for large lists, but it is easy to understand and implement, making it a common educational example.
 
 Steps…
 
@@ -16,4 +16,4 @@ Continue: Continue this process of comparing and swapping adjacent elements as y
 
 Repeat: Repeat the process for a total of n-1 passes, where n is the number of elements in the list. After each pass, the largest unsorted element will "bubble up" to its correct position.
 
-Optimization: Bubble Sort can be optimized by adding a flag to check if any swaps were made during a pass. If no swaps are made in a pass, the list is already sorted, and the algorithm can terminate early.
+Optimization: Bubble sort can be optimized by adding a flag to check if any swaps were made during a pass. If no swaps are made in a pass, the list is already sorted, and the algorithm can terminate early.
