@@ -6,14 +6,14 @@ One of the most popular algorithms for finding a minimum spanning tree is Kruska
 
 Kruskal's algorithm works by iteratively adding the smallest weighted edges to the growing MST while avoiding the formation of cycles. The algorithm is efficient and straightforward to implement.
 
-Steps…
+Steps:
 
-Sort Edges: Sort all the edges in the graph in non-decreasing order of their weights.
+1. Sort Edges: Sort all the edges in the graph in non-decreasing order of their weights.
 
-Initialize MST: Create an empty set to represent the MST.
+2. Initialize MST: Create an empty set to represent the MST.
 
-Iterate Over Edges: Starting with the smallest edge, iterate through the sorted edges. For each edge, check if adding it to the MST would form a cycle. If adding the edge does not create a cycle, include it in the MST. You can use the Union-Find data structure to efficiently check for cycles.
+3. Iterate Over Edges: Starting with the smallest edge, iterate through the sorted edges. For each edge, check if adding it to the MST would form a cycle. If adding the edge does not create a cycle, include it in the MST. You can use the Union-Find data structure to efficiently check for cycles.
 
-Continue: Repeat step 3 until the MST has V-1 edges, where V is the number of vertices in the graph. This ensures that the MST spans all the vertices.
+4. Continue: Repeat step 3 until the MST has V-1 edges, where V is the number of vertices in the graph. This ensures that the MST spans all the vertices.
 
-Output MST: The result is a minimum spanning tree.
+5. Output MST: The result is a minimum spanning tree.

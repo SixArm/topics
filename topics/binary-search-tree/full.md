@@ -6,12 +6,12 @@ The key property of a BST is that it maintains an ordered structure, which makes
 
 Here are some important points to understand about Binary Search Trees:
 
-* Searching: Searching for an element in a BST is efficient because the structure of the tree allows for a divide-and-conquer approach. The search time complexity in a balanced BST is O(log n), where "n" is the number of nodes in the tree. In the worst case, when the tree is unbalanced, it can be O(n).
+* Search: Use a divide-and-conquer approach. The search time complexity in a balanced BST is O(log n), where "n" is the number of nodes in the tree. In the worst case, when the tree is unbalanced, it can be O(n).
 
-* Insertion: Inserting an element into a BST involves finding the correct place for the element based on its value and then adding it as a leaf node. The insertion time complexity is also O(log n) on average in a balanced tree.
+* Insert: Find the correct place for the element based on its value and then adding it as a leaf node. The insertion time complexity is also O(log n) on average in a balanced tree.
 
-* Deletion: Deleting an element from a BST can be more complex than insertion because you need to maintain the binary search tree property. It involves cases where the node to be deleted has zero, one, or two children. The deletion time complexity is O(log n) on average in a balanced tree.
+* Delete: Deleting an element from a BST can be more complex than insertion because you need to maintain the binary search tree property. It involves cases where the node to be deleted has zero, one, or two children. The deletion time complexity is O(log n) on average in a balanced tree.
 
-* Traversal: You can traverse a BST in various orders, including in-order (ascending order), pre-order, and post-order. In-order traversal of a BST gives you a sorted list of elements.
+* Traverse: You can traverse a BST in various orders, including in-order (ascending order), pre-order, and post-order. In-order traversal of a BST gives you a sorted list of elements.
 
-* Balanced BSTs: To ensure efficient operations, it's important to keep the tree balanced. There are self-balancing binary search tree data structures like AVL trees and Red-Black trees that automatically maintain balance.
+* Balance: To ensure efficient operations, it's important to keep the tree balanced. There are self-balancing binary search tree data structures like AVL trees and Red-Black trees that automatically maintain balance.

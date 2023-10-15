@@ -8,8 +8,8 @@ Hash Function: A hash function takes a key as input and generates an index withi
 
 Array or Bucket: The hash table itself is usually an array of fixed or dynamic size, called buckets or slots. Each slot can store one or more key-value pairs. The size of the array influences the efficiency of the hash table.
 
-Insertion: To insert a key-value pair into the hash table, the hash function is applied to the key to determine the index in the array where the pair should be stored. If multiple pairs map to the same index (a collision), various collision resolution techniques can be used, such as chaining (using linked lists) or open addressing.
+Retrieve: To retrieve a value associated with a given key, the same hash function is applied to the key to find the corresponding index in the hash table. The value at that index is returned. If chaining is used, the elements in the bucket may need to be searched linearly.
 
-Retrieval: To retrieve a value associated with a given key, the same hash function is applied to the key to find the corresponding index in the hash table. The value at that index is returned. If chaining is used, the elements in the bucket may need to be searched linearly.
+Insert: To insert a key-value pair into the hash table, the hash function is applied to the key to determine the index in the array where the pair should be stored. If multiple pairs map to the same index (a collision), various collision resolution techniques can be used, such as chaining (using linked lists) or open addressing.
 
-Deletion: To delete a key-value pair, the key is hashed to determine the index and then removed from the array. Handling collisions during deletion depends on the collision resolution technique used.
+Delete: To delete a key-value pair, the key is hashed to determine the index and then removed from the array. Handling collisions during deletion depends on the collision resolution technique used.

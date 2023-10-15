@@ -1,10 +1,10 @@
-# binary heap
+# Binary heap
 
 A binary heap data structure is a specialized tree that is efficient for maintaining a dynamically changing collection of elements with efficient insertion, deletion, and retrieval of the minimum element or maximum element. 
 
-A binary heap is commonly used for implementing priority queues and serves as a fundamental component in various other algorithms, including heapsort.
+A binary heap is commonly used for implementing priority queues, and is a component in other algorithms, including heapsort.
 
-Key characteristics and operations…
+Key aspects…
 
 Heap Property: 
 
@@ -14,9 +14,9 @@ Heap Property:
 
 Basic Operations:
 
-* Insertion: To insert a new element into a binary heap, you typically add it as a leaf node and then "bubble it up" or "percolate it up" by swapping it with its parent until the heap property is restored.
+* Insert: To insert a new element into a binary heap, you typically add it as a leaf node and then "bubble it up" or "percolate it up" by swapping it with its parent until the heap property is restored.
 
-* Deletion: To remove the top (root) element from a binary heap, you replace it with the last leaf node, remove the last leaf, and then "bubble it down" or "percolate it down" by swapping it with its smaller (in a min-heap) or larger (in a max-heap) child until the heap property is restored.
+* Delete: To remove the top (root) element from a binary heap, you replace it with the last leaf node, remove the last leaf, and then "bubble it down" or "percolate it down" by swapping it with its smaller (in a min-heap) or larger (in a max-heap) child until the heap property is restored.
 
 * Peek: To access the top element without removing it, you simply return the root element.
 

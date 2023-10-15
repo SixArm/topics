@@ -1,6 +1,8 @@
 # Graph algorithms
 
-Graph algorithms are a set of techniques used to solve problems that involve graphs, which are data structures composed of nodes and edges that connect them. There are many types of graph algorithms, but some of the most common ones include:
+Graph algorithms are a set of techniques used to solve problems that involve graphs, which are data structures composed of nodes and edges that connect them. 
+
+Some common ones:
 
 * Breadth-First Search (BFS): This algorithm is used to traverse a graph, visiting all nodes at the same level before moving to the next level. It starts at a node and explores all the nodes at the same level before moving to the next level.
 

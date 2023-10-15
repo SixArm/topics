@@ -6,7 +6,7 @@ SCCs are essential in various applications, such as optimizing network flows, an
 
 One of the most commonly used algorithms to find SCCs is Kosaraju's algorithm. 
 
-Steps…
+Steps:
 
 1. Compute the Reverse Graph. Create a new graph with the same vertices as the original graph, but with all edges reversed. This is done by reversing the direction of each edge.
 
