@@ -2,7 +2,7 @@
 
 A splay tree is a type of self-adjusting binary search tree (BST) that optimizes its structure for frequently accessed elements. It achieves this by bringing recently accessed nodes closer to the root through a process called "splaying". Splaying involves a series of tree rotations and other operations to move the accessed node to the root position. While splay trees do not guarantee a balanced tree structure in the traditional sense (such as AVL trees or Red-Black trees), they exhibit excellent amortized performance.
 
-Key operations…
+Key operations:
 
 * Splay: Splaying is the core operation in a splay tree. When you access a node (e.g., by searching for a value), the tree is restructured so that the accessed node becomes the root. Splaying involves a series of rotations, zig-zag and zig-zig operations, and other transformations to move the accessed node closer to the root.
 

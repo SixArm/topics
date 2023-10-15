@@ -1,6 +1,6 @@
 # Kosaraju's algorithm
 
-Kosaraju's algorithm is a graph algorithm used to find strongly connected components (SCCs) within a directed graph. Strongly connected components are subgraphs in which every pair of nodes is reachable from each other, meaning there is a directed path from one node to another and vice versa within the component. This algorithm was developed by S. Rao Kosaraju in 1978.
+Kosaraju's algorithm is a graph algorithm used to find strongly connected components (SCCs) within a directed graph. Strongly connected components are subgraphs in which every pair of nodes is reachable from each other, meaning there is a directed path from one node to another and vice versa within the component. 
 
 Kosaraju's algorithm is often used in applications where understanding the structure of strongly connected components in a directed graph is essential, such as in compilers for optimizing code generation, in circuit design, and in various network-related algorithms. It's an efficient and straightforward way to find SCCs in a directed graph.
 

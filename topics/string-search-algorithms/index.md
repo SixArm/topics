@@ -4,9 +4,9 @@ String search algorithms, also known as string matching algorithms, are used to 
 
 Some common ones:
 
-* Brute Force (Naive) String Search: Check for a pattern match at each possible starting position in the text. Time complexity is `O(n*m)`.
+* Brute Force (Naive) String Search: Check for a pattern match at each possible starting position. Time complexity `O(n*m)`.
 
-* Knuth-Morris-Pratt (KMP) Algorithm: Preprocess the pattern to determine the maximum length of the proper suffix that matches a proper prefix. Use this data to avoid unnecessary comparisons during string searching, resulting in a linear time complexity `O(n+m)`.
+* Knuth-Morris-Pratt (KMP) Algorithm: Preprocess the pattern to determine the maximum length of the proper suffix that matches a proper prefix. Use this data to avoid unnecessary comparisons during string searching. Time complexity `O(n+m)`.
 
 * Boyer-Moore Algorithm: Use two heuristic rules, the bad character rule and the good suffix rule, to skip comparisons and achieve sublinear time complexity in practice.
 
@@ -16,6 +16,6 @@ Some common ones:
 
 * Z-Algorithm: Computes the Z-array, which represents the longest substring starting from each position that matches the beginning of the text. Good for multiple patterns.
 
-* Trie Data Structure: A tree-like structure that stores a dynamic set of strings. It is commonly used for dictionary search and autocomplete.
+* Trie Data Structure: A tree-like structure that stores a dynamic set of strings. It is useful for dictionary search and autocomplete.
 
-* Regular Expressions (Regex): A powerful way to define search patterns for text using a formal language. Regex engines are available in many programming languages and are widely used for text pattern matching.
+* Regular Expressions (Regex): A powerful way to define search patterns for text using a formal language. Regex engines are available in many programming languages and are widely used.

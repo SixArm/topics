@@ -1,6 +1,6 @@
 # Boyer-Moore algorithm
 
-The Boyer-Moore algorithm is an efficient string searching algorithm used to find occurrences of a pattern string within a longer text string. It is a preferred choice for string searching, especially when searching for multiple occurrences of a pattern within a large text. Average-case time complexity is `O(n+m)`.
+The Boyer-Moore algorithm is an efficient string searching algorithm used to find occurrences of a pattern string within a longer text string. It is a preferred choice when searching for multiple occurrences of a pattern. Average-case time complexity is `O(n+m)`.
 
 Two key strategies:
 

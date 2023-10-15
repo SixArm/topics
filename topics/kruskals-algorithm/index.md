@@ -1,8 +1,6 @@
 # Kruskal's algorithm
 
-Kruskal's algorithm is a popular greedy algorithm used for finding the minimum spanning tree (MST) of a connected, undirected graph. The minimum spanning tree is a subset of the graph's edges that forms a tree, connecting all vertices while minimizing the total edge weight. 
-
-If the graph is disconnected, Kruskal's algorithm can be modified to find a minimum spanning forest, which is a collection of minimum spanning trees, one for each connected component of the graph.
+Kruskal's algorithm is a popular greedy algorithm used for finding the minimum spanning tree (MST) of a connected, undirected graph. The minimum spanning tree is a subset of the graph's edges that forms a tree, connecting all vertices while minimizing the total edge weight. If the graph is disconnected, Kruskal's algorithm can be modified to find a minimum spanning forest.
 
 Steps:
 
