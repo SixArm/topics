@@ -8,7 +8,7 @@ Goals: Identify business goals that can be addressed through AI, such as improvi
 
 Data: Harness relevant data sources, ensuring data quality, availability, and security. AI models rely on this data for training.
 
-Talent: Assess capabilties to guide employee upskilling or equivalent hiring in AI-related fields such as data science, machine learning, business analysis, and AI programming.
+Talent: Assess capabilities to guide employee upskilling or equivalent hiring in AI-related fields such as data science, machine learning, business analysis, and AI programming.
 
 Roadmap: Develop specific use cases. Prioritize them based on their potential impact and feasibility. Plan the implementation, then do it.
 
