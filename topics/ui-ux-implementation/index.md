@@ -2,7 +2,7 @@
 
 UI/UX implementation refers to the process of bringing the user interface (UI) and user experience (UX) designs to life. It involves translating the design concepts, wireframes, and prototypes into functional and visually appealing digital products, such as websites, mobile applications, or software interfaces.
 
-Key steps…
+**Key aspects**:
 
 Front-End Development: Front-end developers use web technologies such as HTML, CSS, and JavaScript to code the visual elements and interactive components of the user interface. This includes working with typography, iconography, grid systems, mobile-first design, visual designers, interaction designers, and more.
 

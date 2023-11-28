@@ -4,7 +4,7 @@ A binary heap data structure is a specialized tree that is efficient for maintai
 
 A binary heap is commonly used for implementing priority queues, and is a component in other algorithms, including heapsort.
 
-Key aspects…
+**Key aspects**:
 
 Heap Property: 
 

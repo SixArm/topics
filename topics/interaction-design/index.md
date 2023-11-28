@@ -2,7 +2,7 @@
 
 Interaction design refers to the process of creating meaningful and engaging interactions between users and digital products or systems. It focuses on designing how users interact with a product, such as websites, mobile applications, software interfaces, or physical devices, to achieve specific goals and tasks.
 
-Key aspects…
+**Key aspects**:
 
 User-Centered Approach: Interaction design follows a user-centered approach, placing the needs, goals, and behaviors of users at the forefront. It involves understanding user requirements, conducting user research, and empathizing with users to design interactions that meet their needs effectively.
 

@@ -2,7 +2,7 @@
 
 Developer Relations (DR), also known as Developer Advocacy or Developer Evangelism, is a strategic function within a company that focuses on nurturing relationships with software developers, technical communities, and the broader ecosystem. The DR team fosters engagement, trust, and collaboration between the company and developers by providing support, resources, and advocacy.
 
-Key aspects…
+**Key aspects**:
 
 Engagement: Engage with developers, technology influencers, industry experts, and thought leaders, through channels such as developer events, online communities, social media, and developer meetups. Participate in technical discussions, answer questions, and provide guidance to developers working with the company's technologies.
 

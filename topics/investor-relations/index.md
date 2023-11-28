@@ -2,7 +2,7 @@
 
 Investor relations (IR) refers to the strategic management of communication and relationships between a company and its investors, shareholders, financial analysts, and other stakeholders in the financial community. The IR team conveys the company's financial performance, business strategy, and future prospects to the investment community while maintaining transparency, building trust, and maximizing shareholder value.
 
-Key aspects…
+**Key aspects**:
 
 Financial Reporting: Work closely with accounting teams to prepare financial statements and regulatory filings. Provide information on the company's financial health, performance, and operating results.
 

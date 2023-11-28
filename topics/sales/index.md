@@ -2,7 +2,7 @@
 
 Sales is a company function or department responsible for selling products or services to customers. The primary objective of the sales department is to generate sales and contribute to the company's growth and profitability. The sales team acquires new customers, nurtures relationships with existing customers, and maximizes revenue.
 
-Key aspects…
+**Key aspects**:
 
 Customer Acquisition: Prospect for potential customers. Research target markets, identify and qualify leads, and initiate contact. This may involve activities such as cold calling, email outreach, and attending events, consultative selling, product demonstrations, and negotiations.
 

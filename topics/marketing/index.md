@@ -2,7 +2,7 @@
 
 Marketing is a comprehensive business function that involves understanding customer needs and wants, creating and delivering value, and building strong customer relationships. It aims to promote products, services, or brands to a target audience, and ultimate drive customer acquisition, retention, and satisfaction.
 
-Key areas…
+**Key aspects**:
 
 Marketing Strategy: Set objectives, identify target segments, create positioning, and determine the marketing mix using the 4 Ps: product, price, place, promotion. Use market research on customers, competitors, demographics, and the ecosystem.
 

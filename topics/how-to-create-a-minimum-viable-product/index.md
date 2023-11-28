@@ -2,7 +2,7 @@
 
 Creating a Minimum Viable Product (MVP) is a common approach for startups and product development teams to quickly test their ideas with minimal resources. The goal is to get a basic version of the product into the hands of users, to validate assumptions and gather feedback for improvements.
 
-Key steps…
+**Key aspects**:
 
 Define: Clearly define your target audience and their problems. Understanding the specific pain points and needs of your potential users is crucial in developing an MVP that resonates with them.
 

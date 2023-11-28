@@ -2,7 +2,7 @@
 
 Government Relations, also known as Government Affairs or Public Affairs, refers to a company function that manages the relationship between the company and various government entities. The GR team engages with government officials, policymakers, and regulatory bodies to influence public policy, advocate for the company's interests, and ensure a favorable regulatory environment.
 
-Key aspects…
+**Key aspects**:
 
 Policy Analysis:Track proposed laws, regulations, and policies, that could impact the company's operations, industry, or market. Analyze the potential impact of these policies to provide strategic guidance to stakeholders.
 
