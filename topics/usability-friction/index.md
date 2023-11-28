@@ -1,6 +1,6 @@
 #  Usability friction
 
-Friction, in the context of usabilitiy and product design, refers to the resistance or obstacles that users may encounter when interacting with a product. It encompasses any elements that make the user experience less smooth or efficient. Reducing friction is a key goal in product design because it can lead to improved user satisfaction, increased engagement, and better overall product performance.
+Friction, in the context of usability and product design, refers to the resistance or obstacles that users may encounter when interacting with a product. It encompasses any elements that make the user experience less smooth or efficient. Reducing friction is a key goal in product design because it can lead to improved user satisfaction, increased engagement, and better overall product performance.
 
 Common areas where friction can occur…
 

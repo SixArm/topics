@@ -1,8 +1,8 @@
-# Eliminating UX friction
+# UI/UX friction - recommendations
 
-Eliminating usability friction is a critical goal in design and user experience. Reducing friction makes it easier for users to interact with a product, website, or application, leading to increased user satisfaction, improved engagement, and more successful task completion. 
+Reducing usability friction is a critical goal in design and user experience, because reducing friction makes it easier for users to interact with a product, website, or application. This leads to increased user satisfaction, improved engagement, and more successful task completion. 
 
-Strategies…
+Recommendations…
 
 Focus: Present relevant content and information concisely. Prioritize and structure content effectively.
 

@@ -1,8 +1,8 @@
-# Reduce cognitive load
+# Cognitive load - recommendations
 
-Reducing cognitive load in product design not only makes the user experience more efficient and enjoyable but also increases the likelihood of users successfully completing tasks and returning to the product. It is a fundamental aspect of creating user-friendly and intuitive interfaces.
+Reducing cognitive load in product design makes the user experience more efficient and enjoyable, and also increases the likelihood of users successfully completing tasks and returning to the product. It is a fundamental aspect of creating user-friendly and intuitive interfaces.
 
-Strategies…
+Recommendations…
 
 Simplify and Streamline: Minimize complexity and simplify tasks and processes. Remove unnecessary steps and information.
 
