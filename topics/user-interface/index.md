@@ -14,6 +14,6 @@ Presentation: Show content in clear understandable ways. Use visual hierarchy, t
 
 Consistency: Use established design systems, style guides, pattern libraries, conventions, and industry standards, because these help users understand how to interact with the system.
 
-Accessibility: Consider accessibility principles to ensure that the interface is usable and inclusive for all users, including those with disabilities and impairments. Follow accessbility guidelines and laws.
+Accessibility: Consider accessibility principles to ensure that the interface is usable and inclusive for all users, including those with disabilities and impairments. Follow accessibility guidelines and laws.
 
 Testing: Conduct usability testing and gather feedback to refine the interface and improve it. Identify pain points and opportunities for improvement. Use results for continuous improvement.
