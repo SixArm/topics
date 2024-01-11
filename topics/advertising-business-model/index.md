@@ -2,7 +2,7 @@
 
 The advertising business model is a type of business model where a company generates revenue by selling advertising space or time to other companies. In this model, the company's primary focus is on creating content or services that will attract a large audience or user base, which can then be monetized through advertising.
 
-**Key aspects**:
+**Key aspects:**
 
 * **Audience or user base**: The company creates content or services that attract a large audience or user base. This can take various forms, such as a website, mobile app, or social media platform.
 

@@ -1,6 +1,6 @@
 # Binary search algorithm
 
-Binary search is an efficient algorithm for finding a specific target element within a sorted list or array. It works by repeatedly dividing the search interval in half, eliminating half of the remaining elements at each step. 
+Binary search is an efficient algorithm for finding a specific target element within a sorted list or array. It works by repeatedly dividing the search interval in half, eliminating half of the remaining elements at each step.
 
 Binary search has a time complexity of O(log n), where n is the number of elements in the list. This means it has a much faster runtime than linear search, especially for large datasets. However, it requires that the input data be sorted.
 

@@ -1,6 +1,6 @@
 # Meeting types
 
-There are several types of meetings that serve different purposes within organizations. Here are some common types:
+There are several types of meetings that serve different purposes within organizations. Here are some Typical types:
 
 * Informational Meetings: These meetings are held to provide updates, share information, or communicate important announcements. They are typically one-way communication, with one person or a small group presenting information to the rest of the attendees.
 

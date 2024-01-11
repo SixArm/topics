@@ -2,7 +2,7 @@
 
 Sunk cost refers to the costs that have already been incurred and cannot be recovered, regardless of future actions or decisions. These costs are essentially in the past and should not be considered when making current or future decisions. The concept of sunk cost is important in various fields, including economics, business, and decision-making.
 
-**Key aspects**:
+**Key aspects:**
 
 Irretrievable Expenses: Sunk costs are expenses that have already been paid or invested and cannot be recovered, regardless of the decision taken in the future. These costs are "sunk" because they are beyond retrieval.
 

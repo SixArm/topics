@@ -1,6 +1,6 @@
-# Business-to-consumer (B2C)
+# Business-to-Consumer (B2C)
 
-Business-to-consumer (B2C) refers to a type of commerce transaction where a business sells goods or services directly to consumers who are the end-users of those goods or services. This means that the products or services are aimed at individual customers who will use or consume them.
+Business-to-Consumer (B2C) refers to a type of commerce transaction where a business sells goods or services directly to consumers who are the end-users of those goods or services. This means that the products or services are aimed at individual customers who will use or consume them.
 
 In B2C transactions, the focus is on the individual consumer, and the business must create a strong brand image and reputation to attract and retain customers. Marketing and advertising efforts are geared towards creating awareness and demand among consumers, and the business must strive to provide a satisfying customer experience, including convenient payment methods, easy returns, and customer support.
 

@@ -1,6 +1,6 @@
-# Business-to-business (B2B)
+# Business-to-Business (B2B)
 
-Business-to-business (B2B) refers to a commercial transaction between two or more businesses. It involves the exchange of products, services, or information between businesses instead of between businesses and consumers.
+Business-to-Business (B2B) refers to a commercial transaction between two or more businesses. It involves the exchange of products, services, or information between businesses instead of between businesses and consumers.
 
 B2B transactions are typically larger and more complex than B2C (business-to-consumer) transactions, as they often involve large quantities of products or services and require more negotiation and communication between parties. B2B transactions can involve both tangible goods and intangible services such as software or consulting services.
 

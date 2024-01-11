@@ -4,13 +4,13 @@ A patent is a form of intellectual property that grants an inventor the exclusiv
 
 To obtain a patent, an inventor must file a patent application with the patent office. The application outlines the details of the invention, including how it works, and what makes it novel, non-obvious, and useful.
 
-There are three main types of patents:
+**Typical types:**
 
-* Utility patents: These are the most common type of patent and cover new and useful processes, machines, articles of manufacture, and compositions of matter.
+* **Utility patents**: These are the most common type of patent and cover new and useful processes, machines, articles of manufacture, and compositions of matter.
 
-* Design patents: These patents protect the ornamental design of a functional item, such as the shape of a car or the design of a smartphone.
+* **Design patents**: These patents protect the ornamental design of a functional item, such as the shape of a car or the design of a smartphone.
 
-* Plant patents: These patents protect new varieties of plants that have been asexually reproduced.
+* **Plant patents**: These patents protect new varieties of plants that have been asexually reproduced.
 
 Once a patent is granted, the patent holder can take legal action against anyone who infringes on their patent rights. This can include filing a lawsuit to stop the infringing activity and seeking damages for any harm caused by the infringement.
 

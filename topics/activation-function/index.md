@@ -4,7 +4,7 @@ An activation function is a mathematical function applied to the output of an ar
 
 The activation function takes the weighted sum of inputs and biases at a neuron and transforms it into the neuron's output. Without activation functions, the neural network would behave as a linear model, regardless of the number of layers, making it limited in its ability to learn complex patterns.
 
-**Key aspects**:
+**Key aspects:**
 
 * **Non-Linearity**: Activation functions introduce non-linearity into the neural network, enabling the model to learn and approximate complex, nonlinear relationships in the data.
 

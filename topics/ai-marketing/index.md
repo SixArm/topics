@@ -2,7 +2,7 @@
 
 AI marketing, also known as artificial intelligence marketing, refers to the application of artificial intelligence techniques and technologies in the field of marketing. It involves using AI algorithms, machine learning, and data analysis to improve marketing strategies, enhance customer experiences, and drive more effective campaigns.
 
-**Key aspects**:
+**Key aspects:**
 
 * **Customer Targeting**: AI can analyze large volumes of customer data, including demographics, behavior patterns, and preferences, to identify customer segments, and to enable personalized and targeted campaigns.
 

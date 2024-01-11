@@ -1,8 +1,8 @@
 # Advertising business model pros/cons
 
-The advertising business model has advantages and disadvantages, for companies and advertisers.
+The advertising business model has pros (i.e. advantages) and cons (i.e. disadvantages), for companies as well as for advertisers.
 
-**Key advantages**:
+**Pros**:
 
 * **Reach**: Advertisers can reach a large audience or user base through the company's platform, which can help them increase brand awareness and sales.
 
@@ -12,7 +12,7 @@ The advertising business model has advantages and disadvantages, for companies a
 
 * **Revenue sharing**: Content creators or service providers on the company's platform can generate revenue by sharing in the advertising revenue.
 
-**Key disadvantages**:
+**Cons**:
 
 * **Ad fatigue**: Users or audiences may become fatigued or annoyed by the amount of advertising on the platform, which can reduce engagement and retention.
 

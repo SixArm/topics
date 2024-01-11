@@ -2,7 +2,7 @@
 
 AI accounting refers to the application of artificial intelligence techniques and technologies in the field of accounting. It involves using AI algorithms, machine learning, and data analysis to automate and optimize various accounting processes, improve accuracy, and streamline financial management.
 
-**Key aspects**:
+**Key aspects:**
 
 * **Financial Analysis**: AI can analyze large volumes of financial data and identify trends, patterns, and correlations. It can provide valuable insights for financial forecasting and decision-making.
 

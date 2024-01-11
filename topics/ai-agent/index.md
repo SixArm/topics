@@ -4,7 +4,7 @@ An AI agent, also known as an artificial agent or intelligent agent, is a softwa
 
 Examples of AI agents include chatbots, AI assistants, autonomous vehicles, stock trading bots, and smart robots.
 
-**Key aspects**:
+**Key aspects:**
 
 * **Autonomy**: AI agents have a certain degree of autonomy, meaning they can operate independently and make decisions based on their internal programming, knowledge, and the information available to them.
 

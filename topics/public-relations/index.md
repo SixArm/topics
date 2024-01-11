@@ -2,7 +2,7 @@
 
 Public Relations (PR) is a strategic communication practice that aims to build and maintain a positive public image and reputation for individuals, organizations, or brands. It involves managing relationships and communication between an entity and its various stakeholders, including the media, customers, employees, investors, communities, and the general public. The goals of public relations are enhancing credibility, fostering goodwill, and establishing mutually beneficial relationships with key audiences.
 
-**Key aspects**:
+**Key aspects:**
 
 Reputation Management: Work to shape and manage the public perception of an entity. Develop strategies to build and maintain a positive reputation, focusing on the entity's values, achievements, and contributions. Monitor public sentiment, addressing concerns or negative perceptions, and promoting positive stories and achievements.
 

@@ -4,16 +4,16 @@ Technology transfer agreements are legal contracts between a technology owner, s
 
 There are several types of technology transfer agreements, including licensing agreements, joint development agreements, and assignment agreements.
 
-Some common provisions include:
+**Typical provisions:**
 
-* Intellectual property rights. Specify which party owns the intellectual property rights to the technology and how those rights will be transferred or licensed to the recipient.
+* **Intellectual property rights**: Specify which party owns the intellectual property rights to the technology and how those rights will be transferred or licensed to the recipient.
 
-* Payment terms. Specify the compensation to be paid to the technology owner, whether in the form of royalties, licensing fees, or other forms of compensation.
+* **Payment terms**: Specify the compensation to be paid to the technology owner, whether in the form of royalties, licensing fees, or other forms of compensation.
 
-* Use restrictions. Specify any restrictions on how the technology can be used by the recipient, such as limiting its use to specific fields or applications.
+* **Use restrictions**: Specify any restrictions on how the technology can be used by the recipient, such as limiting its use to specific fields or applications.
 
-* Confidentiality provisions. Specify any provisions to protect the confidentiality of the technology and any related trade secrets.
+* **Confidentiality provisions**: Specify any provisions to protect the confidentiality of the technology and any related trade secrets.
 
-* Dispute resolution. Specify how disputes between the parties will be resolved, such as through arbitration or mediation.
+* **Dispute resolution**: Specify how disputes between the parties will be resolved, such as through arbitration or mediation.
 
 Technology transfer agreements can be complex and require the involvement of legal and technical experts to ensure that the terms are fair and reasonable for all parties involved.

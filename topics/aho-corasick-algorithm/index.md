@@ -4,7 +4,7 @@ The Aho-Corasick algorithm is a string searching algorithm that efficiently find
 
 The Aho-Corasick algorithm is often used for applications like string matching, keyword searching, and intrusion detection systems where you need to identify multiple keywords or patterns simultaneously in a text.
 
-**Key aspects**:
+**Key aspects:**
 
 * **Trie Data Structure**: The algorithm constructs a trie (prefix tree) from the set of patterns. Each path from the root of the trie to a node represents a prefix of one of the patterns. Nodes in the trie are labeled with characters, and there is a failure function that helps navigate the trie efficiently.
 

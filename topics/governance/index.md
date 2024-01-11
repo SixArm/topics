@@ -2,7 +2,7 @@
 
 Governance in a business context refers to the system of rules, processes, and practices through which a company is directed and controlled. It involves the structures and mechanisms that determine how decisions are made, how authority is exercised, and how accountability happens.
 
-**Key aspects**:
+**Key aspects:**
 
 Board of Directors: The board of directors oversees the company's management and strategy, makes major decisions, appoints executives, and ensures the company operates in the best interest of shareholders.
 

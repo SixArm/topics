@@ -1,4 +1,4 @@
-# Business Strategy and Business Tactics
+# Business strategy and business tactics
 
 Business strategy refers to the overall plan and direction set by an organization to achieve its long-term goals. It involves making key decisions about the organization's mission, vision, values, target market, competitive positioning, and value proposition. Business strategy focuses on answering fundamental questions such as what business the company is in, how it will differentiate itself from competitors, and how it will create value for its customers. Strategies are typically formulated at the higher levels of an organization and provide guidance for decision-making across the entire enterprise.
 
@@ -6,6 +6,6 @@ Business tactics are the specific actions, initiatives, and methods employed to 
 
 To illustrate the difference, consider an example in the context of launching a new product:
 
-* The business strategy may involve decisions about target market identification, competitive positioning, and differentiation. It may include considerations like entering new markets, diversifying product offerings, or focusing on specific customer segments.
+* **The business strategy** may involve decisions about target market identification, competitive positioning, and differentiation. It may include considerations like entering new markets, diversifying product offerings, or focusing on specific customer segments.
 
-* The business tactics may involve specific actions such as market research, product development, pricing strategies, distribution channel selection, promotional campaigns, and sales tactics. These tactics are executed to support the overall strategy of successfully launching and marketing the new product.
+* **The business tactics** may involve specific actions such as market research, product development, pricing strategies, distribution channel selection, promotional campaigns, and sales tactics. These tactics are executed to support the overall strategy of successfully launching and marketing the new product.

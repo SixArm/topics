@@ -2,7 +2,7 @@
 
 In the context of AAAA (Authentication, Authorization, Accounting, and Auditing) information systems, accounting refers to the process of recording and tracking user activities and system events. It involves capturing relevant data related to user logins, actions performed, resources accessed, and other system events for the purpose of monitoring, analysis, and auditing.
 
-**Key aspects**:
+**Key aspects:**
 
 * **Auditing and Forensics**: Accounting data serves as an audit trail that can be used for forensic analysis and investigations. It helps trace the sequence of events and identify any suspicious or unauthorized activities within the system. By analyzing the accounting records, security professionals can reconstruct incidents, determine the cause and impact of security breaches, and take appropriate actions to mitigate risks.
 

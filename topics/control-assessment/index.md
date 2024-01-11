@@ -2,7 +2,7 @@
 
 Control assessment refers to the process of evaluating and assessing the effectiveness of internal controls within an organization. Internal controls are policies, procedures, and mechanisms put in place to mitigate risks, ensure compliance with regulations, safeguard assets, and achieve organizational objectives.
 
-**Key aspects**:
+**Key aspects:**
 
 Objectives and Criteria: Control assessment is performed against specific objectives and criteria established by the organization, such as for finance, operations, IS/IT, and compliance.
 

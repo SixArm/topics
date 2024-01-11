@@ -1,6 +1,6 @@
 # AI human resources
 
-AI (Artificial Intelligence) can play a significant role in enhancing various aspects of human resources (HR) functions. 
+AI (Artificial Intelligence) can play a significant role in enhancing various aspects of human resources (HR) functions.
 
 **Key areas**:
 

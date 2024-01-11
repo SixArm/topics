@@ -1,6 +1,6 @@
 # AI for change management
 
-Artificial Intelligence (AI) can play a significant role in change management by assisting organizations in planning, implementing, and adapting to changes in a more efficient and effective manner. Change management involves transitioning from current practices to new ones while minimizing disruption and maximizing adoption. 
+Artificial Intelligence (AI) can play a significant role in change management by assisting organizations in planning, implementing, and adapting to changes in a more efficient and effective manner. Change management involves transitioning from current practices to new ones while minimizing disruption and maximizing adoption.
 
 **Examples**:
 

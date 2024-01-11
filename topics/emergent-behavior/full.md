@@ -1,4 +1,4 @@
-# Emergent behavior 
+# Emergent behavior
 
 Emergent behavior refers to complex patterns, properties, or phenomena that arise as a result of interactions among simpler components in a system, even though those components might not exhibit the behavior individually. In other words, emergent behavior is a collective phenomenon that emerges from the interactions and relationships among individual elements within a system. This concept is prevalent in various fields, including physics, biology, economics, social sciences, and computer science.
 

@@ -1,6 +1,6 @@
 # AI for partner management
 
-AI can play a valuable role in enhancing partner management processes by automating tasks, providing insights, and improving decision-making. 
+AI can play a valuable role in enhancing partner management processes by automating tasks, providing insights, and improving decision-making.
 
 **Examples**:
 

@@ -2,7 +2,7 @@
 
 Value creation refers to the process of generating and delivering value to customers, stakeholders, and society as a whole. It involves creating something that is beneficial, useful, or desirable, resulting in a positive impact or outcome.
 
-**Key aspects**:
+**Key aspects:**
 
 Solve Customer Problems: Identify customer pain points and desires. Solve customer problems or addressing unmet needs. By developing solutions that effectively solve customer challenges, organizations create value by alleviating pain points and improving outcomes.
 

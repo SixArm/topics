@@ -2,7 +2,7 @@
 
 An AI agent, also known as an artificial agent or intelligent agent, is a software program or system that can perform tasks or make decisions autonomously and proactively without direct human intervention. These agents are designed to operate in various environments, analyze data, learn from experience, and take actions to achieve specific goals. AI agents are a fundamental concept in the field of artificial intelligence and are used in a wide range of applications and domains.
 
-**Key aspects**:
+**Key aspects:**
 
 * **Autonomy**: AI agents have a certain degree of autonomy, meaning they can operate independently and make decisions based on their internal programming, knowledge, and the information available to them.
 

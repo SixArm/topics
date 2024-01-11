@@ -4,13 +4,13 @@ Disruptive technology refers to an innovation that significantly alters or disru
 
 Examples of disruptive technologies include personal computers, which disrupted mainframe computers; digital photography, which disrupted film photography; mobile phones, which disrupted landline phones; online streaming services, which disrupted video rental and broadcast industries; ride-sharing platforms, which disrupted taxis.
 
-**Key aspects**:
+**Typical types:**
 
-Game-changing Innovation: Disruptive technologies introduce innovations that fundamentally change the game. They offer new capabilities, functionalities, or efficiencies that challenge the status quo.
+****Game-changing Innovation****: Disruptive technologies introduce innovations that fundamentally change the game. They offer new capabilities, functionalities, or efficiencies that challenge the status quo.
 
-New Business Models: Disruptive technologies often enable new business models that challenge established industry practices, such asn new ways of delivering value, reaching customers, or monetizing offerings.
+****New Business Models****: Disruptive technologies often enable new business models that challenge established industry practices, such asn new ways of delivering value, reaching customers, or monetizing offerings.
 
-Market Disruption: Disruptive technologies disrupt existing markets or industries by providing alternative solutions that are more affordable, convenient, accessible, or efficient.
+****Market Disruption****: Disruptive technologies disrupt existing markets or industries by providing alternative solutions that are more affordable, convenient, accessible, or efficient.
 
-Performance Improvements: Disruptive technologies may initially offer lower performance compared to established solutions, yet they often improve rapidly over time, to exceed established solutions.
+****Performance Improvements****: Disruptive technologies may initially offer lower performance compared to established solutions, yet they often improve rapidly over time, to exceed established solutions.
 

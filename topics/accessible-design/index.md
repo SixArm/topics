@@ -2,7 +2,7 @@
 
 Accessible design, also known as inclusive design or universal design, refers to the practice of creating products, environments, and experiences that are usable and accessible to as many people as possible, regardless of their abilities or disabilities. It aims to remove barriers and ensure equal access and participation for individuals with diverse needs.
 
-**Key aspects**:
+**Key aspects:**
 
 * **Physical Accessibility**: This involves designing spaces, buildings, and products that can be easily accessed and used by individuals with mobility impairments. This may include features such as ramps, wide doorways, handrails, elevators, and accessible parking spaces.
 

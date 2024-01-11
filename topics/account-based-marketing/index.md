@@ -2,7 +2,7 @@
 
 Account-based marketing (ABM) is a strategic approach to marketing that focuses on targeting and engaging specific high-value accounts or organizations rather than casting a wide net to a broader market. It involves tailoring marketing efforts to meet the specific needs and preferences of individual accounts, aiming to build strong relationships, drive revenue growth, and maximize the return on investment (ROI).
 
-**Key aspects**:
+**Key aspects:**
 
 * **Target Account Selection**: ABM starts with identifying and selecting target accounts that align with your ideal customer profile and have the highest potential value. These accounts are typically high-priority prospects or existing customers with whom you want to deepen relationships or expand business opportunities.
 

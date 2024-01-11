@@ -4,7 +4,7 @@ Jobs to be Done (JTBD) is a framework and theory that focuses on understanding t
 
 The core concept of Jobs to be Done is that customers have specific goals, problems, or needs they want to address or fulfill, and they look for solutions that will help them achieve those outcomes. The "job" refers to the progress or outcome that customers are trying to make in a particular circumstance or situation.
 
-**Key aspects**:
+**Key aspects:**
 
 * Focus on Customer Motivations: Rather than focusing solely on demographic or psychographic characteristics, JTBD focuses on understanding the underlying motivations and goals that drive customers' decision-making processes. It seeks to uncover the desired outcomes or improvements customers are seeking.
 

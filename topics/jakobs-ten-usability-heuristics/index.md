@@ -1,21 +1,18 @@
 # Jakob’s Ten Usability Heuristics
 
-https://media.nngroup.com/media/articles/attachments/Heuristic_Summary1-compressed.pdf
+[Source](https://media.nngroup.com/media/articles/attachments/Heuristic_Summary1-compressed.pdf)
 
-1. **Visibility of System Status**: Designs should keep users informed about what is going on, through
-appropriate, timely feedback.
+1. **Visibility of System Status**: Designs should keep users informed about what is going on, through appropriate, timely feedback.
 
-2. **Match between System and the Real World**: The design should speak the users' language. Use words, phrases, and concepts familiar to the user, rather than internal jargon.
+2. **Match between System and the Real World**: Use words, phrases, and concepts familiar to the user, rather than internal jargon.
 
 3. **User Control and Freedom**: Users often perform actions by mistake. They need a clearly marked "emergency exit" to leave the unwanted action.
 
-4. **Consistency and Standards**: Users should not have to wonder whether different words, situations,
-or actions mean the same thing. Follow platform conventions.
+4. **Consistency and Standards**: Users should not have to wonder whether different words, situations, or actions mean the same thing.
 
-5. **Error Prevention**: Good error messages are important, but the best designs carefully prevent problems from occurring in the first place.
+5. **Error Prevention**: Good error messages are important, and good designs carefully prevent problems from occurring in the first place.
 
-6. **Recognition Rather Than Recall**: Minimize the user's memory load by making elements, actions, and
-options visible. Avoid making users remember information.
+6. **Recognition Rather Than Recall**: Minimize the user's memory load by making elements, actions, and options visible. Avoid making users remember information.
 
 7. **Flexibility and Efficiency of Use**: Shortcuts — hidden from novice users — may speed up the interaction for the expert user.
 

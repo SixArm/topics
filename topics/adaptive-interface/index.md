@@ -2,7 +2,7 @@
 
 An adaptive interface is a user interface design approach that dynamically adjusts and tailors the presentation and behavior of a system or application based on the specific needs, preferences, or characteristics of individual users. It aims to provide a personalized and optimized user experience by adapting to the unique requirements of each user.
 
-**Key aspects**:
+**Key aspects:**
 
 * **Customization**: Adaptive interfaces allow users to personalize and customize their experience according to their preferences. Users can often modify settings such as layout, color schemes, font sizes, or information display to suit their needs.
 

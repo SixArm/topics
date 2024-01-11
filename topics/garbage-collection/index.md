@@ -2,7 +2,7 @@
 
 Garbage collection is a critical aspect of memory management in computer science. It refers to the automatic process of identifying and reclaiming memory that is no longer in use by a program. The goal is to free up memory resources, prevent memory leaks, and ensure efficient utilization of available memory.
 
-**Key aspects**:
+**Key aspects:**
 
 * **Memory Allocation and Deallocation**: In many programming languages, memory is allocated for data dynamically at runtime. When data is no longer needed, its memory should be deallocated.
 

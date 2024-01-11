@@ -2,7 +2,7 @@
 
 Inherent risk, also known as inherent risk exposure, refers to the level of risk or vulnerability that exists in a process, activity, or business environment before any control measures are implemented. It represents the risk inherent in a particular situation or operation, assuming there are no mitigating controls or risk management measures in place.
 
-**Key aspects**:
+**Key aspects:**
 
 Nature of Risk: Consider factors such as the complexity of the process, the sensitivity of the information involved, the potential impact of the risk event, and the likelihood of its occurrence.
 
