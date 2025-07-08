@@ -1,0 +1,9 @@
+# Agile coaching
+
+Agile coaching plays a crucial role in transforming software development teams and organizations toward more effective, collaborative practices. An agile coach serves as a facilitator, mentor, and change agent who helps teams adopt and master agile methodologies such as Scrum, Kanban, or Extreme Programming. Unlike traditional project managers, agile coaches focus on empowering teams to self-organize, continuously improve, and deliver value incrementally.
+
+The primary responsibilities of an agile coach include guiding teams through agile ceremonies like sprint planning, daily standups, and retrospectives while ensuring these practices remain meaningful rather than ritualistic. They help identify and remove impediments that block team progress, foster a culture of psychological safety where team members feel comfortable sharing ideas and concerns, and coach individuals on agile principles and practices. Additionally, they work with product owners to improve backlog management and stakeholder communication.
+
+Effective agile coaches possess strong interpersonal skills, deep understanding of agile frameworks, and the ability to adapt their approach to different team dynamics and organizational contexts. They must balance being supportive mentors with challenging teams to grow and improve. The coach's role evolves as teams mature, transitioning from hands-on guidance for new agile teams to strategic coaching for advanced practitioners.
+
+Success in agile coaching is measured through improved team velocity, higher quality deliverables, increased customer satisfaction, and enhanced team morale. The ultimate goal is to develop self-sufficient teams that can continuously adapt and improve without heavy reliance on external coaching. This transformation requires patience, persistence, and a commitment to fostering a culture where experimentation, learning from failures, and continuous improvement become embedded in the team's DNA.
