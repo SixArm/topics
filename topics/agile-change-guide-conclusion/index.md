@@ -54,4 +54,3 @@ Foundations:
 Special thanks to [Pragmatic Bookshelf](https://pragprog.com) and [O'Reilly Media](https://oreilly.com) for excellent books.
 
 Special thanks to all the project managers, teams, and stakeholders who have worked with me and taught me so much.
-
