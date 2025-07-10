@@ -1,4 +1,4 @@
-# Agile without scrum
+# Agile without Scrum
 
 Agile software development extends far beyond Scrum, encompassing a rich ecosystem of methodologies and practices that embrace the core principles of iterative development, customer collaboration, and adaptive planning. While Scrum dominates many discussions about agile, numerous other frameworks offer valuable approaches to software engineering that can be equally effective or even more suitable for specific contexts.
 
