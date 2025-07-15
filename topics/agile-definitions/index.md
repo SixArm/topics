@@ -7,7 +7,7 @@ Agile has four special definitions that help teams prioritize work then measure 
 * Definition of Done (DoD)
 
 * Definition of Value (DoV)
-  
+
 * Definition of Customer Value (DoCV)
-  
+
 * Definition of Technical Value (DoTV)

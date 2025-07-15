@@ -1,6 +1,6 @@
 # Agile without retrospectives
 
-Agile methodologies fundamentally rely on continuous improvement through reflection, where teams reflect on their processes and identify areas for enhancement. 
+Agile methodologies fundamentally rely on continuous improvement through reflection, where teams reflect on their processes and identify areas for enhancement.
 
 However, some organizations attempt to implement agile practices without incorporating these crucial reflection sessions, often due to time constraints, perceived inefficiency, or misunderstanding of agile principles.
 

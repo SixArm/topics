@@ -12,4 +12,6 @@ This section looks at agile versus these other methodologies:
 
 * Spiral
 
+* Kanban
+
 * Waterfall

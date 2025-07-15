@@ -1,0 +1,1 @@
+Mock objects for testing with expectations  (software testing automation)

@@ -1,6 +1,6 @@
 # If you want to go fast, go alone; if you want to go far, go together
 
-"If you want to go fast, go alone; if you want to go far, go together" is a popular proverb that emphasizes the value of collaboration and teamwork in achieving long-term success and sustained progress. 
+"If you want to go fast, go alone; if you want to go far, go together" is a popular proverb that emphasizes the value of collaboration and teamwork in achieving long-term success and sustained progress.
 
 * **Go Fast Alone**: This implies working independently, making quick decisions, and taking immediate action. When you work alone, you have full control and can move swiftly towards your goals without the need for coordination or consensus. This approach can be advantageous in situations that require agility, immediate results, or individual expertise.
 

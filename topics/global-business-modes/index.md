@@ -1,6 +1,6 @@
 # Global business modes
 
-Companies engage in global business through various modes, depending on their objectives, resources, and the level of control they seek. 
+Companies engage in global business through various modes, depending on their objectives, resources, and the level of control they seek.
 
 **Typical types:**
 

@@ -32,7 +32,7 @@ For people who work with startups, this guide is intending to bring you up to sp
 For students and educators, this guide is a snapshot of industry techniques and practices that can help bridge the gap between academic studies, such as computer science studies, and industry jobs, such as startup computer programming jobs. If students are able to learn what's in this book, they will have a big advantage when they go for job interviews for roles that involve startup business.
 
 
-## Why am I creating this?
+## Why is this useful??
 
 I am creating this ebook because of years of experience in startup business work, with a wide range of clients, from small startups to enormous enterprises.
 

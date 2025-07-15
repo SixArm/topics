@@ -1,6 +1,6 @@
 # Agile without ceremonies
 
-Agile can work well with or without Scrum-like ceremonies. 
+Agile can work well with or without Scrum-like ceremonies.
 
 This section describes some of the considerations.
 

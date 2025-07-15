@@ -1,0 +1,1 @@
+Dummy test double (software testing automation, such as dummy, fake, stub, spy, mock)

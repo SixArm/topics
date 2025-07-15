@@ -1,0 +1,1 @@
+Capture/playback testing (test tool. behavior driven development (BDD)) (software testing automation)

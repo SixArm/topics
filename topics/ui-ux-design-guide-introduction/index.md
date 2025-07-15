@@ -32,7 +32,7 @@ For people whose work intersects with UI/UX topics, this guide is intending to b
 For students and educators, this guide is a snapshot of industry techniques and practices that can help bridge the gap between academic studies, such as computer science studies, and industry jobs, such as computer programming jobs. If students are able to learn what's in this book, they will have a big advantage when they go for job interviews for roles that involve UI/UX.
 
 
-## Why am I creating this?
+## Why is this useful??
 
 I am creating this ebook because of years of experience in UI/UX work, with a wide range of clients, from small startups to enormous enterprises.
 
