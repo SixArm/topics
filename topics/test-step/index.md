@@ -1,0 +1,9 @@
+# Test step
+
+A test step represents the smallest executable unit within an automated software testing framework, serving as the fundamental building block for constructing comprehensive test scenarios. Each test step encapsulates a specific action or verification that the automation system performs against the application under test, such as clicking a button, entering text into a field, or validating that expected content appears on screen.
+
+Test steps are typically defined using a combination of keywords, test data, and target elements. The keyword describes the action to be performed, while test data provides the necessary input values, and target elements specify where the action should occur within the application interface. This modular approach enables test engineers to create reusable components that can be combined and recombined across different test cases, promoting efficiency and maintainability.
+
+Modern test automation frameworks often implement test steps using page object models or keyword-driven testing methodologies. These approaches abstract the technical implementation details, allowing both technical and non-technical team members to contribute to test creation and maintenance. Test steps can include assertions and checkpoints that verify expected outcomes, enabling the automation system to detect defects and report failures accurately.
+
+The granularity of test steps significantly impacts test maintenance and debugging capabilities. Well-designed test steps focus on single, atomic actions that can be easily understood, modified, and troubleshot when failures occur. This granular approach facilitates parallel execution, selective test running, and detailed reporting of test results. Additionally, properly structured test steps support data-driven testing scenarios where the same sequence of actions can be executed with different input datasets, maximizing test coverage while minimizing redundant code development.

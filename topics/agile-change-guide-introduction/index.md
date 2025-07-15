@@ -16,7 +16,7 @@ You can read any topic page, in any order, at any time. Each topic page is inten
 
 People should read this guide if they want to learn quickly about agile software engineering, and how its practiced in companies today. Some of the ideas may be obvious, especially to experienced project leaders, software developers, business coaches, and change management trainers.
 
-## Why am I creating this?
+## Why is this useful??
 
 I am creating this ebook because of  years of experience in consulting work, with a wide range of clients, from small startups to enormous enterprises. This kind of agile change is present in many of the projects and at many of the clients.
 
@@ -26,24 +26,16 @@ When I work with companies and teams, then I'm able to use glossaries like this 
 
 For example, one of my enterprise clients describes this kind of shared context and clear communication in a positive sense as "singing from the same songbook". When a team understands agile terminology, and has a quick easy glossary for definitions and explanations, then it's akin to teammates with the same songbook.
 
-## Are there more guides?
+### For related areas
 
-Yes there are three more guides that may be of interest to you.
+For more about related areas, there are related guides:
 
-Startup Business Guide:
-
-* Learn about startup concepts that help with entrepreneurship. Some examples are pitch decks, market/customer/product discovery, product-market fit (PMF), minimum viable product (MVP), technology industries and sectors, company roles and responsibilities, sales and marketing, venture capital (VC) and investors, legal entities and useful contracts.
-
-* Get it via [Gumroad](https://gumroad.com/l/startup-business-guide) or [GitHub](https://github.com/sixarm/startup-business-guide)
-
-Project Management Guide:
-
-* Learn about concepts that help with leading projects, programs, and portfolios. Some examples are the project management life cycle (PMLC), outputs versus outcomes (OVO), Objectives and Key Results (OKRs), Key Performance Indicators (KPIs), SMART criteria, Work Breakdown Structure (WBS), change management, digital transformation, and project management practices including agile, lean, kanban, and kaizen.
-
-* Get it via [Gumroad](https://gumroad.com/l/project-management-guide) or [GitHub](https://github.com/sixarm/project-management-guide)
-
-UI/UX Design Guide:
-
-* Learn about user interface (UI) design and user experience (UX) development. Some examples are User-Centered Design (UCD), Information Architecture (IA), design management, task analysis, ideation, mockups, use cases, user stories, modeling diagrams, affordances, accessibility, internationalization and localization, UI/UX testing, and AI for UI/UX.
-
-* Get it via [Gumroad](https://gumroad.com/l/ui-ux-design-guide) or [GitHub](https://github.com/sixarm/ui-ux-design-guide)
+* [Innovation Partnership Guide](https://github.com/sixarm/innovation-partnership-guide)
+* [Startup Business Guide](https://github.com/sixarm/startup-business-guide)
+* [Business Lingo Guide](https://github.com/sixarm/business-lingo-guide)
+* [Agile Change Guide](https://github.com/sixarm/agile-change-guide)
+* [Project Management Guide](https://github.com/sixarm/project-management-guide)
+* [UI/UX Design Guide](https://github.com/sixarm/ui-ux-design-guide)
+* [Test Automation Guide](https://github.com/sixarm/test-automation-guide)
+* [AI Starter Guide](https://github.com/sixarm/ai-starter-guide)
+* [Software Programming Guide](https://github.com/sixarm/software-programming-guide)

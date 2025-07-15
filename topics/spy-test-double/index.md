@@ -1,0 +1,7 @@
+# Spy (test double)
+
+A spy is a type of test double that monitors behavior during test execution. Unlike other test doubles that completely replace dependencies, a spy can wrap around a real component, and allow actual method calls to proceed, while simultaneously capturing detailed information about how those methods were invoked, including parameters passed, return values, and the frequency of calls.
+
+The primary advantage of spy test doubles lies in their ability to provide comprehensive interaction verification without disrupting the natural flow of execution. They can detect when methods are called, track the order of invocations, and validate that expected collaborations occur between objects. This is especially useful when testing complex workflows or ensuring that event handlers, callbacks, or notification systems function correctly.
+
+Common use cases include verifying that logging mechanisms are properly triggered, confirming that database transactions are committed or rolled back appropriately, or ensuring that external API calls are made with correct parameters. Popular testing frameworks like Jasmine, Jest, and Sinon.js provide built-in spy functionality, making it straightforward to implement these test doubles. However, spies should be used judiciously, as over-reliance on interaction testing can lead to brittle tests that break when implementation details change, even if the overall behavior remains correct.

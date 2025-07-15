@@ -18,6 +18,19 @@ If you prefer to use email, my email address is:
 
 [joel@joelparkerhenderson.com](mailto:joel@joelparkerhenderson.com)
 
+### For related areas
+
+For more about related areas, here are related guides:
+
+* [Innovation Partnership Guide](https://github.com/sixarm/innovation-partnership-guide)
+* [Startup Business Guide](https://github.com/sixarm/startup-business-guide)
+* [Business Lingo Guide](https://github.com/sixarm/business-lingo-guide)
+* [Agile Change Guide](https://github.com/sixarm/agile-change-guide)
+* [Project Management Guide](https://github.com/sixarm/project-management-guide)
+* [UI/UX Design Guide](https://github.com/sixarm/ui-ux-design-guide)
+* [Test Automation Guide](https://github.com/sixarm/test-automation-guide)
+* [AI Starter Guide](https://github.com/sixarm/ai-starter-guide)
+* [Software Programming Guide](https://github.com/sixarm/software-programming-guide)
 
 ## Thanks
 

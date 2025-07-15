@@ -1,0 +1,1 @@
+Stress testing (software testing automation)

@@ -1,6 +1,6 @@
 # Company legal entities
 
-When starting a company, you can choose its type of legal entity. 
+When starting a company, you can choose its type of legal entity.
 
 **Common company legal entities in the United States:**
 

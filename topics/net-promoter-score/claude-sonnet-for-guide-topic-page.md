@@ -1,0 +1,9 @@
+# Net Promoter Score (NPS)
+
+Net Promoter Score (NPS) is a customer loyalty metric that measures how likely customers are to recommend a product or service to others, typically on a scale of 0-10. In agile software engineering, NPS serves as a valuable feedback mechanism that aligns with agile principles of customer collaboration and responding to change. Teams can integrate NPS surveys into their regular sprint cycles to gather continuous feedback about user satisfaction and product value.
+
+The simplicity of NPS makes it particularly suitable for agile environments where quick, actionable insights are essential. Development teams can track NPS trends across iterations, identifying which features or changes positively or negatively impact customer loyalty. This metric helps product owners prioritize backlog items based on their potential to improve customer advocacy, ensuring that development efforts focus on delivering maximum value.
+
+NPS data can inform retrospectives and planning sessions, providing concrete evidence of how well the team is meeting customer needs. When scores drop, teams can quickly pivot to address issues, while improvements in NPS validate successful feature implementations. The metric also supports cross-functional collaboration by giving developers, designers, and product managers a shared understanding of customer sentiment.
+
+Implementing NPS in agile workflows requires careful timing and context. Teams should collect feedback after significant releases or feature deployments, ensuring responses reflect recent experiences. The qualitative feedback often accompanying NPS scores provides rich insights for user story refinement and helps teams understand the "why" behind the numbers. By treating NPS as a living metric rather than a static measurement, agile teams can maintain customer focus while adapting their development approach based on real user feedback.

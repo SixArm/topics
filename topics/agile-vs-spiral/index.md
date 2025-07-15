@@ -1,6 +1,6 @@
 # Agile vs Spiral
 
-Agile and Spiral are two software development methodologies that approach project management and risk mitigation differently. 
+Agile and Spiral are two software development methodologies that approach project management and risk mitigation differently.
 
 The Agile methodology emphasizes flexibility, collaboration, and rapid delivery. Agile focuses on responding to change, delivering working software frequently, and maintaining close collaboration with stakeholders.
 

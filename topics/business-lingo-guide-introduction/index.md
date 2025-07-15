@@ -16,7 +16,7 @@ You can read any topic page, in any order, at any time. Each topic page is inten
 
 People should read this guide if they want to learn quickly about agile software engineering, and how its practiced in companies today. Some of the ideas may be obvious, especially to experienced project leaders, software developers, business coaches, and change management trainers.
 
-## Why am I creating this?
+## Why is this useful??
 
 I am creating this ebook because of  years of experience in consulting work, with a wide range of clients, from small startups to enormous enterprises. This kind of agile change is present in many of the projects and at many of the clients.
 

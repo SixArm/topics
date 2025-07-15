@@ -2,7 +2,7 @@
 
 Agile software development extends far beyond Scrum, encompassing a rich ecosystem of methodologies and practices that embrace the core principles of iterative development, customer collaboration, and adaptive planning. While Scrum dominates many discussions about agile, numerous other frameworks offer valuable approaches to software engineering that can be equally effective or even more suitable for specific contexts.
 
-Extreme Programming (XP) focuses heavily on technical practices like pair programming, test-driven development, and continuous integration. This methodology emphasizes code quality and technical excellence through practices such as refactoring, simple design, and collective code ownership. 
+Extreme Programming (XP) focuses heavily on technical practices like pair programming, test-driven development, and continuous integration. This methodology emphasizes code quality and technical excellence through practices such as refactoring, simple design, and collective code ownership.
 
 Kanban provides a visual workflow management system that helps teams optimize their delivery process without prescriptive roles or ceremonies. By focusing on work-in-progress limits and continuous flow, Kanban allows teams to evolve their processes gradually while maintaining visibility into bottlenecks and inefficiencies.
 

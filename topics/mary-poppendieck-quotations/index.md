@@ -1,6 +1,6 @@
 # Mary Poppendieck quotations
 
-Mary Poppendieck, a pioneering voice in agile software development, emphasizes the fundamental importance of delivering customer value. 
+Mary Poppendieck, a pioneering voice in agile software development, emphasizes the fundamental importance of delivering customer value.
 
 Her approach to quality management draws heavily from lean manufacturing principles. Poppendieck argues that "quality is not negotiable" and that teams should "build quality in" rather than attempting to test it in later. She believes that defects should be addressed immediately when discovered, preventing them from propagating through the development process and becoming more expensive to fix.
 

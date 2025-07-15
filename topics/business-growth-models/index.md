@@ -1,6 +1,6 @@
 # Business growth models
 
-Business growth models are frameworks or strategies that organizations employ to drive and sustain their growth over time. 
+Business growth models are frameworks or strategies that organizations employ to drive and sustain their growth over time.
 
 **Typical models**:
 
