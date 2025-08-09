@@ -9,5 +9,7 @@ This section offers some of these perspectives, intended as a smattering of view
 * [The 7 Dimensions for agile product development](topics/the-7-dimensions-for-agile-product-development)
 * [The 5 C's of agile management](topics/the-5-c-s-of-agile-management)
 * [The 3 P's of agile workspaces](topics/the-3-p-s-of-agile-workspaces)
+* [The Stacey Matrix](topics/the-stacey-matrix)
+* [Agile certifications](topics/agile-certifications)
+* [Cargo cult agile](topics/dark-agile)
 * [Dark agile](topics/dark-agile)
-* [Cargo cult](topics/cargo-cult)

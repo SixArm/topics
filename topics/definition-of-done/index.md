@@ -1,4 +1,4 @@
-# Definition of Done
+# Definition of Done (DoD)
 
 The Definition of Done (DoD) is an agile software engineering practice that establishes a shared understanding of what constitutes completed work within a development team. It serves as a comprehensive checklist or set of criteria that must be fulfilled before any user story, feature, or increment can be considered truly finished.
 

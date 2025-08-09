@@ -11,5 +11,3 @@ This section looks at agile real world companies in these organizations:
 * Google
 
 * Netflix
-
-* Spotify
