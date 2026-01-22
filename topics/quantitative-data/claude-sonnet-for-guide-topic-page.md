@@ -1,0 +1,9 @@
+# Quantitative data
+
+Quantitative data represents information that can be expressed numerically and measured objectively, forming the backbone of statistical analysis and data-driven decision making. This type of data encompasses any information that can be counted, measured, or assigned a specific numeric value, making it fundamentally different from qualitative data that describes characteristics or qualities.
+
+Common examples of quantitative data include physical measurements like height, weight, and temperature, as well as performance metrics such as speed, sales figures, test scores, and time duration. Financial data, population statistics, and survey ratings also fall into this category. What makes quantitative data particularly valuable is its precision and ability to be mathematically manipulated through calculations, comparisons, and statistical operations.
+
+Quantitative data can be further classified into two main types: discrete and continuous. Discrete quantitative data consists of whole numbers or countable units, such as the number of employees in a company or items sold. Continuous quantitative data can take any value within a range, including decimals, such as height measurements or processing times.
+
+The objective nature of quantitative data makes it essential for analytics and business intelligence. It enables organizations to identify trends, measure performance against benchmarks, and make evidence-based predictions. Unlike subjective interpretations, quantitative data provides concrete evidence that can be replicated and verified, making it crucial for scientific research, market analysis, and operational optimization. This reliability and measurability make quantitative data the foundation for creating meaningful insights, tracking progress, and supporting strategic business decisions across various industries and applications.
