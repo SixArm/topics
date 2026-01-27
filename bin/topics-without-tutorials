@@ -1,0 +1,1 @@
+bin/topics | while read topic; do if [ ! -f "$topic/tutorial-by-claude-opus-4-5.md" ]; then echo "$topic"; fi; done
