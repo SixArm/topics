@@ -1,0 +1,10 @@
+#!/bin/sh
+set -euf
+top="$(git rev-parse --show-toplevel)"
+#TODO redo tutorials earlier than 2026-01-28T00:50:10Z
+echo "Create comprehensive tutorials. Execute these tasks sequentially." > tasks.md
+"$top/bin/topics-without-tutorials" | 
+while read x; do
+    echo "- read file $top/topics/$x/index.md then create a comprehensive tutorial explaining topic $x for a technology professional. save file $top/topics/$x/tutorial-by-claude-opus-4-5.md" >> "$top/tasks.md"
+done
+claude tasks.md --dangerously-skip-permissions --allowedTools "Read,Edit,Bash"
