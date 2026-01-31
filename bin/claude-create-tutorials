@@ -1,10 +1,24 @@
 #!/bin/sh
 set -euf
 top="$(git rev-parse --show-toplevel)"
-#TODO redo tutorials earlier than 2026-01-28T00:50:10Z
-echo "Create comprehensive tutorials. Execute these tasks sequentially." > tasks.md
+# TODO redo tutorials earlier than 2026-01-31T21:17:30Z
 "$top/bin/topics-without-tutorials" | 
-while read x; do
-    echo "- read file $top/topics/$x/index.md then create a comprehensive tutorial explaining topic $x for a technology professional. save file $top/topics/$x/tutorial-by-claude-opus-4-5.md" >> "$top/tasks.md"
+while read -r topic; do
+    prompt=$(cat<<-EOF
+Create comprehensive tutorial explaining topic **$topic** for a technology professional. 
+Read input file "$top/topics/$topic/index.md"
+Use clear H2 headers, paragraphs, tables for comparisons, bullet lists. Be decisive.
+Do not use ASCII diagrams. Do not use source code.
+Print the markdown tutorial directly. Do not use the Write tool. 
+EOF
+    )
+    echo "\n\n$topic\n$prompt"
+    claude \
+    --print "$prompt" \
+    --add-dir "$top/topics/$topic" \
+    --model claude-opus-4-5-20251101 \
+    --allowedTools "Read" \
+    --no-session-persistence \
+    </dev/null \
+    >"$top/topics/$topic/tutorial-by-claude-opus-4-5.md"    
 done
-claude tasks.md --dangerously-skip-permissions --allowedTools "Read,Edit,Bash"
