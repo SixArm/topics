@@ -1,6 +1,7 @@
 #!/bin/sh
 set -euf
 top="$(git rev-parse --show-toplevel)"
+<<<<<<< HEAD
 # TODO redo tutorials earlier than 2026-01-31T21:17:30Z
 "$top/bin/topics-without-tutorials" | 
 while read -r topic; do
@@ -21,4 +22,35 @@ EOF
     --no-session-persistence \
     </dev/null \
     >"$top/topics/$topic/tutorial-by-claude-opus-4-5.md"    
+||||||| parent of d8550dc (Add claude loop)
+#TODO redo tutorials earlier than 2026-01-28T00:50:10Z
+echo "Create comprehensive tutorials. Execute these tasks sequentially." > tasks.md
+"$top/bin/topics-without-tutorials" | 
+while read x; do
+    echo "- read file $top/topics/$x/index.md then create a comprehensive tutorial explaining topic $x for a technology professional. save file $top/topics/$x/tutorial-by-claude-opus-4-5.md" >> "$top/tasks.md"
+=======
+find "$HOME/git/sixarm/agile-change-guide/topics" -type d -depth 1 |
+xargs basename |
+sort |
+while read -r topic; do
+    dir="$top/topics/$topic"
+    if [ ! -e "$dir" ] || [ ! -f "$dir/index.md" ] || [ -f "$dir/tutorial-by-claude-opus-4-5.md" ]; then continue; fi;
+    prompt=$(cat<<-EOF
+Create comprehensive tutorial explaining topic **$topic** for a technology professional.
+Read input file "$dir/index.md"
+Use clear H2 headers, paragraphs, tables for comparisons, bullet lists. Be decisive.
+Do not use ASCII diagrams. Do not use source code.
+Print the markdown tutorial directly. Do not use the Write tool.
+EOF
+    )
+    echo "\n$topic\n$prompt"
+    claude \
+    --print "$prompt" \
+    --add-dir "$dir" \
+    --model claude-opus-4-5-20251101 \
+    --allowedTools "Read" \
+    --no-session-persistence \
+    </dev/null \
+    >"$dir/tutorial-by-claude-opus-4-5.md"
+>>>>>>> d8550dc (Add claude loop)
 done
