@@ -45,9 +45,8 @@ Scale Agile Practices Organization-Wide:
 - Grow agile team adoption from 8 teams to 25 teams by December 31. Measure by team registration in agile program and practice assessments.
 - Manage 5 Agile Coaches to accomplish team training rollout by Q3 end. Quantify by coaching engagement hours and teams coached.
 - Evaluate 3 scaling frameworks (SAFe, LeSS, Scrum@Scale) for enterprise adoption during Q1 and choose the result. Confirm by framework assessment report and leadership decision.
-Boost Agile maturity assessment score by 45% during the year. Score by bi-annual maturity model evaluations.
-Launch Communities of Practice for agile practitioners on April 1. Track by CoP membership and monthly meeting attendance.
-
+  Boost Agile maturity assessment score by 45% during the year. Score by bi-annual maturity model evaluations.
+  Launch Communities of Practice for agile practitioners on April 1. Track by CoP membership and monthly meeting attendance.
 
 Optimize Agile Processes and Tools:
 
@@ -64,4 +63,3 @@ Develop Leadership Support for Agile Transformation:
 - Ensure 8 senior leaders complete Agile Leadership training by May 31. Quantify by training completion certificates.
 - Raise leadership agile fluency rating from 2.5 to 4.0 by Q3 end. Score by 360-degree leadership assessment.
 - Manage 20 middle managers to accomplish team empowerment practices by August 15. Quantify by manager coaching sessions and team autonomy metrics.
-  

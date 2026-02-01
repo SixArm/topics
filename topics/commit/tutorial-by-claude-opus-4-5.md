@@ -1,425 +1,92 @@
-# Commit: A Comprehensive Tutorial for Test Automation Professionals
-
-## Introduction
-
-A commit in version control represents a snapshot of code changes at a specific point in time. For test automation professionals, understanding commits is essential for tracking test changes, maintaining test history, enabling bisection for debugging, and collaborating effectively with development teams.
-
-## What is a Commit?
-
-A commit records changes to a repository, creating a permanent record with a unique identifier (SHA), author information, timestamp, and descriptive message.
-
-### Commit Anatomy
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│                    Commit Structure                          │
-├─────────────────────────────────────────────────────────────┤
-│                                                             │
-│  SHA: a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0              │
-│                                                             │
-│  Author: Jane Developer <jane@example.com>                  │
-│  Date:   2024-01-15 14:30:00 -0500                         │
-│                                                             │
-│  Message:                                                   │
-│    Add integration tests for payment processing             │
-│                                                             │
-│    - Add tests for credit card validation                   │
-│    - Add tests for payment gateway integration              │
-│    - Add tests for refund processing                        │
-│                                                             │
-│    Closes #123                                              │
-│                                                             │
-│  Changes:                                                   │
-│    tests/payment/credit_card.spec.ts  | 150 +++             │
-│    tests/payment/gateway.spec.ts      | 200 +++             │
-│    tests/payment/refund.spec.ts       | 100 +++             │
-│    tests/fixtures/payment.json        |  50 +++             │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
-
-## Writing Good Commit Messages
-
-### Conventional Commits Format
-
-```
-<type>(<scope>): <subject>
-
-<body>
-
-<footer>
-```
-
-### Types for Test Automation
-
-```python
-commit_types = {
-    'test': 'Adding or modifying tests',
-    'fix': 'Fixing a bug in tests',
-    'feat': 'Adding new test features/capabilities',
-    'refactor': 'Refactoring test code',
-    'docs': 'Documentation for tests',
-    'chore': 'Test maintenance tasks',
-    'ci': 'CI/CD configuration for tests',
-    'perf': 'Test performance improvements'
-}
-
-# Examples
-examples = [
-    "test(auth): add login validation tests",
-    "fix(e2e): resolve flaky checkout test",
-    "refactor(pages): extract common page objects",
-    "chore(deps): update Playwright to v1.40",
-    "ci(tests): add parallel test execution",
-    "perf(api): reduce API test execution time"
-]
-```
-
-### Writing Descriptive Messages
-
-```bash
-# Bad commit messages
-git commit -m "fix test"
-git commit -m "updates"
-git commit -m "WIP"
-git commit -m "asdf"
-
-# Good commit messages
-git commit -m "fix(checkout): handle async cart update in checkout test
-
-The checkout test was flaky because it didn't wait for the cart
-to update after adding items. Added explicit wait for cart count
-to stabilize before proceeding to checkout.
-
-Fixes #456"
-
-git commit -m "test(api): add boundary value tests for pagination
-
-Add tests for:
-- page=0 (invalid)
-- page=1 (minimum valid)
-- page_size limits
-- empty result handling
-
-Part of API test coverage initiative (#789)"
-```
-
-## Commit Strategies for Test Automation
-
-### Atomic Commits
-
-```bash
-# Each commit should be self-contained and focused
-
-# Bad: One giant commit
-git add .
-git commit -m "Add all tests for new feature"
-
-# Good: Atomic commits
-git add tests/unit/validation.spec.ts
-git commit -m "test(validation): add unit tests for email validation"
+## Commit
 
-git add tests/integration/user.spec.ts
-git commit -m "test(integration): add user creation integration tests"
+In Git, a commit is a snapshot of changes to a project that has been saved to the repository. It is a fundamental concept in version control and serves as the building block of your project's history. Each commit represents a specific version of the codebase and includes a message that describes the changes made in that version.
 
-git add tests/e2e/registration.spec.ts
-git commit -m "test(e2e): add end-to-end registration flow test"
-```
+## How Commits Work
 
-### Test-First Commits
-
-```bash
-# When practicing TDD, commit the failing test first
+When you create a commit, Git captures the current state of all staged changes and stores them permanently in the repository. Each commit contains several key elements:
 
-# Step 1: Commit failing test
-git add tests/payment.spec.ts
-git commit -m "test(payment): add failing test for discount calculation
+- **Unique identifier (SHA-1 hash)**: A 40-character hexadecimal string that uniquely identifies the commit
+- **Author information**: Name and email of the person who created the commit
+- **Timestamp**: When the commit was created
+- **Parent commit reference**: A pointer to the previous commit (or commits, in the case of a merge)
+- **Commit message**: A description of what changes were made and why
+- **Snapshot of changes**: The actual file modifications included in the commit
 
-Red phase of TDD - test expects calculateDiscount() to handle
-percentage discounts correctly."
+## Why Commits Matter
 
-# Step 2: Commit implementation
-git add src/payment.ts
-git commit -m "feat(payment): implement discount calculation
+Commits create a complete record of changes made to the codebase over time. This provides several critical benefits:
 
-Green phase - implements calculateDiscount() to pass the test."
+- **History tracking**: Developers can trace the evolution of the codebase and understand when and why changes were made
+- **Accountability**: Each commit is attributed to a specific author, creating a clear audit trail
+- **Reversibility**: If a change introduces problems, developers can revert to previous versions
+- **Collaboration**: Team members can see changes made by others and understand the reasoning behind those changes
+- **Code review**: Commits serve as discrete units of work that can be reviewed, discussed, and approved
 
-# Step 3: Commit refactoring
-git add src/payment.ts tests/payment.spec.ts
-git commit -m "refactor(payment): simplify discount logic
+## Commit Message Best Practices
 
-Refactor phase - extracted discount strategies for better
-maintainability."
-```
+Writing effective commit messages is essential for maintaining a useful project history.
 
-## Pre-Commit Hooks for Tests
+| Practice | Description |
+|----------|-------------|
+| Use imperative mood | Write "Add feature" not "Added feature" or "Adds feature" |
+| Keep the subject line concise | Limit to 50 characters when possible |
+| Separate subject from body | Use a blank line between the subject and detailed description |
+| Explain the why, not the what | The code shows what changed; the message should explain the reasoning |
+| Reference issues | Link to relevant tickets, bugs, or feature requests |
+| Be specific | Avoid vague messages like "Fixed bug" or "Updated code" |
 
-### Setting Up Pre-Commit Hooks
+## Common Git Commands for Working with Commits
 
-```bash
-#!/bin/bash
-# .git/hooks/pre-commit
+Git provides several essential commands for creating and inspecting commits:
 
-# Run linting on test files
-echo "Running ESLint on test files..."
-npx eslint 'tests/**/*.ts' --max-warnings 0
-if [ $? -ne 0 ]; then
-    echo "ESLint failed. Please fix errors before committing."
-    exit 1
-fi
+- **git add**: Stage changes to be included in the next commit
+- **git commit**: Create a new commit with the staged changes
+- **git log**: Display a list of commits made to the repository
+- **git diff**: Show changes made between commits, branches, or the working directory
+- **git show**: Display detailed information about a specific commit
+- **git revert**: Create a new commit that undoes changes from a previous commit
+- **git cherry-pick**: Apply changes from a specific commit to the current branch
 
-# Run affected tests
-echo "Running tests for changed files..."
-CHANGED_FILES=$(git diff --cached --name-only --diff-filter=ACM | grep -E '\.(ts|js)$')
+## Commit Strategies
 
-if [ -n "$CHANGED_FILES" ]; then
-    npx jest --findRelatedTests $CHANGED_FILES --passWithNoTests
-    if [ $? -ne 0 ]; then
-        echo "Tests failed. Please fix tests before committing."
-        exit 1
-    fi
-fi
+Teams adopt different strategies for organizing commits:
 
-echo "Pre-commit checks passed!"
-exit 0
-```
+| Strategy | Description | Best For |
+|----------|-------------|----------|
+| Atomic commits | Each commit contains one logical change | Projects prioritizing clean history and easy reverts |
+| Feature commits | All changes for a feature in one commit | Small features or solo development |
+| Squash and merge | Multiple commits combined into one before merging | Pull request workflows where detailed history is less important |
+| Conventional commits | Standardized format with type prefixes (feat, fix, docs) | Automated changelogs and semantic versioning |
 
-### Using Husky and lint-staged
+## The Commit Lifecycle
 
-```json
-// package.json
-{
-  "husky": {
-    "hooks": {
-      "pre-commit": "lint-staged",
-      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
-    }
-  },
-  "lint-staged": {
-    "tests/**/*.ts": [
-      "eslint --fix",
-      "prettier --write",
-      "jest --findRelatedTests --passWithNoTests"
-    ]
-  },
-  "commitlint": {
-    "extends": ["@commitlint/config-conventional"]
-  }
-}
-```
-
-## Commits and Test History
-
-### Using Git Bisect with Tests
-
-```bash
-# Find which commit introduced a test failure
-
-# Start bisect
-git bisect start
-
-# Mark current commit as bad (test fails)
-git bisect bad
-
-# Mark a known good commit (test passes)
-git bisect good v1.0.0
-
-# Git checks out a commit in the middle
-# Run the test
-npm test -- tests/payment.spec.ts
-
-# If test passes
-git bisect good
-
-# If test fails
-git bisect bad
-
-# Repeat until Git identifies the problematic commit
-# Bisecting: 0 revisions left to test after this
-# abc1234 is the first bad commit
-
-# Automate with a script
-git bisect start HEAD v1.0.0
-git bisect run npm test -- tests/payment.spec.ts
-```
-
-### Tracking Test Changes Over Time
-
-```bash
-# View history of a specific test file
-git log --oneline tests/payment.spec.ts
-
-# See who changed a test and when
-git blame tests/payment.spec.ts
-
-# View changes to tests in a commit
-git show abc1234 -- tests/
-
-# Find commits that added tests
-git log --diff-filter=A -- 'tests/**/*.spec.ts'
-
-# Find commits that deleted tests
-git log --diff-filter=D -- 'tests/**/*.spec.ts'
-
-# Search for commits mentioning specific test
-git log --grep="checkout test" --oneline
-```
-
-## Commit Best Practices for Test Automation
-
-### Commit Checklist
-
-```markdown
-## Pre-Commit Checklist for Tests
-
-### Code Quality
-- [ ] Tests pass locally
-- [ ] No linting errors
-- [ ] No TypeScript/type errors
-- [ ] No console.log statements
-- [ ] No skipped tests (.only, .skip) unless intentional
-
-### Test Quality
-- [ ] Tests have meaningful names
-- [ ] Assertions are clear and specific
-- [ ] Test data is appropriate
-- [ ] No hardcoded credentials or secrets
-
-### Commit Quality
-- [ ] Commit message follows convention
-- [ ] Changes are atomic and focused
-- [ ] Related changes are grouped
-- [ ] No unrelated changes included
-```
-
-### Commit Message Template
-
-```bash
-# Set up commit template
-git config commit.template .gitmessage
-
-# .gitmessage
-# <type>(<scope>): <subject>
-#
-# <body>
-#
-# <footer>
-#
-# Types: test, fix, feat, refactor, docs, chore, ci, perf
-# Scope: area of tests (auth, api, e2e, unit, etc.)
-#
-# Subject: imperative, lowercase, no period
-# Body: explain what and why, not how
-# Footer: reference issues, breaking changes
-#
-# Example:
-# test(auth): add tests for password reset flow
-#
-# Add comprehensive tests for the password reset feature:
-# - Request reset email
-# - Validate reset token
-# - Set new password
-# - Prevent token reuse
-#
-# Closes #123
-```
-
-## Organizing Commits in Pull Requests
-
-### Structuring PR Commits
-
-```bash
-# Good PR commit structure
-# 1. Setup/infrastructure changes first
-# 2. Test implementation
-# 3. Bug fixes found during testing
-# 4. Documentation updates
-
-# Example PR commits:
-# 1. chore(fixtures): add test data for user scenarios
-# 2. test(user): add unit tests for user service
-# 3. test(user): add integration tests for user API
-# 4. fix(user): handle edge case in user validation
-# 5. docs(user): update test documentation
-```
-
-### Squashing vs. Keeping History
-
-```bash
-# Keep separate commits when:
-# - Each commit is meaningful and atomic
-# - History tells a story
-# - Bisect might be useful
-
-# Squash commits when:
-# - Many small "fixup" commits
-# - WIP commits
-# - Commits don't make sense individually
-
-# Interactive rebase to clean up
-git rebase -i HEAD~5
-
-# Squash commits
-pick abc1234 test(auth): add login tests
-squash def5678 fix typo
-squash ghi9012 add missing assertion
-squash jkl3456 fix linting
-# Results in single clean commit
-```
-
-## Automating Commit Validation
-
-### GitHub Actions for Commit Checks
-
-```yaml
-name: Commit Checks
-
-on:
-  pull_request:
-    types: [opened, synchronize]
-
-jobs:
-  commit-lint:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
-
-      - name: Lint commit messages
-        uses: wagoid/commitlint-github-action@v5
-        with:
-          configFile: .commitlintrc.json
-
-  test-changes:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
-
-      - name: Get changed test files
-        id: changed-tests
-        run: |
-          TESTS=$(git diff --name-only origin/main...HEAD | grep -E '\.spec\.(ts|js)$' || true)
-          echo "tests=$TESTS" >> $GITHUB_OUTPUT
-
-      - name: Run changed tests
-        if: steps.changed-tests.outputs.tests != ''
-        run: |
-          npm test -- ${{ steps.changed-tests.outputs.tests }}
-```
-
-## Conclusion
-
-Good commit practices are essential for maintaining a healthy test automation codebase. Well-structured commits with clear messages enable effective collaboration, debugging, and historical analysis of test changes.
-
-## Key Takeaways
-
-1. Write descriptive commit messages following conventions
-2. Make atomic commits focused on single changes
-3. Use pre-commit hooks to enforce quality
-4. Keep test commits separate from code commits
-5. Use git bisect to find regression-causing commits
-6. Clean up commit history before merging PRs
-7. Automate commit validation in CI/CD
+A typical commit workflow follows these stages:
+
+1. **Modify files**: Make changes to your working directory
+2. **Stage changes**: Select which modifications to include using git add
+3. **Review staged changes**: Verify what will be committed using git diff --staged
+4. **Create commit**: Save the snapshot with a descriptive message
+5. **Push to remote**: Share your commits with the team repository
+
+## Common Pitfalls to Avoid
+
+- **Committing too much at once**: Large commits are difficult to review and harder to revert selectively
+- **Committing too little**: Excessive micro-commits can clutter history without adding value
+- **Poor commit messages**: Vague or missing messages make history useless for future developers
+- **Committing sensitive data**: Passwords, API keys, and credentials should never be committed
+- **Committing generated files**: Build artifacts, dependencies, and compiled code typically should be excluded via .gitignore
+- **Breaking the build**: Each commit should leave the codebase in a working state
+
+## Commits in Team Workflows
+
+In collaborative environments, commits integrate with broader development practices:
+
+- **Pull requests**: Commits are grouped into reviewable units before merging to main branches
+- **Continuous integration**: Automated systems build and test each commit to catch problems early
+- **Branching strategies**: Commits are organized across feature branches, release branches, and main branches
+- **Code ownership**: Commit history helps identify who has expertise in different parts of the codebase
+
+## Summary
+
+Commits are the foundation of version control in Git. They capture snapshots of your project at specific points in time, enabling history tracking, collaboration, and the ability to recover from mistakes. Writing clear, focused commits with descriptive messages is a skill that pays dividends throughout a project's lifecycle. By following commit best practices, development teams maintain a clean, navigable history that serves as both documentation and a safety net.

@@ -1,88 +1,106 @@
-# Definition of Ready: Tutorial
+## Definition of Ready (DoR)
 
-## Overview
+The Definition of Ready (DoR) is a checklist of criteria that a user story, feature, or backlog item must satisfy before a development team commits to working on it during a sprint. It functions as a quality gate between product planning and active development, ensuring teams can begin work immediately without being blocked by ambiguities, missing information, or unresolved dependencies.
 
-The Definition of Ready (DoR) establishes clear criteria that a user story, feature, or work item must meet before a team begins development. It acts as a quality gate at the entry point of a sprint, ensuring that the team has everything it needs to start work without delays caused by unclear requirements, missing information, or unresolved dependencies.
+## Why Definition of Ready Matters
 
-## Why a Definition of Ready Matters
+Without a clear DoR, teams frequently encounter mid-sprint disruptions: unclear requirements lead to rework, missing designs cause developers to wait, and unidentified dependencies create bottlenecks. These interruptions erode sprint predictability and team morale.
 
-### Prevents Wasted Sprint Capacity
+A well-crafted DoR delivers several benefits:
 
-When a team pulls poorly defined work into a sprint, they spend development time clarifying requirements instead of building software. This reduces the team's effective capacity and often results in incomplete work at the end of the sprint.
+- **Reduced waste** — Teams avoid starting work they cannot finish due to missing information
+- **Improved predictability** — Sprint commitments become more reliable when work items are fully prepared
+- **Clearer communication** — Product owners and stakeholders understand what the team needs to begin work
+- **Higher quality** — Well-defined acceptance criteria lead to better implementations and fewer defects
+- **Team empowerment** — Developers can push back on vague requirements without appearing obstructive
 
-### Reduces Rework
+## Common DoR Criteria
 
-Work started without clear requirements is more likely to be built incorrectly, leading to rework. The cost of clarifying requirements before development is far less than the cost of rebuilding after development.
+Most teams include a combination of the following elements in their Definition of Ready:
 
-### Sets Shared Expectations
+| Criterion | Purpose |
+|-----------|---------|
+| Acceptance criteria defined | Specifies what "done" looks like for this item |
+| Business value articulated | Explains why this work matters |
+| Story sized appropriately | Small enough to complete within a single sprint |
+| Dependencies identified | External blockers are known and addressed |
+| Design artifacts available | Mockups, wireframes, or prototypes are ready |
+| Technical approach agreed | Architecture decisions are made |
+| Testability confirmed | QA understands how to verify the work |
+| Stakeholder approval obtained | Product owner has prioritized and approved |
 
-The DoR creates a shared agreement between the product owner and the development team about what constitutes sufficiently prepared work. This prevents disagreements during sprint planning about whether a story is ready to be worked on.
+## Definition of Ready vs. Definition of Done
 
-## Common Definition of Ready Criteria
+These two concepts serve complementary but distinct purposes:
 
-A typical DoR includes some or all of the following:
+| Aspect | Definition of Ready | Definition of Done |
+|--------|--------------------|--------------------|
+| Timing | Before work begins | After work completes |
+| Focus | Input quality | Output quality |
+| Owner | Product owner + team | Development team |
+| Purpose | Can we start? | Is it finished? |
+| Gate | Entry to sprint | Exit from sprint |
 
-### Story Quality
-- The story is written in standard format with a clear user, goal, and reason
-- Acceptance criteria are defined and agreed upon
-- The story is small enough to be completed within a single sprint
+Both definitions work together to bookend the development process, ensuring quality at both ends.
 
-### Clarity
-- The team understands what needs to be built
-- Questions and ambiguities have been discussed and resolved
-- UI mockups or wireframes are available (if applicable)
+## Building an Effective DoR
 
-### Dependencies
-- External dependencies have been identified and resolved (or a plan exists)
-- Required APIs, services, or data sources are available
-- Necessary approvals or decisions have been obtained
+When establishing your Definition of Ready, consider these principles:
 
-### Estimation
-- The team has estimated the effort required
-- The estimate falls within the team's sprint capacity
+- **Involve the whole team** — Developers, testers, designers, and product owners should all contribute criteria
+- **Start minimal** — Begin with essential criteria and expand based on experience
+- **Keep it visible** — Post the DoR where everyone can reference it during refinement
+- **Review regularly** — Retrospectives should assess whether the DoR helps or hinders
+- **Avoid rigidity** — Allow exceptions when the team collectively agrees
 
-### Technical Readiness
-- Technical approach has been discussed (for complex items)
-- Spike or research work has been completed (if needed)
-- Test strategy has been identified
+## Warning Signs of DoR Problems
 
-## Building Your Definition of Ready
+An overly strict DoR can become counterproductive. Watch for these symptoms:
 
-### Step 1: Start with Common Problems
+- Stories sit in backlog refinement for multiple sprints
+- Product owners feel frustrated by constant rejection of their items
+- The team spends more time refining than building
+- Innovation slows because experimental work rarely meets criteria
+- The DoR becomes a shield against accepting any work
 
-Review recent sprints and identify cases where work was blocked or delayed because it was not adequately prepared. These pain points form the basis of your DoR criteria.
+Conversely, an insufficient DoR shows different symptoms:
 
-### Step 2: Draft Criteria as a Team
+- Frequent mid-sprint scope changes
+- Developers regularly blocked waiting for answers
+- Stories carry over to multiple sprints
+- Acceptance criteria written after development begins
+- High defect rates from misunderstood requirements
 
-The entire team—product owner, developers, testers—should participate in defining the DoR. Each role has different needs and perspectives on what "ready" means.
+## Sample Definition of Ready Checklist
 
-### Step 3: Keep It Lightweight
+A practical DoR might include:
 
-The DoR should prevent problems without creating bureaucracy. If meeting the DoR requires more effort than it saves, the criteria are too heavy.
+- User story follows the "As a [user], I want [goal], so that [benefit]" format
+- Acceptance criteria are written and understood by the team
+- Story is estimated and fits within a single sprint
+- UI/UX designs are approved and accessible
+- Technical dependencies are resolved or have a clear path to resolution
+- Security and compliance requirements are identified
+- The product owner is available to answer questions during the sprint
+- The story has been discussed in backlog refinement
 
-### Step 4: Make It Visible
+## Integrating DoR Into Your Process
 
-Post the DoR where the team can reference it during backlog refinement and sprint planning.
+The Definition of Ready becomes most effective when embedded into regular ceremonies:
 
-### Step 5: Review and Adjust
+**Backlog refinement sessions** — Review upcoming items against DoR criteria. Items that fail should be returned for further preparation or have action items assigned.
 
-Revisit the DoR during retrospectives. Remove criteria that are not adding value and add criteria that address recurring problems.
+**Sprint planning** — Only pull items that meet the DoR into the sprint. This protects the team from overcommitment to unprepared work.
 
-## Balancing Thoroughness with Agility
+**Retrospectives** — Periodically assess whether the DoR is serving its purpose. Adjust criteria based on what the team has learned.
 
-An overly rigid DoR can become a bottleneck that slows delivery and contradicts agile principles. Balance is essential:
+## Balancing Readiness With Agility
 
-- **Not everything needs to be fully specified**: Some details can and should emerge during development
-- **The DoR should enable speed, not prevent it**: If the DoR consistently prevents stories from entering sprints, the criteria may be too strict
-- **Different types of work may need different readiness levels**: A bug fix may need less preparation than a new feature
+The Definition of Ready exists to serve the team, not the other way around. Agile principles emphasize responding to change over following a plan. An effective DoR should:
 
-## Common Anti-Patterns
+- Enable rapid iteration rather than demand perfect specifications
+- Support learning through development rather than preventing all uncertainty
+- Encourage conversation rather than extensive documentation
+- Adapt to project phase (early-stage products may need looser criteria)
 
-- **Using the DoR as a weapon**: Refusing to accept any work that does not perfectly meet every criterion, even when the team has sufficient information to proceed
-- **No DoR at all**: Accepting any work into a sprint regardless of preparation, leading to frequent blockers and rework
-- **DoR that never changes**: A static DoR that does not evolve with the team's maturity and changing needs
-- **Product owner exclusion**: Creating a DoR without product owner input, resulting in criteria that are impractical for how requirements are gathered
-
-## Key Takeaway
-
-The Definition of Ready ensures that development time is spent building software, not clarifying requirements. It protects the team's sprint capacity by establishing clear entry criteria for work items. Keep it lightweight, review it regularly, and treat it as a living agreement between the product owner and the development team.
+Teams should treat the DoR as a living agreement that evolves with their needs. When an item almost meets the DoR and the team is confident they can proceed, rigid enforcement serves no one. The goal is informed commitment, not bureaucratic compliance.

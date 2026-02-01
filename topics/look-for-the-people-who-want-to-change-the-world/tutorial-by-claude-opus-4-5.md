@@ -1,45 +1,86 @@
-# Look for the People Who Want to Change the World: Tutorial
+## Look for the People Who Want to Change the World
 
-## Overview
+The phrase "look for the people who want to change the world" represents a fundamental hiring and organizational philosophy that prioritizes purpose-driven individuals over purely skills-driven recruitment. Popularized by Salesforce, this approach has become a cornerstone of modern technology culture and reflects a broader shift in how companies think about talent acquisition and corporate mission.
 
-"Look for the people who want to change the world" is a phrase closely associated with Salesforce, one of the world's leading customer relationship management (CRM) software companies. The phrase represents Salesforce's commitment to hiring and working with individuals who are passionate about making a positive difference. For agile change technology professionals, this concept goes beyond recruitment -- it speaks to the power of values alignment, purpose-driven culture, and the belief that business can and should be a force for good. Understanding and applying this principle can transform how teams are built, how organizations operate, and the impact that technology work can have on the world.
+## The Core Philosophy
 
-## Key Concepts and Explanation
+This principle asserts that the most valuable team members are those who share a deep commitment to meaningful impact. Rather than hiring solely for technical competence or experience, organizations following this philosophy actively seek candidates whose personal values align with the company's mission.
 
-### Values Alignment in the Workplace
+The underlying belief is straightforward: people who genuinely want to change the world bring intrinsic motivation, resilience, and creative energy that cannot be taught or incentivized through compensation alone. These individuals view their work as more than a job—they see it as a vehicle for achieving something larger than themselves.
 
-At its core, "look for the people who want to change the world" is a statement about values alignment. When organizations seek individuals who are driven by purpose and a desire to make a positive impact, they create a workforce that is intrinsically motivated. Intrinsic motivation -- the drive that comes from within rather than from external rewards -- is one of the strongest predictors of sustained engagement, creativity, and performance. People who believe in the mission of their organization bring energy and commitment that no amount of compensation can replicate.
+## Why Values Alignment Matters in Technology
 
-### Purpose-Driven Culture
+Technology professionals wield significant influence over how products and systems shape society. The decisions made during software architecture, data handling, algorithm design, and user experience have far-reaching consequences. When team members are personally invested in positive outcomes, they naturally consider ethical implications and long-term impact.
 
-Salesforce built its culture around the idea that business can be a force for good. This is not just a marketing message; it is embedded in how the company hires, develops, and retains people. A purpose-driven culture attracts people who want their work to matter beyond the bottom line. For agile change professionals, this means that culture is not just about process and collaboration -- it is also about meaning and impact.
+| Hiring Approach | Primary Focus | Typical Outcome |
+|-----------------|---------------|-----------------|
+| Skills-only | Technical competence | Functional products, potential ethical blind spots |
+| Values-aligned | Purpose and capability | Mission-driven innovation, stronger retention |
+| Mixed approach | Balance of both | Varies based on cultural reinforcement |
 
-### The 1-1-1 Model
+Organizations that prioritize values alignment often report higher employee engagement, lower turnover, and stronger collaboration. When everyone shares a common vision of impact, disagreements become productive debates about the best path forward rather than conflicts over fundamental priorities.
 
-Salesforce operationalized its commitment to changing the world through the 1-1-1 model: donating 1% of the company's equity, 1% of its employees' time, and 1% of its products to charitable causes. This model demonstrates that purpose can be structured and measurable, not just aspirational. By giving back to the community and supporting important causes, Salesforce reinforces its cultural identity and creates opportunities for employees to connect their work to broader social impact.
+## The Salesforce 1-1-1 Model
 
-### Building World-Changing Teams
+Salesforce operationalized this philosophy through its 1-1-1 philanthropic model, which dedicates:
 
-The principle extends beyond hiring to how teams are composed, led, and empowered. World-changing people are not just those with exceptional technical skills; they are people with passion, empathy, curiosity, and a drive to solve meaningful problems. Agile teams that include people with these qualities tend to produce more innovative solutions and maintain higher levels of engagement through the inevitable challenges of complex projects.
+- **1% of equity** to charitable foundations
+- **1% of employee time** to volunteer activities
+- **1% of products** donated or discounted for nonprofits
 
-## Practical Steps for Implementation
+This model demonstrates that "wanting to change the world" is not merely aspirational rhetoric but a structural commitment embedded in business operations. For technology professionals, this creates tangible opportunities to apply their skills toward social good while maintaining their primary roles.
 
-1. **Hire for values alignment alongside technical skills.** During the hiring process, assess candidates' passion, purpose, and alignment with the organization's mission. Ask questions about what motivates them, what kind of impact they want to have, and how they define meaningful work. Technical skills can be developed; intrinsic motivation is much harder to instill.
+## Identifying World-Changers in Hiring
 
-2. **Articulate a compelling mission.** Every organization and team should have a clear, inspiring answer to the question "why do we exist?" This mission should go beyond making money to describe the positive change the organization seeks to create. Communicate this mission consistently and connect it to daily work.
+Recognizing candidates who genuinely want to change the world requires going beyond standard interview questions. Effective approaches include:
 
-3. **Create opportunities for impact beyond the product.** Establish programs -- like Salesforce's 1-1-1 model -- that enable team members to contribute to social, environmental, or community causes. Volunteer days, pro bono projects, and charitable giving programs give people tangible ways to make a difference.
+- **Examining side projects and volunteer work** — What do candidates do when no one is paying them?
+- **Discussing failures and lessons learned** — Purpose-driven individuals often have stories of ambitious attempts that taught them valuable lessons
+- **Exploring motivations behind career choices** — Why technology? Why this company? Why now?
+- **Assessing reactions to ethical dilemmas** — How do they reason about tradeoffs between business goals and user welfare?
 
-4. **Empower people to pursue meaningful work.** Give team members autonomy to identify and pursue projects that align with the organization's mission and their own sense of purpose. When people feel ownership over meaningful work, they bring their best effort and creativity.
+Red flags include candidates who speak exclusively about personal advancement, show no curiosity about the company's mission, or dismiss ethical considerations as impractical.
 
-5. **Build diverse, purpose-driven teams.** Seek out people with diverse backgrounds, experiences, and perspectives who share a common commitment to positive impact. Diversity combined with shared purpose produces teams that are both innovative and cohesive.
+## Practical Applications for Technology Teams
 
-6. **Recognize and celebrate impact.** Regularly acknowledge the positive impact that team members and the organization are having -- both through the product and through community engagement. Share stories of how the team's work has made a difference in people's lives.
+Implementing this philosophy extends beyond hiring into daily operations:
 
-7. **Lead with purpose.** Leaders should model purpose-driven behavior by being transparent about their own motivations, investing in causes they believe in, and making decisions that reflect the organization's values even when there is a short-term cost.
+- **Product decisions** should explicitly consider impact on users and society
+- **Technical debt** conversations should include discussion of how delays affect the mission
+- **Performance reviews** should evaluate contributions to purpose, not just deliverables
+- **Team rituals** should reinforce connection between daily work and larger goals
 
-8. **Connect agile practices to purpose.** Frame agile ceremonies and practices in terms of the impact they enable. Sprint reviews become opportunities to celebrate the value delivered to users. Retrospectives become opportunities to ensure the team is aligned with its mission. Backlog prioritization becomes an exercise in maximizing positive impact.
+## Potential Challenges
 
-## Key Takeaway
+This approach is not without difficulties:
 
-"Look for the people who want to change the world" teaches agile change professionals that the most powerful teams are built not just on skills and processes but on shared purpose and values. When organizations prioritize values alignment in hiring, create purpose-driven cultures, and provide structured ways for people to make a positive impact, they unlock a level of motivation and commitment that transcends what traditional management approaches can achieve. The agile principle of valuing individuals and interactions over processes and tools finds its deepest expression when those individuals are united by a genuine desire to make the world better.
+| Challenge | Description | Mitigation |
+|-----------|-------------|------------|
+| Performative alignment | Candidates who say the right things without genuine commitment | Extended interview processes, reference checks on values |
+| Mission drift | Gradual erosion of purpose under business pressures | Regular mission reviews, leadership accountability |
+| Exclusivity | Inadvertently filtering out diverse perspectives | Recognize that "changing the world" takes many forms |
+| Burnout | Purpose-driven people may overwork themselves | Establish boundaries, celebrate sustainable pace |
+
+## Building a World-Changing Culture
+
+Creating an environment where world-changers thrive requires consistent reinforcement:
+
+- **Leadership must model the behavior** — Executives who prioritize short-term metrics over mission undermine the entire philosophy
+- **Stories matter** — Regularly share examples of how the team's work created positive impact
+- **Transparency builds trust** — Be honest about tensions between business realities and idealistic goals
+- **Celebrate the right things** — Recognize contributions to mission, not just revenue or shipping velocity
+
+## The Technology Professional's Perspective
+
+For individual technologists, this philosophy offers a framework for evaluating employers and career decisions. Questions to consider:
+
+- Does this organization's mission align with what I believe matters?
+- Will my daily work contribute to outcomes I find meaningful?
+- Are the people I'd work with genuinely committed to the stated values?
+- Does the company's behavior match its stated philosophy?
+
+Working alongside others who share your commitment to positive change transforms the employment relationship from transactional to collaborative. The work becomes more fulfilling, the challenges feel more worthwhile, and the inevitable setbacks become shared obstacles rather than personal burdens.
+
+## Conclusion
+
+"Look for the people who want to change the world" is more than a recruiting slogan—it represents a coherent philosophy about how organizations can achieve both business success and meaningful impact. For technology professionals, this principle offers guidance for both hiring decisions and personal career choices. The most enduring technology companies are often those that attract and retain people who believe their work matters beyond the balance sheet.

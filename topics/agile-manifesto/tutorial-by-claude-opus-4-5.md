@@ -1,62 +1,144 @@
-# Agile Manifesto: Tutorial
+## The Agile Manifesto
 
-## Overview
+The Agile Manifesto is a foundational document in software development, created in February 2001 by seventeen software practitioners who gathered at a ski resort in Snowbird, Utah. These individuals represented various lightweight development methodologies—including Extreme Programming, Scrum, DSDM, Adaptive Software Development, Crystal, Feature-Driven Development, and Pragmatic Programming—and sought common ground in their approaches to building software.
 
-The Agile Manifesto is the foundational document of the agile software development movement. Created in 2001 by seventeen software practitioners, it articulates four core value statements that guide how software teams should approach their work. The manifesto is deliberately concise, consisting of a preamble and four value pairs.
+The manifesto begins with a declaration of purpose: discovering better ways of developing software through practice and helping others do the same. This experiential, collaborative philosophy underpins the entire document.
 
-## The Preamble
+## The Four Core Values
 
-"We are uncovering better ways of developing software by doing it and helping others do it."
+The Agile Manifesto articulates four value statements, each contrasting a preferred approach with a traditional one. The manifesto explicitly acknowledges that both sides have value, but asserts that the items on the left are valued more.
 
-This opening line establishes two important principles:
+| Preferred Value | Traditional Value |
+|-----------------|-------------------|
+| Individuals and interactions | Processes and tools |
+| Working software | Comprehensive documentation |
+| Customer collaboration | Contract negotiation |
+| Responding to change | Following a plan |
 
-1. **Learning by doing**: Agile is rooted in practice, not theory. The signatories arrived at these values through hands-on experience building software.
-2. **Continuous discovery**: The word "uncovering" signals that agile is not a fixed destination but an ongoing process of improvement.
+## Individuals and Interactions Over Processes and Tools
 
-## The Four Values
+This value places human relationships and communication at the center of software development. While processes provide structure and tools enable productivity, they cannot replace the creativity, judgment, and collaboration that people bring to solving problems.
 
-### 1. Individuals and Interactions over Processes and Tools
+**Practical implications:**
 
-Software is built by people, and the quality of their communication and collaboration matters more than the sophistication of their tools or the rigor of their processes. This does not mean processes and tools are unimportant—it means they should serve people, not constrain them.
+- Team composition and dynamics matter more than which project management tool you use
+- Face-to-face conversation is often more effective than lengthy email threads or documentation
+- Hiring skilled, collaborative people takes priority over perfecting processes
+- Teams should adapt processes to their needs rather than rigidly following prescribed workflows
 
-### 2. Working Software over Comprehensive Documentation
+**What this does not mean:**
 
-A functioning product provides more value and clearer feedback than detailed written specifications. Documentation has its place, but it should not become a substitute for actually building and delivering software.
+- Processes and tools are unnecessary or should be abandoned
+- Documentation of decisions and rationale is unimportant
+- Individuals can ignore team agreements or organizational standards
 
-### 3. Customer Collaboration over Contract Negotiation
+## Working Software Over Comprehensive Documentation
 
-Building the right product requires ongoing dialogue with the customer, not a one-time agreement about requirements. Contracts are necessary, but the relationship should be collaborative, not adversarial.
+This value prioritizes delivering functional software that provides actual value to users. Documentation is not dismissed—it remains necessary for maintenance, onboarding, and compliance—but it should not delay or substitute for delivering working software.
 
-### 4. Responding to Change over Following a Plan
+**Practical implications:**
 
-Requirements evolve, markets shift, and new information emerges. Teams that can adapt to these changes deliver better outcomes than teams that rigidly execute a predetermined plan. Planning is still valuable, but the plan must remain flexible.
+- Frequent delivery of functional increments demonstrates progress
+- The best measure of progress is software that works in users' hands
+- Documentation should be sufficient, not exhaustive
+- Just-in-time documentation often proves more accurate than upfront specifications
+- Automated tests can serve as living documentation of expected behavior
 
-## The Closing Statement
+**What this does not mean:**
 
-"That is, while there is value in the items on the right, we value the items on the left more."
+- Code should be undocumented or cryptic
+- Architecture decisions need not be recorded
+- Regulatory or compliance documentation can be skipped
+- New team members should figure everything out from the code alone
 
-This is frequently overlooked but critically important. The manifesto does not reject processes, documentation, contracts, or plans. It establishes a priority order: when there is tension between the items on the left and right, choose the left.
+## Customer Collaboration Over Contract Negotiation
 
-## Applying the Manifesto in Practice
+This value emphasizes building a partnership with customers rather than treating the relationship as adversarial or purely transactional. Contracts remain necessary to define scope, costs, and responsibilities, but they should not prevent ongoing dialogue about what the customer actually needs.
 
-### For Teams
+**Practical implications:**
 
-- Use the four values as a decision-making filter when facing trade-offs
-- Revisit the manifesto during retrospectives to assess whether your team's practices align with these values
-- Avoid treating the manifesto as a set of rules; treat it as a set of guiding principles
+- Customers are partners in product development, not just requirements sources
+- Regular feedback loops help ensure the product meets real needs
+- Scope can evolve as understanding deepens
+- Trust and transparency reduce the need for protective contract clauses
+- Product owners or customer representatives should be accessible to the team
 
-### For Organizations
+**What this does not mean:**
 
-- Evaluate whether organizational policies support or undermine these values
-- Recognize that adopting agile means changing culture, not just processes
-- Ensure that leadership understands and supports the manifesto's priorities
+- Contracts are unnecessary or should not define obligations
+- Budget and timeline constraints do not exist
+- Customers can demand unlimited changes without consequence
+- Every customer request must be immediately implemented
 
-### Common Pitfalls
+## Responding to Change Over Following a Plan
 
-- **Weaponizing the manifesto**: Using "individuals over processes" as justification for having no process at all
-- **Ignoring the right side**: Abandoning documentation, contracts, and planning entirely
-- **Treating it as a checklist**: The manifesto describes values, not practices—it tells you what to prioritize, not what to do
+This value acknowledges that software development operates in an environment of uncertainty. Requirements evolve, markets shift, technology changes, and understanding deepens. Plans provide direction, but rigid adherence to outdated plans wastes effort and produces inferior products.
 
-## Key Takeaway
+**Practical implications:**
 
-The Agile Manifesto is a statement of priorities, not a methodology. It provides a compass for decision-making by establishing which considerations should take precedence when trade-offs arise. Its power lies in its simplicity and its focus on outcomes over dogma.
+- Plans should be living documents, revisited and revised regularly
+- Short iterations allow for course correction
+- Change is expected and accommodated, not resisted
+- Architectural decisions should favor flexibility where uncertainty exists
+- Retrospectives help teams continuously improve their processes
+
+**What this does not mean:**
+
+- Planning is unnecessary or wasteful
+- Commitments can be ignored or broken without discussion
+- Strategy and vision do not matter
+- Teams should constantly pivot without direction
+
+## The Twelve Principles Behind the Agile Manifesto
+
+Beyond the four values, the manifesto authors articulated twelve principles that provide more specific guidance:
+
+1. **Customer satisfaction** through early and continuous delivery of valuable software
+2. **Welcome changing requirements**, even late in development
+3. **Deliver working software frequently**, from weeks to months, preferring shorter timescales
+4. **Business people and developers work together** daily throughout the project
+5. **Build projects around motivated individuals**, giving them environment and support
+6. **Face-to-face conversation** is the most efficient method of conveying information
+7. **Working software** is the primary measure of progress
+8. **Sustainable development**—sponsors, developers, and users should maintain a constant pace indefinitely
+9. **Continuous attention** to technical excellence and good design enhances agility
+10. **Simplicity**—maximizing the amount of work not done—is essential
+11. **Self-organizing teams** produce the best architectures, requirements, and designs
+12. **Regular reflection** on how to become more effective, with adjustment of behavior
+
+## Common Misinterpretations
+
+The Agile Manifesto is frequently misunderstood or misapplied. Here are clarifications on common misconceptions:
+
+| Misconception | Reality |
+|---------------|---------|
+| Agile means no planning | Agile involves continuous planning, just not rigid upfront plans |
+| Agile means no documentation | Documentation is valued; it should be sufficient, not excessive |
+| Agile is a specific methodology | Agile is a set of values and principles; Scrum, Kanban, XP are methodologies |
+| Agile eliminates deadlines | Timeboxing is central to most Agile approaches |
+| Agile only works for small teams | Agile principles scale with appropriate frameworks and practices |
+| Agile means developers do whatever they want | Self-organization happens within clear boundaries and goals |
+
+## Agile as Values, Not Rules
+
+The Agile Manifesto is deliberately abstract. It does not prescribe specific practices, ceremonies, or tools. This was intentional—the authors recognized that different contexts require different approaches, and they wanted to articulate shared values rather than impose uniformity.
+
+This abstraction is both a strength and a challenge:
+
+- **Strength:** Teams can adapt Agile principles to their specific context, technology, and constraints
+- **Challenge:** The lack of prescription can lead to confusion, cargo cult practices, or claiming "Agile" without embracing its values
+
+## Applying Agile Values in Practice
+
+For technology professionals, the manifesto provides a lens for evaluating decisions and practices:
+
+- **When choosing tools:** Select tools that support how your team actually works, not tools that force rigid processes
+- **When creating documentation:** Ask what documentation serves current and future needs, avoiding both excessive and insufficient documentation
+- **When negotiating with stakeholders:** Build relationships that allow for honest conversation about trade-offs and changing needs
+- **When plans change:** Evaluate whether the change improves outcomes, and adapt gracefully rather than resisting reflexively
+
+## The Manifesto's Lasting Influence
+
+Since 2001, the Agile Manifesto has profoundly influenced software development and beyond. Its ideas have spread to product management, marketing, human resources, and executive leadership. Frameworks like Scrum, Kanban, SAFe, and LeSS draw from its principles. The manifesto sparked a movement that continues to shape how organizations think about work, collaboration, and delivering value.
+
+The manifesto's authors have occasionally expressed concern about how "Agile" has been commercialized, bureaucratized, or reduced to rituals divorced from values. The document itself remains a touchstone—a reminder that at its core, Agile is about people working together effectively to deliver valuable software in an uncertain world.

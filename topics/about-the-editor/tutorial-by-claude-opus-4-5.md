@@ -1,60 +1,80 @@
-# About the Editor: Tutorial
+## About the Editor
 
-## Overview
+This tutorial introduces Joel Parker Henderson, the editor behind this collection of technology and business topics. Understanding the editor's background provides context for the material's perspective and focus areas.
 
-The Agile Change Guide is edited by Joel Parker Henderson, a software developer, writer, and consultant who works at the intersection of technology and business. Understanding the background, expertise, and values of the guide's editor provides important context for how the guide was developed and why it covers the topics it does. This tutorial explores the editor's professional and personal background and draws lessons that agile change technology professionals can apply to their own careers and contributions.
+## Who is Joel Parker Henderson
 
-## Key Concepts
+Joel Parker Henderson is a software developer, writer, and technology consultant. He maintains an active presence in the professional community through multiple platforms:
 
-### Professional Background
+- **LinkedIn**: linkedin.com/in/joelparkerhenderson
+- **GitHub**: github.com/joelparkerhenderson
+- **Linktree**: linktr.ee/joelparkerhenderson
 
-Joel Parker Henderson consults for companies that seek to leverage both technology capabilities and business capabilities. His clients span the full spectrum: venture capital startups, Fortune 500 enterprises, and nonprofit organizations. This breadth of experience means the guide is informed by a wide range of real-world contexts, from scrappy early-stage companies to large, complex enterprises.
+His work spans both hands-on technical implementation and strategic business leadership, making him well-positioned to bridge the gap between technology execution and business outcomes.
 
-His technology work includes creating repositories for developers who work with:
+## Professional Focus Areas
 
-- Architecture decision records (ADRs)
-- Functional specifications
-- System quality attributes
-- Git workflow recommendations
-- Monorepo versus polyrepo guidance
-- Hands-on code demonstrations
+Joel's consulting practice serves a diverse client base, from early-stage venture capital startups to Fortune 500 enterprises and nonprofit organizations. His work divides into two primary domains:
 
-His business work includes creating repositories for managers who work with:
+### Technology Capabilities
 
-- Objectives and key results (OKRs)
-- Key performance indicators (KPIs)
-- Strategic balanced scorecards (SBS)
-- Value stream mappings (VSMs)
-- Statements of work (SOWs)
+| Repository Focus | Purpose |
+|-----------------|---------|
+| Architecture Decision Records (ADRs) | Document significant architectural choices and their rationale |
+| Functional Specifications | Define system behavior and requirements |
+| System Quality Attributes | Establish non-functional requirements like performance and security |
+| Git Workflow Recommendations | Standardize version control practices across teams |
+| Monorepo vs Polyrepo Guidance | Help teams choose appropriate repository structures |
+| Code Demonstrations | Provide hands-on examples for implementation patterns |
 
-This dual focus on technology and business is a hallmark of effective agile change professionals, who must bridge the gap between technical implementation and business value.
+### Business Capabilities
 
-### Open Source and Community Contribution
+| Framework | Application |
+|-----------|-------------|
+| Objectives and Key Results (OKRs) | Goal-setting and measurement |
+| Key Performance Indicators (KPIs) | Performance tracking and accountability |
+| Strategic Balanced Scorecards (SBS) | Multi-perspective strategic assessment |
+| Value Stream Mappings (VSMs) | Process optimization and waste reduction |
+| Statements of Work (SOWs) | Project scope and deliverable definition |
 
-The editor is a committed contributor to free, libre, and open source software (FLOSS). The Agile Change Guide itself is open source, reflecting a belief that knowledge should be freely shared and collaboratively improved. This philosophy aligns with agile values of transparency, collaboration, and community.
+## Personal Values and Interests
 
-### Personal Values
+Beyond professional pursuits, Joel demonstrates commitment to several causes and activities that inform his worldview.
 
-The editor advocates for charitable donations and supports organizations such as the Apache Software Foundation, the Electronic Frontier Foundation, the Free Software Foundation, Amnesty International, and Doctors Without Borders, among others. These commitments reflect values of social responsibility, fairness, and a desire to use one's skills and platform for positive impact.
+### Charitable Advocacy
 
-### Continuous Learning
+Joel supports organizations across technology, civil liberties, environmental health, and human rights:
 
-The editor's wide-ranging interests -- from technology to travel to music -- demonstrate a commitment to lifelong learning and a curiosity that extends beyond professional boundaries. This breadth of perspective is valuable for agile change professionals, who benefit from diverse experiences and the ability to draw connections between disparate fields.
+- **Technology & Digital Rights**: Apache Software Foundation (ASF), Electronic Frontier Foundation (EFF), Free Software Foundation (FSF)
+- **Human Rights**: Amnesty International (AI), Human Rights Watch (HRW)
+- **Health & Environment**: Center for Environmental Health (CEH), Médecins Sans Frontières (MSF)
 
-## Practical Steps for Implementation
+### Open Source Commitment
 
-1. **Bridge technology and business.** Follow the editor's example by developing competence in both technical and business domains. Agile change professionals who understand both sides are more effective at driving change, communicating value, and building stakeholder support.
+Joel writes free libre open source software (FLOSS), reflecting a belief in collaborative development and knowledge sharing. This philosophy extends to the educational repositories and topic guides he maintains.
 
-2. **Contribute to open source.** If you have knowledge or tools that could benefit the community, consider sharing them as open-source projects. This builds your professional reputation, sharpens your skills, and contributes to the broader ecosystem.
+### Personal Pursuits
 
-3. **Create and share knowledge resources.** Whether through repositories, blog posts, tutorials, or internal documentation, invest in creating resources that help others learn. Knowledge sharing is a multiplier that amplifies your impact.
+- Avid traveler with interest in experiencing diverse cultures and meeting new people
+- Musician who plays guitar
 
-4. **Build a diverse portfolio of experience.** Seek opportunities to work with different types of organizations -- startups, enterprises, nonprofits. Each context provides unique lessons and broadens your perspective.
+## Why This Matters for Readers
 
-5. **Invest in community and social responsibility.** Find ways to use your professional skills for social good. Volunteer, donate, mentor, or contribute to causes you care about. This enriches your professional life and builds a network of purpose-driven colleagues.
+Understanding the editor's background helps readers contextualize the material:
 
-6. **Pursue lifelong learning.** Stay curious. Read broadly, attend conferences, learn new technologies, and explore interests outside your primary domain. The connections you make between different fields will fuel creative problem-solving in your agile practice.
+- **Practical orientation**: Content comes from someone actively consulting with real organizations, not purely academic perspectives
+- **Balanced viewpoint**: Experience with startups, enterprises, and nonprofits provides broad perspective
+- **Open source ethos**: Materials are shared freely with the community
+- **Cross-functional expertise**: Topics bridge technology implementation and business strategy
 
-## Key Takeaway
+## Connecting with the Editor
 
-The background of the Agile Change Guide's editor illustrates a career built on the integration of technology and business expertise, a commitment to open-source knowledge sharing, and a dedication to continuous learning and social responsibility. For agile change technology professionals, these qualities are not merely admirable -- they are practical assets that enhance effectiveness, broaden perspective, and deepen impact. Build your career on the same foundations: technical and business fluency, community contribution, diverse experience, and a commitment to lifelong growth.
+For professionals interested in engaging further:
+
+| Platform | Best Use |
+|----------|----------|
+| LinkedIn | Professional networking and consulting inquiries |
+| GitHub | Accessing repositories, contributing to projects, or reviewing code examples |
+| Linktree | Central hub for all professional links and resources |
+
+The repositories referenced throughout this guide reflect Joel's hands-on approach to documenting best practices and providing actionable guidance for technology professionals navigating complex organizational challenges.

@@ -7,7 +7,7 @@ Agile teams checklist thanks to Mountain Goat Software.
 - Teams adopt appropriate practices and improve them over time.
 - Teams working on a common product proactively coordinate their work.
 - Teams openly share new ideas, practices, and experiences with other teams.
-- Teams decide how to execute work. 
+- Teams decide how to execute work.
 - Teams quickly act on stakeholder feedback to improve the product.
 - Teams are rarely delayed waiting for work to be completed by another team.
 - Teams make every effort to fully complete all planned work.
@@ -24,7 +24,7 @@ Agile teams checklist thanks to Mountain Goat Software.
 - Teams choose and use various ways of communicating.
 - Teams have all received basic training on agile concepts.
 - Teams feel safe to express dissenting views.
-- Teams start work even when some open issues or questions remain. 
+- Teams start work even when some open issues or questions remain.
 - Teams understand and are motivated by why they are performing their work.
 - Teams take pride in their craft.
 
@@ -35,9 +35,9 @@ Stakeholders have frequent opportunities to evaluate the product.
 Stakeholders champion agile values and agile principles.
 Stakeholders see quality as a right that the team has and they respect it.
 Stakeholders delegate authority to teams and don’t take it back at the first sign of trouble.
-Stakeholders support teams in experimenting—by not punishing an unsuccessful experiment. 
+Stakeholders support teams in experimenting—by not punishing an unsuccessful experiment.
 Stakeholders communicate what they hope to achieve by becoming more agile.
-Stakeholders actively encourage teams to learn new skills and ways of working. 
+Stakeholders actively encourage teams to learn new skills and ways of working.
 Stakeholders develop people rather than manage their performance.
 
 Decisions are made quickly, sometimes with incomplete knowledge.

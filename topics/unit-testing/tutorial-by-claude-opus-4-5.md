@@ -1,341 +1,150 @@
-# Unit Testing: A Comprehensive Tutorial for Test Automation Professionals
-
-## Introduction
-
-Unit testing verifies that individual functions, methods, or classes work correctly in isolation. For test automation professionals, unit tests form the foundation of the test pyramid — they are the fastest, cheapest, and most numerous tests in a well-designed test suite.
-
-## What is Unit Testing?
-
-A unit test exercises the smallest testable part of an application — typically a single function or method — with known inputs and verifies the outputs. Unit tests run without external dependencies (databases, networks, file systems) by using test doubles when needed.
-
-### Unit Testing in Context
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│                     Unit Testing                            │
-├─────────────────────────────────────────────────────────────┤
-│                                                             │
-│  The Test Pyramid:                                          │
-│           ╱╲                                               │
-│          ╱E2E╲    Slow, expensive, few                     │
-│         ╱──────╲                                           │
-│        ╱Integr. ╲  Moderate speed and count                │
-│       ╱────────────╲                                       │
-│      ╱  Unit Tests  ╲  Fast, cheap, many  ◄── This topic  │
-│     ╱────────────────╲                                     │
-│                                                             │
-│  Unit Test Characteristics (F.I.R.S.T.):                    │
-│  ├── Fast: Milliseconds per test                           │
-│  ├── Isolated: No external dependencies                    │
-│  ├── Repeatable: Same result every time                    │
-│  ├── Self-validating: Pass or fail, no manual check        │
-│  └── Timely: Written alongside production code             │
-│                                                             │
-│  What Makes a Good Unit:                                    │
-│  ├── Pure functions (no side effects)                      │
-│  ├── Class methods with clear inputs/outputs               │
-│  ├── Data transformations and calculations                 │
-│  ├── Business logic and validation rules                   │
-│  └── State machines and decision logic                     │
-│                                                             │
-│  What Unit Tests Do NOT Test:                               │
-│  ├── Database queries (integration test)                   │
-│  ├── API endpoints (integration/E2E test)                  │
-│  ├── Multi-component workflows (E2E test)                  │
-│  └── UI rendering (component/E2E test)                     │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
-
-## Writing Unit Tests
-
-```python
-# unit_testing.py
-
-"""
-Unit testing fundamentals and patterns.
-"""
-
-import pytest
-from dataclasses import dataclass
-from typing import List, Optional
-
-
-# --- System Under Test ---
-
-class PriceCalculator:
-    """Business logic for calculating prices."""
-
-    TAX_RATE = 0.08
-    BULK_THRESHOLD = 10
-    BULK_DISCOUNT = 0.10
-
-    def calculate_subtotal(self, unit_price: float, quantity: int) -> float:
-        if unit_price < 0:
-            raise ValueError("Price cannot be negative")
-        if quantity < 0:
-            raise ValueError("Quantity cannot be negative")
-        return unit_price * quantity
-
-    def apply_discount(self, subtotal: float, discount_pct: float) -> float:
-        if discount_pct < 0 or discount_pct > 100:
-            raise ValueError("Discount must be between 0 and 100")
-        return subtotal * (1 - discount_pct / 100)
-
-    def calculate_tax(self, amount: float) -> float:
-        return round(amount * self.TAX_RATE, 2)
-
-    def calculate_total(self, unit_price: float, quantity: int, discount_pct: float = 0) -> dict:
-        subtotal = self.calculate_subtotal(unit_price, quantity)
-
-        # Auto-apply bulk discount
-        if quantity >= self.BULK_THRESHOLD:
-            discount_pct = max(discount_pct, self.BULK_DISCOUNT * 100)
-
-        discounted = self.apply_discount(subtotal, discount_pct)
-        tax = self.calculate_tax(discounted)
-        total = round(discounted + tax, 2)
-
-        return {
-            "subtotal": subtotal,
-            "discount_pct": discount_pct,
-            "after_discount": discounted,
-            "tax": tax,
-            "total": total,
-        }
-
-
-class PasswordStrengthChecker:
-    """Check password strength with specific rules."""
-
-    def check(self, password: str) -> dict:
-        checks = {
-            "length": len(password) >= 8,
-            "uppercase": any(c.isupper() for c in password),
-            "lowercase": any(c.islower() for c in password),
-            "digit": any(c.isdigit() for c in password),
-            "special": any(c in "!@#$%^&*()-_+=[]{}|;:,.<>?" for c in password),
-        }
-
-        score = sum(checks.values())
-        strength = "weak" if score <= 2 else "medium" if score <= 4 else "strong"
-
-        return {
-            "checks": checks,
-            "score": score,
-            "strength": strength,
-            "valid": checks["length"] and score >= 3,
-        }
-
-
-# --- Unit Tests ---
-
-class TestPriceCalculator:
-    """Unit tests for PriceCalculator."""
-
-    @pytest.fixture
-    def calc(self):
-        return PriceCalculator()
-
-    # Positive cases
-    def test_subtotal_basic(self, calc):
-        assert calc.calculate_subtotal(10.0, 5) == 50.0
-
-    def test_subtotal_zero_quantity(self, calc):
-        assert calc.calculate_subtotal(10.0, 0) == 0.0
-
-    def test_subtotal_single_item(self, calc):
-        assert calc.calculate_subtotal(29.99, 1) == 29.99
-
-    # Edge cases
-    def test_subtotal_negative_price_raises(self, calc):
-        with pytest.raises(ValueError, match="Price cannot be negative"):
-            calc.calculate_subtotal(-10.0, 1)
-
-    def test_subtotal_negative_quantity_raises(self, calc):
-        with pytest.raises(ValueError, match="Quantity cannot be negative"):
-            calc.calculate_subtotal(10.0, -1)
-
-    # Discount
-    def test_discount_applied(self, calc):
-        assert calc.apply_discount(100.0, 20) == 80.0
-
-    def test_discount_zero(self, calc):
-        assert calc.apply_discount(100.0, 0) == 100.0
-
-    def test_discount_full(self, calc):
-        assert calc.apply_discount(100.0, 100) == 0.0
-
-    def test_discount_invalid_raises(self, calc):
-        with pytest.raises(ValueError):
-            calc.apply_discount(100.0, 101)
-
-    # Tax
-    def test_tax_calculation(self, calc):
-        assert calc.calculate_tax(100.0) == 8.0
-
-    def test_tax_rounding(self, calc):
-        assert calc.calculate_tax(33.33) == 2.67
-
-    # Total (integration of sub-functions)
-    def test_total_no_discount(self, calc):
-        result = calc.calculate_total(10.0, 5)
-        assert result["subtotal"] == 50.0
-        assert result["total"] == 54.0  # 50 + 8% tax
-
-    def test_total_with_bulk_discount(self, calc):
-        result = calc.calculate_total(10.0, 10)
-        assert result["discount_pct"] == 10.0
-        assert result["after_discount"] == 90.0
-
-    # Parametrized tests
-    @pytest.mark.parametrize("price,qty,expected_subtotal", [
-        (0, 100, 0),
-        (1, 1, 1),
-        (9.99, 3, 29.97),
-        (0.01, 1, 0.01),
-    ])
-    def test_subtotal_parametrized(self, calc, price, qty, expected_subtotal):
-        assert calc.calculate_subtotal(price, qty) == pytest.approx(expected_subtotal)
-
-
-class TestPasswordStrength:
-    """Unit tests for password validation."""
-
-    def test_strong_password(self):
-        result = PasswordStrengthChecker().check("MyP@ss123")
-        assert result["strength"] == "strong"
-        assert result["valid"]
-
-    def test_weak_password(self):
-        result = PasswordStrengthChecker().check("abc")
-        assert result["strength"] == "weak"
-        assert not result["valid"]
-
-    def test_medium_password(self):
-        result = PasswordStrengthChecker().check("Password1")
-        assert result["strength"] == "medium"
-
-    def test_empty_password(self):
-        result = PasswordStrengthChecker().check("")
-        assert result["strength"] == "weak"
-        assert not result["valid"]
-
-    @pytest.mark.parametrize("password,expected_strength", [
-        ("abc", "weak"),
-        ("abcdefgh", "medium"),
-        ("Abcdefgh", "medium"),
-        ("Abcdefg1", "medium"),
-        ("Abcde1!z", "strong"),
-    ])
-    def test_strength_levels(self, password, expected_strength):
-        result = PasswordStrengthChecker().check(password)
-        assert result["strength"] == expected_strength
-```
-
-```javascript
-// unit_testing.test.js
-
-/**
- * Unit testing fundamentals with Jest.
- */
-
-class EmailValidator {
-  validate(email) {
-    if (!email || typeof email !== "string") {
-      return { valid: false, error: "Email is required" };
-    }
-
-    const pattern = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
-    if (!pattern.test(email)) {
-      return { valid: false, error: "Invalid email format" };
-    }
-
-    if (email.length > 254) {
-      return { valid: false, error: "Email too long" };
-    }
-
-    return { valid: true, normalized: email.toLowerCase().trim() };
-  }
-}
-
-describe("EmailValidator", () => {
-  const validator = new EmailValidator();
-
-  test("accepts valid email", () => {
-    const result = validator.validate("user@example.com");
-    expect(result.valid).toBe(true);
-    expect(result.normalized).toBe("user@example.com");
-  });
-
-  test("rejects empty string", () => {
-    expect(validator.validate("").valid).toBe(false);
-  });
-
-  test("rejects null", () => {
-    expect(validator.validate(null).valid).toBe(false);
-  });
-
-  test("rejects missing @", () => {
-    expect(validator.validate("userexample.com").valid).toBe(false);
-  });
-
-  test("rejects missing domain", () => {
-    expect(validator.validate("user@").valid).toBe(false);
-  });
-
-  test("normalizes to lowercase", () => {
-    const result = validator.validate("User@Example.COM");
-    expect(result.normalized).toBe("user@example.com");
-  });
-
-  test.each([
-    ["user@example.com", true],
-    ["a@b.c", true],
-    ["invalid", false],
-    ["@no-local.com", false],
-    ["no-domain@", false],
-  ])("validates %s → %s", (email, expected) => {
-    expect(validator.validate(email).valid).toBe(expected);
-  });
-});
-```
-
-## Best Practices
-
-```markdown
-## Unit Testing Best Practices
-
-### Test Design
-- [ ] One assertion concept per test (related assertions are fine)
-- [ ] Test behavior, not implementation details
-- [ ] Cover positive, negative, and edge cases
-- [ ] Use parametrized tests for input variants
-
-### F.I.R.S.T. Principles
-- [ ] Fast: Each test runs in milliseconds
-- [ ] Isolated: No shared state between tests
-- [ ] Repeatable: Same result on every run
-- [ ] Self-validating: Clear pass/fail, no manual inspection
-- [ ] Timely: Written alongside or before production code
-
-### Coverage
-- [ ] Test all public methods
-- [ ] Test boundary conditions (0, 1, max, empty)
-- [ ] Test error paths and exceptions
-- [ ] Don't test trivial getters/setters
-```
-
-## Conclusion
-
-Unit tests are the foundation of reliable test automation. They run fast, catch bugs early, and make refactoring safe. By following the F.I.R.S.T. principles and testing behavior rather than implementation, test automation professionals build unit test suites that provide lasting value.
-
-## Key Takeaways
-
-1. Unit tests verify individual functions or methods in isolation
-2. They form the base of the test pyramid — fast, cheap, and numerous
-3. Follow F.I.R.S.T.: Fast, Isolated, Repeatable, Self-validating, Timely
-4. Test behavior (what it does) not implementation (how it does it)
-5. Use parametrized tests to cover multiple inputs efficiently
-6. Test positive cases, negative cases, and boundary conditions
-7. Unit tests make refactoring safe by catching regressions immediately
+## Unit Testing
+
+Unit testing is a software testing technique that verifies individual units or components of a software system. A unit is the smallest testable part of an application—typically a method, function, class, or module. The primary purpose is to validate that each unit performs as expected and satisfies specified requirements.
+
+## Core Concept
+
+The fundamental idea behind unit testing is isolation. You separate a unit from the rest of the software system and test it in an automated, repeatable way. This involves writing test cases that exercise the unit's functionality and compare actual results with expected results. If results match, the test passes; otherwise, it fails and indicates a defect.
+
+## The Unit Testing Pyramid
+
+Unit tests form the foundation of the testing pyramid, which describes the ideal distribution of test types:
+
+| Test Level | Scope | Speed | Quantity |
+|------------|-------|-------|----------|
+| Unit Tests | Single function/method | Milliseconds | Many (70-80%) |
+| Integration Tests | Multiple components | Seconds | Some (15-20%) |
+| End-to-End Tests | Entire system | Minutes | Few (5-10%) |
+
+## Key Characteristics of Good Unit Tests
+
+Effective unit tests follow the FIRST principles:
+
+- **Fast** — Execute in milliseconds, enabling developers to run them frequently
+- **Independent** — No dependencies on other tests; can run in any order
+- **Repeatable** — Produce the same results regardless of environment or execution time
+- **Self-Validating** — Pass or fail without manual interpretation
+- **Timely** — Written alongside or before the production code
+
+## Benefits of Unit Testing
+
+Unit testing delivers substantial value across the development lifecycle:
+
+- **Early defect detection** — Catches bugs during development when they are cheapest to fix
+- **Improved code quality** — Forces developers to write modular, testable, and maintainable code
+- **Living documentation** — Describes expected behavior better than comments or external docs
+- **Refactoring confidence** — Enables safe code changes with immediate feedback
+- **Design feedback** — Difficult-to-test code often signals poor design decisions
+- **Reduced debugging time** — Pinpoints exact location of failures
+
+## Unit Test Structure: Arrange-Act-Assert
+
+Most unit tests follow the AAA pattern:
+
+| Phase | Purpose | Activities |
+|-------|---------|------------|
+| Arrange | Set up test conditions | Create objects, initialize data, configure mocks |
+| Act | Execute the unit under test | Call the method or function being tested |
+| Assert | Verify the outcome | Compare actual results to expected results |
+
+## What to Test
+
+Focus unit tests on behavior, not implementation:
+
+- **Happy path** — Normal expected inputs produce correct outputs
+- **Edge cases** — Boundary conditions, empty inputs, maximum values
+- **Error conditions** — Invalid inputs, null values, exceptions
+- **State changes** — Object state transitions correctly after operations
+- **Return values** — Methods return expected results
+
+## Test Doubles
+
+When testing a unit in isolation, you replace its dependencies with test doubles:
+
+| Double Type | Purpose | Behavior |
+|-------------|---------|----------|
+| Dummy | Fill parameter lists | No implementation; never actually used |
+| Stub | Provide predetermined responses | Returns fixed values regardless of input |
+| Spy | Record interactions | Tracks how the unit uses its dependencies |
+| Mock | Verify behavior | Asserts specific methods were called with expected arguments |
+| Fake | Simplified implementation | Working implementation unsuitable for production |
+
+## Popular Unit Testing Frameworks
+
+Different languages have established testing frameworks:
+
+| Language | Primary Frameworks |
+|----------|-------------------|
+| Java | JUnit, TestNG |
+| Python | pytest, unittest |
+| JavaScript | Jest, Mocha, Vitest |
+| C# | NUnit, xUnit, MSTest |
+| Go | testing (built-in) |
+| Ruby | RSpec, Minitest |
+| Rust | cargo test (built-in) |
+
+## Code Coverage
+
+Code coverage measures how much of your code is exercised by tests:
+
+| Coverage Type | What It Measures |
+|---------------|------------------|
+| Line Coverage | Percentage of lines executed |
+| Branch Coverage | Percentage of decision branches taken |
+| Function Coverage | Percentage of functions called |
+| Condition Coverage | Percentage of boolean sub-expressions evaluated |
+
+Target coverage levels vary by project, but 70-80% line coverage is a common baseline. Coverage alone does not guarantee quality—tests must make meaningful assertions.
+
+## Integration with CI/CD
+
+Unit tests integrate into continuous integration pipelines:
+
+- **Pre-commit hooks** — Run tests locally before pushing code
+- **Pull request gates** — Block merging if tests fail
+- **Build pipelines** — Execute full test suite on every commit
+- **Test reporting** — Generate coverage reports and trend analysis
+- **Failure notifications** — Alert teams immediately when tests break
+
+## Common Unit Testing Anti-Patterns
+
+Avoid these practices that reduce test effectiveness:
+
+- **Testing implementation details** — Tests break when refactoring without behavior changes
+- **Excessive mocking** — Over-mocking creates tests that pass despite broken code
+- **Test interdependence** — Tests that rely on shared state or execution order
+- **Ignored tests** — Disabling failing tests rather than fixing them
+- **Assertion-free tests** — Tests that execute code but verify nothing
+- **Slow tests** — Tests that take seconds instead of milliseconds
+
+## When Not to Unit Test
+
+Unit testing is not universally applicable. Consider alternatives for:
+
+- **Simple getters and setters** — Trivial code with no logic
+- **Framework code** — Configuration and boilerplate the framework handles
+- **Thin wrappers** — Code that only delegates to external systems
+- **Rapidly changing prototypes** — Exploratory code that will be rewritten
+
+## Measuring Unit Test Quality
+
+Beyond coverage, evaluate test quality through:
+
+- **Mutation testing** — Introduces small code changes to verify tests detect them
+- **Test execution time** — Fast suites get run more frequently
+- **Flakiness rate** — Percentage of tests that intermittently fail
+- **Defect escape rate** — Bugs that reach production despite passing tests
+- **Maintenance burden** — Time spent updating tests after code changes
+
+## Best Practices Summary
+
+- Write tests during development, not after
+- Test behavior, not implementation
+- Keep tests fast and independent
+- Use descriptive test names that explain expected behavior
+- One logical assertion per test
+- Treat test code with the same quality standards as production code
+- Run tests frequently—ideally on every save
+- Fix broken tests immediately
+
+Unit testing is an essential practice for professional software development. When done well, it accelerates development, improves code quality, and provides confidence when making changes to the codebase.

@@ -24,6 +24,6 @@ Agile teams checklist thanks to Mountain Goat Software.
 - Teams choose and use various ways of communicating.
 - Teams have all received basic training on agile concepts.
 - Teams feel safe to express dissenting views.
-- Teams start work even when some open issues or questions remain. 
+- Teams start work even when some open issues or questions remain.
 - Teams understand and are motivated by why they are performing their work.
 - Teams take pride in their craft.

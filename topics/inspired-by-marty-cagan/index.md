@@ -1,12 +1,12 @@
 # Inspired: How to Create Tech Products Customers Love
 
-"Inspired: How to Create Tech Products Customers Love" by Marty Cagan is a guide for product management in tech, centering on how companies like Amazon, Google, and Netflix consistently build products customers love. 
+"Inspired: How to Create Tech Products Customers Love" by Marty Cagan is a guide for product management in tech, centering on how companies like Amazon, Google, and Netflix consistently build products customers love.
 
 **Product vs. Project Mindset:** Emphasize outcomes over outputs. Teams should
 avoid linear, project-style development and instead continuously test and
 validate ideas through discovery and iteration.
 
-**Continuous Discovery:**  Test assumptions about value, usability, feasibility,
+**Continuous Discovery:** Test assumptions about value, usability, feasibility,
 and business viability early through prototypes and user testing. Prototype-only
 deliverables are purpose-built to validate risk—not to be feature-complete
 products.
@@ -18,7 +18,7 @@ discovery—is essential.
 
 **Vision & Strategy:** Vision should be inspiring, customer-centered, and
 aligned to long-term trends and business needs. Strategy should focus on one key
-persona or market at a time and sync with organizational goals. 
+persona or market at a time and sync with organizational goals.
 
 **People & Culture:** Build empowered, cross-skilled teams with T-shaped skills.
 Foster a culture of autonomy, high ownership, and relentless innovation tied to

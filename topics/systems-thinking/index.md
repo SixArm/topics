@@ -1,6 +1,6 @@
 # Systems thinking
 
-Systems thinking is a holistic perspective which views interconnected relationships rather than isolated components. 
+Systems thinking is a holistic perspective which views interconnected relationships rather than isolated components.
 
 In agile contexts, systems thinking encourages teams to consider the broader ecosystem when implementing changes. Rather than optimizing individual features or sprints in isolation, teams examine how modifications affect the entire product lifecycle, from user feedback loops to deployment pipelines. This approach helps identify bottlenecks and dependencies that might not be apparent when focusing solely on immediate deliverables.
 

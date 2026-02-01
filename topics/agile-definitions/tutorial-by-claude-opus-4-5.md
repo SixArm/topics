@@ -1,52 +1,164 @@
-# Agile Definitions: Tutorial
+## Agile Definitions
 
-## Overview
+Agile methodologies rely on shared understanding across teams. Five key definitions help teams prioritize work, establish quality standards, and measure outcomes. These definitions create alignment between developers, product owners, and stakeholders by making expectations explicit and measurable.
 
-Agile uses a set of shared definitions to create common understanding across teams about when work is ready to start, when it is finished, and what constitutes value. These definitions serve as alignment tools that prevent ambiguity and ensure consistent quality.
+## Definition of Ready (DoR)
 
-## The Core Definitions
+The Definition of Ready establishes criteria that a user story or work item must meet before a team commits to working on it during a sprint. A story that meets the DoR has been sufficiently refined, analyzed, and prepared for implementation.
 
-### Definition of Story (DoS)
+**Common DoR criteria include:**
 
-A story (or user story) describes a capability from the end user's perspective. It focuses on what the user wants and why, not on technical implementation. Stories follow the format: "I am a [type of user]. I want [some goal] so that [some reason]."
+- User story follows the INVEST principles (Independent, Negotiable, Valuable, Estimable, Small, Testable)
+- Acceptance criteria are clearly written and agreed upon
+- Dependencies have been identified and resolved or scheduled
+- The team has estimated the effort required
+- UX/UI designs are complete if applicable
+- Technical approach has been discussed
+- The Product Owner is available to answer questions
 
-### Definition of Ready (DoR)
+**Benefits of a Definition of Ready:**
 
-The Definition of Ready establishes criteria that a work item must meet before the team begins working on it. It ensures that the team has enough information and clarity to start development without delays.
+| Benefit | Description |
+|---------|-------------|
+| Reduces mid-sprint surprises | Teams avoid discovering missing requirements during implementation |
+| Improves estimation accuracy | Well-defined stories are easier to size correctly |
+| Increases team confidence | Developers know what "done" looks like before starting |
+| Prevents scope creep | Agreed criteria limit ad-hoc additions |
 
-### Definition of Done (DoD)
+**Caution:** An overly strict DoR can slow delivery. Balance thoroughness with pragmatism.
 
-The Definition of Done specifies the criteria that must be met before work can be considered complete. It typically includes coding, testing, review, documentation, and deployment readiness standards.
+## Definition of Done (DoD)
 
-### Definition of Value (DoV)
+The Definition of Done specifies when a work item is truly complete. It represents the quality standard that all completed work must meet before it can be considered shippable.
 
-The Definition of Value articulates what constitutes meaningful benefit—from business, user, and technical perspectives. It guides prioritization by helping teams focus on work that delivers the greatest impact.
+**Typical DoD criteria:**
 
-### Definition of Customer Value (DoCV)
+- Code is written and peer-reviewed
+- Unit tests are written and passing
+- Integration tests pass
+- Code meets coding standards and passes static analysis
+- Documentation is updated
+- Feature is deployed to a staging environment
+- Product Owner has accepted the implementation
+- No known defects remain
+- Performance meets established benchmarks
 
-Customer value focuses specifically on the benefits delivered to end users and stakeholders—efficiency gains, cost savings, improved experience, and reduced friction.
+**DoD at different levels:**
 
-### Definition of Technical Value (DoTV)
+| Level | Scope | Example Criteria |
+|-------|-------|------------------|
+| Story | Individual user story | Code reviewed, tests passing, PO accepted |
+| Sprint | All work in a sprint | All stories meet DoD, sprint goal achieved |
+| Release | Shippable increment | Production-ready, security reviewed, release notes complete |
 
-Technical value encompasses the long-term health of the software system—maintainability, scalability, performance, and reduced technical debt. It enables future development efficiency.
+A strong DoD prevents technical debt from accumulating. When teams skip steps to meet deadlines, they create hidden liabilities that compound over time.
 
-## How These Definitions Work Together
+## Definition of Value (DoV)
 
-The definitions form a pipeline:
+The Definition of Value articulates what makes work valuable to the organization. It shifts focus from output (features delivered) to outcomes (business impact achieved).
 
-1. **Story** defines what needs to be built and why
-2. **Ready** ensures the story is sufficiently prepared for development
-3. **Done** ensures the completed work meets quality standards
-4. **Value** (customer and technical) ensures the work delivers meaningful benefit
+**Key questions a DoV answers:**
 
-## Practical Steps for Implementation
+- What problem does this solve?
+- Who benefits from this work?
+- How will we measure success?
+- What business metrics will improve?
 
-1. **Develop definitions collaboratively**: The entire team—developers, testers, product owners, and stakeholders—should contribute to creating each definition.
-2. **Keep definitions visible**: Post them on a shared board or wiki where the team references them daily.
-3. **Use definitions as checklists**: During sprint planning (DoR), sprint reviews (DoD), and backlog prioritization (DoV), actively reference the relevant definition.
-4. **Review and evolve**: Revisit definitions during retrospectives. As the team matures, definitions should evolve to reflect higher standards and new learning.
-5. **Be specific but not rigid**: Definitions should be concrete enough to be actionable but flexible enough to accommodate different types of work.
+**Value dimensions to consider:**
 
-## Key Takeaway
+- Revenue generation or cost reduction
+- User satisfaction and engagement
+- Competitive advantage
+- Risk mitigation
+- Operational efficiency
+- Learning and validated assumptions
 
-Shared definitions eliminate ambiguity and create alignment. When everyone on the team agrees on what "ready," "done," and "valuable" mean, communication becomes clearer, quality becomes more consistent, and disagreements about completeness or priority are resolved by reference to agreed standards rather than individual opinions.
+The Definition of Value helps teams prioritize the product backlog by making value explicit rather than assumed. It prevents teams from building features that are technically impressive but deliver minimal business impact.
+
+## Definition of Customer Value (DoCV)
+
+The Definition of Customer Value focuses specifically on the value delivered to end users and customers. It ensures that product decisions center on customer needs rather than internal assumptions.
+
+**Components of customer value:**
+
+- **Functional value:** Does the product solve the customer's problem?
+- **Emotional value:** How does the product make customers feel?
+- **Economic value:** Does the product save customers time or money?
+- **Social value:** Does the product help customers achieve status or connection?
+
+**Methods to validate customer value:**
+
+| Method | When to Use | Output |
+|--------|-------------|--------|
+| Customer interviews | Discovery phase | Qualitative insights, quotes |
+| Surveys | Validation at scale | Quantitative sentiment data |
+| Usage analytics | Post-release | Behavioral patterns |
+| Net Promoter Score | Ongoing | Customer loyalty indicator |
+| A/B testing | Feature decisions | Comparative performance data |
+
+A strong DoCV prevents the "build it and they will come" fallacy. Teams explicitly state hypotheses about customer value and establish how they will validate those hypotheses.
+
+## Definition of Technical Value (DoTV)
+
+The Definition of Technical Value captures the value of work that improves the technical foundation without directly delivering user-facing features. This includes refactoring, infrastructure improvements, performance optimization, and technical debt reduction.
+
+**Categories of technical value:**
+
+- **Maintainability:** Code is easier to understand, modify, and extend
+- **Reliability:** System uptime and error rates improve
+- **Performance:** Response times and throughput improve
+- **Scalability:** System handles increased load gracefully
+- **Security:** Vulnerabilities are reduced or eliminated
+- **Developer experience:** Engineers are more productive and satisfied
+
+**Balancing technical and customer value:**
+
+Technical work enables sustained delivery of customer value. Neglecting technical value leads to:
+
+- Slower feature delivery over time
+- Increased defect rates
+- Higher operational costs
+- Developer burnout and turnover
+
+**Making technical value visible:**
+
+| Approach | Description |
+|----------|-------------|
+| Dedicated allocation | Reserve a percentage of each sprint for technical work |
+| Technical debt backlog | Track and prioritize technical improvements explicitly |
+| Engineering metrics | Measure deployment frequency, lead time, change failure rate |
+| Capacity planning | Show how technical investments increase future velocity |
+
+## Comparing the Definitions
+
+| Definition | Primary Question | Key Stakeholder | Measurement Focus |
+|------------|------------------|-----------------|-------------------|
+| Definition of Ready | Is this work prepared? | Development Team | Process quality |
+| Definition of Done | Is this work complete? | Development Team | Deliverable quality |
+| Definition of Value | Is this work worthwhile? | Product Owner | Business outcomes |
+| Definition of Customer Value | Does this help users? | Customers | User outcomes |
+| Definition of Technical Value | Does this improve our foundation? | Engineering | System health |
+
+## Implementing Definitions Effectively
+
+**Start simple:** Begin with minimal criteria and add more as the team matures. Overly complex definitions create bureaucracy without adding value.
+
+**Make them visible:** Post definitions where the team can reference them during planning and review sessions.
+
+**Review regularly:** Definitions should evolve as the team and product mature. Retrospectives are a natural time to discuss refinements.
+
+**Ensure shared ownership:** The entire team should participate in creating and updating definitions. Imposed definitions generate resistance.
+
+**Use for conversations, not compliance:** Definitions should spark discussion about quality and value, not become checkbox exercises.
+
+## Common Pitfalls
+
+- **Definition of Ready becomes a gate:** Stories languish in refinement indefinitely. Solution: Time-box refinement and accept uncertainty.
+
+- **Definition of Done is ignored under pressure:** Teams skip steps to hit deadlines. Solution: Leadership must protect quality standards.
+
+- **Value is assumed, not measured:** Teams deliver features without validating impact. Solution: Build measurement into the DoV from the start.
+
+- **Technical value is invisible:** Engineering work competes unfairly with features. Solution: Quantify technical debt and its impact on velocity.
+
+These five definitions work together to create a coherent system for planning, executing, and evaluating agile work. When properly implemented, they align teams around shared standards and keep focus on delivering meaningful outcomes.

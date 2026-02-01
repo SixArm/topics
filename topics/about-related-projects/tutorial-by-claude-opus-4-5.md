@@ -1,54 +1,177 @@
-# About Related Projects: Tutorial
+## About Related Projects
 
-## Overview
+This tutorial introduces a collection of open-source resources designed for technology professionals working in startup strategy, organizational development, and software engineering. These projects provide templates, frameworks, and best practices that can be immediately applied to real-world professional challenges.
 
-The Agile Change Guide is part of a broader ecosystem of open-source projects created by the author, Joel Parker Henderson. These related projects cover startup strategy, tactics, and tools across a wide range of disciplines, from architecture decision records and functional specifications to objectives and key results, value stream mapping, and more. This tutorial introduces these related resources, explains how they connect to agile change work, and provides practical guidance for leveraging them in your professional development.
+## Why These Resources Matter
 
-## Key Concepts
+Technology professionals operate at the intersection of technical implementation and business strategy. Having access to well-documented frameworks and templates accelerates decision-making, improves communication with stakeholders, and establishes consistent practices across teams. These open-source repositories represent battle-tested approaches to common professional challenges.
 
-### The Interconnected Nature of Agile Change Work
+## Categories of Related Projects
 
-Agile change does not happen in isolation. Effective change management requires knowledge that spans technology, business, strategy, communication, and organizational design. The related projects reflect this reality by covering a broad range of complementary topics:
+The projects fall into several functional categories, each addressing different aspects of technology leadership and management.
 
-- **Decision-making frameworks.** Architecture Decision Records (ADRs), Decision Records (DRs), and the OODA loop provide structured approaches to making and documenting decisions.
-- **Strategic planning.** Business model canvas (BMC), strategic balanced scorecard (SBS), and objectives and key results (OKRs) help organizations align their activities with strategic goals.
-- **Performance measurement.** Key performance indicators (KPIs) and key risk indicators (KRIs) provide the metrics needed to track progress and identify risks.
-- **Project execution.** Statements of work (SOWs), responsibility assignment matrices (RAMs), and SMART criteria help teams define, assign, and execute work effectively.
-- **Team and culture.** Company culture, ways of working (WOW), TEAM FOCUS, and code of conduct guidelines address the human and organizational dimensions of change.
-- **Communication and collaboration.** Crucial conversations, icebreaker questions, and social value orientation provide tools for better human interaction.
-- **Technical practices.** Functional specifications, system quality attributes, value stream mapping (VSM), and queueing theory connect agile change to technical and process improvement disciplines.
+| Category | Focus Area | Key Projects |
+|----------|-----------|--------------|
+| Decision Making | Capturing and communicating architectural and business decisions | Architecture Decision Record, Decision Record Template, OODA Loop |
+| Strategic Planning | Business modeling and goal-setting | Business Model Canvas, OKR, SMART Criteria, Strategic Balanced Scorecard |
+| Performance Measurement | Tracking success and risk | KPI, KRI, Maturity Models |
+| Team Collaboration | Culture, communication, and coordination | Ways of Working, Company Culture, Crucial Conversations, TEAM FOCUS |
+| Documentation | Specifications and agreements | Functional Specifications, Statement of Work, Intent Plan |
 
-### Open Source as a Learning Model
+## Decision-Making Frameworks
 
-All of the related projects are free, libre, and open source. This means you can read, use, adapt, and contribute to any of them. Open-source knowledge resources have several advantages for professional learning:
+### Architecture Decision Record (ADR)
 
-- **Accessibility.** Anyone can access the content, regardless of budget or organizational affiliation.
-- **Currency.** Open-source projects can be updated continuously, reflecting the latest thinking and best practices.
-- **Community.** Contributors from diverse backgrounds improve the quality and breadth of the content.
-- **Transparency.** The full history of changes is visible, allowing you to see how the content has evolved.
+ADRs document significant architectural decisions along with their context and consequences. They create a historical record that helps new team members understand why systems are built a certain way and prevent revisiting settled debates.
 
-### Building a Personal Knowledge System
+### Decision Record Template
 
-The related projects can serve as building blocks for a personal knowledge system. Rather than trying to learn everything at once, you can focus on the topics most relevant to your current challenges and expand your knowledge over time.
+A generalized version of ADRs applicable beyond software architecture. Decision Records capture any significant organizational or project decision, making them valuable for cross-functional teams.
 
-## Practical Steps for Implementation
+### OODA Loop
 
-1. **Audit your knowledge gaps.** Review the list of related projects and identify the topics where you have the least knowledge or experience. Prioritize these for learning.
+The Observe-Orient-Decide-Act loop provides a mental model for rapid decision-making under uncertainty. Originally developed for military strategy, it applies directly to fast-moving technology environments where competitive advantage depends on speed.
 
-2. **Start with what is most relevant.** If you are currently working on organizational change, start with objectives and key results (OKRs), ways of working (WOW), or company culture. If you are focused on technical decisions, begin with architecture decision records (ADRs) or system quality attributes.
+## Strategic Planning Tools
 
-3. **Clone the repositories.** Clone the repositories for the projects you want to study. This gives you local access to all the content and allows you to annotate, experiment, and practice.
+### Business Model Canvas
 
-4. **Integrate practices into your daily work.** Do not just read about ADRs or OKRs -- start using them. Create an architecture decision record for your next significant decision. Write a statement of work for your next project. Use SMART criteria for your next set of goals.
+The BMC provides a single-page visual framework for describing, designing, and pivoting business models. It covers nine building blocks: customer segments, value propositions, channels, customer relationships, revenue streams, key resources, key activities, key partnerships, and cost structure.
 
-5. **Share what you learn.** When you discover a useful practice or framework from one of the related projects, share it with your team. Propose a lunch-and-learn or a working session to introduce the concept.
+### Objectives and Key Results (OKR)
 
-6. **Contribute back.** If you find errors, have suggestions, or develop improvements to any of the related projects, contribute through pull requests or issues on GitHub. This helps the community and deepens your own understanding.
+OKRs connect ambitious goals (Objectives) to measurable outcomes (Key Results). This goal-setting methodology, popularized by Intel and Google, aligns individual, team, and organizational priorities.
 
-7. **Build cross-disciplinary fluency.** Use the related projects to build competence across technology, business, and organizational dimensions. The most effective agile change professionals are those who can operate fluently across these domains.
+### SMART Criteria
 
-8. **Create your own resource library.** Curate a personal collection of the most useful frameworks, templates, and guides from the related projects. Organize them for easy reference and update them as your practice evolves.
+SMART ensures goals are Specific, Measurable, Achievable, Relevant, and Time-bound. This framework transforms vague intentions into actionable targets.
 
-## Key Takeaway
+### Strategic Balanced Scorecard
 
-The related projects represent a rich ecosystem of knowledge that extends and complements the Agile Change Guide. For agile change technology professionals, these resources offer practical frameworks, templates, and insights that can be applied directly to your work. By exploring these projects, integrating their practices into your daily work, and contributing your own improvements, you build a comprehensive toolkit for driving effective change. The breadth of these resources reflects the reality that agile change is an interdisciplinary endeavor -- and the most impactful professionals are those who invest in learning across domains.
+The SBS extends financial metrics to include customer, internal process, and learning perspectives. It provides a holistic view of organizational performance.
+
+## Performance Measurement
+
+### Key Performance Indicators (KPI)
+
+KPIs are quantifiable measures that evaluate success against strategic objectives. Effective KPIs are specific, measurable, and directly tied to business outcomes.
+
+### Key Risk Indicators (KRI)
+
+KRIs provide early warning signals for potential risks. They enable proactive risk management by identifying trends before they become critical issues.
+
+### Maturity Models
+
+Maturity models assess organizational capability across defined levels. They provide roadmaps for improvement and benchmarks for comparison against industry standards.
+
+## Team Collaboration Resources
+
+### Ways of Working (WOW)
+
+WOW documents team agreements about communication, decision-making, and collaboration. Explicit working agreements reduce friction and accelerate team formation.
+
+### Company Culture
+
+This resource explores how organizational values, beliefs, and behaviors shape outcomes. Understanding culture enables intentional design of high-performing environments.
+
+### Crucial Conversations
+
+Frameworks for handling high-stakes discussions where emotions run strong and opinions differ. These skills prove essential for technology leaders navigating complex organizational dynamics.
+
+### TEAM FOCUS Framework
+
+A structured approach to teamwork that addresses common dysfunctions and provides concrete practices for improvement.
+
+### Icebreaker Questions
+
+Practical questions for building rapport in new teams or cross-functional groups. These facilitate psychological safety and open communication.
+
+## Documentation Standards
+
+### Functional Specifications Tutorial
+
+Guidance on writing clear, complete functional specifications that bridge business requirements and technical implementation.
+
+### Statement of Work Template
+
+SOW templates define project scope, deliverables, timelines, and terms. They establish clear expectations between parties and reduce disputes.
+
+### Intent Plan
+
+Intent plans communicate purpose and desired outcomes while allowing flexibility in execution. They enable autonomous decision-making aligned with strategic direction.
+
+### Responsibility Assignment Matrix (RAM)
+
+RAM clarifies who is responsible, accountable, consulted, and informed for each task or decision. The RACI model eliminates ambiguity about roles.
+
+## Specialized Frameworks
+
+### Coordinated Disclosure
+
+Guidelines for responsibly disclosing security vulnerabilities. Essential for organizations handling sensitive systems or data.
+
+### Code of Conduct Guidelines
+
+Templates and guidance for establishing behavioral expectations in professional and open-source communities.
+
+### Queueing Theory
+
+Mathematical frameworks for understanding waiting lines and system capacity. Applicable to service design, infrastructure planning, and user experience optimization.
+
+### Value Stream Mapping
+
+VSM visualizes the flow of materials and information required to deliver value. It identifies waste and opportunities for process improvement.
+
+### Outputs vs. Outcomes
+
+Distinguishes between what teams produce (outputs) and the value delivered (outcomes). This distinction shifts focus from activity to impact.
+
+### Social Value Orientation
+
+Explores how individual preferences for cooperation versus competition affect team dynamics and negotiation outcomes.
+
+### Oblique Strategies
+
+Creative thinking prompts that break conventional thought patterns. Useful when teams face novel challenges or feel stuck.
+
+### Pitch Deck Quick Start
+
+Templates and guidance for creating investor presentations. Covers essential elements and common pitfalls.
+
+### System Quality Attributes
+
+SQAs define non-functional requirements like performance, security, and maintainability. They ensure systems meet operational needs beyond feature functionality.
+
+## How to Use These Resources
+
+- **Start with immediate needs**: Select projects addressing current challenges rather than attempting comprehensive adoption
+- **Fork and customize**: These templates work best when adapted to organizational context
+- **Combine complementary tools**: OKRs pair well with KPIs; ADRs complement functional specifications
+- **Iterate based on feedback**: Treat these as living documents that evolve with organizational learning
+
+## Selecting the Right Framework
+
+| If You Need To... | Consider Using |
+|-------------------|----------------|
+| Document technical decisions | Architecture Decision Record |
+| Set team goals | OKR + SMART Criteria |
+| Improve process efficiency | Value Stream Mapping |
+| Measure organizational capability | Maturity Models |
+| Establish team norms | Ways of Working |
+| Define project scope | Statement of Work |
+| Track business health | KPI + Strategic Balanced Scorecard |
+| Manage security disclosures | Coordinated Disclosure |
+
+## Benefits of Open-Source Resources
+
+These repositories offer distinct advantages over proprietary alternatives:
+
+- **Transparency**: Full visibility into methodology and reasoning
+- **Customization**: Freedom to modify for specific organizational needs
+- **Community**: Contributions and improvements from practitioners worldwide
+- **Cost**: No licensing fees or vendor lock-in
+- **Longevity**: Not dependent on any single vendor's business model
+
+## Conclusion
+
+This collection of related projects provides technology professionals with a comprehensive toolkit for strategy, decision-making, measurement, and collaboration. By leveraging these open-source resources, teams can adopt proven practices while maintaining the flexibility to adapt them to their unique contexts. The interconnected nature of these frameworks means that mastering one often creates natural pathways to applying others, building organizational capability incrementally over time.
