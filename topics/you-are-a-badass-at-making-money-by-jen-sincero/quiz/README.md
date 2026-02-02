@@ -1,0 +1,1 @@
+/Users/jph/git/sixarm/topics/topics/you-are-a-badass-at-making-money-by-jen-sincero/quiz/quiz-by-claude-opus-4-5-20251101.md

@@ -1,0 +1,1 @@
+/Users/jph/git/sixarm/topics/topics/the-startup-owners-manual-by-steve-blank/quiz/quiz-by-claude-opus-4-5-20251101.md

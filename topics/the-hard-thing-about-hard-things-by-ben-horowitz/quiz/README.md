@@ -1,0 +1,1 @@
+./topics/the-hard-thing-about-hard-things-by-ben-horowitz/quiz/quiz-by-claude-opus-4-5-20251101.md

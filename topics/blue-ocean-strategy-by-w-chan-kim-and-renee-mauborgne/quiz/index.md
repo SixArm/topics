@@ -1,0 +1,1 @@
+./topics/blue-ocean-strategy-by-w-chan-kim-and-renee-mauborgne/quiz/quiz-by-claude-opus-4-5-20251101.md

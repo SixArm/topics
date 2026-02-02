@@ -1,0 +1,1 @@
+/Users/jph/git/sixarm/topics/topics/think-outside-of-the-box/quiz/quiz-by-claude-opus-4-5-20251101.md

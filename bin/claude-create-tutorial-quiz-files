@@ -54,7 +54,7 @@ topics() {
 # like "You're out of extra usage · resets 7 PM (Europe/London)".
 # 
 vacuum() {    
-    find "$HOME/git/sixarm/topics/topics" \( -name tutorial-by-claude-opus-4-5-20251101.md -o quiz-by-claude-opus-4-5-20251101.md \) -size -80c -delete
+    find "$HOME/git/sixarm/topics/topics" \( -name "tutorial-by-claude-opus-4-5-20251101.m"d -o -name "quiz-by-claude-opus-4-5-20251101.md" \) -size -80c -delete
 }
 
 # vet_topic

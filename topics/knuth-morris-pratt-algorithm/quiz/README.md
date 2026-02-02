@@ -1,0 +1,1 @@
+/Users/jph/git/sixarm/topics/topics/knuth-morris-pratt-algorithm/quiz/quiz-by-claude-opus-4-5-20251101.md

@@ -1,0 +1,1 @@
+/Users/jph/git/sixarm/topics/topics/ideas-are-easy-implementation-is-hard/quiz/quiz-by-claude-opus-4-5-20251101.md

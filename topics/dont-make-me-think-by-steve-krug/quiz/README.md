@@ -1,0 +1,1 @@
+/Users/jph/git/sixarm/topics/topics/dont-make-me-think-by-steve-krug/quiz/quiz-by-claude-opus-4-5-20251101.md

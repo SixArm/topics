@@ -1,0 +1,1 @@
+./topics/premature-optimization-is-the-root-of-all-evil/quiz/quiz-by-claude-opus-4-5-20251101.md

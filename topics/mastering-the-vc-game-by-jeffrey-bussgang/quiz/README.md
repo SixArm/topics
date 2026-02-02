@@ -1,0 +1,1 @@
+/Users/jph/git/sixarm/topics/topics/mastering-the-vc-game-by-jeffrey-bussgang/quiz/quiz-by-claude-opus-4-5-20251101.md

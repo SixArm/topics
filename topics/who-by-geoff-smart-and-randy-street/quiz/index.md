@@ -1,0 +1,1 @@
+/Users/jph/git/sixarm/topics/topics/who-by-geoff-smart-and-randy-street/quiz/quiz-by-claude-opus-4-5-20251101.md

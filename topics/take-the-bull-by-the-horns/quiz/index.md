@@ -1,0 +1,1 @@
+/Users/jph/git/sixarm/topics/topics/take-the-bull-by-the-horns/quiz/quiz-by-claude-opus-4-5-20251101.md
