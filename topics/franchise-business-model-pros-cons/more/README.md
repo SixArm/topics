@@ -1,0 +1,1 @@
+./topics/franchise-business-model-pros-cons/more/tutorial-by-claude-opus-4-5-520251101.md

@@ -17,43 +17,95 @@
 set -euf
 top="$(git rev-parse --show-toplevel)"
 
+model="claude-opus-4-5-20251101"
+
+# Copied from https://github.com/sixarm/unix-shell-script-kit
+out() {     printf %s%s%s\\n "${STDOUT_COLOR_START:-}" "$*" "${STDOUT_COLOR_STOP:-}"; }
+err() { >&2 printf %s%s%s\\n "${STDERR_COLOR_START:-}" "$*" "${STDERR_COLOR_STOP:-}"; }
+die() { n="$1" ; shift ; err "$*"; exit "$n"; }
+
 # Delete any extraneous tutorial files; these are sometimes created
 # when Claude starts to think about a tutorial yet doesn't finish.
 find "$HOME/git/sixarm/topics/topics" -type f -name tutorial-by-claude-opus-4-5.md -empty -delete
 
-# Find all the topcs that need tutorials.
-# Shuffle the topics to help multiple runs mitigate overlap.
-find "$HOME/git/sixarm/topics/topics" -type d -depth 1 |
-xargs basename |
-shuf |
-while read -r topic; do
-    
-    # Memoize the topic directory full path.
-    dir="$top/topics/$topic"
+topics() {
+    find "$HOME/git/sixarm/topics/topics" -type d -depth 1 |
+    xargs -n1 basename |
+    shuf
+}
 
-    # Verify the topic directory exists, and has its expected file `index.md`,
-    # and needs us to create its new file `tutorial-by-claude-opus-4-5.md`.
-    # This helps ensure we can run this claud script in parallal with others,
+vet_topic() {
+
+    # Setup
+    topic="$1"
+    topic_dir="$top/topics/$topic"
+    topic_file="$top/topics/$topic/index.md"
+
+    # Verify the topic directory exists.
+    if [ ! -d "$topic_dir" ]; then
+        err "Expect topic directory: $topic_dir"
+        return 1
+    fi
+
+    # Verify the topic directory has its necessary topic file.
+    if [ ! -f "$topic_file" ]; then
+        err "Expect topic directory index file: $x"
+        return 1
+    fi
+    
+    # Ok
+    return 0
+}
+
+create_topic_tutorial() {
+    echo "create_topic_tutorial() $1"
+
+    # Setup
+    topic="$1"
+    topic_dir="$top/topics/$topic"
+    topic_file="$top/topics/$topic/index.md"
+
+    # Set target directory, target file, etc.
+    tutorial_dir="$topic_dir/more"
+    tutorial_file="$topic_dir/more/tutorial-by-$model.md"
+    mkdir -p "$tutorial_dir"
+
+    # Verify the topic directory doesn't already have a tutorial file.
+    # This helps ensure we can run this claude script in parallel with others,
     # and can make dynamic changes to the directories and files out of band.
-    if [ ! -e "$dir" ] || [ ! -f "$dir/index.md" ] || [ -f "$dir/tutorial-by-claude-opus-4-5.md" ]; then continue; fi;
+    if [ -f "$tutorial_file" ]; then
+        continue
+    fi
 
     # Create a specific prompt that generates the phrasing that we prefer.
     # We ensure claude prints to stdout, and doesn't try to write a file.
     prompt=$(cat<<-EOF
 Create comprehensive tutorial explaining topic **$topic** for a technology professional.
-Read input file "$dir/index.md"
+Read input file "$topic_dir/index.md"
 Use clear H2 headers, paragraphs, tables for comparisons, bullet lists. Be decisive.
 Do not use ASCII diagrams. Do not use source code.
 Print the markdown tutorial directly. Do not use the Write tool.
 EOF
     )
-    echo "$topic"
+    echo "$topic" "$tutorial_file"
     claude \
     --print "$prompt" \
-    --add-dir "$dir" \
-    --model claude-opus-4-5-20251101 \
+    --add-dir "$topic_dir" \
+    --add-dir "$tutorial_dir" \
+    --model "$model" \
     --allowedTools "Read" \
     --no-session-persistence \
     </dev/null \
-    >"$dir/tutorial-by-claude-opus-4-5.md"
-done
+    >"$tutorial_file"
+}
+
+main() {
+    echo "claude-create-tutorials"
+    topics |
+    while read -r topic; do
+        vet_topic "$topic" || continue
+        create_topic_tutorial "$topic"
+    done
+}
+
+main
