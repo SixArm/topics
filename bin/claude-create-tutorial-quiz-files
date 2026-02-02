@@ -1,0 +1,220 @@
+#!/bin/sh
+
+# Claude code command to create topic files for tutorials and quizzes.
+# 
+# This script reads the topics directory.
+# 
+# For each topic:
+# 
+# 1. Read the topic directory file `index.md` for gathering context.
+# 2. Set a prompt, then generate the tutorial text, then print to stdout.
+# 3. Save to a new file `more/tutorial-by-claude-opus-4-5-20251101.md`.
+# 4. Create symlinks to `index.md` and `README.md` for readability.
+# 5. Do the same for a quiz file `quiz/quiz-by-claude-opus-4-5-20251101.md`.
+# 
+# This script is designed to work in parallel with multiple runs,
+# meaning you can launch this script multiple simultanous times,
+# and all the runs will try to stay out of each other's way.
+# 
+# For each topic task:
+# 
+# - Verify the topic directory doesn't already have the target file.
+# - This helps ensure we can run this claude script in parallel with others.
+# - And we can make dynamic changes to the directories and files out of band.
+
+set -euf
+top="$(git rev-parse --show-toplevel)"
+
+model="claude-opus-4-5-20251101"
+
+# Copied from https://github.com/sixarm/unix-shell-script-kit
+out() {     printf %s%s%s\\n "${STDOUT_COLOR_START:-}" "$*" "${STDOUT_COLOR_STOP:-}"; }
+err() { >&2 printf %s%s%s\\n "${STDERR_COLOR_START:-}" "$*" "${STDERR_COLOR_STOP:-}"; }
+die() { n="$1" ; shift ; err "$*"; exit "$n"; }
+
+# topics
+# 
+# Return a list of topic directory names, one per line.
+# We shuffle the list because this helps reduce collisions.
+#
+topics() {
+    find "$HOME/git/sixarm/topics/topics" -type d -depth 1 |
+    xargs -n1 basename |
+    shuf
+}
+
+# vacuum
+# 
+# Clean up the topic files by deleting any extranous generated files.
+# 
+# Case 1: When Claude starts to work on target file, this script creates a
+# blank file as a placeholder; if Claude dies, then the file is orphaned.
+#
+# Case 2: When Claude runs out of tokens, then the output says something
+# like "You're out of extra usage · resets 7 PM (Europe/London)".
+# 
+vacuum() {    
+    find "$HOME/git/sixarm/topics/topics" \( -name tutorial-by-claude-opus-4-5-20251101.md -o quiz-by-claude-opus-4-5-20251101.md \) -size -80c -delete
+}
+
+# vet_topic
+# 
+# Verify the topic directory exists and has its necessary topic file.
+# Always call this function before starting real work, just in case.
+# 
+vet_topic() {
+
+    # Setup
+    topic="$1"
+    topic_dir="$top/topics/$topic"
+    topic_file="$topic_dir/index.md"
+
+    # Verify the topic directory exists.
+    if [ ! -d "$topic_dir" ]; then
+        err "Expect topic directory: $topic_dir"
+        return 1
+    fi
+
+    # Verify the topic directory has its necessary topic file.
+    if [ ! -f "$topic_file" ]; then
+        err "Expect topic file: $topic_file"
+        return 1
+    fi
+    
+    # Ok
+    return 0
+}
+
+# create_topic_tutorial
+# 
+# Use Claude to create a comprehensive topic tutorial.
+# 
+# This function saves the output to a specific file name,
+# currently "tutorial-by-claude-opus-4-5-20251101.md".
+# 
+# This function then symlinks the file to index.md" and "README.md" because
+# these links help the file render via typical webserver and typical GitHub.
+#
+create_topic_tutorial() {
+    #echo "create_topic_tutorial $1"
+
+    # Set inputs
+    topic="$1"
+    topic_dir="$top/topics/$topic"
+    topic_file="$topic_dir/index.md"
+
+    # Set target directory, target file, etc.
+    target_dir="$topic_dir/more"
+    target_file="$target_dir/tutorial-by-$model.md"
+    
+    # Set filesystem
+    mkdir -p "$target_dir"
+    if [ -f "$target_file" ]; then continue; fi
+
+    # Create a specific prompt that generates the phrasing that we prefer.
+    # We ensure claude prints to stdout, and doesn't try to write a file.
+    prompt=$(cat<<-EOF
+Create comprehensive tutorial explaining topic **$topic** for a technology professional.
+Read input file "$topic_dir/index.md"
+Use clear H2 headers, paragraphs, tables for comparisons, bullet lists. Be decisive.
+Do not use ASCII diagrams. Do not use source code.
+Print the markdown directly. Do not use the Write tool.
+EOF
+    )
+    echo "create_topic_tutorial $topic $target_file"
+    claude \
+    --print "$prompt" \
+    --add-dir "$topic_dir" \
+    --add-dir "$target_dir" \
+    --model "$model" \
+    --allowedTools "Read" \
+    --no-session-persistence \
+    </dev/null \
+    >"$target_file"
+    ln -sfn "$target_file" "$target_dir/index.md"
+    ln -sfn "$target_file" "$target_dir/README.md"
+}
+
+# create_topic_quiz
+# 
+# Use Claude to create a topic multiple choice quiz.
+# 
+# This function saves the output to a specific file name,
+# currently "quiz-by-claude-opus-4-5-20251101.md".
+# 
+# This function then symlinks the file to index.md" and "README.md" because
+# these links help the file render via typical webserver and typical GitHub.
+#
+create_topic_quiz() {
+    #echo "create_topic_quiz $1"
+
+    # Set inputs
+    topic="$1"
+    topic_dir="$top/topics/$topic"
+    topic_file="$topic_dir/index.md"
+
+    # Set target directory, target file, etc.
+    target_dir="$topic_dir/quiz"
+    target_file="$target_dir/quiz-by-$model.md"
+
+    # Set filesystem
+    mkdir -p "$target_dir"
+    if [ -f "$target_file" ]; then continue; fi
+
+    # Create a specific prompt that generates the phrasing that we prefer.
+    # We ensure claude prints to stdout, and doesn't try to write a file.
+    prompt=$(cat<<-EOF
+Create a quiz about topic **$topic** for a technology professional.
+Exactly 1 question that is most important, most relevant, most useful.
+Exactly 4 multiple choice options.
+Random sort the multiple choice options.
+Read input file "$topic_dir/index.md"
+
+Template:
+
+"""
+# {topic name}
+
+Question: {question}
+
+- [ ] {multiple choice option}
+- [ ] {multiple choice option}
+- [ ] {multiple choice option}
+- [ ] {multiple choice option}
+
+<details>
+  <summary>Answer</summary>
+  <p>{correct answer}</p>
+  <p>{correct answer explanation}</p>
+</details>
+"""
+
+Do not use ASCII diagrams. Do not use source code.
+Print the markdown directly. Do not use the Write tool.
+EOF
+    )
+    echo "create_topic_quiz $topic $target_file"
+    claude \
+    --print "$prompt" \
+    --add-dir "$topic_dir" \
+    --add-dir "$target_dir" \
+    --model "$model" \
+    --allowedTools "Read" \
+    --no-session-persistence \
+    </dev/null \
+    >"$target_file"
+    ln -sfn "$target_file" "$target_dir/index.md"
+    ln -sfn "$target_file" "$target_dir/README.md"
+}
+
+main() {
+    vacuum
+    topics |
+    while read -r topic; do
+        vet_topic "$topic" || continue
+        #create_topic_tutorial "$topic"
+        create_topic_quiz "$topic"
+    done
+}
+
+main
