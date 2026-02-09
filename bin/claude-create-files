@@ -7,10 +7,8 @@
 # For each topic:
 # 
 # 1. Read the topic directory file `index.md` for gathering context.
-# 2. Set a prompt, then generate the tutorial text, then print to stdout.
-# 3. Save to a new file `more/tutorial-by-claude-opus-4-5-20251101.md`.
-# 4. Create symlinks to `index.md` and `README.md` for readability.
-# 5. Do the same for a quiz file `quiz/quiz-by-claude-opus-4-5-20251101.md`.
+# 2. Use a prompt to generate the corresponding tutorials, quiz, etc.
+# 3. Create symlinks to `index.md` and `README.md` for readability.
 # 
 # This script is designed to work in parallel with multiple runs,
 # meaning you can launch this script multiple simultanous times,
@@ -25,7 +23,7 @@
 set -euf
 top="$(git rev-parse --show-toplevel)"
 
-model="claude-opus-4-5-20251101"
+model="claude-opus-4-6"
 
 # Copied from https://github.com/sixarm/unix-shell-script-kit
 out() {     printf %s%s%s\\n "${STDOUT_COLOR_START:-}" "$*" "${STDOUT_COLOR_STOP:-}"; }
@@ -54,7 +52,10 @@ topics() {
 # like "You're out of extra usage · resets 7 PM (Europe/London)".
 # 
 vacuum() {    
-    find "$HOME/git/sixarm/topics/topics" \( -name "tutorial-by-claude-opus-4-5-20251101.m"d -o -name "quiz-by-claude-opus-4-5-20251101.md" \) -size -80c -delete
+    find "$HOME/git/sixarm/topics/topics" \
+    -size -80c \
+    \( -name "tutorial-by-claude-opus-4-5-20251101.md" -o -name "quiz-by-claude-opus-4-5-20251101.md" \) \
+    -delete
 }
 
 # vet_topic
@@ -102,10 +103,11 @@ create_topic_tutorial() {
     topic="$1"
     topic_dir="$top/topics/$topic"
     topic_file="$topic_dir/index.md"
+    topic_line=$(head -1 "$topic_file")
 
     # Set target directory, target file, etc.
-    target_dir="$topic_dir/more"
-    target_file="$target_dir/tutorial-by-$model.md"
+    target_dir="$topic_dir/tutorial"
+    target_file="$target_dir/$model.md"
     
     # Set filesystem
     mkdir -p "$target_dir"
@@ -116,8 +118,10 @@ create_topic_tutorial() {
     prompt=$(cat<<-EOF
 Create comprehensive tutorial explaining topic **$topic** for a technology professional.
 Read input file "$topic_dir/index.md"
-Use clear H2 headers, paragraphs, tables for comparisons, bullet lists. Be decisive.
-Do not use ASCII diagrams. Do not use source code.
+Line 1 is "$topic_line". 
+Then introduction paragraph. Be helpful for novices.
+Then use clear H2 headers and paragraphs. 
+No ASCII tables. No ASCII diagrams. No bullet lists. No diagrams.  No source code.
 Print the markdown directly. Do not use the Write tool.
 EOF
     )
@@ -212,8 +216,8 @@ main() {
     topics |
     while read -r topic; do
         vet_topic "$topic" || continue
-        #create_topic_tutorial "$topic"
-        create_topic_quiz "$topic"
+        create_topic_tutorial "$topic"
+        #create_topic_quiz "$topic"
     done
 }
 

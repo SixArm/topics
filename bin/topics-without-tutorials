@@ -8,4 +8,3 @@ while read topic; do
         echo "$topic"
     fi
 done
->>>>>>> d8550dc (Add claude loop)
