@@ -2,6 +2,18 @@
 
 # Claude code command to create topic files for tutorials and quizzes.
 # 
+# Syntax:
+# 
+# ```sh
+# claude-create-files
+# ```
+# 
+# Syntax for running two instances in parallel:
+# 
+# ```sh
+# seq 2 | parallel claude-create-files
+# ```
+# 
 # This script reads the topics directory.
 # 
 # For each topic:
@@ -19,6 +31,9 @@
 # - Verify the topic directory doesn't already have the target file.
 # - This helps ensure we can run this claude script in parallel with others.
 # - And we can make dynamic changes to the directories and files out of band.
+# #
+
+
 
 set -euf
 top="$(git rev-parse --show-toplevel)"
@@ -52,10 +67,7 @@ topics() {
 # like "You're out of extra usage · resets 7 PM (Europe/London)".
 # 
 vacuum() {    
-    find "$HOME/git/sixarm/topics/topics" \
-    -size -80c \
-    \( -name "tutorial-by-claude-opus-4-5-20251101.md" -o -name "quiz-by-claude-opus-4-5-20251101.md" \) \
-    -delete
+    find "$HOME/git/sixarm/topics/topics" -size -80c -name "claude-opus-4-6.md" -delete
 }
 
 # vet_topic
@@ -103,7 +115,7 @@ create_topic_tutorial() {
     topic="$1"
     topic_dir="$top/topics/$topic"
     topic_file="$topic_dir/index.md"
-    topic_line=$(head -1 "$topic_file")
+    topic_head=$(head -1 "$topic_file")
 
     # Set target directory, target file, etc.
     target_dir="$topic_dir/tutorial"
@@ -118,11 +130,16 @@ create_topic_tutorial() {
     prompt=$(cat<<-EOF
 Create comprehensive tutorial explaining topic **$topic** for a technology professional.
 Read input file "$topic_dir/index.md"
-Line 1 is "$topic_line". 
-Then introduction paragraph. Be helpful for novices.
-Then use clear H2 headers and paragraphs. 
-No ASCII tables. No ASCII diagrams. No bullet lists. No diagrams.  No source code.
-Print the markdown directly. Do not use the Write tool.
+Create tutorial:
+1. H1 title "$topic_head".
+2. Introduction paragraph
+3. Clear H2 headers, with a mix of detailed paragraphs, tables for comparisons, bullet lists.
+4. H2 "Related" section: one paragraph of related topics to learn next.
+5. H2 "Summary" section: one paragraph summary conclusion.
+6. H2 "References" section: citations and links to more information.
+Be decisive. 
+No ASCII diagrams. No source code. No emoji.
+Print the markdown directly. Do not modify files. Do not use the Write tool.
 EOF
     )
     echo "create_topic_tutorial $topic $target_file"
@@ -134,7 +151,7 @@ EOF
     --allowedTools "Read" \
     --no-session-persistence \
     </dev/null \
-    >"$target_file"
+    >>"$target_file"
     ln -sfn "$target_file" "$target_dir/index.md"
     ln -sfn "$target_file" "$target_dir/README.md"
 }
@@ -159,7 +176,7 @@ create_topic_quiz() {
 
     # Set target directory, target file, etc.
     target_dir="$topic_dir/quiz"
-    target_file="$target_dir/quiz-by-$model.md"
+    target_file="$target_dir/$model.md"
 
     # Set filesystem
     mkdir -p "$target_dir"
