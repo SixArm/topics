@@ -1,0 +1,1 @@
+/Users/jph/git/sixarm/topics/topics/functional-specifications-steps/tutorial/claude-opus-4-6.md

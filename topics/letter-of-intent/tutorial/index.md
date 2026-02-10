@@ -1,0 +1,1 @@
+/Users/jph/git/sixarm/topics/topics/letter-of-intent/tutorial/claude-opus-4-6.md

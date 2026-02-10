@@ -1,0 +1,1 @@
+/Users/jph/git/sixarm/topics/topics/look-for-the-people-who-want-to-change-the-world/tutorial/claude-opus-4-6.md

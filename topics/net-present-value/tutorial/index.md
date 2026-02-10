@@ -1,0 +1,1 @@
+/Users/jph/git/sixarm/topics/topics/net-present-value/tutorial/claude-opus-4-6.md

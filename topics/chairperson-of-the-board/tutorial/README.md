@@ -1,0 +1,1 @@
+/Users/jph/git/sixarm/topics/topics/chairperson-of-the-board/tutorial/claude-opus-4-6.md

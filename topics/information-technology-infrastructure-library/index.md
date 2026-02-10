@@ -13,10 +13,9 @@ Versions:
 
 - ITIL 3 (The Service Lifecycle): Organized around five stages: Service Strategy, Service Design, Service Transition, Service Operation, and Continual Service Improvement.
 - ITIL 4 (The Service Value System): Focuses on the Service Value System (SVS) and the Service Value Chain, integrating modern practices like Agile, DevOps, and Lean.
-- ITIL 5 (The AI-Native Product System): Focuses on AI governance, product-centric value, and rapidly-evolving change.
 
-Key Components:
-
+- [Information Technology Infrastructure Library (ITIL) Guiding Principles](../ite)
+  Key Components:
 - Guiding Principles: Seven universal recommendations to guide decision-making,
   such as "Focus on Value", "Start Where You Are", and "Keep It Simple and Practical".
 

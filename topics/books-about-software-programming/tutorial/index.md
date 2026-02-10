@@ -1,0 +1,1 @@
+/Users/jph/git/sixarm/topics/topics/books-about-software-programming/tutorial/claude-opus-4-6.md

@@ -1,0 +1,1 @@
+/Users/jph/git/sixarm/topics/topics/blue-ocean-strategy-by-w-chan-kim-and-renee-mauborgne/tutorial/claude-opus-4-6.md

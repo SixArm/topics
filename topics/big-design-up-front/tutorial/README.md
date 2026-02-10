@@ -1,0 +1,1 @@
+/Users/jph/git/sixarm/topics/topics/big-design-up-front/tutorial/claude-opus-4-6.md

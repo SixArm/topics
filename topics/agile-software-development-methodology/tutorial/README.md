@@ -1,0 +1,1 @@
+/Users/jph/git/sixarm/topics/topics/agile-software-development-methodology/tutorial/claude-opus-4-6.md

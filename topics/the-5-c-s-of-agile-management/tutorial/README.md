@@ -1,0 +1,1 @@
+/Users/jph/git/sixarm/topics/topics/the-5-c-s-of-agile-management/tutorial/claude-opus-4-6.md

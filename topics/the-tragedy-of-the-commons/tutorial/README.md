@@ -1,0 +1,1 @@
+/Users/jph/git/sixarm/topics/topics/the-tragedy-of-the-commons/tutorial/claude-opus-4-6.md

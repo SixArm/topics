@@ -1,0 +1,1 @@
+/Users/jph/git/sixarm/topics/topics/2x2-grid-for-business/tutorial/claude-opus-4-6.md

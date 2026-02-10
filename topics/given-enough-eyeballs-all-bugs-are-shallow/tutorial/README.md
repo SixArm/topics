@@ -1,0 +1,1 @@
+/Users/jph/git/sixarm/topics/topics/given-enough-eyeballs-all-bugs-are-shallow/tutorial/claude-opus-4-6.md

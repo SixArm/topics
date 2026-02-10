@@ -1,0 +1,1 @@
+/Users/jph/git/sixarm/topics/topics/getting-things-done/tutorial/claude-opus-4-6.md

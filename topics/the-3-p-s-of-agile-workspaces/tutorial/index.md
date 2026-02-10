@@ -1,0 +1,1 @@
+/Users/jph/git/sixarm/topics/topics/the-3-p-s-of-agile-workspaces/tutorial/claude-opus-4-6.md

@@ -1,0 +1,1 @@
+/Users/jph/git/sixarm/topics/topics/moscow-method/tutorial/claude-opus-4-6.md

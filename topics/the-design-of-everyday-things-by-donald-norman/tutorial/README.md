@@ -1,0 +1,1 @@
+/Users/jph/git/sixarm/topics/topics/the-design-of-everyday-things-by-donald-norman/tutorial/claude-opus-4-6.md

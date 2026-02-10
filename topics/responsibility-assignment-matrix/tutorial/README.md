@@ -1,0 +1,1 @@
+/Users/jph/git/sixarm/topics/topics/responsibility-assignment-matrix/tutorial/claude-opus-4-6.md

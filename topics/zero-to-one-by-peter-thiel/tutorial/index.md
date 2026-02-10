@@ -1,0 +1,1 @@
+/Users/jph/git/sixarm/topics/topics/zero-to-one-by-peter-thiel/tutorial/claude-opus-4-6.md

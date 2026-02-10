@@ -1,0 +1,1 @@
+/Users/jph/git/sixarm/topics/topics/putting-the-cart-before-the-horse/tutorial/claude-opus-4-6.md

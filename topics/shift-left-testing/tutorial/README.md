@@ -1,0 +1,1 @@
+/Users/jph/git/sixarm/topics/topics/shift-left-testing/tutorial/claude-opus-4-6.md

@@ -1,0 +1,1 @@
+/Users/jph/git/sixarm/topics/topics/white-hat-versus-black-hat/tutorial/claude-opus-4-6.md

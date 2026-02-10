@@ -1,0 +1,1 @@
+/Users/jph/git/sixarm/topics/topics/seventh-generation-principle/tutorial/claude-opus-4-6.md

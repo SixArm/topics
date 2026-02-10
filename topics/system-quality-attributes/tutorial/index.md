@@ -1,0 +1,1 @@
+/Users/jph/git/sixarm/topics/topics/system-quality-attributes/tutorial/claude-opus-4-6.md

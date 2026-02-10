@@ -1,0 +1,1 @@
+/Users/jph/git/sixarm/topics/topics/the-startup-owners-manual-by-steve-blank/tutorial/claude-opus-4-6.md

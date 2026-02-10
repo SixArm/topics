@@ -1,0 +1,1 @@
+/Users/jph/git/sixarm/topics/topics/information-systems-information-techology-department/tutorial/claude-opus-4-6.md

@@ -1,0 +1,1 @@
+/Users/jph/git/sixarm/topics/topics/customer-discovery/tutorial/claude-opus-4-6.md

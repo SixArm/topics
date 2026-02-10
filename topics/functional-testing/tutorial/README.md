@@ -1,0 +1,1 @@
+/Users/jph/git/sixarm/topics/topics/functional-testing/tutorial/claude-opus-4-6.md

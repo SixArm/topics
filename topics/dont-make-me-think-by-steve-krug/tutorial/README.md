@@ -1,0 +1,1 @@
+/Users/jph/git/sixarm/topics/topics/dont-make-me-think-by-steve-krug/tutorial/claude-opus-4-6.md

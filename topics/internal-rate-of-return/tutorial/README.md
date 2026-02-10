@@ -1,0 +1,1 @@
+/Users/jph/git/sixarm/topics/topics/internal-rate-of-return/tutorial/claude-opus-4-6.md

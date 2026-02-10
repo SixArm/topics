@@ -1,0 +1,1 @@
+/Users/jph/git/sixarm/topics/topics/pestle-analysis/tutorial/claude-opus-4-6.md

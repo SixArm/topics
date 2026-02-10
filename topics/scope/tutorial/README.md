@@ -1,0 +1,1 @@
+/Users/jph/git/sixarm/topics/topics/scope/tutorial/claude-opus-4-6.md

@@ -1,0 +1,1 @@
+/Users/jph/git/sixarm/topics/topics/you-are-a-badass-at-making-money-by-jen-sincero/tutorial/claude-opus-4-6.md

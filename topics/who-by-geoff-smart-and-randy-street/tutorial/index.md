@@ -1,0 +1,1 @@
+/Users/jph/git/sixarm/topics/topics/who-by-geoff-smart-and-randy-street/tutorial/claude-opus-4-6.md

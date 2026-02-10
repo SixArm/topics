@@ -1,0 +1,1 @@
+/Users/jph/git/sixarm/topics/topics/service-organization-control-2/tutorial/claude-opus-4-6.md

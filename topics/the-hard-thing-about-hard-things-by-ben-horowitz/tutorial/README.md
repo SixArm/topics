@@ -1,0 +1,1 @@
+/Users/jph/git/sixarm/topics/topics/the-hard-thing-about-hard-things-by-ben-horowitz/tutorial/claude-opus-4-6.md

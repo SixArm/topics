@@ -1,0 +1,1 @@
+/Users/jph/git/sixarm/topics/topics/how-to-create-a-minimum-viable-product/tutorial/claude-opus-4-6.md

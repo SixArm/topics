@@ -1,0 +1,1 @@
+/Users/jph/git/sixarm/topics/topics/mission-statement-examples/tutorial/claude-opus-4-6.md

@@ -1,0 +1,1 @@
+/Users/jph/git/sixarm/topics/topics/crossing-the-chasm-by-geoffrey-moore/tutorial/claude-opus-4-6.md

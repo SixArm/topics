@@ -1,0 +1,1 @@
+/Users/jph/git/sixarm/topics/topics/how-to-find-startup-ideas/tutorial/claude-opus-4-6.md

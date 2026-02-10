@@ -1,0 +1,1 @@
+/Users/jph/git/sixarm/topics/topics/outliers-by-malcom-gladwell/tutorial/claude-opus-4-6.md

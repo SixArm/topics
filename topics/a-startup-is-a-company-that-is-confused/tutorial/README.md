@@ -1,0 +1,1 @@
+/Users/jph/git/sixarm/topics/topics/a-startup-is-a-company-that-is-confused/tutorial/claude-opus-4-6.md

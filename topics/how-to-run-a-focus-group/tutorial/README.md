@@ -1,0 +1,1 @@
+/Users/jph/git/sixarm/topics/topics/how-to-run-a-focus-group/tutorial/claude-opus-4-6.md

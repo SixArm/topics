@@ -1,0 +1,1 @@
+/Users/jph/git/sixarm/topics/topics/project-management-guide-introduction/tutorial/claude-opus-4-6.md

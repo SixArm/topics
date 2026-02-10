@@ -1,0 +1,1 @@
+/Users/jph/git/sixarm/topics/topics/put-a-pin-in-it/tutorial/claude-opus-4-6.md

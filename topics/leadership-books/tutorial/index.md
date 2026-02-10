@@ -1,0 +1,1 @@
+/Users/jph/git/sixarm/topics/topics/leadership-books/tutorial/claude-opus-4-6.md

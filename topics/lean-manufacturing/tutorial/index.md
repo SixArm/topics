@@ -1,0 +1,1 @@
+/Users/jph/git/sixarm/topics/topics/lean-manufacturing/tutorial/claude-opus-4-6.md

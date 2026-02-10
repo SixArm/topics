@@ -1,0 +1,1 @@
+/Users/jph/git/sixarm/topics/topics/cap-theorem/tutorial/claude-opus-4-6.md

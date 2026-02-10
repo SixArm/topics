@@ -1,0 +1,1 @@
+/Users/jph/git/sixarm/topics/topics/agile-and-mindfulness/tutorial/claude-opus-4-6.md

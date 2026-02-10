@@ -1,0 +1,1 @@
+/Users/jph/git/sixarm/topics/topics/theory-x-and-theory-y/tutorial/claude-opus-4-6.md

@@ -1,0 +1,1 @@
+/Users/jph/git/sixarm/topics/topics/conways-law/tutorial/claude-opus-4-6.md

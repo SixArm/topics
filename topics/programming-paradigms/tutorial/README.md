@@ -1,0 +1,1 @@
+/Users/jph/git/sixarm/topics/topics/programming-paradigms/tutorial/claude-opus-4-6.md

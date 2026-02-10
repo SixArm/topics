@@ -1,0 +1,1 @@
+/Users/jph/git/sixarm/topics/topics/ideas-are-easy-implementation-is-hard/tutorial/claude-opus-4-6.md

@@ -1,0 +1,1 @@
+/Users/jph/git/sixarm/topics/topics/project-management-for-the-unofficial-project-manager-by-kory-kogon-et-al/tutorial/claude-opus-4-6.md

@@ -1,0 +1,1 @@
+/Users/jph/git/sixarm/topics/topics/ai-human-resources/tutorial/claude-opus-4-6.md

@@ -1,0 +1,1 @@
+/Users/jph/git/sixarm/topics/topics/simple-object-access-protocol/tutorial/claude-opus-4-6.md

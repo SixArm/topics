@@ -1,0 +1,1 @@
+/Users/jph/git/sixarm/topics/topics/devauxs-index-of-project-performance/tutorial/claude-opus-4-6.md

@@ -1,0 +1,1 @@
+/Users/jph/git/sixarm/topics/topics/gradient-descent/tutorial/claude-opus-4-6.md

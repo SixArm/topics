@@ -1,0 +1,1 @@
+/Users/jph/git/sixarm/topics/topics/skin-in-the-game/tutorial/claude-opus-4-6.md

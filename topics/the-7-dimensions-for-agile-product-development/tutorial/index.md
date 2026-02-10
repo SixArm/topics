@@ -1,0 +1,1 @@
+/Users/jph/git/sixarm/topics/topics/the-7-dimensions-for-agile-product-development/tutorial/claude-opus-4-6.md

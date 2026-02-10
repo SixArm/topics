@@ -1,0 +1,1 @@
+/Users/jph/git/sixarm/topics/topics/agile-principle-6-face-to-face/tutorial/claude-opus-4-6.md

@@ -1,0 +1,1 @@
+/Users/jph/git/sixarm/topics/topics/indulgence-versus-restraint/tutorial/claude-opus-4-6.md

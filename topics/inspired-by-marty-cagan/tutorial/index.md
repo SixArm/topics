@@ -1,0 +1,1 @@
+/Users/jph/git/sixarm/topics/topics/inspired-by-marty-cagan/tutorial/claude-opus-4-6.md

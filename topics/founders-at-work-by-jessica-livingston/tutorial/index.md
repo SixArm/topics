@@ -1,0 +1,1 @@
+/Users/jph/git/sixarm/topics/topics/founders-at-work-by-jessica-livingston/tutorial/claude-opus-4-6.md

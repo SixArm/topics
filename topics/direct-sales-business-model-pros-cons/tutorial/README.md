@@ -1,0 +1,1 @@
+/Users/jph/git/sixarm/topics/topics/direct-sales-business-model-pros-cons/tutorial/claude-opus-4-6.md

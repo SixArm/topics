@@ -1,0 +1,1 @@
+/Users/jph/git/sixarm/topics/topics/agile-principle-1-satisfy-the-customer/tutorial/claude-opus-4-6.md

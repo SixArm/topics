@@ -1,0 +1,1 @@
+/Users/jph/git/sixarm/topics/topics/defense-in-depth/tutorial/claude-opus-4-6.md

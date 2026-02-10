@@ -1,0 +1,1 @@
+/Users/jph/git/sixarm/topics/topics/critical-incident-technique/tutorial/claude-opus-4-6.md

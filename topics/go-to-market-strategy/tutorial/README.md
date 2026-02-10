@@ -1,0 +1,1 @@
+/Users/jph/git/sixarm/topics/topics/go-to-market-strategy/tutorial/claude-opus-4-6.md

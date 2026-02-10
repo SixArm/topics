@@ -1,0 +1,1 @@
+/Users/jph/git/sixarm/topics/topics/crucial-conversations-by-kerry-patterson-et-al/tutorial/claude-opus-4-6.md

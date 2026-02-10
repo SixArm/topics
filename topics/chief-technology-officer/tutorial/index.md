@@ -1,0 +1,1 @@
+/Users/jph/git/sixarm/topics/topics/chief-technology-officer/tutorial/claude-opus-4-6.md

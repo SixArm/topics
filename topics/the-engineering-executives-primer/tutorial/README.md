@@ -1,0 +1,1 @@
+/Users/jph/git/sixarm/topics/topics/the-engineering-executives-primer/tutorial/claude-opus-4-6.md

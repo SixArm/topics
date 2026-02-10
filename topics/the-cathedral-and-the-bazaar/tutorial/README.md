@@ -1,0 +1,1 @@
+/Users/jph/git/sixarm/topics/topics/the-cathedral-and-the-bazaar/tutorial/claude-opus-4-6.md

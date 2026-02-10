@@ -1,0 +1,1 @@
+/Users/jph/git/sixarm/topics/topics/ai-for-partner-management/tutorial/claude-opus-4-6.md
