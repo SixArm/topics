@@ -1,0 +1,9 @@
+# Capture/playback testing
+
+Capture/playback testing is where user interactions with an application are recorded during the capture phase and then replayed automatically during the playback phase. This enables testers to create automated test scripts without extensive programming knowledge by simply performing actions on the application interface, which are then converted into executable test cases.
+
+Test tools implementing capture/playback functionality typically record mouse clicks, keyboard inputs, and system responses. During playback, these recorded actions are executed automatically, allowing for regression testing and repetitive test scenarios to be run efficiently. Popular tools like Selenium IDE, TestComplete, and UFT utilize this approach to democratize test automation.
+
+The integration of capture/playback testing with behavior-driven development (BDD) creates a powerful synergy for software testing automation. BDD emphasizes collaboration between developers, testers, and business stakeholders through shared understanding of application behavior expressed in natural language scenarios. When combined with capture/playback tools, BDD scenarios written in frameworks like Cucumber or SpecFlow can be automated more easily, as the recorded interactions directly correspond to the "given-when-then" structure of BDD specifications.
+
+This combination enables teams to maintain living documentation where business requirements are directly linked to automated tests. The capture/playback approach makes it accessible for non-technical team members to contribute to test automation, while BDD ensures that automated tests remain aligned with business objectives. However, maintenance challenges arise when application interfaces change, requiring updates to recorded scripts, making this approach most effective when combined with robust test management practices and regular script maintenance protocols.

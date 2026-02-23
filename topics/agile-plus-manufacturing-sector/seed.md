@@ -1,0 +1,9 @@
+# Agile + manufacturing sector
+
+Agile methodologies have found successful applications across various manufacturing sectors, transforming how companies develop and deploy software-driven solutions. General Electric implemented agile practices in their digital industrial initiatives, particularly for their Predix platform, which connects industrial equipment to analytics software. By adopting two-week sprints and cross-functional teams, GE reduced development cycles from months to weeks while improving collaboration between software developers and manufacturing engineers.
+
+Tesla revolutionized automotive manufacturing by applying agile principles to both software development and production processes. Their over-the-air software updates demonstrate continuous delivery in practice, allowing rapid deployment of new features and bug fixes to vehicles already in customer hands. Tesla's approach includes frequent iterations, customer feedback integration, and rapid prototyping, enabling them to respond quickly to market demands and technical challenges.
+
+Siemens successfully integrated agile methodologies in developing their manufacturing execution systems and industrial IoT solutions. Their teams use daily standups, sprint planning, and retrospectives to coordinate software development for complex manufacturing automation systems. This approach has accelerated their time-to-market for new industrial software products while maintaining high quality standards required in manufacturing environments.
+
+Boeing adopted agile practices for developing flight control software and manufacturing support systems. Despite the highly regulated aerospace environment, they implemented modified agile frameworks that accommodate extensive documentation and compliance requirements while maintaining iterative development cycles. Their approach demonstrates how agile can be adapted to industries with strict regulatory constraints.

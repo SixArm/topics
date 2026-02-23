@@ -1,0 +1,9 @@
+# Dark agile
+
+Dark agile represents a concerning deviation from the original principles of agile software development, where agile methodologies become weaponized or misapplied in ways that harm development teams and undermine the very values they were designed to promote. This phenomenon occurs when organizations adopt agile practices superficially without embracing the underlying philosophy of collaboration, adaptability, and respect for individuals.
+
+In dark agile environments, standups transform into micromanagement sessions where developers are interrogated about their progress rather than supported in their work. Sprint planning becomes an exercise in unrealistic deadline setting, with management using velocity metrics as weapons to pressure teams into unsustainable commitments. The emphasis shifts from delivering working software to hitting arbitrary metrics.
+
+Common manifestations include using retrospectives to assign blame rather than identify systemic improvements, or treating user stories as rigid requirements instead of conversation starters, or implementing ceremonies mechanically without understanding their purpose. Teams may find themselves in many meetings while having little time for actual development work. The psychological safety that genuine agile environments foster is replaced by performance culture.
+
+The consequences of dark agile are severe: developer burnout, decreased code quality, higher turnover rates, and failed projects. Teams lose trust in both leadership and the agile methodology itself, creating cynicism that can persist long after leaving such environments. Organizations practicing dark agile often wonder why their agile transformation failed, not realizing they didn't use agile principles in the first place. True agile transformation requires cultural change, not just process adoption, emphasizing people and interactions over rigid adherence to frameworks.
