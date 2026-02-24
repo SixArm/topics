@@ -12,3 +12,6 @@ Question: What is the most effective foundation for influencing others in a prof
   <p>Building rapport through active listening, empathy, and demonstrating credibility</p>
   <p>Effective influence is built on positive relationships and trust. Active listening helps you understand others' motivations, empathy allows you to see their perspective, and credibility (through expertise, integrity, and reliability) establishes you as someone worth listening to. This foundation enables all other influence techniques—from persuasion to finding common ground—to work effectively.</p>
 </details>
+TODO
+TODO
+TODO

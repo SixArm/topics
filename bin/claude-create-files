@@ -33,8 +33,6 @@
 # - And we can make dynamic changes to the directories and files out of band.
 # #
 
-
-
 set -euf
 top="$(git rev-parse --show-toplevel)"
 
@@ -80,7 +78,7 @@ vet_topic() {
     # Setup
     topic="$1"
     topic_dir="$top/topics/$topic"
-    topic_file="$topic_dir/index.md"
+    topic_file="$topic_dir/seed.md"
 
     # Verify the topic directory exists.
     if [ ! -d "$topic_dir" ]; then

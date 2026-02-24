@@ -1,5 +1,3 @@
-Here is the tutorial:
-
 # Exploratory Analytics
 
 Exploratory analytics is an approach to data analysis that focuses on investigating, summarizing, and visualizing datasets to uncover patterns, anomalies, and relationships before formal modeling or hypothesis testing begins. Rather than starting with a predefined question, exploratory analytics encourages open-ended examination of data to generate insights, identify structure, and inform subsequent analytical decisions. It is a foundational practice in data science, business intelligence, and applied statistics, and is essential for any technology professional who works with data-driven systems.

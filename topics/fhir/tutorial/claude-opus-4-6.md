@@ -1,8 +1,4 @@
-Now I have a clear picture of the expected format. Here is the tutorial:
-
 # Fast Healthcare Interoperability Resources (FHIR)
-
-## Introduction
 
 Fast Healthcare Interoperability Resources (FHIR), pronounced "fire," is a modern standard developed by Health Level Seven International (HL7) for exchanging electronic health information between disparate healthcare systems. FHIR combines the strengths of earlier HL7 standards with contemporary web technologies, using RESTful APIs, HTTP-based protocols, and widely adopted data formats such as JSON and XML. For technology professionals working in healthcare, health IT, or any domain that touches clinical or administrative health data, FHIR has become the foundational interoperability standard that governs how systems communicate patient records, clinical observations, medications, and administrative data across organizational boundaries.
 

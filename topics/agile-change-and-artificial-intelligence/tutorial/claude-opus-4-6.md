@@ -1,6 +1,4 @@
-Now I have the context. The topic is "agile change and artificial intelligence" in the context of agile change software engineering. Let me produce the tutorial.
-
-# Agile Change and Artificial Intelligence
+# Agile change and artificial intelligence
 
 Agile change management and artificial intelligence are converging to reshape how technology organizations plan, execute, and sustain software-driven transformation. Traditional change management frameworks assume relatively predictable environments, while agile methods embrace uncertainty through iterative delivery. Artificial intelligence now amplifies agile change by providing data-driven forecasting, automated workflow optimization, and real-time feedback loops that accelerate organizational adaptation. This tutorial explains how these disciplines intersect, what capabilities AI brings to agile change practices, and how technology professionals can apply combined strategies to deliver better outcomes.
 

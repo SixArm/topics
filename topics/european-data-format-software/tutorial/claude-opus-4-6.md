@@ -1,5 +1,3 @@
-Now I have thorough context. Here is the tutorial:
-
 # European Data Format (EDF) Software
 
 The European Data Format (EDF) and its successor EDF+ are open-standard file formats for storing multichannel biological and physiological time series data, including electroencephalograms (EEG), electrocardiograms (ECG), electromyograms (EMG), and polysomnography recordings. Because these formats are vendor-neutral and widely adopted across clinical and research settings, a rich ecosystem of software tools has emerged to read, write, visualize, analyze, and convert EDF/EDF+ files. This tutorial surveys the major open-source tools, programming libraries, and commercial systems that technology professionals use to work with EDF data, and provides guidance on selecting the right tool for a given workflow.

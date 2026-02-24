@@ -1,5 +1,3 @@
-Here is the tutorial:
-
 # AI internationalization/localization
 
 Internationalization (often abbreviated as i18n) and localization (l10n) are the complementary processes of designing products so they can be adapted to different languages and regions, then performing the actual adaptation for specific markets. Artificial intelligence has transformed these disciplines from labor-intensive, largely manual workflows into highly automated, context-aware pipelines. Where traditional i18n/l10n relied on static translation memories, glossaries, and human linguists working through thousands of strings, AI introduces adaptive systems that learn cultural nuance, detect context, and generate locale-appropriate content at scale. This tutorial examines the core areas where AI intersects with internationalization and localization, the practical techniques involved, and the considerations technology professionals should keep in mind when deploying these capabilities.

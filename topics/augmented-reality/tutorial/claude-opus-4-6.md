@@ -1,5 +1,3 @@
-The input file just contains "TODO" as a placeholder. I'll create the comprehensive tutorial now.
-
 # Augmented Reality (AR)
 
 Augmented reality (AR) is a technology that overlays computer-generated content — including images, text, 3D models, and spatial audio — onto a user's view of the real world in real time. Unlike virtual reality (VR), which immerses the user in a fully synthetic environment, AR enhances the physical world by adding contextual digital information that is spatially registered to real objects and surfaces. AR has matured from a research curiosity into a platform technology powering applications across manufacturing, healthcare, retail, defense, and consumer entertainment.

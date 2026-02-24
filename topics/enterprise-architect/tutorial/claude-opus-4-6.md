@@ -1,5 +1,3 @@
-Now I have a clear picture of the style. Here is the tutorial:
-
 # Enterprise Architect
 
 An Enterprise Architect (EA) is a senior technology leader responsible for aligning an organization's IT landscape — its applications, data, infrastructure, and integration patterns — with overarching business strategy. Operating at the intersection of technology and business, the enterprise architect creates and governs the blueprints that guide how systems are designed, acquired, integrated, and retired across the entire organization. The role demands a rare combination of deep technical knowledge, strategic thinking, stakeholder management, and the ability to make high-stakes decisions that shape an enterprise's technology trajectory for years to come.

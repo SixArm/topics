@@ -1,5 +1,3 @@
-Here is the tutorial:
-
 # Machine learning performance metrics
 
 Machine learning performance metrics are quantitative measures used to evaluate how well a model generalizes to new, unseen data. Choosing the right metrics is one of the most consequential decisions in any ML workflow because a poorly chosen metric can lead teams to deploy models that appear strong on paper but fail in production. The appropriate metric depends on the task type (classification, regression, or clustering), the business objective, and the characteristics of the dataset, including class balance, cost asymmetry, and noise tolerance. This tutorial provides a comprehensive walkthrough of the most important metrics across all three task categories, when to use each one, and the pitfalls that trip up practitioners.

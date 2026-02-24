@@ -1,5 +1,3 @@
-Here is the tutorial:
-
 # Absolute Estimation
 
 Absolute estimation is a project planning technique in which work items are assessed using fixed, concrete units of measurement such as hours, days, or weeks. Unlike relative estimation, which compares tasks against one another, absolute estimation assigns a specific quantity of effort or duration to each task independently. This approach is deeply rooted in traditional project management disciplines and remains widely used across technology organizations for budgeting, scheduling, staffing, and contractual commitments.

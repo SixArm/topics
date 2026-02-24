@@ -1,5 +1,3 @@
-Now I have enough material. Here is the tutorial:
-
 # Laws and principles
 
 Laws and principles are foundational concepts used across science, engineering, economics, and management to describe fundamental rules and relationships that govern how systems behave. While these terms are often used interchangeably, they carry distinct meanings. A law is a descriptive statement about an observed relationship, often expressed quantitatively and considered universal under a wide range of conditions. A principle is a broader explanatory truth that provides a framework for understanding why things work the way they do, and may or may not be quantitative. For technology professionals, understanding these laws and principles is essential for making sound architectural decisions, managing teams effectively, anticipating system behavior, and avoiding common cognitive traps.

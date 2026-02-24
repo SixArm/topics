@@ -1,5 +1,3 @@
-Note: The source file references an "Agile Change Guide" but the topic is "business-lingo-guide-introduction." I'll write the tutorial tailored to the actual business lingo guide topic.
-
 # What is this book?
 
 The Business Lingo Guide is a glossary-style ebook designed for technology professionals who need to speak the language of business fluently. Each topic occupies a single page, making it a fast reference for the terminology, frameworks, and phrases that appear constantly in cross-functional meetings, executive briefings, strategy sessions, and stakeholder conversations. Whether you are a software engineer stepping into leadership, a product manager interfacing with finance, or a technical consultant working across industries, this guide gives you the vocabulary to communicate with precision and confidence.

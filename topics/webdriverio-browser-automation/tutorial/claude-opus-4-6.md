@@ -1,5 +1,3 @@
-Now I have the source material and the style reference. Here is the tutorial:
-
 # WebdriverIO (WDIO) browser automation
 
 WebdriverIO (WDIO) is a modern, next-generation browser automation framework built on Node.js, designed for testing web and mobile applications at scale. Unlike low-level driver libraries such as the core Selenium WebDriver, WebdriverIO provides a full-featured testing framework with a high-level, developer-friendly API, a built-in test runner, and an extensive plugin ecosystem. It supports both the standard WebDriver Protocol and the Chrome DevTools Protocol, giving teams flexibility to choose the execution model that best fits their project. Since its creation, WebdriverIO has grown into one of the most active open-source automation projects in the JavaScript ecosystem, backed by a dedicated community and corporate adopters across industries.

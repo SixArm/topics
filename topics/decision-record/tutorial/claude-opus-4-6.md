@@ -1,5 +1,3 @@
-Here is the tutorial:
-
 # Decision record (DR)
 
 A decision record (DR) is a structured document that captures the reasoning, context, and outcome of a significant decision within a team, project, or organization. Decision records serve as a permanent audit trail that preserves institutional knowledge, provides accountability, and ensures that future team members can understand why a particular path was chosen. In technology organizations, where decisions about architecture, tooling, processes, and trade-offs accumulate rapidly, decision records prevent knowledge loss and reduce the risk of revisiting settled questions without new information.

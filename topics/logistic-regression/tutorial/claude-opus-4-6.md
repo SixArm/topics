@@ -1,5 +1,3 @@
-Here is the comprehensive tutorial:
-
 # Logistic Regression
 
 Logistic regression is a foundational statistical and machine learning method used to model the probability of a binary outcome based on one or more independent variables. Despite its name suggesting a regression technique, logistic regression is primarily employed as a classification algorithm. It works by applying the logistic (sigmoid) function to a linear combination of input features, producing an output bounded between 0 and 1 that represents the probability of belonging to a particular class. Originally developed by Joseph Berkson in the 1940s, logistic regression remains one of the most widely used algorithms in fields ranging from medicine and finance to natural language processing and recommendation systems.

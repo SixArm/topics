@@ -1,5 +1,3 @@
-Now I have comprehensive source material. Here is the tutorial:
-
 # Legal agreements
 
 Legal agreements are legally binding documents that establish rights and obligations between two or more parties. For technology professionals, these agreements are encountered at virtually every stage of a career and business lifecycle -- from accepting employment offers and signing NDAs before product demos, to negotiating licensing deals for software and executing service contracts with vendors. Understanding the purpose, structure, and enforceability of these documents is essential to protecting intellectual property, managing risk, and operating effectively in a commercial environment.

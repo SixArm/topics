@@ -1,5 +1,3 @@
-Here is the tutorial:
-
 # Agile definitions
 
 Agile definitions are a set of formal agreements that agile teams use to create shared understanding about when work is ready, when work is complete, and what constitutes value. These definitions act as quality gates and alignment tools, ensuring that everyone on the team -- developers, testers, product owners, and stakeholders -- operates from the same expectations. Without these shared definitions, teams risk miscommunication, scope creep, inconsistent quality, and misaligned priorities. The five core agile definitions are Definition of Ready (DoR), Definition of Done (DoD), Definition of Value (DoV), Definition of Customer Value (DoCV), and Definition of Technical Value (DoTV).

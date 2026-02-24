@@ -1,5 +1,3 @@
-Now I have a clear understanding of the format. Here's the tutorial:
-
 # Qualitative data
 
 Qualitative data refers to non-numerical, descriptive information that captures concepts, opinions, emotions, behaviors, and lived experiences. Rather than measuring "how much" or "how many," qualitative data explains the "why" and "how" behind observable phenomena. For technology professionals, qualitative data is a critical complement to quantitative metrics because it provides the contextual depth needed to make informed product decisions, understand user behavior, and diagnose problems that numbers alone cannot explain. Whether gathered through user interviews, support ticket analysis, usability studies, or open-ended survey responses, qualitative data transforms raw observations into actionable insight.

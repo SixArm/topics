@@ -1,8 +1,4 @@
-Now I have a good understanding of the style. Here's the tutorial:
-
 # Simian Army
-
-## Introduction
 
 The Simian Army is a suite of open-source tools originally developed by Netflix to test the resilience, reliability, and operational hygiene of its Amazon Web Services (AWS) cloud infrastructure. First introduced around 2011, the Simian Army works by intentionally injecting faults, including random instance terminations, artificial latency, and simulated region failures, into production environments. The philosophy behind the Simian Army is that the best way to validate a system's ability to withstand real-world failures is to cause those failures deliberately, under controlled conditions, and observe how the system responds. The Simian Army became one of the earliest and most influential implementations of what is now broadly known as chaos engineering, and its principles have shaped how organizations worldwide approach distributed systems reliability.
 

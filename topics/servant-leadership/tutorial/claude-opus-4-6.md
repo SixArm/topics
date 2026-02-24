@@ -1,5 +1,3 @@
-Here is the tutorial:
-
 # Servant Leadership
 
 Servant leadership is a leadership philosophy and management approach in which the leader's primary objective is to serve the people they lead. Rather than wielding authority from the top down, a servant leader inverts the traditional hierarchy: they listen, empower, remove obstacles, and invest in the growth of their team. For technology professionals -- whether engineering managers, tech leads, scrum masters, or CTOs -- servant leadership offers a powerful model for building high-performing teams, retaining talent, and fostering the psychological safety that drives innovation.

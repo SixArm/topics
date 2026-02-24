@@ -1,5 +1,3 @@
-Here is the comprehensive tutorial:
-
 # European Data Format (EDF)
 
 The European Data Format (EDF) is an open, non-proprietary file format designed for the exchange and storage of multichannel biological and physiological time series data. Originally published in 1992 by a group of European medical engineers and researchers, EDF has become the de facto standard for recording, archiving, and sharing signals such as electroencephalograms (EEG), electrocardiograms (ECG), electromyograms (EMG), polysomnography (sleep studies), and other continuous physiological measurements. Its successor, EDF+, was introduced in 2003 to address limitations in the original specification. Together, EDF and EDF+ form the backbone of biosignal data interchange across clinical, research, and commercial settings worldwide.

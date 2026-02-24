@@ -1,7 +1,3 @@
-Here is the tutorial:
-
----
-
 # Central Processing Unit (CPU)
 
 The Central Processing Unit (CPU) is the primary computational engine of a computer system. It is responsible for fetching, decoding, and executing the instructions that comprise every running program, from operating system kernels to user applications. In modern computing, the CPU works alongside specialized processors such as Graphics Processing Units (GPUs), Tensor Processing Units (TPUs), and Field-Programmable Gate Arrays (FPGAs), but it remains the central coordinator of system activity. Understanding CPU architecture is foundational for technology professionals working in software engineering, systems design, infrastructure planning, and performance optimization.

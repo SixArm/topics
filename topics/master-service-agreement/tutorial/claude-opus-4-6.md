@@ -1,5 +1,3 @@
-The input file just has "TODO" as a placeholder. Let me create the comprehensive tutorial.
-
 # Master Service Agreement (MSA)
 
 A Master Service Agreement (MSA) is a foundational contract between two or more parties that establishes the overarching terms and conditions governing future transactions, projects, or engagements. In the technology industry, MSAs are widely used between service providers and clients to streamline ongoing business relationships, reduce negotiation overhead, and provide a consistent legal framework. Rather than renegotiating terms for every new project, the parties execute Statements of Work (SOWs) or Work Orders under the umbrella of the MSA, which inherit its baseline provisions while specifying project-level details such as scope, timeline, and deliverables.

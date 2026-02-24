@@ -1,5 +1,3 @@
-Here is the tutorial:
-
 # Access control
 
 Access control is a security mechanism that governs who or what can view, use, or modify resources within a computer system, network, or physical environment. It is one of the foundational pillars of information security, operating alongside confidentiality, integrity, and availability to protect sensitive data and infrastructure. For technology professionals, understanding access control means understanding how to design, implement, and audit the policies that determine which subjects (users, processes, devices) can interact with which objects (files, databases, services, rooms) and under what conditions. Effective access control reduces the attack surface, limits the blast radius of breaches, and satisfies regulatory compliance requirements across virtually every industry.

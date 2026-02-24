@@ -1,5 +1,3 @@
-Now I have all the context. The title is "Kent Beck quotations" (the "A" prefix in the directory name is just an alphabetical key). Let me produce the tutorial.
-
 # Kent Beck Quotations
 
 Kent Beck is among the most influential thinkers in the history of software engineering. As the creator of Extreme Programming (XP), a pioneer of Test-Driven Development (TDD), co-author of the Agile Manifesto, and co-creator of the JUnit testing framework, Beck has shaped how modern teams build software. His quotations are not merely inspirational sound bites; they encode decades of hard-won project experience into concise, actionable principles. For technology professionals, understanding these quotations provides a reliable mental framework for navigating design decisions, team dynamics, quality practices, and the psychology of programming.

@@ -1,5 +1,3 @@
-Now I have a clear picture of the style. Here is the tutorial:
-
 # Embedded Analytics
 
 Embedded analytics is the integration of analytical capabilities, such as dashboards, reports, visualizations, and interactive queries, directly within business applications, portals, or workflows that users already rely on. Rather than requiring users to switch to a standalone business intelligence (BI) tool, embedded analytics brings data-driven insights to the point of decision, enabling faster and more contextual action. For technology professionals, understanding embedded analytics is essential because it bridges the gap between raw data infrastructure and the user-facing products that generate business value.

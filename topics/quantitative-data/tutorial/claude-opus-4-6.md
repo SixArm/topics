@@ -1,5 +1,3 @@
-Here is the tutorial:
-
 # Quantitative Data
 
 Quantitative data is numerical information that can be measured, counted, and expressed as values suitable for mathematical operations and statistical analysis. It answers questions such as "how many," "how much," and "how often," making it the foundation of data-driven decision-making in technology organizations. From application performance metrics and user engagement statistics to financial forecasts and A/B test results, quantitative data gives technology professionals the objective evidence needed to build, optimize, and scale systems and products.

@@ -1,5 +1,3 @@
-Here is the comprehensive tutorial:
-
 # Splay tree
 
 A splay tree is a self-adjusting binary search tree (BST) that reorganizes its structure dynamically based on access patterns. When a node is accessed through any operation, the tree moves that node to the root through a sequence of rotations called "splaying." This adaptive behavior means that frequently accessed elements naturally migrate toward the root, resulting in faster subsequent lookups. Unlike rigidly balanced trees such as AVL or Red-Black trees, splay trees do not enforce strict balance invariants, yet they achieve excellent amortized time complexity across sequences of operations. Invented by Daniel Sleator and Robert Tarjan in 1985, the splay tree remains an important data structure in both theory and practice.

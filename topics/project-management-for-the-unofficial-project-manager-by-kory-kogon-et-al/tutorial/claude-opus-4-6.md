@@ -1,5 +1,3 @@
-Here is the tutorial:
-
 # Project Management for the Unofficial Project Manager by Kory Kogon et al.
 
 "Project Management for the Unofficial Project Manager: A FranklinCovey Title" by Kory Kogon, Suzette Blakemore, and James Wood addresses a reality that most technology professionals know well: project management responsibilities frequently land on people who have no formal training in the discipline. Software engineers, team leads, designers, and analysts are regularly asked to coordinate cross-functional efforts, hit deadlines, and deliver results without ever holding the title of "project manager." This book provides a structured yet accessible framework for succeeding in that role, drawing on FranklinCovey's research into leadership, productivity, and execution.

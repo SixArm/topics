@@ -1,5 +1,3 @@
-The input file is minimal, so I'll create the tutorial from expertise. Here is the comprehensive tutorial:
-
 # Fundraising
 
 Fundraising is the process of securing financial capital to build, grow, and scale a technology business. For technology professionals, understanding fundraising is essential whether you are founding a startup, joining an early-stage company, or advising leadership on capital strategy. Fundraising involves identifying the right sources of capital, preparing compelling materials, negotiating terms, and managing investor relationships through multiple stages of company growth.

@@ -1,5 +1,3 @@
-Here is the tutorial:
-
 # Make value flow without interruptions
 
 SAFe Principle 6, "Make value flow without interruptions," draws directly from Lean Thinking to address one of the most persistent challenges in large-scale software and systems development: the tendency for work to stall, queue, and fragment as it moves through an organization. This principle provides a systematic lens for understanding how value travels from concept to delivery and offers concrete guidance on eliminating the bottlenecks, handoffs, and delays that erode speed, quality, and economic outcomes. For technology professionals working in scaled agile environments, mastering flow is essential to delivering value predictably and sustainably.

@@ -1,5 +1,3 @@
-Here is the tutorial:
-
 # Modal and Modeless
 
 Modal and modeless are foundational terms in user interface design that describe how an application manages user attention and interaction flow. A modal interface demands that the user complete or dismiss a specific task before doing anything else, while a modeless interface allows the user to interact freely with multiple parts of the application at the same time. Understanding when to apply each pattern is essential for designing software that balances focus, safety, and flexibility.
