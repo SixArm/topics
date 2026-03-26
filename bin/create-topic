@@ -1,0 +1,41 @@
+#!/bin/sh
+
+# Create a topic.
+#
+# Syntax:
+#
+#     create-topic <directory> <title> [prompt]
+#
+# Example:
+#
+#     create-topic my-top-directory "Your title here" "Your prompt here"
+#
+# The script creates a directory name using the title slug core:
+#
+#     mkdir -p my-directory/topics/your-title-here
+#
+# The script creates two helper files in the directory as needed:
+#
+#     echo "$title" >> title.txt
+#     echo "$prompt" >> prompt.txt
+#
+# Be aware parenthetical information in the title is omitted from the slug:
+# 
+#     "Your title here (this is extra)" => your-title-here
+#
+
+set -euf
+dir="$1"
+title="$2"
+prompt="${3:$title}"
+slug="$(echo "$title" | sed 's/ *(.*//' | slug-case)"
+topic_dir="$top/topics/$slug"
+mkdir -p "$topic_dir"
+
+## Title
+f="$topic_dir/title.txt"
+test -e "$f" || echo "$title" >> "$f"
+
+## Prompt
+f="$topic_dir/prompt.txt"
+test -e "$f" || echo "$prompt" >> "$f"
