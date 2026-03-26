@@ -1,4 +1,4 @@
-# Cucumber - test automation tool
+# Cucumber - digital health tool
 
 Cucumber is a popular software testing automation tool that facilitates behavior-driven development (BDD) by enabling teams to write tests in natural language. It serves as a bridge between technical and non-technical stakeholders by allowing business requirements to be expressed as executable specifications that can be understood by everyone involved in the development process.
 

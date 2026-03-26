@@ -6,17 +6,17 @@ The fintech industry includes a wide range of businesses, from startups to estab
 
 **Example areas:**
 
-* **Mobile payments**: These are payment services that allow people to make payments using their smartphones, such as Apple Pay or Google Wallet.
+* **Mobile payments:** These are payment services that allow people to make payments using their smartphones, such as Apple Pay or Google Wallet.
 
-* **Peer-to-peer lending**: These are platforms that allow individuals to lend money to each other, without the need for traditional financial institutions.
+* **Peer-to-peer lending:** These are platforms that allow individuals to lend money to each other, without the need for traditional financial institutions.
 
-* **Cryptocurrencies**: These are digital currencies that use cryptography to secure transactions and to control the creation of new units. Examples include Bitcoin and Ethereum.
+* **Cryptocurrencies:** These are digital currencies that use cryptography to secure transactions and to control the creation of new units. Examples include Bitcoin and Ethereum.
 
-* **Personal finance management**: These are tools that help people manage their finances, such as budgeting apps and investment trackers.
+* **Personal finance management:** These are tools that help people manage their finances, such as budgeting apps and investment trackers.
 
-* **Robo-advisory services**: These are services that use algorithms to provide investment advice and portfolio management.
+* **Robo-advisory services:** These are services that use algorithms to provide investment advice and portfolio management.
 
-* **Online banking**: These are digital banks that offer online banking services without a physical branch network.
+* **Online banking:** These are digital banks that offer online banking services without a physical branch network.
 
 Fintech has the potential to disrupt traditional financial institutions by offering lower fees, faster transactions, and more personalized services. However, it also poses new challenges for regulators and raises concerns around security and data privacy.
 

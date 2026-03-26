@@ -1,0 +1,8 @@
+A dial is a circular UI/UX component that allows users to adjust or view a value
+by rotating a knob or indicator along a fixed range, similar to physical dials
+on devices like thermostats or volume controls. It provides an intuitive and
+tactile interaction, often used in applications involving precision settings,
+such as audio levels, timers, or control panels. Dials can also serve as visual
+indicators of current values, making them useful for monitoring data in a
+compact, stylish format. Effective dial design combines smooth interaction,
+clear labeling, and visual feedback to ensure accuracy and ease of use.

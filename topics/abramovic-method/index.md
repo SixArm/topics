@@ -1,6 +1,6 @@
 # Abramović Method
 
-The Abramović Method is a set of exercises and techniques developed by performance artist Marina Abramović. It is designed to enhance awareness, presence, and focus for both performers and audience members.
+The Abramović Method is a set of exercises and techniques developed by performance artist Marina Abramović. It is designed to enhance awareness, presence, and focus for both performers and audience members. 
 
 **Core principles:**
 

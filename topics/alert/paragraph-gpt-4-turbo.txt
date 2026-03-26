@@ -1,0 +1,8 @@
+An alert is a UI/UX component designed to capture the user's attention and
+convey important information, such as warnings, errors, confirmations, or status
+updates. Typically displayed as a small modal or banner, alerts interrupt the
+user's workflow to ensure visibility and often require acknowledgment through an
+action like clicking “OK” or “Dismiss.” They are commonly used for critical
+feedback or decision points—such as confirming deletion or notifying of failed
+actions—and should be clear, concise, and appropriately styled (e.g.,
+color-coded for severity) to avoid confusion or unnecessary disruption.

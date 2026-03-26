@@ -8,7 +8,7 @@ Goals, Ideas, Steps, and Tasks (GIST) is a framework or a methodology for organi
 
 * **Ideas**: These are the brainstorming and creative process that generates potential solutions to achieve the goals. Ideas can come from a variety of sources, such as research, customer feedback, and team discussions.
 
-* **Steps**: Develop a plan for achieving the goals. This involves breaking down the ideas into specific steps, which are the actions that need to be taken to bring the ideas to fruition. Steps should be well-defined, actionable, and should lead to measurable progress towards the goals.
+* **Steps:** Develop a plan for achieving the goals. This involves breaking down the ideas into specific steps, which are the actions that need to be taken to bring the ideas to fruition. Steps should be well-defined, actionable, and should lead to measurable progress towards the goals.
 
 * **Tasks**: These are the specific activities that need to be carried out to complete the steps. Tasks should be clearly defined, prioritized, and assigned to the appropriate team member or individual responsible for their completion.
 

@@ -1,0 +1,9 @@
+A line chart is a UI/UX component used to visualize data points over a
+continuous range, typically displayed as a series of connected points or lines
+along the X and Y axes. This type of chart is commonly used to track trends,
+patterns, or changes over time, making it ideal for displaying time-series data,
+such as stock prices, website traffic, or performance metrics. Line charts
+provide users with a clear, intuitive way to compare multiple data sets or
+monitor fluctuations, helping them easily identify upward or downward trends.
+Effective line chart design includes smooth lines, clear axis labels, and proper
+scaling to ensure accurate interpretation of the data.

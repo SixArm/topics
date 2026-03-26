@@ -1,0 +1,9 @@
+A scrollbar is a UI/UX component that allows users to navigate vertically or
+horizontally through content that extends beyond the visible area of a container
+or screen. It typically appears as a bar along the side or bottom of a
+scrollable region, with a draggable thumb (or handle) that represents the user's
+current view relative to the total content. A scrollbar provides a user with
+both control and context, showing how much content is available and where they
+are within it. A well-designed scrollbar is responsive, unobtrusive, and
+visually aligned with the overall interface, ensuring smooth navigation without
+distracting from the main content.

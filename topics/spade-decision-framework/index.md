@@ -4,14 +4,14 @@ The SPADE decision framework is a useful tool for complex decision-making becaus
 
 **Steps:**
 
-* **Situation**: Define the situation to be solved. This involves identifying the context in which the decision needs to be made.
+* **Situation:** Define the situation to be solved. This involves identifying the context in which the decision needs to be made.
 
-* **Problem**: Identify the problem to be solved. This involves clarifying the problem that needs to be solved.
+* **Problem:** Identify the problem to be solved. This involves clarifying the problem that needs to be solved.
 
-* **Analysis**: Analyze the problem and potential solutions. This involves gathering information about the problem, identifying possible solutions, and evaluating the pros and cons of each solution. This step can include techniques such as brainstorming, SWOT analysis, or decision trees.
+* **Analysis:** Analyze the problem and potential solutions. This involves gathering information about the problem, identifying possible solutions, and evaluating the pros and cons of each solution. This step can include techniques such as brainstorming, SWOT analysis, or decision trees.
 
-* **Decision**: Make the decision based on the analysis. This involves selecting the best solution from the options identified during the analysis phase. It is important to consider the potential consequences of the decision and any risks associated with it.
+* **Decision:** Make the decision based on the analysis. This involves selecting the best solution from the options identified during the analysis phase. It is important to consider the potential consequences of the decision and any risks associated with it.
 
-* **Execution**: Execute the decision. This involves implementing the chosen solution and monitoring the results to ensure that the problem has been solved.
+* **Execution:** Execute the decision. This involves implementing the chosen solution and monitoring the results to ensure that the problem has been solved.
 
 By following the steps of the SPADE framework, decision-makers can ensure that they have considered all the relevant factors before making a decision.

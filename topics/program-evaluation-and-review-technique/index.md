@@ -4,7 +4,7 @@ Program Evaluation and Review Technique (PERT) is a project management tool used
 
 **Steps:**
 
-1. **Identify tasks**: Break down the project into individual tasks or activities.
+1. **Identify tasks:** Break down the project into individual tasks or activities.
 
 2. **Determine sequences:**: Specify the order in which the tasks need to be completed.
 
@@ -12,7 +12,7 @@ Program Evaluation and Review Technique (PERT) is a project management tool used
 
 4. **Analyze critical paths**: Discover the sequence of tasks that must be completed on time to ensure the project is completed on time.
 
-5. **Review results**: Review the project timeline, and identifying any potential bottlenecks or delays.
+5. **Review results:** Review the project timeline, and identifying any potential bottlenecks or delays.
 
 PERT uses three time estimates for each task: optimistic, most likely, and pessimistic. PERT calculates the expected duration of each task and the project. PERT takes into account dependencies between tasks, and the probability of completing each task on time.
 

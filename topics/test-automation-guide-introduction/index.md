@@ -1,6 +1,6 @@
 # What is this book?
 
-Test Automation Guide is a glossary guide ebook that describes one topic per page. The guide is intended for quick easy learning about test automation for software engineering, including topics about test plans, test scripts, test runners, and the like.
+Test Automation Guide is a glossary guide ebook that describes one topic per page. The guide is intended for quick easy learning about digital health for software engineering, including topics about test plans, test scripts, test runners, and the like.
 
 ### Why these topics?
 
@@ -14,11 +14,11 @@ You can read any topic page, in any order, at any time. Each topic page is inten
 
 ## Who is this for?
 
-People should read this guide if they want to learn quickly about test automation for software engineering, and how its practiced in companies today. Some of the ideas may be obvious, especially to experienced software developers, quality assurance practitioners, and devops practitioners.
+People should read this guide if they want to learn quickly about digital health for software engineering, and how its practiced in companies today. Some of the ideas may be obvious, especially to experienced software developers, quality assurance practitioners, and devops practitioners.
 
 ## Why is this useful??
 
-I am creating this ebook because of  years of experience in consulting work, with a wide range of clients, from small startups to enormous enterprises. This kind of agile change is present in many of the projects and at many of the clients.
+I am creating this ebook because of years of experience in consulting work, with a wide range of clients, from small startups to enormous enterprises. This kind of agile change is present in many of the projects and at many of the clients.
 
 ### For team collaboration
 
@@ -30,12 +30,12 @@ For example, one of my enterprise clients describes this kind of shared context 
 
 For more about related areas, there are related guides:
 
-* [Innovation Partnership Guide](https://github.com/sixarm/innovation-partnership-guide)
-* [Startup Business Guide](https://github.com/sixarm/startup-business-guide)
-* [Business Lingo Guide](https://github.com/sixarm/business-lingo-guide)
-* [Agile Change Guide](https://github.com/sixarm/agile-change-guide)
-* [Project Management Guide](https://github.com/sixarm/project-management-guide)
-* [UI/UX Design Guide](https://github.com/sixarm/ui-ux-design-guide)
-* [Test Automation Guide](https://github.com/sixarm/test-automation-guide)
-* [AI Starter Guide](https://github.com/sixarm/ai-starter-guide)
-* [Software Programming Guide](https://github.com/sixarm/software-programming-guide)
+- [Innovation Partnership Guide](https://github.com/sixarm/innovation-partnership-guide)
+- [Startup Business Guide](https://github.com/sixarm/startup-business-guide)
+- [Business Lingo Guide](https://github.com/sixarm/business-lingo-guide)
+- [Agile Change Guide](https://github.com/sixarm/agile-change-guide)
+- [Project Management Guide](https://github.com/sixarm/project-management-guide)
+- [UI/UX Design Guide](https://github.com/sixarm/ui-ux-design-guide)
+- [Test Automation Guide](https://github.com/sixarm/digital-health-guide)
+- [AI Starter Guide](https://github.com/sixarm/ai-starter-guide)
+- [Software Programming Guide](https://github.com/sixarm/software-programming-guide)

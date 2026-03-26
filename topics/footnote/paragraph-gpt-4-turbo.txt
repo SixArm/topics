@@ -1,0 +1,9 @@
+A footnote is a UI/UX component used to provide additional information,
+citations, or clarifications without cluttering the main content. Typically
+displayed at the bottom of a page, section, or element, footnotes offer context,
+references, or explanations that support the primary content. In digital
+interfaces, footnotes are often linked or numbered, allowing users to easily
+navigate between the main text and supplementary details. Effective footnote
+design ensures that the extra information is easily accessible yet unobtrusive,
+helping to maintain the flow of content while providing valuable insights or
+references when needed.

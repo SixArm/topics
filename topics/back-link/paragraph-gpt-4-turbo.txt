@@ -1,0 +1,8 @@
+A back link in UI/UX is a navigational component that allows users to return
+to a previous page or step within an app or website, often represented as a
+left-pointing arrow accompanied by text like “Back” or the name of the previous
+page. It enhances usability by providing a clear, intuitive way to reverse
+navigation without relying solely on the browser’s back button. Back links are
+especially important in mobile and multi-step interfaces, helping users maintain
+their sense of orientation and reducing frustration by making navigation feel
+more seamless and controlled.

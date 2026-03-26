@@ -8,8 +8,8 @@ The key difference between MLP and MVP is that MLP prioritizes the emotional and
 
 **Key benefits:**
 
-* **Faster time-to-market**: By focusing on the minimum set of features necessary to create a lovable product, product teams can often get their product to market faster, which can be crucial.
+* **Faster time-to-market:** By focusing on the minimum set of features necessary to create a lovable product, product teams can often get their product to market faster, which can be crucial.
 
-* **Greater user engagement**: By creating a product that is emotionally engaging and easy to use, product teams can increase user engagement and retention, leading to higher customer lifetime value and increased revenue.
+* **Greater user engagement:** By creating a product that is emotionally engaging and easy to use, product teams can increase user engagement and retention, leading to higher customer lifetime value and increased revenue.
 
-* **Reduced risk**: By testing the product with real users early on in the development process, product teams can reduce the risk of building a product that does not generate sufficient demand.
+* **Reduced risk:** By testing the product with real users early on in the development process, product teams can reduce the risk of building a product that does not generate sufficient demand.

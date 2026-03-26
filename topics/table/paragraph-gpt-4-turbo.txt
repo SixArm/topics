@@ -1,0 +1,9 @@
+A table is a UI/UX component used to display structured data in rows and
+columns, making it easy to compare and analyze information at a glance. Commonly
+used for things like reports, schedules, product lists, or dashboards, tables
+organize content into headers and cells, often with features like sorting,
+filtering, pagination, and inline editing to enhance usability. A well-designed
+table improves data readability, supports efficient decision-making, and allows
+users to quickly find patterns or specific details. Tables are essential in
+data-heavy interfaces, offering both clarity and functionality in a compact
+format.

@@ -6,14 +6,14 @@ Unlike traditional marketing techniques that rely on paid advertising, guerilla 
 
 **Examples:**
 
-* **Stunts or events**: Creating a memorable event or spectacle to draw attention to a brand or product.
+* **Stunts or events:** Creating a memorable event or spectacle to draw attention to a brand or product.
 
-* **Ambush marketing**: Associating a brand with a popular event or trend, even if the brand is not officially sponsoring it.
+* **Ambush marketing:** Associating a brand with a popular event or trend, even if the brand is not officially sponsoring it.
 
-* **Street art or graffiti**: Using public spaces to create artistic and provocative displays that promote a brand or product.
+* **Street art or graffiti:** Using public spaces to create artistic and provocative displays that promote a brand or product.
 
-* **Viral marketing**: Creating online content that is designed to be shared widely and generate buzz around a brand or product.
+* **Viral marketing:** Creating online content that is designed to be shared widely and generate buzz around a brand or product.
 
-* **Product sampling**: Offering free samples of a product to potential customers to generate interest and word-of-mouth.
+* **Product sampling:** Offering free samples of a product to potential customers to generate interest and word-of-mouth.
 
 Guerilla marketing can be highly effective when done correctly, as it has the potential to generate buzz, create a memorable impression, and generate word-of-mouth. However, it can also be risky, as some tactics may be seen as intrusive or offensive if not executed carefully.

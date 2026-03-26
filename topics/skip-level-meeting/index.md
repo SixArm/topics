@@ -6,8 +6,8 @@ The purpose of a skip-level meeting is to create an open and transparent communi
 
 **Key aspects:**
 
-* **Preparation**: Leaders should prepare for skip-level meetings by reviewing the work of the employees they will be meeting with, including their job descriptions, performance reviews, and any relevant metrics. They should have an agenda for the meeting, with specific topics they want to discuss.
+* **Preparation:** Leaders should prepare for skip-level meetings by reviewing the work of the employees they will be meeting with, including their job descriptions, performance reviews, and any relevant metrics. They should have an agenda for the meeting, with specific topics they want to discuss.
 
-* **Focus on listening**: Leaders should listen to subordinates, and gather feedback. Leaders should avoid dominating the conversation, and instead focus on listening to their subordinates' concerns, ideas, questions, and advice.
+* **Focus on listening:** Leaders should listen to subordinates, and gather feedback. Leaders should avoid dominating the conversation, and instead focus on listening to their subordinates' concerns, ideas, questions, and advice.
 
-* **Action**: Leaders should follow up on any concerns or ideas raised during skip-level meetings. They should also communicate any changes or updates to the subordinates, to demonstrate that their feedback was taken seriously. Leaders should also follow up with the intermediate, meaning the leader's direct report who is the direct manager of the subordinate.
+* **Action:** Leaders should follow up on any concerns or ideas raised during skip-level meetings. They should also communicate any changes or updates to the subordinates, to demonstrate that their feedback was taken seriously. Leaders should also follow up with the intermediate, meaning the leader's direct report who is the direct manager of the subordinate.

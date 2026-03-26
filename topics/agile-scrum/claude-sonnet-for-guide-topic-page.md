@@ -1,0 +1,7 @@
+# Agile Scrum
+
+Scrum is one of the most popular frameworks for implementing Agile principles. It organizes work into short, fixed-length iterations called sprints, typically lasting one to four weeks. Each sprint begins with sprint planning, where the team selects work items from the product backlog and commits to completing them. Daily stand-up meetings keep team members aligned and identify obstacles, while sprint reviews demonstrate completed work to stakeholders, and retrospectives allow teams to reflect on their process and identify improvements.
+
+The Scrum framework defines three key roles: the Product Owner, who represents stakeholder interests and manages the product backlog; the Scrum Master, who facilitates the process and removes impediments; and the Development Team, which creates the product increment. This structure promotes self-organization and cross-functional collaboration.
+
+Agile software engineering practices complement Scrum by emphasizing technical excellence. These include test-driven development, continuous integration, pair programming, and refactoring. These practices ensure that software remains maintainable and high-quality throughout rapid development cycles. Together, Agile and Scrum create an environment where teams can deliver valuable software incrementally while maintaining the flexibility to adapt to changing requirements and market conditions.

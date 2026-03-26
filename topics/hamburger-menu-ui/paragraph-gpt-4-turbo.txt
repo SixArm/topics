@@ -1,0 +1,8 @@
+A hamburger menu is a UI/UX component represented by a small icon with three
+horizontal lines, resembling a hamburger, typically located in the top corner of
+a user interface. When clicked or tapped, it reveals a hidden navigation menu or
+list of options, helping to keep the main interface clean and
+uncluttered—especially on mobile devices or smaller screens. While it saves
+space and simplifies the layout, its discoverability and usability have been
+debated, as some users may not immediately recognize its function without prior
+experience.

@@ -6,7 +6,7 @@ Common types of outsourcing include information technology (IT) services, custom
 
 **Typical benefits:**
 
-* **Focus**: Outsourcing can allow businesses to focus on their core competencies, while leaving non-core functions to external providers who can perform them more efficiently and effectively.
+* **Focus:** Outsourcing can allow businesses to focus on their core competencies, while leaving non-core functions to external providers who can perform them more efficiently and effectively.
 
 * **Access**: Outsourcing can provide access to specialized expertise not available in-house. For example, a business may lack resources or skills for in-house software applications, but can outsource function to a software consultancy.
 

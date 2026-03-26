@@ -1,0 +1,8 @@
+A pie chart is a UI/UX component used to visually represent data as a circular
+graph, divided into slices to illustrate proportions or percentages of a whole.
+Each slice of the pie chart corresponds to a category, and its size is
+proportional to the category’s value relative to the total. Pie charts are
+effective for displaying simple, comparative data in an easily digestible
+format, often used in dashboards or reports. A well-designed pie chart ensures
+clarity by using distinct colors, labels, and legends, allowing users to quickly
+interpret the distribution of values and grasp the key insights at a glance.

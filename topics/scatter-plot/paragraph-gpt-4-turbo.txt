@@ -1,0 +1,9 @@
+A scatter plot is a UI/UX component used to display data points on a
+two-dimensional graph, with each point representing a pair of values along the X
+and Y axes. It is particularly useful for visualizing the relationship or
+correlation between two variables, helping users identify trends, clusters, or
+outliers in large data sets. Scatter plots are often used in data analysis and
+statistical tools, allowing users to quickly grasp patterns or insights through
+the distribution and positioning of the points. Effective design of scatter
+plots includes clear axis labels, appropriate scaling, and optional data point
+highlights to enhance readability and interpretation.

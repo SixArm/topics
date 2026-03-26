@@ -1,0 +1,9 @@
+A timeline is a UI/UX component used to visually organize and display events,
+steps, or data points in chronological order, helping users understand
+progression over time. Commonly used in project tracking, activity feeds,
+historical overviews, or user journeys, timelines can be vertical, horizontal,
+or interactive, often incorporating icons, dates, and brief descriptions for
+clarity. This component aids comprehension by making complex sequences more
+intuitive and scannable. Effective timeline design emphasizes readability,
+logical flow, and visual hierarchy, allowing users to quickly grasp the order,
+timing, and significance of events or stages.

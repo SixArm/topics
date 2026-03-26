@@ -26,7 +26,7 @@ class ChiSquareCalculator {
     const cols = observed[0].length;
 
     // Calculate row and column totals
-    const rowTotals = observed.map(row => row.reduce((a, b) => a + b, 0));
+    const rowTotals = observed.map((row) => row.reduce((a, b) => a + b, 0));
     const colTotals = Array(cols).fill(0);
     for (let j = 0; j < cols; j++) {
       for (let i = 0; i < rows; i++) {
@@ -70,13 +70,14 @@ class ChiSquareCalculator {
       significant: pValue < 0.05,
       effectSize: {
         cramersV: cramersV.toFixed(4),
-        interpretation: this.interpretCramersV(cramersV)
+        interpretation: this.interpretCramersV(cramersV),
       },
       observed,
-      expected: expected.map(row => row.map(v => v.toFixed(2))),
-      conclusion: pValue < 0.05
-        ? 'There is a significant association between the variables (p < 0.05)'
-        : 'No significant association found between the variables (p >= 0.05)'
+      expected: expected.map((row) => row.map((v) => v.toFixed(2))),
+      conclusion:
+        pValue < 0.05
+          ? "There is a significant association between the variables (p < 0.05)"
+          : "No significant association found between the variables (p >= 0.05)",
     };
   }
 
@@ -93,7 +94,7 @@ class ChiSquareCalculator {
 
     // Wilson-Hilferty approximation for large df
     if (df > 100) {
-      const z = Math.pow(chiSquare / df, 1/3) - (1 - 2 / (9 * df));
+      const z = Math.pow(chiSquare / df, 1 / 3) - (1 - 2 / (9 * df));
       const denom = Math.sqrt(2 / (9 * df));
       return 1 - this.normalCDF(z / denom);
     }
@@ -120,8 +121,12 @@ class ChiSquareCalculator {
    */
   static normalCDF(z) {
     const t = 1 / (1 + 0.2316419 * Math.abs(z));
-    const d = 0.3989423 * Math.exp(-z * z / 2);
-    const p = d * t * (0.3193815 + t * (-0.3565638 + t * (1.781478 + t * (-1.821256 + t * 1.330274))));
+    const d = 0.3989423 * Math.exp((-z * z) / 2);
+    const p =
+      d *
+      t *
+      (0.3193815 +
+        t * (-0.3565638 + t * (1.781478 + t * (-1.821256 + t * 1.330274))));
     return z > 0 ? 1 - p : p;
   }
 
@@ -131,11 +136,11 @@ class ChiSquareCalculator {
    * @returns {string}
    */
   static interpretCramersV(v) {
-    if (v < 0.1) return 'negligible';
-    if (v < 0.2) return 'small';
-    if (v < 0.4) return 'medium';
-    if (v < 0.6) return 'large';
-    return 'very large';
+    if (v < 0.1) return "negligible";
+    if (v < 0.2) return "small";
+    if (v < 0.4) return "medium";
+    if (v < 0.6) return "large";
+    return "very large";
   }
 
   /**
@@ -146,7 +151,7 @@ class ChiSquareCalculator {
    */
   static goodnessOfFit(observed, expected) {
     if (observed.length !== expected.length) {
-      throw new Error('Arrays must have same length');
+      throw new Error("Arrays must have same length");
     }
 
     let chiSquare = 0;
@@ -160,7 +165,7 @@ class ChiSquareCalculator {
         category: i,
         observed: observed[i],
         expected: expected[i],
-        contribution: contribution.toFixed(4)
+        contribution: contribution.toFixed(4),
       });
     }
 
@@ -173,9 +178,10 @@ class ChiSquareCalculator {
       pValue: pValue.toFixed(4),
       significant: pValue < 0.05,
       contributions,
-      conclusion: pValue < 0.05
-        ? 'Observed frequencies differ significantly from expected'
-        : 'No significant difference from expected frequencies'
+      conclusion:
+        pValue < 0.05
+          ? "Observed frequencies differ significantly from expected"
+          : "No significant difference from expected frequencies",
     };
   }
 }
@@ -184,8 +190,8 @@ class ChiSquareCalculator {
 class ContingencyTableBuilder {
   constructor() {
     this.data = [];
-    this.rowVariable = '';
-    this.colVariable = '';
+    this.rowVariable = "";
+    this.colVariable = "";
   }
 
   /**
@@ -213,20 +219,20 @@ class ContingencyTableBuilder {
    */
   build() {
     // Get unique categories
-    const rowCategories = [...new Set(this.data.map(d => d.row))].sort();
-    const colCategories = [...new Set(this.data.map(d => d.col))].sort();
+    const rowCategories = [...new Set(this.data.map((d) => d.row))].sort();
+    const colCategories = [...new Set(this.data.map((d) => d.col))].sort();
 
     // Build frequency table
-    const table = rowCategories.map(row =>
-      colCategories.map(col =>
-        this.data.filter(d => d.row === row && d.col === col).length
-      )
+    const table = rowCategories.map((row) =>
+      colCategories.map(
+        (col) => this.data.filter((d) => d.row === row && d.col === col).length,
+      ),
     );
 
     // Calculate totals
-    const rowTotals = table.map(row => row.reduce((a, b) => a + b, 0));
+    const rowTotals = table.map((row) => row.reduce((a, b) => a + b, 0));
     const colTotals = colCategories.map((_, j) =>
-      table.reduce((sum, row) => sum + row[j], 0)
+      table.reduce((sum, row) => sum + row[j], 0),
     );
     const grandTotal = rowTotals.reduce((a, b) => a + b, 0);
 
@@ -239,7 +245,7 @@ class ContingencyTableBuilder {
       rowTotals,
       colTotals,
       grandTotal,
-      percentages: this.calculatePercentages(table, grandTotal)
+      percentages: this.calculatePercentages(table, grandTotal),
     };
   }
 
@@ -251,17 +257,21 @@ class ContingencyTableBuilder {
    */
   calculatePercentages(table, total) {
     return {
-      ofTotal: table.map(row => row.map(v => ((v / total) * 100).toFixed(1) + '%')),
-      ofRow: table.map(row => {
+      ofTotal: table.map((row) =>
+        row.map((v) => ((v / total) * 100).toFixed(1) + "%"),
+      ),
+      ofRow: table.map((row) => {
         const rowTotal = row.reduce((a, b) => a + b, 0);
-        return row.map(v => rowTotal > 0 ? ((v / rowTotal) * 100).toFixed(1) + '%' : '0%');
+        return row.map((v) =>
+          rowTotal > 0 ? ((v / rowTotal) * 100).toFixed(1) + "%" : "0%",
+        );
       }),
       ofColumn: table.map((row, i) =>
         row.map((v, j) => {
           const colTotal = table.reduce((sum, r) => sum + r[j], 0);
-          return colTotal > 0 ? ((v / colTotal) * 100).toFixed(1) + '%' : '0%';
-        })
-      )
+          return colTotal > 0 ? ((v / colTotal) * 100).toFixed(1) + "%" : "0%";
+        }),
+      ),
     };
   }
 
@@ -270,29 +280,36 @@ class ContingencyTableBuilder {
    * @returns {string}
    */
   toString() {
-    const { rowCategories, colCategories, table, rowTotals, colTotals, grandTotal } = this.build();
+    const {
+      rowCategories,
+      colCategories,
+      table,
+      rowTotals,
+      colTotals,
+      grandTotal,
+    } = this.build();
 
     let str = `\n${this.rowVariable} vs ${this.colVariable}\n`;
-    str += '='.repeat(50) + '\n';
+    str += "=".repeat(50) + "\n";
 
     // Header
-    str += ''.padEnd(15);
-    colCategories.forEach(col => str += col.padStart(10));
-    str += 'Total'.padStart(10) + '\n';
-    str += '-'.repeat(50) + '\n';
+    str += "".padEnd(15);
+    colCategories.forEach((col) => (str += col.padStart(10)));
+    str += "Total".padStart(10) + "\n";
+    str += "-".repeat(50) + "\n";
 
     // Data rows
     rowCategories.forEach((row, i) => {
       str += row.padEnd(15);
-      table[i].forEach(v => str += v.toString().padStart(10));
-      str += rowTotals[i].toString().padStart(10) + '\n';
+      table[i].forEach((v) => (str += v.toString().padStart(10)));
+      str += rowTotals[i].toString().padStart(10) + "\n";
     });
 
     // Footer
-    str += '-'.repeat(50) + '\n';
-    str += 'Total'.padEnd(15);
-    colTotals.forEach(v => str += v.toString().padStart(10));
-    str += grandTotal.toString().padStart(10) + '\n';
+    str += "-".repeat(50) + "\n";
+    str += "Total".padEnd(15);
+    colTotals.forEach((v) => (str += v.toString().padStart(10)));
+    str += grandTotal.toString().padStart(10) + "\n";
 
     return str;
   }
@@ -312,7 +329,7 @@ class ABTestChiSquareAnalyzer {
     // Columns: Outcome (Converted, Not Converted)
     const observed = [
       [groupA.conversions, groupA.total - groupA.conversions],
-      [groupB.conversions, groupB.total - groupB.conversions]
+      [groupB.conversions, groupB.total - groupB.conversions],
     ];
 
     const result = ChiSquareCalculator.testOfIndependence(observed);
@@ -327,20 +344,24 @@ class ABTestChiSquareAnalyzer {
       groupA: {
         conversions: groupA.conversions,
         total: groupA.total,
-        rate: (rateA * 100).toFixed(2) + '%'
+        rate: (rateA * 100).toFixed(2) + "%",
       },
       groupB: {
         conversions: groupB.conversions,
         total: groupB.total,
-        rate: (rateB * 100).toFixed(2) + '%'
+        rate: (rateB * 100).toFixed(2) + "%",
       },
       comparison: {
-        absoluteDifference: (difference * 100).toFixed(2) + '%',
-        relativeChange: relativeChange.toFixed(2) + '%',
-        winner: rateB > rateA ? 'B' : rateA > rateB ? 'A' : 'tie'
+        absoluteDifference: (difference * 100).toFixed(2) + "%",
+        relativeChange: relativeChange.toFixed(2) + "%",
+        winner: rateB > rateA ? "B" : rateA > rateB ? "A" : "tie",
       },
       chiSquareTest: result,
-      recommendation: this.getRecommendation(result.significant, relativeChange, groupA.total + groupB.total)
+      recommendation: this.getRecommendation(
+        result.significant,
+        relativeChange,
+        groupA.total + groupB.total,
+      ),
     };
   }
 
@@ -354,18 +375,18 @@ class ABTestChiSquareAnalyzer {
   static getRecommendation(significant, relativeChange, sampleSize) {
     if (!significant) {
       if (sampleSize < 1000) {
-        return 'No significant difference detected. Consider increasing sample size.';
+        return "No significant difference detected. Consider increasing sample size.";
       }
-      return 'No significant difference between groups. Either option is acceptable.';
+      return "No significant difference between groups. Either option is acceptable.";
     }
 
     if (Math.abs(relativeChange) < 5) {
-      return 'Statistically significant but small practical difference. Consider if change is worth implementing.';
+      return "Statistically significant but small practical difference. Consider if change is worth implementing.";
     }
 
     return relativeChange > 0
-      ? 'Group B significantly outperforms Group A. Recommend implementing B.'
-      : 'Group A significantly outperforms Group B. Recommend keeping A.';
+      ? "Group B significantly outperforms Group A. Recommend implementing B."
+      : "Group A significantly outperforms Group B. Recommend keeping A.";
   }
 }
 
@@ -381,25 +402,34 @@ class DefectDistributionAnalyzer {
   static analyzeDistribution(observed, expected, total) {
     const categories = Object.keys(observed);
 
-    const observedArray = categories.map(c => observed[c]);
-    const expectedArray = categories.map(c => (expected[c] / 100) * total);
+    const observedArray = categories.map((c) => observed[c]);
+    const expectedArray = categories.map((c) => (expected[c] / 100) * total);
 
-    const result = ChiSquareCalculator.goodnessOfFit(observedArray, expectedArray);
+    const result = ChiSquareCalculator.goodnessOfFit(
+      observedArray,
+      expectedArray,
+    );
 
     // Find categories with largest deviations
-    const deviations = categories.map((cat, i) => ({
-      category: cat,
-      observed: observedArray[i],
-      expected: expectedArray[i].toFixed(1),
-      deviation: observedArray[i] - expectedArray[i],
-      percentDeviation: ((observedArray[i] - expectedArray[i]) / expectedArray[i] * 100).toFixed(1) + '%'
-    })).sort((a, b) => Math.abs(b.deviation) - Math.abs(a.deviation));
+    const deviations = categories
+      .map((cat, i) => ({
+        category: cat,
+        observed: observedArray[i],
+        expected: expectedArray[i].toFixed(1),
+        deviation: observedArray[i] - expectedArray[i],
+        percentDeviation:
+          (
+            ((observedArray[i] - expectedArray[i]) / expectedArray[i]) *
+            100
+          ).toFixed(1) + "%",
+      }))
+      .sort((a, b) => Math.abs(b.deviation) - Math.abs(a.deviation));
 
     return {
       totalDefects: total,
       chiSquareResult: result,
       deviations,
-      insights: this.generateInsights(deviations, result.significant)
+      insights: this.generateInsights(deviations, result.significant),
     };
   }
 
@@ -414,25 +444,26 @@ class DefectDistributionAnalyzer {
 
     if (significant) {
       insights.push({
-        type: 'warning',
-        message: 'Defect distribution differs significantly from expected pattern'
+        type: "warning",
+        message:
+          "Defect distribution differs significantly from expected pattern",
       });
     }
 
-    const overrepresented = deviations.filter(d => d.deviation > 0);
-    const underrepresented = deviations.filter(d => d.deviation < 0);
+    const overrepresented = deviations.filter((d) => d.deviation > 0);
+    const underrepresented = deviations.filter((d) => d.deviation < 0);
 
     if (overrepresented.length > 0) {
       insights.push({
-        type: 'observation',
-        message: `Categories with more defects than expected: ${overrepresented.map(d => d.category).join(', ')}`
+        type: "observation",
+        message: `Categories with more defects than expected: ${overrepresented.map((d) => d.category).join(", ")}`,
       });
     }
 
     if (underrepresented.length > 0) {
       insights.push({
-        type: 'observation',
-        message: `Categories with fewer defects than expected: ${underrepresented.map(d => d.category).join(', ')}`
+        type: "observation",
+        message: `Categories with fewer defects than expected: ${underrepresented.map((d) => d.category).join(", ")}`,
       });
     }
 
@@ -441,75 +472,96 @@ class DefectDistributionAnalyzer {
 }
 
 // Demonstration
-console.log('=== Chi-Square Analysis Examples ===\n');
+console.log("=== Chi-Square Analysis Examples ===\n");
 
 // Test of Independence
-console.log('--- Test of Independence ---\n');
-console.log('Testing if test automation correlates with defect discovery:\n');
+console.log("--- Test of Independence ---\n");
+console.log("Testing if digital health correlates with defect discovery:\n");
 
 const automationVsDefects = [
   [45, 15], // Automated: [Found defects, No defects]
-  [25, 35]  // Manual: [Found defects, No defects]
+  [25, 35], // Manual: [Found defects, No defects]
 ];
 
-const independenceResult = ChiSquareCalculator.testOfIndependence(automationVsDefects);
+const independenceResult =
+  ChiSquareCalculator.testOfIndependence(automationVsDefects);
 console.log(`Chi-Square: ${independenceResult.chiSquare}`);
 console.log(`Degrees of Freedom: ${independenceResult.degreesOfFreedom}`);
 console.log(`P-Value: ${independenceResult.pValue}`);
 console.log(`Significant: ${independenceResult.significant}`);
-console.log(`Effect Size (Cramér's V): ${independenceResult.effectSize.cramersV} (${independenceResult.effectSize.interpretation})`);
+console.log(
+  `Effect Size (Cramér's V): ${independenceResult.effectSize.cramersV} (${independenceResult.effectSize.interpretation})`,
+);
 console.log(`Conclusion: ${independenceResult.conclusion}`);
 
 // Contingency Table
-console.log('\n--- Contingency Table ---');
+console.log("\n--- Contingency Table ---");
 const tableBuilder = new ContingencyTableBuilder();
-tableBuilder.setVariables('Browser', 'Test Result');
+tableBuilder.setVariables("Browser", "Test Result");
 
 // Simulate test results
-['Chrome', 'Firefox', 'Safari', 'Edge'].forEach(browser => {
-  const passRate = browser === 'Chrome' ? 0.95 : browser === 'Firefox' ? 0.92 : browser === 'Safari' ? 0.88 : 0.90;
+["Chrome", "Firefox", "Safari", "Edge"].forEach((browser) => {
+  const passRate =
+    browser === "Chrome"
+      ? 0.95
+      : browser === "Firefox"
+        ? 0.92
+        : browser === "Safari"
+          ? 0.88
+          : 0.9;
   for (let i = 0; i < 100; i++) {
-    tableBuilder.addDataPoint(browser, Math.random() < passRate ? 'Pass' : 'Fail');
+    tableBuilder.addDataPoint(
+      browser,
+      Math.random() < passRate ? "Pass" : "Fail",
+    );
   }
 });
 
 console.log(tableBuilder.toString());
 const tableData = tableBuilder.build();
-const browserTestResult = ChiSquareCalculator.testOfIndependence(tableData.table);
+const browserTestResult = ChiSquareCalculator.testOfIndependence(
+  tableData.table,
+);
 console.log(`\nChi-Square Test: p-value = ${browserTestResult.pValue}`);
 console.log(`Conclusion: ${browserTestResult.conclusion}`);
 
 // A/B Test Analysis
-console.log('\n--- A/B Test Analysis ---\n');
+console.log("\n--- A/B Test Analysis ---\n");
 
 const abResult = ABTestChiSquareAnalyzer.analyze(
   { conversions: 120, total: 1000 }, // Control
-  { conversions: 150, total: 1000 }  // Treatment
+  { conversions: 150, total: 1000 }, // Treatment
 );
 
-console.log('A/B Test Results:');
+console.log("A/B Test Results:");
 console.log(`  Group A: ${abResult.groupA.rate} conversion rate`);
 console.log(`  Group B: ${abResult.groupB.rate} conversion rate`);
-console.log(`  Difference: ${abResult.comparison.absoluteDifference} (${abResult.comparison.relativeChange} relative)`);
+console.log(
+  `  Difference: ${abResult.comparison.absoluteDifference} (${abResult.comparison.relativeChange} relative)`,
+);
 console.log(`  Significant: ${abResult.chiSquareTest.significant}`);
 console.log(`  Recommendation: ${abResult.recommendation}`);
 
 // Goodness of Fit
-console.log('\n--- Goodness of Fit Test ---\n');
+console.log("\n--- Goodness of Fit Test ---\n");
 
 const defectAnalysis = DefectDistributionAnalyzer.analyzeDistribution(
   { Critical: 5, High: 20, Medium: 45, Low: 30 },
   { Critical: 5, High: 15, Medium: 50, Low: 30 }, // Expected distribution
-  100
+  100,
 );
 
-console.log('Defect Distribution Analysis:');
+console.log("Defect Distribution Analysis:");
 console.log(`  Chi-Square: ${defectAnalysis.chiSquareResult.chiSquare}`);
-console.log(`  Significant deviation: ${defectAnalysis.chiSquareResult.significant}`);
-console.log('\n  Deviations from expected:');
-defectAnalysis.deviations.forEach(d => {
-  const sign = d.deviation > 0 ? '+' : '';
-  console.log(`    ${d.category}: ${d.observed} (expected ${d.expected}) ${sign}${d.percentDeviation}`);
+console.log(
+  `  Significant deviation: ${defectAnalysis.chiSquareResult.significant}`,
+);
+console.log("\n  Deviations from expected:");
+defectAnalysis.deviations.forEach((d) => {
+  const sign = d.deviation > 0 ? "+" : "";
+  console.log(
+    `    ${d.category}: ${d.observed} (expected ${d.expected}) ${sign}${d.percentDeviation}`,
+  );
 });
 
 /**

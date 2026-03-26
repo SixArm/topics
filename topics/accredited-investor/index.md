@@ -6,9 +6,9 @@ In the United States, an individual is considered an accredited investor if they
 
 **Criteria:**
 
-* **High income**: They have earned income that exceeded $200,000 (or $300,000 together with a spouse) in each of the past two years, and reasonably expect the same for the current year; or
+* **High income:** They have earned income that exceeded $200,000 (or $300,000 together with a spouse) in each of the past two years, and reasonably expect the same for the current year; or
 
-* **High worth**: They have a net worth over $1 million, either alone or together with a spouse (excluding the value of their primary residence).
+* **High worth:** They have a net worth over $1 million, either alone or together with a spouse (excluding the value of their primary residence).
 
 Entities, such as corporations, partnerships, and trusts, can also be accredited investors if they meet certain requirements, including having assets in excess of $5 million or being an entity composed entirely of accredited investors.
 

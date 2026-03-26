@@ -1,0 +1,8 @@
+A textarea is a UI/UX component that allows users to input and edit multiple
+lines of text, commonly used in forms for comments, messages, descriptions, or
+feedback. Unlike a standard input field that accepts a single line, a textarea
+provides a larger, scrollable text box that supports extended content. It can be
+resized by users (depending on the design) and may include placeholder text,
+character counters, or validation feedback to guide input. A textarea enhance
+user interaction by offering a flexible and comfortable space for expressing
+more detailed thoughts or information within a clean and accessible interface.

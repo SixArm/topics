@@ -1,0 +1,9 @@
+A file dialog is a UI/UX component that allows users to browse, select, and
+upload files from their device to a website or application. Typically activated
+by a button labeled “Choose File” or “Upload,” it opens a system dialog where
+users can navigate folders and select one or more files. This component is
+essential in forms, messaging apps, and content management systems where
+user-generated content or document submission is required. A well-designed file
+dialog enhances usability by clearly indicating accepted file types, providing
+feedback after selection (like showing the file name), and ensuring
+accessibility across devices and platforms.

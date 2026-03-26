@@ -1,0 +1,9 @@
+Pagination is a UI/UX component that divides content into separate pages,
+allowing users to navigate through large sets of data or information one section
+at a time. Commonly used in search results, product listings, and long article
+feeds, pagination improves performance and readability by loading only a portion
+of the content at once. It typically appears as a series of numbered links,
+along with “Previous” and “Next” buttons, enabling users to easily move forward
+or backward through content. This component helps manage content overload,
+enhances navigation, and gives users a clear sense of progress and location
+within a dataset or multi-page layout.

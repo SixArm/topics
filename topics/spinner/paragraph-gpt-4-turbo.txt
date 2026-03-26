@@ -1,0 +1,9 @@
+A spinner is a UI/UX component used to indicate that a process or action is
+currently in progress, typically involving loading, submitting, or fetching
+data. It often appears as a rotating icon or animated graphic, signaling to
+users that they need to wait momentarily. Spinners help manage user expectations
+and improve perceived performance by providing visual feedback during delays.
+While they don’t convey exact timing, they reassure users that the system is
+working. A well-designed spinner is subtle, visually consistent with the
+interface, and ideally accompanied by a message or progress indicator if the
+wait is expected to be long.

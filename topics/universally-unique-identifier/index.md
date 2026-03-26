@@ -8,12 +8,12 @@ Due to their uniqueness, UUIDs are valuable in scenarios where there is a need t
 
 **Some uses:**
 
-* **Database Primary Keys**: UUIDs can be used as primary keys for database records instead of auto-incrementing integers. This allows for distributed database systems without the risk of key collisions.
+* **Database Primary Keys:** UUIDs can be used as primary keys for database records instead of auto-incrementing integers. This allows for distributed database systems without the risk of key collisions.
 
-* **Distributed Systems**: In distributed systems, UUIDs help ensure that each node can generate unique identifiers for the data it manages without relying on a centralized authority.
+* **Distributed Systems:** In distributed systems, UUIDs help ensure that each node can generate unique identifiers for the data it manages without relying on a centralized authority.
 
-* **Session Management**: UUIDs can be used to identify and manage user sessions on web applications.
+* **Session Management:** UUIDs can be used to identify and manage user sessions on web applications.
 
-* **Asynchronous Messaging**: In message queues or event-based systems, UUIDs can uniquely identify messages, ensuring no duplication or data loss.
+* **Asynchronous Messaging:** In message queues or event-based systems, UUIDs can uniquely identify messages, ensuring no duplication or data loss.
 
-* **Security and Privacy**: UUIDs can be used to create unique, hard-to-guess identifiers for user accounts, access tokens, and other sensitive information.
+* **Security and Privacy:** UUIDs can be used to create unique, hard-to-guess identifiers for user accounts, access tokens, and other sensitive information.

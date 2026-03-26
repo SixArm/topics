@@ -8,8 +8,8 @@ There are several frameworks and standards that guide companies in developing an
 
 **Examples of CSR initiatives:**
 
-* **Environmental sustainability**: Implement sustainable practices such as using renewable energy, reducing waste, and promoting energy efficiency.
+* **Environmental sustainability:** Implement sustainable practices such as using renewable energy, reducing waste, and promoting energy efficiency.
 
-* **Community involvement**: Engage with local groups, such as volunteering at charities, sponsoring community events, and providing educational opportunities.
+* **Community involvement:** Engage with local groups, such as volunteering at charities, sponsoring community events, and providing educational opportunities.
 
-* **Ethical business practices**: Eliminate exploitative labor practices, use fair trade suppliers, and ensure products are safe and of high quality.
+* **Ethical business practices:** Eliminate exploitative labor practices, use fair trade suppliers, and ensure products are safe and of high quality.

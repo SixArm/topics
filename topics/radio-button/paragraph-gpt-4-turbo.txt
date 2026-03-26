@@ -1,0 +1,9 @@
+A radio button is a UI/UX component that allows users to select one option from
+a predefined set of mutually exclusive choices. Typically represented as small
+circular buttons, radio buttons are used in forms or surveys where only one
+option is allowed to be selected at a time. When a user clicks on a radio
+button, it becomes filled or checked, while other buttons in the same group are
+automatically deselected. This behavior visually indicates the user's choice,
+making it clear that only one selection is possible. Radio buttons enhance
+usability by providing a simple, intuitive way to make single-choice selections
+within a group of options.

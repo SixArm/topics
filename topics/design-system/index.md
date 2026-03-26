@@ -4,14 +4,14 @@ A design system is a collection of guidelines, principles, and reusable componen
 
 **Typical aspects:**
 
-* **Design Principles**: These are overarching guidelines that inform the design decisions and provide a framework for creating a cohesive and user-centered experience.
+* **Design Principles:** These are overarching guidelines that inform the design decisions and provide a framework for creating a cohesive and user-centered experience.
 
-* **Visual Style Guide**: It outlines the visual elements such as typography, colors, iconography, spacing, and imagery that should be used consistently throughout the product.
+* **Visual Style Guide:** It outlines the visual elements such as typography, colors, iconography, spacing, and imagery that should be used consistently throughout the product.
 
-* **Component Library**: This includes reusable UI components like buttons, forms, navigation menus, cards, and other interface elements. These help create consistent efficient user interfaces.
+* **Component Library:** This includes reusable UI components like buttons, forms, navigation menus, cards, and other interface elements. These help create consistent efficient user interfaces.
 
-* **Interaction Patterns**: This includes practices for navigation, gestures, animations, wizards, and other interactivity. These help ensure a predictable and intuitive user experience.
+* **Interaction Patterns:** This includes practices for navigation, gestures, animations, wizards, and other interactivity. These help ensure a predictable and intuitive user experience.
 
-* **Accessibility Guidelines**: These guidelines ensure that the design system adheres to accessibility standards for a diverse range of users, including those with disabilities.
+* **Accessibility Guidelines:** These guidelines ensure that the design system adheres to accessibility standards for a diverse range of users, including those with disabilities.
 
-* **Documentation**: Comprehensive documentation accompanies the design system, providing guidelines, usage examples, code snippets, and explanations to help stakeholders use the design system effectively.
+* **Documentation:** Comprehensive documentation accompanies the design system, providing guidelines, usage examples, code snippets, and explanations to help stakeholders use the design system effectively.

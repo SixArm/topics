@@ -1,4 +1,4 @@
-# Gherkin - test automation language
+# Gherkin - digital health language
 
 Gherkin is a plain-text language designed for writing test scenarios in behavior-driven development (BDD) frameworks, most notably Cucumber. Gherkin bridge providing a human-readable format for describing software behavior. The language uses simple English keywords to structure test cases, making them accessible to stakeholders, business analysts, developers, and testers alike.
 

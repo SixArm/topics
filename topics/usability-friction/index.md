@@ -4,24 +4,24 @@ Usability friction refers to the resistance or obstacles that users may encounte
 
 **Common friction areas:**
 
-* **UI**: Complicated or cluttered user interfaces.
+* **UI:** Complicated or cluttered user interfaces.
 
-* **Slowness**: Slow loading times for websites, or slow running times for applications.
+* **Slowness:** Slow loading times for websites, or slow running times for applications.
 
-* **Onboarding**: Lengthy or complex sign-up processes or setup steps.
+* **Onboarding:** Lengthy or complex sign-up processes or setup steps.
 
-* **Navigation**: Unclear navigation or confusing menu structures.
+* **Navigation:** Unclear navigation or confusing menu structures.
 
-* **Data Entry**: Long or complex forms can be tiresome for users.
+* **Data Entry:** Long or complex forms can be tiresome for users.
 
-* **Errors**: Inadequate error messages or lack of feedback can lead to user confusion.
+* **Errors:** Inadequate error messages or lack of feedback can lead to user confusion.
 
-* **Payments**: Purchasing processes with too many steps or security complexity.
+* **Payments:** Purchasing processes with too many steps or security complexity.
 
-* **Inaccessibility**: Inaccessible design for people with disabilities.
+* **Inaccessibility:** Inaccessible design for people with disabilities.
 
-* **Mobile**: Inconsistent or poorly responsive design on mobile devices.
+* **Mobile:** Inconsistent or poorly responsive design on mobile devices.
 
-* **Waste**: Unnecessary steps or actions required to complete a task.
+* **Waste:** Unnecessary steps or actions required to complete a task.
 
-* **Overload**: Too much information or too many choices.
+* **Overload:** Too much information or too many choices.

@@ -1,0 +1,9 @@
+# Agile backlogs
+
+Agile backlogs serve as the central repository for all work items in agile software development, acting as a dynamic and prioritized list of features, user stories, bug fixes, and technical tasks. The product backlog, maintained by the product owner, contains high-level requirements expressed as user stories that describe functionality from the end user's perspective. These stories are typically written in the format "As a [user type], I want [functionality] so that [benefit]," ensuring clarity about user needs and business value.
+
+The backlog operates as a living document that evolves throughout the project lifecycle. Items are continuously added, removed, refined, and reprioritized based on changing business requirements, stakeholder feedback, and market conditions. The product owner collaborates with stakeholders to ensure the backlog reflects current priorities and maintains alignment with business objectives. Higher-priority items are placed at the top of the backlog and are typically more detailed and refined than lower-priority items.
+
+During sprint planning, the development team selects items from the product backlog to include in the sprint backlog, which represents the work committed to for the current sprint. The team breaks down selected user stories into specific tasks and estimates the effort required for completion. This creates a focused work plan for the sprint duration.
+
+Backlog refinement, also known as grooming, is an ongoing process where the team collaborates to add detail, estimates, and acceptance criteria to backlog items. This ensures that upcoming work is well-understood and ready for sprint planning. Effective backlog management requires regular communication between the product owner, development team, and stakeholders to maintain transparency and ensure the backlog continues to deliver maximum value to users and the business.

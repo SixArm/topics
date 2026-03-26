@@ -1,0 +1,9 @@
+A calendar is a UI/UX component that displays dates in a structured, visual
+format—typically as a monthly grid—and allows users to view, select, or interact
+with specific dates. It's commonly used for scheduling, booking, event planning,
+or setting deadlines in applications like calendars, to-do lists, or reservation
+systems. A well-designed calendar component enhances usability by making date
+selection intuitive and efficient, often including features like date pickers,
+highlighted current dates, and navigational arrows for switching between months
+or years. It helps users manage time-based tasks with clarity and ease,
+contributing to a more organized and user-friendly experience.

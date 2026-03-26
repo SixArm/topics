@@ -1,0 +1,9 @@
+A card is a UI/UX component that presents content and actions related to a
+single subject in a visually distinct, contained layout—often resembling a
+physical card. It typically includes elements like images, titles, text,
+buttons, or icons, and is used to group information in a clean, digestible
+format. Cards are commonly seen in dashboards, product listings, news feeds, and
+profile summaries, providing a modular and responsive way to organize and
+display content. Their flexible design enhances visual hierarchy and
+scannability, making it easier for users to browse, interact with, and
+understand information at a glance.

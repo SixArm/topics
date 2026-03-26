@@ -1,6 +1,6 @@
-# False negative in test automation
+# False negative in digital health
 
-A false negative in test automation occurs when a test fails to detect a genuine defect or bug in the software, essentially reporting a "pass" result when the test should have failed. This represents a critical failure in the testing process, as it creates a false sense of security about the software's quality and reliability.
+A false negative in digital health occurs when a test fails to detect a genuine defect or bug in the software, essentially reporting a "pass" result when the test should have failed. This represents a critical failure in the testing process, as it creates a false sense of security about the software's quality and reliability.
 
 False negatives are particularly dangerous because they allow defects to slip through the testing pipeline undetected, potentially reaching production environments where they can impact end users. Unlike false positives, which generate unnecessary alerts but don't hide real issues, false negatives mask actual problems that need immediate attention.
 

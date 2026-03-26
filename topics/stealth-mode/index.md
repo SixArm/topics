@@ -6,12 +6,12 @@ During stealth mode, startups typically operate in "stealth" or "secret" and avo
 
 **General justifications:**
 
-* **Protect intellectual property**: By keeping their plans and innovations a secret, startups can protect their intellectual property and prevent competitors from copying their ideas.
+* **Protect intellectual property:** By keeping their plans and innovations a secret, startups can protect their intellectual property and prevent competitors from copying their ideas.
 
-* **Avoid copycats**: Stealth mode can help startups avoid copycats who might try to replicate their ideas before they have a chance to establish themselves.
+* **Avoid copycats:** Stealth mode can help startups avoid copycats who might try to replicate their ideas before they have a chance to establish themselves.
 
-* **Focus on product development**: By operating in stealth mode, startups can focus on product development and refining their ideas without the pressure of public scrutiny.
+* **Focus on product development:** By operating in stealth mode, startups can focus on product development and refining their ideas without the pressure of public scrutiny.
 
-* **Build hype**: The mystery and secrecy surrounding a startup in stealth mode can generate buzz and excitement, creating a sense of anticipation for the eventual launch.
+* **Build hype:** The mystery and secrecy surrounding a startup in stealth mode can generate buzz and excitement, creating a sense of anticipation for the eventual launch.
 
 Stealth mode is not without its challenges, however. Operating in secret can make it difficult to attract investors, customers, and talent, as potential partners may be hesitant to engage with a company that is not transparent about its plans and activities.

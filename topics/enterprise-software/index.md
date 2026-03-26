@@ -2,7 +2,7 @@
 
 Enterprise software refers to a type of software designed for organizations or businesses to support their complex critical operations. This software provides a centralized platform for managing various functions such as enterprise resource planning (ERP), customer relationship management (CRM), supply chain management (SCM), human resources management (HRM), and business intelligence (BI).
 
-Enterprise software is typically used by large organizations and businesses to optimize workflows, improve collaboration, and enhance productivity.
+Enterprise software is typically used by large organizations and businesses to optimize workflows, improve collaboration, and enhance productivity. 
 
 **Examples:**
 

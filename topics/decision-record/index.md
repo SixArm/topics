@@ -8,10 +8,10 @@ A typical DR includes the following information: a title, a date, a context summ
 
 **Benefits include:**
 
-* **Transparency**: Decision records provide transparency into the decision-making process, helping to build trust and accountability within a team or organization.
+* **Transparency:** Decision records provide transparency into the decision-making process, helping to build trust and accountability within a team or organization.
 
-* **Documentation**: Decision records provide a clear and concise record of the decision, which can be used for future reference and as a historical record.
+* **Documentation:** Decision records provide a clear and concise record of the decision, which can be used for future reference and as a historical record.
 
-* **Clarity**: Decision records help to ensure that everyone involved in the decision-making process has a clear understanding of the decision, its rationale, and its implications.
+* **Clarity:** Decision records help to ensure that everyone involved in the decision-making process has a clear understanding of the decision, its rationale, and its implications.
 
-* **Consistency**: Decision records help to ensure that similar decisions are made consistently over time, using the same criteria and decision-making process.
+* **Consistency:** Decision records help to ensure that similar decisions are made consistently over time, using the same criteria and decision-making process.

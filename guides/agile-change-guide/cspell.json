@@ -1,0 +1,15 @@
+{
+    "version": "0.2",
+    "ignorePaths": [],
+    "dictionaryDefinitions": [],
+    "dictionaries": [],
+    "words": [
+        "Devaux's",
+        "DIPP",
+        "Poppendieck",
+        "Scrumban",
+        "standups"
+    ],
+    "ignoreWords": [],
+    "import": []
+}

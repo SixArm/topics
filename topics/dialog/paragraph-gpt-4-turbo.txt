@@ -1,0 +1,8 @@
+A dialog is a UI/UX component used to communicate information to users or prompt
+them to take an action within an application. Typically appearing as a small
+window overlaying the main interface, dialogs can be modal (requiring user
+interaction before proceeding) or non-modal (allowing interaction with the
+background). They serve purposes like confirmations, alerts, input requests, or
+settings adjustments. Good dialog design ensures clarity, minimal disruption,
+and clear call-to-action buttons (e.g., "OK", "Cancel") to guide users smoothly
+through tasks or decisions.

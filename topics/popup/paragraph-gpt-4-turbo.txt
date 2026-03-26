@@ -1,0 +1,9 @@
+A popup is a UI/UX component that temporarily appears over the main content to
+convey information, prompt user actions, or display additional options without
+navigating away from the current screen. Popups can take various forms—such as
+tooltips, modals, or contextual menus—and are often triggered by user
+interactions like clicks, hovers, or page events. They are useful for drawing
+attention to specific elements, providing quick feedback, or offering
+supplementary details. Effective popup design focuses on timing, relevance, and
+minimal disruption, ensuring users receive the necessary information or controls
+without feeling overwhelmed or interrupted.

@@ -1,0 +1,8 @@
+A checkbox is a UI/UX component that allows users to select one or more options
+from a list by toggling individual boxes on or off. Represented as small square
+boxes that display a check mark when selected, checkboxes are commonly used in
+forms, settings, filters, and preference menus where multiple selections are
+allowed. They offer a simple and intuitive way for users to make binary choices
+(checked or unchecked), and are often accompanied by labels to clearly describe
+the option. Checkboxes enhance usability by supporting flexibility in user input
+and ensuring that selections are easy to understand, modify, and submit.

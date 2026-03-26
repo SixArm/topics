@@ -4,16 +4,16 @@ PlantUML is an open-source tool that allows you to create various types of diagr
 
 **Diagram types include:**
 
-* **UML Diagrams**: Such as class diagrams, sequence diagrams, activity diagrams, use case diagrams, component diagrams, and more. These diagrams help in modeling software systems.
+* **UML Diagrams:** Such as class diagrams, sequence diagrams, activity diagrams, use case diagrams, component diagrams, and more. These diagrams help in modeling software systems.
 
-* **Flowcharts**: Such as shapes, arrows, decision points, and connectors to represent various elements.
+* **Flowcharts:** Such as shapes, arrows, decision points, and connectors to represent various elements.
 
-* **Network Diagrams**: Depict the relationships between different nodes, devices, and connections in a network.
+* **Network Diagrams:** Depict the relationships between different nodes, devices, and connections in a network.
 
-* **Entity-Relationship Diagrams (ERDs)**: Model database schemas and illustrate the relationships between entities and their attributes.
+* **Entity-Relationship Diagrams (ERDs):** Model database schemas and illustrate the relationships between entities and their attributes.
 
-* **Mind Maps**: Organize and visualize hierarchical information or brainstorming sessions.
+* **Mind Maps:** Organize and visualize hierarchical information or brainstorming sessions.
 
-* **Gantt Charts**: Visualize project timelines, tasks, dependencies, and progress.
+* **Gantt Charts:** Visualize project timelines, tasks, dependencies, and progress.
 
 The PlantUML syntax is straightforward and uses a set of keywords and symbols to define the elements and relationships in the diagrams. You write the diagram description in a plain text file. PlantUML then processes the text file and generates the corresponding diagram in various formats, such as PNG, SVG, or PDF.

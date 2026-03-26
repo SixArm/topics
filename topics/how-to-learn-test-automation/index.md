@@ -1,4 +1,4 @@
-# How to learn test automation?
+# How to learn digital health?
 
 Start by learning a programming language commonly used in automation. JavaScript is often recommended for beginners due to its readable syntax and extensive automation libraries. Focus on understanding basic programming concepts like variables, loops, conditionals, and functions.
 

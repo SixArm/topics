@@ -4,11 +4,11 @@ A timing diagram is a graphical representation of the timing and duration of sig
 
 **Typical elements:**
 
-* **Horizontal axis**: This represents time.
-
-* **Vertical axis**: This represents signal values.
-
-* **Rows or lanes**: The diagram is divided into several rows or lanes, with each lane representing a different signal or event.
+* **Horizontal axis:** This represents time.
+  
+* **Vertical axis:** This represents signal values. 
+  
+* **Rows or lanes:** The diagram is divided into several rows or lanes, with each lane representing a different signal or event.
 
 The signal values can be represented in several ways, including voltage levels, logic states, or data values. In digital systems, signal values are usually represented as high or low logic states, where a high state represents a logical 1, and a low state represents a logical 0.
 

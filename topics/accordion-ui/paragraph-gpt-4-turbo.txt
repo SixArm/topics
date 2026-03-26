@@ -1,0 +1,7 @@
+An accordion is a UI/UX component used to organize and display content in a
+space-efficient, collapsible format. It consists of vertically stacked sections,
+each with a clickable header that expands or collapses its associated content.
+This design helps reduce visual clutter, allowing users to focus on one section
+at a time while keeping other content hidden until needed. Commonly used in
+FAQs, filters, or mobile menus, accordions enhance usability by streamlining
+content access and improving navigation on both desktop and mobile interfaces.

@@ -1,0 +1,8 @@
+A fieldset is a UI/UX component used to group related form elements together,
+often visually enclosed with a border, to indicate they belong to the same
+category or set of information. Typically used in forms, fieldsets help organize
+input fields logically, making the form more structured and easier to
+understand. A legend element can be included within the fieldset to provide a
+title or description for the group, further enhancing clarity. By visually
+grouping related inputs, fieldsets improve form usability, guiding users through
+complex forms and improving accessibility for screen readers.

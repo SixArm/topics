@@ -1,0 +1,9 @@
+A caption is a UI/UX component used to provide supplementary text or
+explanations alongside images, videos, charts, or other media within an
+interface. It typically appears below or near the media element, offering
+context, descriptions, or additional details to enhance user understanding.
+Captions are often used in galleries, product pages, or educational content to
+clarify or add value to visual elements. Effective caption design ensures
+readability through appropriate font size, contrast, and concise wording,
+helping users interpret the media more easily without overwhelming the main
+content.

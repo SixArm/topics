@@ -1,0 +1,1 @@
+claude "List topics by running Bash(bin/topics-without-tutorials). For each topic: write a comprehensive tutorial for a digital health professional to read and learn. Save the file as 'topics/{topic}/tutorial-by-claude-opus-4-5.md'"

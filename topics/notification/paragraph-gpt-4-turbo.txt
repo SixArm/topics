@@ -1,0 +1,9 @@
+A notification is a UI/UX component used to deliver timely, non-intrusive
+messages to users about events, updates, or actions within an application.
+Unlike alerts, notifications are usually passive and do not interrupt the user’s
+workflow—they often appear as banners, toasts, or badges in a corner of the
+interface or notification center. Notifications can inform users about new
+messages, background processes, or system statuses and may disappear
+automatically or allow manual dismissal. Effective notification design balances
+visibility and subtlety, ensuring users stay informed without feeling
+overwhelmed or distracted.

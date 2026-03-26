@@ -1,0 +1,8 @@
+A checklist is a UI/UX component that allows users to track and manage tasks,
+options, or steps by marking items as completed or pending. Typically displayed
+as a list of actionable items, each with a checkbox that users can tick off as
+they progress. Checklists are commonly used in to-do lists, forms, or onboarding
+processes, providing a clear and interactive way to guide users through
+sequential actions. Well-designed checklists offer visual feedback, such as
+checkmarks or color changes, to indicate progress and ensure that users can
+easily follow and manage their tasks in a structured, organized manner.

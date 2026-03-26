@@ -1,0 +1,8 @@
+A footer is a UI/UX component located at the bottom of a web page or app screen,
+typically used to provide secondary navigation, legal information, contact
+details, and links to important but less prominent content like privacy
+policies, terms of service, or social media profiles. It serves as a closing
+section that helps users find additional resources or revisit key areas without
+scrolling back to the top. A well-structured footer improves site usability,
+reinforces trust, and ensures accessibility to critical information, especially
+on long or content-rich pages.

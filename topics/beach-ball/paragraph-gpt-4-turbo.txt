@@ -1,0 +1,9 @@
+The beach ball in UI/UX typically refers to a loading indicator or waiting
+indicator, most famously seen as the colorful spinning cursor on macOS when the
+system is busy or unresponsive. While not always a formal “component” in design
+systems, it represents a visual cue that a process is in progress and the user
+must wait. In broader UI/UX contexts, similar spinning indicators or animations
+(often circular) serve the same purpose—communicating that the system is working
+on a task. While helpful for setting expectations, overuse or long durations of
+beach ball indicators can lead to user frustration, so they should be paired with
+good performance practices or more informative feedback when possible.

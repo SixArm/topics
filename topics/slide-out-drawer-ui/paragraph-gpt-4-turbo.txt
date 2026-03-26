@@ -1,0 +1,8 @@
+A slide-out drawer is a UI/UX component that slides in from the side of the
+screen—usually from the left or right—to reveal additional content or navigation
+options without leaving the current page. Often triggered by a button or swipe
+gesture, it’s commonly used for menus, filters, settings, or secondary content
+in mobile and web applications. This component allows for efficient use of
+screen space by keeping less frequently used options hidden until needed,
+enhancing focus and minimizing clutter in the main interface while maintaining
+easy access to extended functionality.

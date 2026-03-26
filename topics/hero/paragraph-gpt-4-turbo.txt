@@ -1,0 +1,8 @@
+A hero is a prominent UI/UX component typically placed at the top of a webpage,
+designed to grab attention and communicate the core message or value proposition
+of the site or product. It usually features a large background image or video,
+bold headlines, supporting text, and a call-to-action button. As the first thing
+users see, the hero section sets the tone for the overall experience, guiding
+users toward key actions like signing up, exploring content, or making a
+purchase. A well-designed hero combines visual impact with clear messaging to
+create an engaging and persuasive entry point for users.

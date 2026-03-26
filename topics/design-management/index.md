@@ -4,14 +4,14 @@ Design management refers to the process of planning, coordinating, and overseein
 
 **Key aspects:**
 
-* **Strategic Alignment**: Align design activities with the organization's  strategy. Understand the business context, market dynamics, and customer needs to identify design opportunities and define design objectives.
+* **Strategic Alignment:** Align design activities with the organization's  strategy. Understand the business context, market dynamics, and customer needs to identify design opportunities and define design objectives.
 
-* **Design Planning**: Develop design plans that outline the scope, timelines, resources, and deliverables of design projects. Identify project requirements, set design goals, and allocate resources.
+* **Design Planning:** Develop design plans that outline the scope, timelines, resources, and deliverables of design projects. Identify project requirements, set design goals, and allocate resources.
 
-* **Cross-functional Collaboration**: Work with stakeholders such as marketing, engineering, and operations to ensure that design efforts are integrated effectively into the product and process.
+* **Cross-functional Collaboration:** Work with stakeholders such as marketing, engineering, and operations to ensure that design efforts are integrated effectively into the product and process.
 
-* **Design Leadership**: Provide leadership and guidance to design teams. Set a vision, inspire creativity, and promote a culture of excellence. Advocate for design and its value throughout the organization.
+* **Design Leadership:** Provide leadership and guidance to design teams. Set a vision, inspire creativity, and promote a culture of excellence. Advocate for design and its value throughout the organization.
 
-* **Design Methods**: Establish effective design processes that enable efficient and high-quality design outcomes. Implement design thinking, user-centered design, and iterative design processes.
+* **Design Methods:** Establish effective design processes that enable efficient and high-quality design outcomes. Implement design thinking, user-centered design, and iterative design processes.
 
-* **Resource Management**: Manage design resources, including budgets, talent, and technology. Identify skill gaps, training opportunities, and strategies to enhance the organization's design capabilities.
+* **Resource Management:** Manage design resources, including budgets, talent, and technology. Identify skill gaps, training opportunities, and strategies to enhance the organization's design capabilities.

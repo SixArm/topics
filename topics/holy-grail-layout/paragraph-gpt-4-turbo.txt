@@ -1,0 +1,9 @@
+The Holy Grail layout is a classic and widely used web design pattern that
+features a three-column structure with a fixed header at the top and a footer at
+the bottom. The layout includes a main content area in the center, flanked by a
+left sidebar (often for navigation) and a right sidebar (commonly used for
+related content or ads). Its name reflects its long-standing value and
+flexibility in UI/UX design, offering a balanced way to organize content for
+readability and functionality. The Holy Grail layout is particularly effective
+for desktop interfaces, providing clear structure and easy access to key
+elements while maintaining a cohesive, user-friendly experience.

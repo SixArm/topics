@@ -1,0 +1,9 @@
+A label is a UI/UX component that provides a descriptive name or instruction for
+an associated form element, such as an input field, checkbox, or radio button.
+It enhances accessibility and usability by clearly indicating the purpose of the
+form element, making it easier for users to understand what information is being
+requested. Labels are typically placed next to or above the corresponding form
+controls, and when correctly linked with the form element (using the `for`
+attribute in HTML), they improve interaction, especially for screen reader
+users. Well-designed labels contribute to a more intuitive and inclusive user
+experience, ensuring that users can navigate and fill out forms with ease.

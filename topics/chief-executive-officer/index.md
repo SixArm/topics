@@ -5,10 +5,10 @@ The Chief Executive Officer (CEO) is the highest-ranking executive officer in a 
 **Responsibilities:**
 
 * **Set the company's strategy and vision:**: make major corporate decisions, develop and implement major corporate policies, and potentially oversee day-to-day operations.
+  
+* **Build and lead the executive team:** create and plan resources for people, processes, and practices.
 
-* **Build and lead the executive team**: create and plan resources for people, processes, and practices.
-
-* **Manage relationships with key stakeholders**: such as investors, customers, and partners.
+* **Manage relationships with key stakeholders:** such as investors, customers, and partners.
 
 The CEO must also possess strong leadership and management skills, be able to communicate effectively, have a deep understanding of the industry and market trends, and possess the ability to make strategic decisions in a timely and effective manner.
 

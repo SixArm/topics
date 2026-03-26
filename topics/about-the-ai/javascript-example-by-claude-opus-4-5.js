@@ -2,7 +2,7 @@
  * About AI in Test Automation - Leveraging AI for Testing
  *
  * Artificial Intelligence (AI) and Machine Learning (ML) are increasingly being
- * integrated into test automation to improve test coverage, reduce maintenance,
+ * integrated into digital health to improve test coverage, reduce maintenance,
  * and identify issues more intelligently.
  *
  * Key Applications of AI in Testing:
@@ -37,19 +37,43 @@ class AITestGenerator {
     return {
       // Common input validation patterns
       inputValidation: [
-        { field: 'email', tests: ['empty', 'invalid format', 'valid', 'sql injection'] },
-        { field: 'password', tests: ['empty', 'too short', 'missing special char', 'valid'] },
-        { field: 'age', tests: ['negative', 'zero', 'underage', 'valid', 'too old'] },
-        { field: 'phone', tests: ['invalid format', 'too short', 'too long', 'valid'] }
+        {
+          field: "email",
+          tests: ["empty", "invalid format", "valid", "sql injection"],
+        },
+        {
+          field: "password",
+          tests: ["empty", "too short", "missing special char", "valid"],
+        },
+        {
+          field: "age",
+          tests: ["negative", "zero", "underage", "valid", "too old"],
+        },
+        {
+          field: "phone",
+          tests: ["invalid format", "too short", "too long", "valid"],
+        },
       ],
 
       // Common API endpoint patterns
       apiEndpoints: [
-        { method: 'GET', tests: ['200 success', '404 not found', '401 unauthorized'] },
-        { method: 'POST', tests: ['201 created', '400 bad request', '422 validation error'] },
-        { method: 'PUT', tests: ['200 updated', '404 not found', '400 bad request'] },
-        { method: 'DELETE', tests: ['204 no content', '404 not found', '403 forbidden'] }
-      ]
+        {
+          method: "GET",
+          tests: ["200 success", "404 not found", "401 unauthorized"],
+        },
+        {
+          method: "POST",
+          tests: ["201 created", "400 bad request", "422 validation error"],
+        },
+        {
+          method: "PUT",
+          tests: ["200 updated", "404 not found", "400 bad request"],
+        },
+        {
+          method: "DELETE",
+          tests: ["204 no content", "404 not found", "403 forbidden"],
+        },
+      ],
     };
   }
 
@@ -61,21 +85,21 @@ class AITestGenerator {
   generateFormTests(fields) {
     const testCases = [];
 
-    fields.forEach(field => {
+    fields.forEach((field) => {
       // Find matching pattern
       const pattern = this.patterns.inputValidation.find(
-        p => p.field === field.type
+        (p) => p.field === field.type,
       );
 
       if (pattern) {
-        pattern.tests.forEach(testScenario => {
+        pattern.tests.forEach((testScenario) => {
           testCases.push({
             name: `Test ${field.name} with ${testScenario}`,
             field: field.name,
             scenario: testScenario,
             input: this._generateInputForScenario(field.type, testScenario),
             expectedResult: this._determineExpectedResult(testScenario),
-            priority: this._calculatePriority(testScenario)
+            priority: this._calculatePriority(testScenario),
           });
         });
       } else {
@@ -83,10 +107,10 @@ class AITestGenerator {
         testCases.push({
           name: `Test ${field.name} with valid input`,
           field: field.name,
-          scenario: 'valid',
-          input: 'test_value',
-          expectedResult: 'pass',
-          priority: 'medium'
+          scenario: "valid",
+          input: "test_value",
+          expectedResult: "pass",
+          priority: "medium",
         });
       }
     });
@@ -100,53 +124,53 @@ class AITestGenerator {
   _generateInputForScenario(fieldType, scenario) {
     const inputs = {
       email: {
-        'empty': '',
-        'invalid format': 'notanemail',
-        'valid': 'test@example.com',
-        'sql injection': "admin'--"
+        empty: "",
+        "invalid format": "notanemail",
+        valid: "test@example.com",
+        "sql injection": "admin'--",
       },
       password: {
-        'empty': '',
-        'too short': '123',
-        'missing special char': 'Password123',
-        'valid': 'P@ssw0rd123!'
+        empty: "",
+        "too short": "123",
+        "missing special char": "Password123",
+        valid: "P@ssw0rd123!",
       },
       age: {
-        'negative': '-5',
-        'zero': '0',
-        'underage': '12',
-        'valid': '25',
-        'too old': '150'
+        negative: "-5",
+        zero: "0",
+        underage: "12",
+        valid: "25",
+        "too old": "150",
       },
       phone: {
-        'invalid format': '123',
-        'too short': '12345',
-        'too long': '123456789012345',
-        'valid': '555-123-4567'
-      }
+        "invalid format": "123",
+        "too short": "12345",
+        "too long": "123456789012345",
+        valid: "555-123-4567",
+      },
     };
 
-    return inputs[fieldType]?.[scenario] || 'test_value';
+    return inputs[fieldType]?.[scenario] || "test_value";
   }
 
   /**
    * Determine expected result for a test scenario
    */
   _determineExpectedResult(scenario) {
-    const passingScenarios = ['valid'];
-    return passingScenarios.includes(scenario) ? 'pass' : 'fail';
+    const passingScenarios = ["valid"];
+    return passingScenarios.includes(scenario) ? "pass" : "fail";
   }
 
   /**
    * Calculate test priority based on risk and impact
    */
   _calculatePriority(scenario) {
-    const highPriority = ['empty', 'sql injection', 'valid'];
-    const mediumPriority = ['invalid format', 'too short', 'too long'];
+    const highPriority = ["empty", "sql injection", "valid"];
+    const mediumPriority = ["invalid format", "too short", "too long"];
 
-    if (highPriority.includes(scenario)) return 'high';
-    if (mediumPriority.includes(scenario)) return 'medium';
-    return 'low';
+    if (highPriority.includes(scenario)) return "high";
+    if (mediumPriority.includes(scenario)) return "medium";
+    return "low";
   }
 
   /**
@@ -157,18 +181,18 @@ class AITestGenerator {
   generateAPITests(endpoint) {
     const testCases = [];
     const pattern = this.patterns.apiEndpoints.find(
-      p => p.method === endpoint.method
+      (p) => p.method === endpoint.method,
     );
 
     if (pattern) {
-      pattern.tests.forEach(testScenario => {
+      pattern.tests.forEach((testScenario) => {
         testCases.push({
           name: `${endpoint.method} ${endpoint.path} - ${testScenario}`,
           method: endpoint.method,
           path: endpoint.path,
           scenario: testScenario,
-          expectedStatus: parseInt(testScenario.split(' ')[0]),
-          priority: testScenario.includes('success') ? 'high' : 'medium'
+          expectedStatus: parseInt(testScenario.split(" ")[0]),
+          priority: testScenario.includes("success") ? "high" : "medium",
         });
       });
     }
@@ -178,37 +202,39 @@ class AITestGenerator {
 }
 
 // Example usage of AI Test Generator
-console.log('=== AI-Powered Test Case Generation ===\n');
+console.log("=== AI-Powered Test Case Generation ===\n");
 
 const generator = new AITestGenerator();
 
 // Define a registration form
 const registrationForm = [
-  { name: 'userEmail', type: 'email' },
-  { name: 'userPassword', type: 'password' },
-  { name: 'userAge', type: 'age' },
-  { name: 'phoneNumber', type: 'phone' }
+  { name: "userEmail", type: "email" },
+  { name: "userPassword", type: "password" },
+  { name: "userAge", type: "age" },
+  { name: "phoneNumber", type: "phone" },
 ];
 
 const formTests = generator.generateFormTests(registrationForm);
 
-console.log(`Generated ${formTests.length} test cases for registration form:\n`);
-formTests.slice(0, 8).forEach(test => {
+console.log(
+  `Generated ${formTests.length} test cases for registration form:\n`,
+);
+formTests.slice(0, 8).forEach((test) => {
   console.log(`  [${test.priority.toUpperCase()}] ${test.name}`);
   console.log(`    Input: "${test.input}"`);
   console.log(`    Expected: ${test.expectedResult}`);
-  console.log('');
+  console.log("");
 });
 
 // Generate API tests
 const apiEndpoint = {
-  method: 'POST',
-  path: '/api/users'
+  method: "POST",
+  path: "/api/users",
 };
 
 const apiTests = generator.generateAPITests(apiEndpoint);
-console.log('\nGenerated API test cases:\n');
-apiTests.forEach(test => {
+console.log("\nGenerated API test cases:\n");
+apiTests.forEach((test) => {
   console.log(`  ${test.name}`);
   console.log(`    Expected Status: ${test.expectedStatus}`);
 });
@@ -238,7 +264,7 @@ class SelfHealingLocator {
 
     // Primary locator failed - try healing
     console.log(`Primary locator failed: ${locator.primary}`);
-    console.log('Attempting self-healing...');
+    console.log("Attempting self-healing...");
 
     // Try backup locators
     for (const backup of locator.backups || []) {
@@ -272,21 +298,21 @@ class SelfHealingLocator {
     const primary = locator.primary;
 
     // If it's an ID, try converting to various formats
-    if (primary.includes('#')) {
-      const id = primary.replace('#', '');
+    if (primary.includes("#")) {
+      const id = primary.replace("#", "");
       alternatives.push(`[id="${id}"]`);
       alternatives.push(`[data-testid="${id}"]`);
       alternatives.push(`[name="${id}"]`);
     }
 
     // If it's a class, try other class-based selectors
-    if (primary.includes('.')) {
-      const className = primary.replace('.', '');
+    if (primary.includes(".")) {
+      const className = primary.replace(".", "");
       alternatives.push(`[class*="${className}"]`);
     }
 
     // Try aria labels and roles if original was a button/input
-    if (primary.toLowerCase().includes('button')) {
+    if (primary.toLowerCase().includes("button")) {
       alternatives.push('[role="button"]');
     }
 
@@ -301,7 +327,7 @@ class SelfHealingLocator {
       this.locatorHistory.set(locatorId, {
         primary: locator,
         successCount: 0,
-        healingEvents: []
+        healingEvents: [],
       });
     }
 
@@ -317,7 +343,7 @@ class SelfHealingLocator {
       this.locatorHistory.set(locatorId, {
         primary: failedLocator,
         successCount: 0,
-        healingEvents: []
+        healingEvents: [],
       });
     }
 
@@ -325,7 +351,7 @@ class SelfHealingLocator {
     history.healingEvents.push({
       timestamp: new Date().toISOString(),
       failed: failedLocator,
-      successful: successfulLocator
+      successful: successfulLocator,
     });
   }
 
@@ -337,14 +363,16 @@ class SelfHealingLocator {
 
     this.locatorHistory.forEach((history, locatorId) => {
       if (history.healingEvents.length > 0) {
-        const mostCommonHealing = this._getMostCommonHealing(history.healingEvents);
+        const mostCommonHealing = this._getMostCommonHealing(
+          history.healingEvents,
+        );
 
         report.push({
           locatorId,
           originalLocator: history.primary,
           healingCount: history.healingEvents.length,
           recommendedUpdate: mostCommonHealing,
-          confidence: this._calculateConfidence(history)
+          confidence: this._calculateConfidence(history),
         });
       }
     });
@@ -357,12 +385,12 @@ class SelfHealingLocator {
    */
   _getMostCommonHealing(healingEvents) {
     const counts = {};
-    healingEvents.forEach(event => {
+    healingEvents.forEach((event) => {
       counts[event.successful] = (counts[event.successful] || 0) + 1;
     });
 
     return Object.keys(counts).reduce((a, b) =>
-      counts[a] > counts[b] ? a : b
+      counts[a] > counts[b] ? a : b,
     );
   }
 
@@ -374,7 +402,7 @@ class SelfHealingLocator {
 
     const mostCommon = this._getMostCommonHealing(history.healingEvents);
     const mostCommonCount = history.healingEvents.filter(
-      e => e.successful === mostCommon
+      (e) => e.successful === mostCommon,
     ).length;
 
     return mostCommonCount / history.healingEvents.length;
@@ -385,8 +413,8 @@ class SelfHealingLocator {
 class MockPage {
   constructor() {
     this.elements = {
-      '[data-testid="submit-btn"]': { tag: 'button', text: 'Submit' },
-      '[role="button"]': { tag: 'button', text: 'Submit' }
+      '[data-testid="submit-btn"]': { tag: "button", text: "Submit" },
+      '[role="button"]': { tag: "button", text: "Submit" },
     };
   }
 
@@ -395,16 +423,16 @@ class MockPage {
   }
 }
 
-console.log('\n\n=== Self-Healing Test Locators ===\n');
+console.log("\n\n=== Self-Healing Test Locators ===\n");
 
 const healer = new SelfHealingLocator();
 const page = new MockPage();
 
 // Simulate test execution where primary locator fails but backup works
 const buttonLocator = {
-  id: 'submit-button',
-  primary: '#submit-btn', // This will fail
-  backups: ['[data-testid="submit-btn"]', '[role="button"]']
+  id: "submit-button",
+  primary: "#submit-btn", // This will fail
+  backups: ['[data-testid="submit-btn"]', '[role="button"]'],
 };
 
 const result = healer.findElement(page, buttonLocator);
@@ -420,15 +448,15 @@ for (let i = 0; i < 5; i++) {
 }
 
 // Get healing report
-console.log('\n=== Healing Report ===\n');
+console.log("\n=== Healing Report ===\n");
 const report = healer.getHealingReport();
-report.forEach(item => {
+report.forEach((item) => {
   console.log(`Locator ID: ${item.locatorId}`);
   console.log(`  Original: ${item.originalLocator}`);
   console.log(`  Healed ${item.healingCount} times`);
   console.log(`  Recommended Update: ${item.recommendedUpdate}`);
   console.log(`  Confidence: ${(item.confidence * 100).toFixed(1)}%`);
-  console.log('');
+  console.log("");
 });
 
 /**

@@ -1,0 +1,20 @@
+---
+title: "Test Automation Guide"
+subtitle: "Concepts • Tactics • Ideas"
+author: "Edited by Joel Parker Henderson"
+date: "Version 1.0.0"
+description: >
+  Topics include software testing concepts, including unit testing, functional
+  testing, integration testing, test-driven development, behavior-driven
+  development, system quality attributes, continuous integration, continuous
+  delivery, and more.
+cover-image: "../../../../assets/images/cover/1600x2500.jpg"
+links-as-notes: false
+listings-disable-line-numbers: true
+listings-no-page-break: false
+disable-header-and-footer: false
+subparagraph: true
+lang: "en-US"
+css: "epub.css"
+rights: "© 2023-2024 Joel Parker Henderson. All rights reserved."
+---

@@ -1,0 +1,8 @@
+A character counter is a UI/UX component that displays the number of characters
+a user has typed into an input field, often alongside or beneath the field
+itself. It’s commonly used in text inputs with character limits—such as tweets,
+SMS messages, form fields, or bios—to help users stay within constraints.
+Character counters can show remaining characters, total characters used, or
+both, and often update dynamically as the user types. When well-designed, this
+component improves usability by providing clear, real-time feedback, preventing
+errors, and reducing user frustration related to input limits.

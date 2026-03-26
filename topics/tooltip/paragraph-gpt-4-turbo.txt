@@ -1,0 +1,8 @@
+A tooltip is a UI/UX component that provides brief, contextual information when
+a user hovers over, focuses on, or taps an element—typically icons, buttons, or
+form fields. Tooltips are used to clarify the function or meaning of an element
+without cluttering the interface, offering helpful hints, labels, or
+explanations on demand. They usually appear as small floating boxes near the
+target element and disappear when the interaction ends. Tooltips enhance
+usability by guiding users subtly and efficiently, especially in interfaces
+where space is limited or where actions may not be immediately self-explanatory.

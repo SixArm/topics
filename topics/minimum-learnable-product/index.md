@@ -10,8 +10,8 @@ Once the key learning moments have been identified, product teams can create a p
 
 **Key benefits:**
 
-* **Increased user engagement**: By helping users develop skills to use the product effectively, MLnP can increase user engagement and satisfaction, leading to higher retention rates and increased revenue.
+* **Increased user engagement:** By helping users develop skills to use the product effectively, MLnP can increase user engagement and satisfaction, leading to higher retention rates and increased revenue.
 
-* **Reduced support costs**: By designing the product in a way that teaches users how to use it effectively, product teams can reduce the need for customer support, which can lower costs and improve satisfaction.
+* **Reduced support costs:** By designing the product in a way that teaches users how to use it effectively, product teams can reduce the need for customer support, which can lower costs and improve satisfaction.
 
-* **Increased product adoption**: By providing users with a clear learning path, MLnP can help to overcome the initial learning curve, leading to increased adoption and usage.
+* **Increased product adoption:** By providing users with a clear learning path, MLnP can help to overcome the initial learning curve, leading to increased adoption and usage.

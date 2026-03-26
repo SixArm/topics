@@ -1,0 +1,9 @@
+A sparkline is a compact, minimalist UI/UX component used to represent trends or
+variations in data within a small, simple graph, typically embedded within text
+or tables. Unlike full-scale charts, sparklines display data as tiny, unadorned
+line, bar, or win/loss charts, offering a quick, at-a-glance view of patterns,
+such as fluctuations in sales, stock prices, or performance over time. They are
+particularly useful in dashboards or reports where space is limited but quick
+data insights are needed. Sparklines are designed to convey trends without
+detailed context or axes, focusing purely on the visual representation of data
+movement or distribution.

@@ -6,13 +6,13 @@ Kaizen is based on the principle of "Plan-Do-Check-Act" (PDCA), which is a cycli
 
 **Steps:**
 
-* **Plan**: Identify opportunities for improvement and develop a plan for making changes.
+* **Plan:** Identify opportunities for improvement and develop a plan for making changes.
 
-* **Do**: Implement the plan and make the changes.
+* **Do:** Implement the plan and make the changes.
 
-* **Check**: Measure the results of the changes to determine their effectiveness.
+* **Check:** Measure the results of the changes to determine their effectiveness.
 
-* **Act**: If the changes were effective, standardize them and continue to use them. If they were not effective, identify the reasons and make further improvements.
+* **Act:** If the changes were effective, standardize them and continue to use them. If they were not effective, identify the reasons and make further improvements.
 
 Kaizen involves all employees of an organization, from top management to frontline workers, and emphasizes the importance of teamwork, communication, and collaboration. It is not a top-down approach, but rather a collaborative process that involves all levels of the organization in identifying areas for improvement and implementing changes.
 

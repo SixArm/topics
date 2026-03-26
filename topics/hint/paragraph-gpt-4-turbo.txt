@@ -1,0 +1,9 @@
+A hint is a UI/UX component that provides subtle, contextual guidance or
+suggestions to help users understand how to interact with an element or complete
+a task. Often displayed as placeholder text, tooltips, or inline messages near
+input fields or buttons, hints aim to reduce confusion and improve usability
+without interrupting the user flow. They can clarify expected formats, explain
+functionality, or offer examples, especially in forms or complex interfaces. A
+well-crafted hint is concise, timely, and easy to dismiss or ignore once
+understood, ensuring it supports the user experience without becoming a
+distraction.

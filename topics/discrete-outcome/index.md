@@ -6,12 +6,12 @@ In contrast to continuous outcomes, which can take on any value within a specifi
 
 **Examples:**
 
-* **Coin toss**: can only be "heads" or "tails."
+* **Coin toss:** can only be "heads" or "tails."
 
-* **Number of children in a family**: can be 0, 1, 2, 3, etc.
+* **Number of children in a family:** can be 0, 1, 2, 3, etc.
 
-* **Types of vehicles on a road**: can be "car", "bus", "truck", etc.
+* **Types of vehicles on a road:** can be "car", "bus", "truck", etc.
 
-* **Survey response choices**: can be one in a category such as "age group" or "education level" or "tax bracket".
+* **Survey response choices:** can be one in a category such as "age group" or "education level" or "tax bracket".
 
 Discrete outcomes are often analyzed using specific statistical methods, such as chi-square tests or logistic regression, depending on the research question and data characteristics. These methods are tailored to handle categorical data and draw conclusions about the relationships between different categories or groups.

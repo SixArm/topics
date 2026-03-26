@@ -1,0 +1,9 @@
+A tab is a UI/UX component that allows users to navigate between different
+sections of content within a single interface by clicking or tapping on labeled
+tabs, typically displayed horizontally at the top of a content area. Each tab
+represents a distinct section, and only the content related to the active tab is
+displayed at a time, keeping the interface clean and organized. Tabs help group
+similar information in a compact and accessible way, allowing users to switch
+between views without reloading or navigating away from the page. They enhance
+usability by providing an intuitive, quick way to explore different content or
+options within the same context.

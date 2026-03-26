@@ -1,0 +1,9 @@
+A theme chooser is a UI/UX component that enables users to switch between visual
+themes—most commonly light and dark modes—to customize the appearance of an
+application or website. It enhances user comfort, accessibility, and personal
+preference by allowing users to select a theme that suits their lighting
+environment or aesthetic taste. Light themes typically feature brighter
+backgrounds with dark text for daytime use, while dark themes use darker
+backgrounds with light text to reduce eye strain in low-light conditions. The
+theme chooser is often implemented as a toggle switch or dropdown and
+contributes to a more flexible and user-friendly interface.

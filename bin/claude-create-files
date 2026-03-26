@@ -1,6 +1,6 @@
 #!/bin/sh
 
-# Claude code command to create topic files for tutorials and quizzes.
+# Claude code command to create topic files for summary, tutorial, quiz.
 # 
 # Syntax:
 # 

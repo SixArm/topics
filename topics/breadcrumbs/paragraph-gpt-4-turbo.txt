@@ -1,0 +1,8 @@
+Breadcrumbs are a UI/UX navigation component that displays a trail of links
+showing the user's current location within a website or app's hierarchy,
+typically appearing near the top of a page. Each link represents a parent page,
+allowing users to easily backtrack or understand the structure of the site.
+Breadcrumbs enhance usability by improving orientation, reducing the number of
+actions needed to navigate, and helping users avoid getting lost—especially in
+websites with deep or complex navigation paths, like e-commerce or content-heavy
+platforms.

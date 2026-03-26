@@ -1,0 +1,8 @@
+A badge is a small UI/UX component typically used to display dynamic status
+information, counts, or indicators in a compact, visually prominent format.
+Commonly seen as a colored circle or label attached to icons, buttons, or list
+items, badges are often used to show unread messages, notification counts, or
+activity statuses. They help draw attention to specific elements without
+interrupting the user experience. Effective badge design ensures high visibility
+through contrast and placement, while keeping content minimal—usually numbers,
+short text, or symbols—to quickly convey information at a glance.

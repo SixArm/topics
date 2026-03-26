@@ -1,0 +1,9 @@
+A popover is a UI/UX component that displays contextual information or actions
+in a small overlay that appears near the element that triggered it, such as a
+button, icon, or link. Unlike tooltips, popovers can contain richer content—like
+text, images, buttons, or form fields—and often require user interaction to
+dismiss. They are commonly used to provide quick access to related tools or
+details without navigating away from the current page. Effective popover design
+ensures it is clearly connected to its trigger, positioned intuitively, and easy
+to close, enhancing the user experience by offering relevant information or
+actions without disrupting workflow.

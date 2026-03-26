@@ -1,0 +1,8 @@
+A header is a fundamental UI/UX component typically positioned at the top of a
+web page or app screen, serving as a consistent area for branding, navigation,
+and key actions. It often contains elements like a logo, navigation links,
+search bars, user profiles, or call-to-action buttons. The header plays a
+crucial role in guiding users, providing context, and enabling quick access to
+essential features across the site or application. A well-designed header
+enhances usability, reinforces brand identity, and supports intuitive navigation
+throughout the user experience.

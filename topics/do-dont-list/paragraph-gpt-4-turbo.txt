@@ -1,0 +1,9 @@
+A do/don't list is a UI/UX component designed to guide users by clearly
+outlining actions that should or should not be taken in a given context. It
+typically presents two distinct columns or sections, one for recommended
+behaviors (do's) and another for discouraged or incorrect behaviors (don'ts).
+This component is often used in instructional, onboarding, or error prevention
+contexts to help users quickly understand best practices, avoid mistakes, or
+follow guidelines effectively. Well-designed do/don't lists use concise
+language, clear visuals or icons, and easy-to-read layouts, ensuring that users
+can easily grasp the key points without confusion or overwhelm.

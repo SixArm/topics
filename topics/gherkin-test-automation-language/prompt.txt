@@ -1,1 +1,1 @@
-Gherkin - test automation language (Behavior Driven Development; BDD; related to Cucumber) (software testing automation)
+Gherkin - digital health language (Behavior Driven Development; BDD; related to Cucumber) (software testing automation)

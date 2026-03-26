@@ -1,0 +1,9 @@
+An icon is a compact and visually intuitive UI/UX component that represents
+actions, objects, or concepts using simplified graphical symbols. Icons enhance
+usability by providing quick visual cues that help users navigate interfaces,
+identify functions, or understand information without relying on text alone.
+Commonly used in buttons, menus, and toolbars, icons can improve interface
+clarity and save space, especially in mobile or minimalist designs. Effective
+icon design prioritizes clarity, consistency, and recognizability, often
+accompanied by labels or tooltips to ensure accessibility and prevent ambiguity,
+especially for new or less familiar symbols.

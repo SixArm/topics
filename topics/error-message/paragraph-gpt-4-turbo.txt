@@ -1,0 +1,8 @@
+An error message is a UI/UX component that informs users when something has
+gone wrong, such as incorrect input, failed actions, or system issues. It plays
+a critical role in guiding users by clearly communicating what went wrong, why
+it happened, and how to fix it—ideally using plain, friendly language and visual
+cues like color (often red) or icons. Effective error messages reduce user
+frustration, support task completion, and enhance overall trust in the
+interface. Whether shown inline, as pop-ups, or banners, well-designed error
+messages contribute to a smoother, more supportive user experience.

@@ -1,0 +1,9 @@
+A warning callout is a UI/UX component used to draw attention to important
+alerts or potential issues that require user attention or caution. Typically
+styled with bold colors like yellow or orange, and accompanied by an icon (e.g.,
+an exclamation mark), it is used to highlight warnings, errors, or critical
+information that could affect the user's experience or actions. Warning callouts
+are often placed prominently within the interface to ensure they are noticed,
+and they may include additional text or links to help users understand the issue
+or take corrective actions. A well-designed warning callout ensures clarity
+without overwhelming the user, guiding them toward the necessary next steps.

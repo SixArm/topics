@@ -1,0 +1,40 @@
+#!/bin/sh
+
+# Make directory for a topic.
+#
+# Syntax:
+#
+#     mkdir-topic <title> [prompt]
+#
+# Example:
+#
+#     mkdir-topic "Your Title Here (And Skip This)" "Your longer prompt goes here"
+#
+# The script creates a directory name using the title slug core:
+#
+#     mkdir -p topics/your-title-here
+#
+# The script creates two helper files in the directory as needed:
+#
+#     echo "$title" >> title.txt
+#     echo "$prompt" >> prompt.txt
+#
+set -euf
+title="$1"
+prompt="${2:$title}"
+top="$(git rev-parse --show-toplevel)"
+slug="$(echo "$title" | sed 's/ *(.*//' | slug-case)"
+dir="$top/topics/$slug"
+mkdir -p "$dir"
+
+## Title
+f="$dir/title.txt"
+test -e "$f" || echo "$title" >> "$f"
+
+## Prompt
+f="$dir/prompt.txt"
+test -e "$f" || echo "$prompt" >> "$f"
+
+## Claude Sonnet
+f="$dir/claude-sonnet-for-guide-topic-page.md"
+test -e "$f" || touch "$f"

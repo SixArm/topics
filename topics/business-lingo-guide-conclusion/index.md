@@ -1,6 +1,6 @@
 # Conclusion
 
-Thank you for reading Agile Change Guide. I hope it can be helpful to you and fun.
+Thank you for reading Business Lingo Guide. I hope it can be helpful to you and fun.
 
 Your feedback and suggestions are very much appreciated, because this helps the guide improve and evolve.
 
@@ -8,7 +8,7 @@ Your feedback and suggestions are very much appreciated, because this helps the 
 
 The repository URL is:
 
-<https://github.com/sixarm/agile-change-guide>
+<https://github.com/sixarm/business-lingo-guide>
 
 You can open any issue you like on the repository. For example, you can use the issue link to ask any question, suggest any improvement, point out any error, and the like.
 

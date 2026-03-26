@@ -1,0 +1,10 @@
+A donut chart is a UI/UX component similar to a pie chart but with a circular
+hole in the middle, creating a "donut" shape. It is used to represent
+proportional data, with each segment of the chart illustrating a category's
+contribution to the whole. Donut charts are effective for displaying parts of a
+whole, such as market share, resource distribution, or percentage breakdowns.
+The central hole can also be used to display a total value or additional
+information, enhancing the chart's functionality. With its clean and visually
+appealing design, the donut chart is often favored for dashboards or data
+visualizations, offering clear, intuitive insights with the added benefit of a
+modern aesthetic.

@@ -1,0 +1,9 @@
+An avatar circle is a UI/UX component that displays a user’s profile image or
+initials within a circular frame, commonly used to represent a user identity in
+apps, websites, and social platforms. This visual element provides a quick,
+recognizable way for users to identify themselves or others, often appearing in
+headers, comments, chat interfaces, and account menus. The circular shape is
+aesthetically pleasing and universally recognized as a placeholder for personal
+identity, contributing to a more humanized and personalized user experience.
+When no image is available, initials or default icons are often shown inside the
+circle.

@@ -4,16 +4,16 @@ A wizard user interface is a step-by-step interactive process that guides users 
 
 **Key aspects:**
 
-* **Task Chunking**: Break down complex tasks or processes into smaller, more manageable chunks. This helps users focus, reducing cognitive load.
+* **Task Chunking:** Break down complex tasks or processes into smaller, more manageable chunks. This helps users focus, reducing cognitive load.
 
-* **Step-by-Step Progression**: Provide a sequence of screens or pages, with each step representing a specific task or decision point. Guide users through the process by moving forward.
+* **Step-by-Step Progression:** Provide a sequence of screens or pages, with each step representing a specific task or decision point. Guide users through the process by moving forward.
 
-* **Clear Instructions and Guidance**: Provide clear instructions and guidance to users at each step. This helps users understand what they need to do and what information they are required to provide.
+* **Clear Instructions and Guidance:** Provide clear instructions and guidance to users at each step. This helps users understand what they need to do and what information they are required to provide.
 
-* **Validation**: Provide real-time feedback to users as they complete each step. This can include validation of user inputs, error messages, or confirmation of successful completion of a step.
+* **Validation:** Provide real-time feedback to users as they complete each step. This can include validation of user inputs, error messages, or confirmation of successful completion of a step.
 
-* **Flow**: Provide a flow and structure that users follow to progress through the process. Users typically have the ability to navigate back and forth between steps to review or modify their inputs.
+* **Flow:** Provide a flow and structure that users follow to progress through the process. Users typically have the ability to navigate back and forth between steps to review or modify their inputs.
 
-* **Progress Indicators**: Use visual design elements as progress indicators, such as progress bars or step counters, to show users how far they have progressed and how many steps are remaining.
+* **Progress Indicators:** Use visual design elements as progress indicators, such as progress bars or step counters, to show users how far they have progressed and how many steps are remaining.
 
-* **Flexibility**: Potentially enable users to skip steps that are not relevant to them or provide options for customizing the experience based on user preferences or requirements.
+* **Flexibility:** Potentially enable users to skip steps that are not relevant to them or provide options for customizing the experience based on user preferences or requirements.

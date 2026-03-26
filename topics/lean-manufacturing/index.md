@@ -4,16 +4,16 @@ Lean manufacturing, often referred to as simply "Lean," is a production philosop
 
 **Key aspects:**
 
-* **Value**: Lean manufacturing starts by defining value from the customer's perspective. Value is determined by what the customer is willing to pay for in a product or service.
+* **Value:** Lean manufacturing starts by defining value from the customer's perspective. Value is determined by what the customer is willing to pay for in a product or service.
 
-* **Value Stream Mapping**: Value stream mapping is a visual tool to identify and analyze the steps and activities involved in the production process, to help optimize them.
+* **Value Stream Mapping:** Value stream mapping is a visual tool to identify and analyze the steps and activities involved in the production process, to help optimize them.
 
-* **Flow**: Lean manufacturing emphasizes streamlining the flow of work throughout the production process. This involves minimizing delays, interruptions, and unnecessary movement of materials or people.
+* **Flow:** Lean manufacturing emphasizes streamlining the flow of work throughout the production process. This involves minimizing delays, interruptions, and unnecessary movement of materials or people.
 
-* **Pull System**: Production is just-in-time based on actual customer demand, not based on forecasts. This helps avoid overproduction and reduces inventory holding costs.
+* **Pull System:** Production is just-in-time based on actual customer demand, not based on forecasts. This helps avoid overproduction and reduces inventory holding costs.
 
-* **Waste Reduction**: Waste, or "Muda" in Lean terminology, refers to any activity or process that does not add value to the customer. Examples are over-processing, defects, delays, and under-utilization.
+* **Waste Reduction:** Waste, or "Muda" in Lean terminology, refers to any activity or process that does not add value to the customer. Examples are over-processing, defects, delays, and under-utilization.
 
-* **Continuous Improvement**: Lean manufacturing promotes "Kaizen", a culture of continuous improvement. All employees to actively seek opportunities for improvement and participate in problem-solving.
+* **Continuous Improvement:** Lean manufacturing promotes "Kaizen", a culture of continuous improvement. All employees to actively seek opportunities for improvement and participate in problem-solving.
 
-* **Respect for People**: Lean manufacturing emphasizes the importance of respecting and empowering people at all levels of the organization. It encourages teamwork, engagement, and upskilling.
+* **Respect for People:** Lean manufacturing emphasizes the importance of respecting and empowering people at all levels of the organization. It encourages teamwork, engagement, and upskilling.
