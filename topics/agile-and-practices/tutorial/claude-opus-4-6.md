@@ -8,13 +8,13 @@ Artificial intelligence and machine learning projects introduce unique challenge
 
 Teams working on AI projects benefit from short feedback loops by treating each experiment — a new feature set, a different model architecture, a hyperparameter sweep — as a discrete increment that can be demonstrated to stakeholders. The emphasis on working software translates to working models: deployable artifacts that produce measurable predictions rather than theoretical notebooks.
 
-| Agile Concept | Application to AI |
-|---|---|
-| Sprint planning | Define experiment hypotheses and data requirements for each iteration |
-| Daily standup | Surface blockers around data quality, compute resources, and labeling |
-| Sprint review | Demonstrate model performance metrics and live predictions to stakeholders |
-| Retrospective | Evaluate whether experimentation cadence and tooling are effective |
-| Definition of done | Model meets agreed accuracy, fairness, and latency thresholds |
+| Agile Concept      | Application to AI                                                          |
+| ------------------ | -------------------------------------------------------------------------- |
+| Sprint planning    | Define experiment hypotheses and data requirements for each iteration      |
+| Daily standup      | Surface blockers around data quality, compute resources, and labeling      |
+| Sprint review      | Demonstrate model performance metrics and live predictions to stakeholders |
+| Retrospective      | Evaluate whether experimentation cadence and tooling are effective         |
+| Definition of done | Model meets agreed accuracy, fairness, and latency thresholds              |
 
 Key considerations for agile AI teams include managing technical debt in data pipelines, maintaining reproducibility of experiments, and accepting that some sprints will produce negative results — a failed experiment is still valuable learning.
 
@@ -43,13 +43,13 @@ Frameworks such as the Scaled Agile Framework (SAFe), Large-Scale Scrum (LeSS), 
 - **Release planning.** Periodic planning events (such as SAFe's Program Increment planning) bring all teams together to align on objectives, negotiate dependencies, and commit to deliverables for the upcoming increment.
 - **Continuous integration across teams.** Frequent integration of work products from different teams reduces the risk of late-stage conflicts and ensures the programme delivers a coherent product.
 
-| Single-Team Agile | Programme-Level Agile |
-|---|---|
-| One product backlog | Programme backlog decomposed into team backlogs |
-| Sprint planning for one team | Multi-team planning events with dependency mapping |
-| Daily standup | Scrum of scrums or cross-team sync meetings |
-| Sprint demo to local stakeholders | System demos showing integrated functionality |
-| Team retrospective | Programme-level retrospectives examining cross-team collaboration |
+| Single-Team Agile                 | Programme-Level Agile                                             |
+| --------------------------------- | ----------------------------------------------------------------- |
+| One product backlog               | Programme backlog decomposed into team backlogs                   |
+| Sprint planning for one team      | Multi-team planning events with dependency mapping                |
+| Daily standup                     | Scrum of scrums or cross-team sync meetings                       |
+| Sprint demo to local stakeholders | System demos showing integrated functionality                     |
+| Team retrospective                | Programme-level retrospectives examining cross-team collaboration |
 
 The risk at the programme level is over-process: introducing so much coordination overhead that teams lose the autonomy and speed that make agile effective. The best programme managers apply the minimum viable governance needed to keep teams aligned while preserving their ability to self-organize.
 
@@ -79,17 +79,18 @@ The test automation pyramid provides a useful mental model for structuring autom
 Agile teams integrate test automation into their development workflow through several practices:
 
 - **Test-driven development (TDD).** Developers write failing tests before writing production code, ensuring that every feature is testable by design.
-- **Continuous integration.** Automated test suites run on every commit, providing rapid feedback on whether changes have introduced regressions.
 - **Behavior-driven development (BDD).** Tests are expressed in natural language (Given-When-Then format), bridging the gap between business stakeholders and developers and serving as living documentation.
+- **Specification-driven development (BDD).** Specs are expressed in AI code generation language (Markdown), bridging the gap between AI and implementation, and serving as living documentation.
+- **Continuous integration.** Automated test suites run on every commit, providing rapid feedback on whether changes have introduced regressions.
 - **Shift-left testing.** Quality assurance activities move earlier in the development lifecycle rather than being a gate at the end. Developers, testers, and product owners collaborate on acceptance criteria before coding begins.
 
-| Practice | Purpose | Feedback Speed |
-|---|---|---|
-| Unit testing | Verify individual components in isolation | Seconds |
-| Integration testing | Validate component interactions and contracts | Minutes |
-| End-to-end testing | Confirm complete user workflows | Minutes to hours |
-| Performance testing | Ensure response time and throughput under load | Hours |
-| Exploratory testing | Discover edge cases and usability issues through human judgment | Ongoing |
+| Practice            | Purpose                                                         | Feedback Speed   |
+| ------------------- | --------------------------------------------------------------- | ---------------- |
+| Unit testing        | Verify individual components in isolation                       | Seconds          |
+| Integration testing | Validate component interactions and contracts                   | Minutes          |
+| End-to-end testing  | Confirm complete user workflows                                 | Minutes to hours |
+| Performance testing | Ensure response time and throughput under load                  | Hours            |
+| Exploratory testing | Discover edge cases and usability issues through human judgment | Ongoing          |
 
 Teams that invest in test automation gain the confidence to refactor, to deploy frequently, and to experiment — all of which are essential to realizing the promise of agile.
 
@@ -103,11 +104,11 @@ Agile practices extend far beyond the boundaries of a single development team. W
 
 ## References
 
-- Beck, K., et al. (2001). *Manifesto for Agile Software Development*. https://agilemanifesto.org
-- Cagan, M. (2018). *Inspired: How to Create Tech Products Customers Love* (2nd ed.). Wiley.
-- Gothelf, J., & Seiden, J. (2013). *Lean UX: Applying Lean Principles to Improve User Experience*. O'Reilly Media.
-- Humble, J., & Farley, D. (2010). *Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation*. Addison-Wesley.
-- Leffingwell, D. (2020). *SAFe 5.0 Distilled: Achieving Business Agility with the Scaled Agile Framework*. Addison-Wesley.
-- Schwaber, K., & Sutherland, J. (2020). *The Scrum Guide*. https://scrumguides.org
-- Sculley, D., et al. (2015). "Hidden Technical Debt in Machine Learning Systems." *Advances in Neural Information Processing Systems (NeurIPS)*.
-- Cohn, M. (2009). *Succeeding with Agile: Software Development Using Scrum*. Addison-Wesley.
+- Beck, K., et al. (2001). _Manifesto for Agile Software Development_. https://agilemanifesto.org
+- Cagan, M. (2018). _Inspired: How to Create Tech Products Customers Love_ (2nd ed.). Wiley.
+- Gothelf, J., & Seiden, J. (2013). _Lean UX: Applying Lean Principles to Improve User Experience_. O'Reilly Media.
+- Humble, J., & Farley, D. (2010). _Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation_. Addison-Wesley.
+- Leffingwell, D. (2020). _SAFe 5.0 Distilled: Achieving Business Agility with the Scaled Agile Framework_. Addison-Wesley.
+- Schwaber, K., & Sutherland, J. (2020). _The Scrum Guide_. https://scrumguides.org
+- Sculley, D., et al. (2015). "Hidden Technical Debt in Machine Learning Systems." _Advances in Neural Information Processing Systems (NeurIPS)_.
+- Cohn, M. (2009). _Succeeding with Agile: Software Development Using Scrum_. Addison-Wesley.

@@ -8,14 +8,14 @@ AI technologies are transforming various aspects of the software development lif
 
 The following table maps AI capabilities to specific agile phases:
 
-| Agile Phase | AI Capability | Practical Benefit |
-|---|---|---|
-| Backlog refinement | Natural language processing | Extracts structured user stories from unstructured feedback, detects duplicate or conflicting requirements |
-| Sprint planning | Predictive analytics | Forecasts velocity, estimates story complexity, and identifies resource conflicts before the sprint begins |
-| Development | Code generation and analysis | Suggests code completions, flags anti-patterns, and automates boilerplate tasks |
-| Testing | Adaptive test generation | Creates and prioritizes test cases dynamically based on code changes and risk profiles |
-| Retrospective | Sentiment and trend analysis | Surfaces recurring blockers, tracks team health metrics, and quantifies improvement over time |
-| Deployment | Anomaly detection | Monitors releases in real time, catches regressions, and triggers automated rollbacks |
+| Agile Phase        | AI Capability                | Practical Benefit                                                                                          |
+| ------------------ | ---------------------------- | ---------------------------------------------------------------------------------------------------------- |
+| Backlog refinement | Natural language processing  | Extracts structured user stories from unstructured feedback, detects duplicate or conflicting requirements |
+| Sprint planning    | Predictive analytics         | Forecasts velocity, estimates story complexity, and identifies resource conflicts before the sprint begins |
+| Development        | Code generation and analysis | Suggests code completions, flags anti-patterns, and automates boilerplate tasks                            |
+| Testing            | Adaptive test generation     | Creates and prioritizes test cases dynamically based on code changes and risk profiles                     |
+| Retrospective      | Sentiment and trend analysis | Surfaces recurring blockers, tracks team health metrics, and quantifies improvement over time              |
+| Deployment         | Anomaly detection            | Monitors releases in real time, catches regressions, and triggers automated rollbacks                      |
 
 ## AI-powered testing and quality assurance
 
@@ -44,11 +44,11 @@ Technology professionals should keep several principles in mind:
 
 Organizations typically adopt AI within agile in stages, progressing from lightweight tooling to deeply embedded intelligence:
 
-| Stage | Characteristics | Example Tools and Techniques |
-|---|---|---|
-| Assisted | Individual developers use AI code assistants; no formal team integration | Code completion plugins, AI-powered linters |
-| Integrated | AI tools are part of the team's CI/CD pipeline and planning workflow | Automated test generation in pipelines, predictive sprint analytics dashboards |
-| Adaptive | AI continuously learns from the team's data and adjusts recommendations | Self-tuning estimation models, automated retrospective insights, dynamic backlog prioritization |
+| Stage      | Characteristics                                                          | Example Tools and Techniques                                                                    |
+| ---------- | ------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------- |
+| Assisted   | Individual developers use AI code assistants; no formal team integration | Code completion plugins, AI-powered linters                                                     |
+| Integrated | AI tools are part of the team's CI/CD pipeline and planning workflow     | Automated test generation in pipelines, predictive sprint analytics dashboards                  |
+| Adaptive   | AI continuously learns from the team's data and adjusts recommendations  | Self-tuning estimation models, automated retrospective insights, dynamic backlog prioritization |
 
 Most teams benefit from starting at the assisted stage, proving value with low-risk tools, and then expanding AI integration as confidence and data maturity grow. Attempting to jump directly to the adaptive stage without foundational practices in place often leads to tool abandonment and team frustration.
 
@@ -64,7 +64,7 @@ Integrating AI into agile workflows is not without friction. Technology professi
 
 ## Related
 
-Related topics to explore next include agile software development methodology for foundational agile concepts, test-driven development and behavior-driven development for testing practices that pair well with AI-augmented QA, continuous integration and continuous delivery for the pipeline infrastructure that AI tools plug into, machine learning accuracy and machine learning performance metrics for understanding how to evaluate AI model quality, and natural language processing for the technology behind AI-powered requirement analysis and user story generation.
+Related topics to explore next include agile software development methodology for foundational agile concepts, test-driven development (TDD) and behavior-driven development (BDD) and specification-driven development (SDD) for testing practices that pair well with AI-augmented QA, continuous integration and continuous delivery for the pipeline infrastructure that AI tools plug into, machine learning accuracy and machine learning performance metrics for understanding how to evaluate AI model quality, and natural language processing for the technology behind AI-powered requirement analysis and user story generation.
 
 ## Summary
 
@@ -72,9 +72,9 @@ Artificial intelligence is a force multiplier for agile teams, accelerating feed
 
 ## References
 
-- Beck, K. et al. (2001). *Manifesto for Agile Software Development*. https://agilemanifesto.org/
-- Schwaber, K. & Sutherland, J. (2020). *The Scrum Guide*. https://scrumguides.org/
-- Amershi, S. et al. (2019). "Software Engineering for Machine Learning: A Case Study." *Proceedings of the 41st International Conference on Software Engineering (ICSE)*. IEEE.
-- Feldt, R., de Oliveira Neto, F. G. & Torkar, R. (2018). "Ways of Applying Artificial Intelligence in Software Engineering." *Proceedings of the 6th International Workshop on Realizing Artificial Intelligence Synergies in Software Engineering (RAISE)*. ACM.
-- Kim, G., Humble, J., Debois, P. & Willis, J. (2016). *The DevOps Handbook*. IT Revolution Press.
-- Cohn, M. (2005). *Agile Estimating and Planning*. Prentice Hall.
+- Beck, K. et al. (2001). _Manifesto for Agile Software Development_. https://agilemanifesto.org/
+- Schwaber, K. & Sutherland, J. (2020). _The Scrum Guide_. https://scrumguides.org/
+- Amershi, S. et al. (2019). "Software Engineering for Machine Learning: A Case Study." _Proceedings of the 41st International Conference on Software Engineering (ICSE)_. IEEE.
+- Feldt, R., de Oliveira Neto, F. G. & Torkar, R. (2018). "Ways of Applying Artificial Intelligence in Software Engineering." _Proceedings of the 6th International Workshop on Realizing Artificial Intelligence Synergies in Software Engineering (RAISE)_. ACM.
+- Kim, G., Humble, J., Debois, P. & Willis, J. (2016). _The DevOps Handbook_. IT Revolution Press.
+- Cohn, M. (2005). _Agile Estimating and Planning_. Prentice Hall.

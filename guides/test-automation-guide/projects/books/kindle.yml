@@ -4,9 +4,9 @@ edition: 20250714
 summary: >
   Topics include software testing concepts, including unit testing, functional
   testing, integration testing, test-driven development, behavior-driven
-  development, system quality attributes, continuous integration, continuous
-  delivery, and more.
-  
+  development, specification-driven development system quality attributes, 
+  continuous integration, continuous delivery, and more.
+
   The book explains one topic per page, akin to a big glossary of terminology,
   or collection of introductory wiki pages, or an encyclopedia collection of
   summary notes.

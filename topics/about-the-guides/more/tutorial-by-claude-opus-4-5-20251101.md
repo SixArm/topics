@@ -6,14 +6,14 @@ This tutorial explains the SixArm guide collection—a series of professional re
 
 The SixArm guides form an interconnected library covering the full spectrum of technology business and development. These guides are available through Gumroad (for purchase) and GitHub (open source), making them accessible for both individual study and team training.
 
-| Guide | Primary Audience | Core Focus |
-|-------|------------------|------------|
-| Innovation Partnership Guide | Business development, R&D leaders | Cross-organizational collaboration, IP, technology transfer |
-| Startup Business Guide | Founders, entrepreneurs, investors | Pitch decks, PMF, MVP, fundraising |
-| Business Lingo Guide | All professionals | Terminology, soft skills, analysis frameworks |
-| Project Management Guide | PMs, program managers, team leads | PMLC, methodologies, KPIs, change management |
-| UI/UX Design Guide | Designers, product managers | User-centered design, accessibility, prototyping |
-| Software Programming Guide | Developers, architects, engineers | Algorithms, APIs, architectures, DevOps |
+| Guide                        | Primary Audience                   | Core Focus                                                  |
+| ---------------------------- | ---------------------------------- | ----------------------------------------------------------- |
+| Innovation Partnership Guide | Business development, R&D leaders  | Cross-organizational collaboration, IP, technology transfer |
+| Startup Business Guide       | Founders, entrepreneurs, investors | Pitch decks, PMF, MVP, fundraising                          |
+| Business Lingo Guide         | All professionals                  | Terminology, soft skills, analysis frameworks               |
+| Project Management Guide     | PMs, program managers, team leads  | PMLC, methodologies, KPIs, change management                |
+| UI/UX Design Guide           | Designers, product managers        | User-centered design, accessibility, prototyping            |
+| Software Programming Guide   | Developers, architects, engineers  | Algorithms, APIs, architectures, DevOps                     |
 
 ## Innovation Partnership Guide
 
@@ -93,13 +93,13 @@ This guide covers methodologies, frameworks, and practices for leading projects,
 
 **Methodology Comparison:**
 
-| Methodology | Focus | Best For |
-|-------------|-------|----------|
-| Agile | Iterative delivery, flexibility | Software development, uncertain requirements |
-| Lean | Waste elimination, value streams | Manufacturing, process optimization |
-| Kanban | Visual workflow, continuous flow | Operations, support teams |
-| Scrum | Sprints, defined roles | Product development teams |
-| Six Sigma | Quality, defect reduction | Manufacturing, process improvement |
+| Methodology | Focus                            | Best For                                     |
+| ----------- | -------------------------------- | -------------------------------------------- |
+| Agile       | Iterative delivery, flexibility  | Software development, uncertain requirements |
+| Lean        | Waste elimination, value streams | Manufacturing, process optimization          |
+| Kanban      | Visual workflow, continuous flow | Operations, support teams                    |
+| Scrum       | Sprints, defined roles           | Product development teams                    |
+| Six Sigma   | Quality, defect reduction        | Manufacturing, process improvement           |
 
 **Best Suited For:**
 
@@ -126,13 +126,13 @@ This guide covers user interface design and user experience development from res
 
 **Design Artifact Purposes:**
 
-| Artifact | Purpose | When to Use |
-|----------|---------|-------------|
-| Persona | Represent target user types | Early discovery, alignment |
-| Journey Map | Visualize user experience over time | Understanding pain points |
-| Wireframe | Low-fidelity structure | Early layout decisions |
-| Mockup | High-fidelity visual design | Stakeholder approval, handoff |
-| Prototype | Interactive simulation | User testing, validation |
+| Artifact    | Purpose                             | When to Use                   |
+| ----------- | ----------------------------------- | ----------------------------- |
+| Persona     | Represent target user types         | Early discovery, alignment    |
+| Journey Map | Visualize user experience over time | Understanding pain points     |
+| Wireframe   | Low-fidelity structure              | Early layout decisions        |
+| Mockup      | High-fidelity visual design         | Stakeholder approval, handoff |
+| Prototype   | Interactive simulation              | User testing, validation      |
 
 **Best Suited For:**
 
@@ -153,18 +153,18 @@ This guide provides technical depth for developers, architects, and engineers ac
 - **APIs and SDKs** — Building and consuming software interfaces
 - **Architectures** — Service-oriented (SOA), Event-Driven (EDA), REST
 - **Processing Models** — Asynchronous, parallel, and concurrent processing
-- **Development Practices** — Test-Driven Development (TDD), Behavior-Driven Development (BDD)
+- **Development Practices** — Test-Driven Development (TDD), Behavior-Driven Development (BDD), Specification-Driven Development (SDD)
 - **DevOps** — Continuous integration, deployment, and DORA metrics
 - **Security** — Attack vectors and mitigation strategies
 - **Languages** — Markup, query, and modeling languages
 
 **Development Methodology Comparison:**
 
-| Approach | Focus | Output |
-|----------|-------|--------|
-| TDD | Tests first, code second | Reliable, testable code |
-| BDD | Behavior specifications | Business-aligned features |
-| DDD | Domain modeling | Software matching business concepts |
+| Approach | Focus                    | Output                              |
+| -------- | ------------------------ | ----------------------------------- |
+| TDD      | Tests first, code second | Reliable, testable code             |
+| BDD      | Behavior specifications  | Business-aligned features           |
+| DDD      | Domain modeling          | Software matching business concepts |
 
 **Best Suited For:**
 

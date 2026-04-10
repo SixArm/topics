@@ -13,6 +13,7 @@ architecture-astronaut
 assert
 bayes-theorem
 behavior-driven-development
+specification-driven-development
 benchmark-testing
 black-box-testing
 blameless-retrospective

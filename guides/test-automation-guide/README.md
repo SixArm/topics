@@ -26,8 +26,9 @@ Test Automation Guide: this book explains one topic per page, like a big glossar
 ### [What is test automation?](topics/what-is-test-automation)
 
 - [How to learn test automation?](topics/how-to-learn-test-automation)
-- [Test-driven development (TDD)](topics/test-driven-development)
-- [Behavior-driven development (BDD)](topics/behavior-driven-development)
+- [Test-Driven Development (TDD)](topics/test-driven-development)
+- [Behavior-Driven Development (BDD)](topics/behavior-driven-development)
+- [Specification-Driven Development (SDD)](topics/specification-driven-development)
 - [Shift-left testing](topics/shift-left-testing)
 - [Test automation and artificial intelligence](topics/test-automation-and-artificial-intelligence)
 

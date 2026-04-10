@@ -12,12 +12,12 @@ The convergence of Agile and AI represents one of the most significant shifts in
 
 ### Key Challenges of AI in Agile
 
-| Challenge | Description | Agile Adaptation |
-|-----------|-------------|------------------|
-| Uncertainty in outcomes | AI models may not achieve expected accuracy | Use spike sprints for experimentation |
-| Long training cycles | Model training can exceed sprint duration | Break work into data prep, training, and evaluation phases |
-| Data dependencies | Quality data acquisition is unpredictable | Treat data pipelines as first-class backlog items |
-| Non-deterministic results | Same code can produce different outputs | Define acceptance criteria around ranges, not absolutes |
+| Challenge                 | Description                                 | Agile Adaptation                                           |
+| ------------------------- | ------------------------------------------- | ---------------------------------------------------------- |
+| Uncertainty in outcomes   | AI models may not achieve expected accuracy | Use spike sprints for experimentation                      |
+| Long training cycles      | Model training can exceed sprint duration   | Break work into data prep, training, and evaluation phases |
+| Data dependencies         | Quality data acquisition is unpredictable   | Treat data pipelines as first-class backlog items          |
+| Non-deterministic results | Same code can produce different outputs     | Define acceptance criteria around ranges, not absolutes    |
 
 ### Best Practices
 
@@ -39,13 +39,13 @@ Product management and Agile share a natural affinity: both prioritize customer 
 
 ### Product Manager Responsibilities in Agile
 
-| Traditional Product Management | Agile Product Management |
-|-------------------------------|-------------------------|
-| Detailed upfront specifications | Emergent requirements through collaboration |
+| Traditional Product Management      | Agile Product Management                       |
+| ----------------------------------- | ---------------------------------------------- |
+| Detailed upfront specifications     | Emergent requirements through collaboration    |
 | Long-term roadmaps with fixed dates | Vision-driven roadmaps with flexible timelines |
-| Gatekeeper of requirements | Facilitator of discovery |
-| Annual planning cycles | Continuous prioritization |
-| Success measured at launch | Success measured through ongoing metrics |
+| Gatekeeper of requirements          | Facilitator of discovery                       |
+| Annual planning cycles              | Continuous prioritization                      |
+| Success measured at launch          | Success measured through ongoing metrics       |
 
 ### The Product Owner Role
 
@@ -73,13 +73,13 @@ Programme management coordinates multiple related projects toward strategic obje
 
 ### Scaling Frameworks Comparison
 
-| Framework | Team Size | Key Characteristics | Best For |
-|-----------|-----------|---------------------|----------|
-| SAFe (Scaled Agile Framework) | 50-500+ | Structured, role-heavy, quarterly planning | Large enterprises with compliance needs |
-| LeSS (Large-Scale Scrum) | 10-50 teams | Minimal roles, emphasizes Scrum purity | Organizations committed to Scrum |
-| Spotify Model | Varies | Squads, tribes, chapters, guilds | Engineering-centric cultures |
-| Nexus | 3-9 teams | Integration team, unified backlog | Single product with multiple teams |
-| Disciplined Agile | Varies | Toolkit approach, context-sensitive | Organizations wanting flexibility |
+| Framework                     | Team Size   | Key Characteristics                        | Best For                                |
+| ----------------------------- | ----------- | ------------------------------------------ | --------------------------------------- |
+| SAFe (Scaled Agile Framework) | 50-500+     | Structured, role-heavy, quarterly planning | Large enterprises with compliance needs |
+| LeSS (Large-Scale Scrum)      | 10-50 teams | Minimal roles, emphasizes Scrum purity     | Organizations committed to Scrum        |
+| Spotify Model                 | Varies      | Squads, tribes, chapters, guilds           | Engineering-centric cultures            |
+| Nexus                         | 3-9 teams   | Integration team, unified backlog          | Single product with multiple teams      |
+| Disciplined Agile             | Varies      | Toolkit approach, context-sensitive        | Organizations wanting flexibility       |
 
 ### Programme-Level Ceremonies
 
@@ -106,12 +106,12 @@ Integrating design practice with Agile development requires rethinking tradition
 
 ### Design and Development Timing
 
-| Approach | Description | Trade-offs |
-|----------|-------------|------------|
-| Dual-track Agile | Discovery and delivery run in parallel tracks | Requires mature team; risk of design-dev disconnect |
-| Design sprints ahead | Designers work one sprint ahead of developers | Clear handoffs; may create design debt |
-| Embedded design | Designers work within sprint on current stories | Tight collaboration; designers may become blockers |
-| Lean UX | Minimal upfront design, rapid prototyping in sprint | Fast feedback; may produce inconsistent design |
+| Approach             | Description                                         | Trade-offs                                          |
+| -------------------- | --------------------------------------------------- | --------------------------------------------------- |
+| Dual-track Agile     | Discovery and delivery run in parallel tracks       | Requires mature team; risk of design-dev disconnect |
+| Design sprints ahead | Designers work one sprint ahead of developers       | Clear handoffs; may create design debt              |
+| Embedded design      | Designers work within sprint on current stories     | Tight collaboration; designers may become blockers  |
+| Lean UX              | Minimal upfront design, rapid prototyping in sprint | Fast feedback; may produce inconsistent design      |
 
 ### UX Research in Sprints
 
@@ -149,17 +149,18 @@ Test automation is not optional in Agile—it is foundational. Without automated
 
 The testing pyramid guides investment in different test types:
 
-| Test Type | Speed | Cost | Scope | Recommended Coverage |
-|-----------|-------|------|-------|---------------------|
-| Unit tests | Fastest | Lowest | Single function/class | 70-80% of test suite |
-| Integration tests | Fast | Low | Component interactions | 15-20% of test suite |
-| End-to-end tests | Slow | High | Full user journeys | 5-10% of test suite |
+| Test Type          | Speed   | Cost    | Scope                  | Recommended Coverage        |
+| ------------------ | ------- | ------- | ---------------------- | --------------------------- |
+| Unit tests         | Fastest | Lowest  | Single function/class  | 70-80% of test suite        |
+| Integration tests  | Fast    | Low     | Component interactions | 15-20% of test suite        |
+| End-to-end tests   | Slow    | High    | Full user journeys     | 5-10% of test suite         |
 | Manual exploratory | Slowest | Highest | Edge cases, UX quality | Targeted, not comprehensive |
 
 ### Test Automation Practices
 
 - **Test-driven development (TDD)**: Write tests before code to drive design decisions
 - **Behavior-driven development (BDD)**: Express tests in business language using Given-When-Then
+- **Specification-driven development (BDD)**: Express specs in AI code generation language using Markdown
 - **Continuous integration**: Run automated tests on every commit
 - **Shift-left testing**: Move testing earlier in the development process
 - **Test in production**: Complement pre-production testing with production monitoring
@@ -197,13 +198,13 @@ A robust Definition of Done typically includes:
 
 Effective Agile teams weave these practices together seamlessly:
 
-| Practice Area | Integration Point | Outcome |
-|---------------|-------------------|---------|
-| AI | Sprint planning, experimentation spikes | Data-informed product decisions |
-| Product Management | Backlog refinement, stakeholder reviews | Value-driven prioritization |
-| Programme Management | Cross-team ceremonies, dependency mapping | Organizational alignment |
-| UI/UX Design | Discovery track, design reviews | User-centered solutions |
-| Test Automation | Definition of Done, CI/CD pipeline | Sustainable delivery velocity |
+| Practice Area        | Integration Point                         | Outcome                         |
+| -------------------- | ----------------------------------------- | ------------------------------- |
+| AI                   | Sprint planning, experimentation spikes   | Data-informed product decisions |
+| Product Management   | Backlog refinement, stakeholder reviews   | Value-driven prioritization     |
+| Programme Management | Cross-team ceremonies, dependency mapping | Organizational alignment        |
+| UI/UX Design         | Discovery track, design reviews           | User-centered solutions         |
+| Test Automation      | Definition of Done, CI/CD pipeline        | Sustainable delivery velocity   |
 
 ### Keys to Success
 

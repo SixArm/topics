@@ -10,14 +10,14 @@ Acceptance testing bridges the gap between technical verification and business v
 
 Acceptance testing is broadly divided into several categories, each targeting a different dimension of readiness.
 
-| Type | Focus | Conducted By |
-|------|-------|--------------|
-| User Acceptance Testing (UAT) | Business requirements, workflows, usability | End users, business analysts |
-| Operational Acceptance Testing (OAT) | Backup, recovery, maintenance, administration | Operations and infrastructure teams |
-| Contract Acceptance Testing | Contractual criteria and legal obligations | Client representatives, legal teams |
-| Regulatory Acceptance Testing | Compliance with laws, standards, and regulations | Compliance officers, auditors |
-| Alpha Testing | Early internal validation in a controlled environment | Internal staff, QA teams |
-| Beta Testing | Real-world validation with external users before general release | Selected external users |
+| Type                                 | Focus                                                            | Conducted By                        |
+| ------------------------------------ | ---------------------------------------------------------------- | ----------------------------------- |
+| User Acceptance Testing (UAT)        | Business requirements, workflows, usability                      | End users, business analysts        |
+| Operational Acceptance Testing (OAT) | Backup, recovery, maintenance, administration                    | Operations and infrastructure teams |
+| Contract Acceptance Testing          | Contractual criteria and legal obligations                       | Client representatives, legal teams |
+| Regulatory Acceptance Testing        | Compliance with laws, standards, and regulations                 | Compliance officers, auditors       |
+| Alpha Testing                        | Early internal validation in a controlled environment            | Internal staff, QA teams            |
+| Beta Testing                         | Real-world validation with external users before general release | Selected external users             |
 
 ### Functional vs. Non-Functional Acceptance Testing
 
@@ -52,14 +52,14 @@ This format makes criteria unambiguous, testable, and accessible to both technic
 
 The choice between manual and automated acceptance testing depends on the nature of the system, the testing goals, and the available resources.
 
-| Factor | Manual Testing | Automated Testing |
-|--------|---------------|-------------------|
-| Best suited for | Exploratory testing, usability evaluation, subjective assessments | Regression testing, repeatable scenarios, large test suites |
-| Speed | Slower, limited by human pace | Faster execution once scripts are built |
-| Cost profile | Lower initial cost, higher ongoing cost | Higher initial investment, lower long-term cost |
-| Flexibility | Adapts easily to changing requirements | Requires script maintenance when requirements change |
-| Coverage | Depth over breadth | Breadth over depth |
-| Tooling examples | Manual test case management platforms | Cucumber, FitNesse, Robot Framework, Selenium |
+| Factor           | Manual Testing                                                    | Automated Testing                                           |
+| ---------------- | ----------------------------------------------------------------- | ----------------------------------------------------------- |
+| Best suited for  | Exploratory testing, usability evaluation, subjective assessments | Regression testing, repeatable scenarios, large test suites |
+| Speed            | Slower, limited by human pace                                     | Faster execution once scripts are built                     |
+| Cost profile     | Lower initial cost, higher ongoing cost                           | Higher initial investment, lower long-term cost             |
+| Flexibility      | Adapts easily to changing requirements                            | Requires script maintenance when requirements change        |
+| Coverage         | Depth over breadth                                                | Breadth over depth                                          |
+| Tooling examples | Manual test case management platforms                             | Cucumber, FitNesse, Robot Framework, Selenium               |
 
 In practice, most teams use a combination: automated tests handle repetitive regression checks, while manual testing covers usability, exploratory scenarios, and subjective assessments that are difficult to script.
 
@@ -77,6 +77,7 @@ In practice, most teams use a combination: automated tests handle repetitive reg
 - Keep acceptance criteria atomic, measurable, and independent so that each criterion can be verified in isolation.
 - Automate acceptance tests where feasible to enable continuous validation as the system evolves.
 - Use behavior-driven development (BDD) practices to align acceptance criteria with executable specifications.
+- Use specification-driven development (BDD) practices to align AI criteria with executable specifications.
 - Maintain traceability between requirements, acceptance criteria, and test cases so that coverage gaps are visible.
 - Conduct acceptance testing in an environment that faithfully represents production conditions.
 - Document test results and obtain explicit sign-off to create a clear audit trail.
@@ -85,18 +86,18 @@ In practice, most teams use a combination: automated tests handle repetitive reg
 
 Acceptance testing occurs after integration testing and system testing have been completed. It is the final testing phase before release.
 
-| Testing Phase | Purpose | Scope |
-|---------------|---------|-------|
-| Unit Testing | Verify individual components in isolation | Single function or module |
-| Integration Testing | Verify interactions between components | Multiple modules working together |
-| System Testing | Verify the complete system against specifications | Entire application |
+| Testing Phase          | Purpose                                                                     | Scope                                      |
+| ---------------------- | --------------------------------------------------------------------------- | ------------------------------------------ |
+| Unit Testing           | Verify individual components in isolation                                   | Single function or module                  |
+| Integration Testing    | Verify interactions between components                                      | Multiple modules working together          |
+| System Testing         | Verify the complete system against specifications                           | Entire application                         |
 | **Acceptance Testing** | **Validate the system against business requirements and user expectations** | **End-to-end from the user's perspective** |
 
 This progression ensures that defects are caught at the appropriate level, with acceptance testing serving as the definitive business validation step.
 
 ## Related
 
-Topics to explore next include user acceptance testing (UAT) as a specialized discipline, behavior-driven development (BDD) and its relationship to acceptance criteria, end-to-end testing strategies, integration testing, system testing, regression testing, test-driven development (TDD), quality assurance processes, software development life cycle methodologies, and compliance testing in regulated industries.
+Topics to explore next include user acceptance testing (UAT) as a specialized discipline, behavior-driven development (BDD) with acce criteria, specification-driven development (SDD) wiDD) with AI code generation, end-to-end testing strategies, integration testing, system testing, regression testing, test-driven development (TDD), quality assurance processes, software development life cycle methodologies, and compliance testing in regulated industries.
 
 ## Summary
 
@@ -104,9 +105,9 @@ Acceptance testing is the definitive validation step that confirms a software sy
 
 ## References
 
-- Myers, G. J., Sandler, C., & Badgett, T. (2011). *The Art of Software Testing* (3rd ed.). Wiley.
-- Crispin, L., & Gregory, J. (2009). *Agile Testing: A Practical Guide for Testers and Agile Teams*. Addison-Wesley.
-- IEEE Standard 829-2008. *IEEE Standard for Software and System Test Documentation*. IEEE Computer Society.
-- International Software Testing Qualifications Board (ISTQB). *Foundation Level Syllabus*. https://www.istqb.org
-- Adzic, G. (2011). *Specification by Example: How Successful Teams Deliver the Right Software*. Manning Publications.
-- Humble, J., & Farley, D. (2010). *Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation*. Addison-Wesley.
+- Myers, G. J., Sandler, C., & Badgett, T. (2011). _The Art of Software Testing_ (3rd ed.). Wiley.
+- Crispin, L., & Gregory, J. (2009). _Agile Testing: A Practical Guide for Testers and Agile Teams_. Addison-Wesley.
+- IEEE Standard 829-2008. _IEEE Standard for Software and System Test Documentation_. IEEE Computer Society.
+- International Software Testing Qualifications Board (ISTQB). _Foundation Level Syllabus_. https://www.istqb.org
+- Adzic, G. (2011). _Specification by Example: How Successful Teams Deliver the Right Software_. Manning Publications.
+- Humble, J., & Farley, D. (2010). _Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation_. Addison-Wesley.
