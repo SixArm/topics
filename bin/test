@@ -1,0 +1,62 @@
+#!/bin/sh
+set -euf
+
+## https://github.com/sixarm/unix-shell-script-kit
+
+err() { >&2 printf %s\\n "Error: ${*}"; }
+
+directory_exists_or_err() { test -d "$1" || err "Directory should exist: $1"; }
+file_exists_or_err() { test -f "$1" || err "File should exist: $1"; }
+file_not_empty_or_err() { file_exists_or_err "$1" && test -s "$1" || err "File should be not empty: $1"; }
+symlink_exists_or_err() { test -h "$1" || err "Symlink should exist: $1"; }
+
+## Utilities
+
+repo_setup_exists_or_err() (
+    # dir="$1"
+    file_not_empty_or_err "$1/CITATION.cff"
+    file_not_empty_or_err "$1/CODE_OF_CONDUCT.md"
+    file_not_empty_or_err "$1/LICENSE.md"
+)
+
+ai_exists_or_err() (
+    # dir="$1"
+    directory_exists_or_err "$1"
+    file_not_empty_or_err "$1/index.md"
+    symlink_exists_or_err "$1/README.md"
+    file_not_empty_or_err "$1/AGENTS.md"
+    file_not_empty_or_err "$1/CLAUDE.md"
+    file_not_empty_or_err "$1/plan.md"
+    file_not_empty_or_err "$1/tasks.md"
+)
+
+## Main
+
+top="$(git rev-parse --show-toplevel)"
+
+## Test repository
+repo_setup_exists_or_err "$top"
+ai_exists_or_err "$top"
+
+## Test components
+"$top/bin/list-components" |
+while read -r component; do
+    ai_exists_or_err "$top/components/$component"
+done
+
+top="$(git rev-parse --show-toplevel)"
+"$top/bin/guides" | 
+while read guide; do
+    dir="$top/guides/$guide"
+    file_exists_or_err "$dir/.git-subtree-push"
+    file_exists_or_err "$dir/index.md" && symlink_exists_or_err "$dir/README.md"
+    file_exists_or_err "$dir/index.jpg" && symlink_exists_or_err "$dir/README.jpg"
+    file_exists_or_err "$dir/CITATION.cff"
+    file_exists_or_err "$dir/CODE_OF_CONDUCT.cff"
+    file_exists_or_err "$dir/cspell.json"
+    file_exists_or_err "$dir/assets/images/cover/1600x2500.jpg"
+    file_exists_or_err "$dir/assets/images/splash/1920x960.jpg"
+    file_exists_or_err "$dir/$guide.pdf"
+    file_exists_or_err "$dir/$guide.epub"
+    file_exists_or_err "$dir/todo/index.md" && symlink_exists_or_err "$dir/todo/README.md"
+done
