@@ -96,6 +96,60 @@ vet_topic() {
     return 0
 }
 
+# create_topic_index
+# 
+# Use Claude to create the topic index page.
+# 
+# This function saves the output to a specific file name,
+# currently "index.md".
+# 
+# This function then symlinks the file to "README.md" because these
+# links help the file render via typical webserver and typical GitHub.
+#
+create_topic_index() {
+    #echo "create_topic_index $1"
+
+    # Set inputs
+    topic="$1"
+    topic_dir="$top/topics/$topic"
+    topic_file="$topic_dir/seed.md"
+    topic_head=$(head -1 "$topic_file")
+
+    # Set target directory, target file, etc.
+    target_dir="$topic_dir"
+    target_file="$target_dir/index.md"
+    
+    # Set filesystem
+    mkdir -p "$target_dir"
+    if [ -f "$target_file" ]; then continue; fi
+
+    # Create a specific prompt that generates the phrasing that we prefer.
+    # We ensure claude prints to stdout, and doesn't try to write a file.
+    prompt=$(cat<<-EOF
+Create summary explaining topic **$topic** for a technology professional.
+Read input file "$topic_dir/seed.md"
+1. H1 title "$topic_head".
+2. Format body text using paragraphs.
+No body text headers
+Less than 270 words
+Be decisive. 
+No ASCII diagrams. No source code. No emoji.
+Print the markdown directly. Do not modify files. Do not use the Write tool.
+EOF
+    )
+    echo "create_topic_index $topic $target_file"
+    claude \
+    --print "$prompt" \
+    --add-dir "$topic_dir" \
+    --add-dir "$target_dir" \
+    --model "$model" \
+    --allowedTools "Read" \
+    --no-session-persistence \
+    </dev/null \
+    >>"$target_file"
+    ln -sfn "$target_file" "$target_dir/README.md"
+}
+
 # create_topic_tutorial
 # 
 # Use Claude to create a comprehensive topic tutorial.
@@ -231,6 +285,7 @@ main() {
     topics |
     while read -r topic; do
         vet_topic "$topic" || continue
+        create_topic_index "$topic"
         create_topic_tutorial "$topic"
         #create_topic_quiz "$topic"
     done

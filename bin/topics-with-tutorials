@@ -1,10 +1,10 @@
 #!/bin/sh
 set -euf
-top="$1"
+top="$(git rev-parse --show-toplevel)"
 "$top/bin/topics" |
 while read topic; do
     dir="$top/topics/$topic/"
-    if [ -d "$dir" ] && [ -f "$top/topics/$topic/index.md" ] && [ -f "$top/topics/$topic/tutorial-by-claude-opus-4-5.md" ]; then
+    if [ -d "$dir" ] && [ -f "$dir/index.md" ] && [ -f "$dir/tutorial-by-claude-opus-4-5.md" ]; then
         echo "$topic"
     fi
 done
