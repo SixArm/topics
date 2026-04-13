@@ -1,0 +1,1 @@
+/Users/jph/git/sixarm/topics/topics/alivecor-kardia-12l/index.md
