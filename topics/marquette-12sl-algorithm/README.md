@@ -1,0 +1,1 @@
+/Users/jph/git/sixarm/topics/topics/marquette-12sl-algorithm/index.md

@@ -1,0 +1,9 @@
+# Marquette 12SL Algorithm
+
+The Marquette 12SL Algorithm is a clinically validated ECG analysis program developed by GE HealthCare that provides automated measurements and interpretive support for 12-lead resting electrocardiograms. Introduced in 1980, it has become an industry standard for clinical decision support, continuously refined with cardiologist input and validated against extensive gold-standard databases.
+
+The algorithm functions as a second opinion for clinicians, assisting in detecting a range of cardiac conditions. Its Acute Coronary Syndrome tool increases sensitivity for ST-Elevated Myocardial Infarction and acute ischemia by weighing ST elevation alongside reciprocal depression. It applies gender- and age-specific criteria, including dedicated thresholds that improve MI detection sensitivity in women under 60 and pediatric criteria spanning 12 age groups from neonates to adolescents.
+
+For QT analysis, the algorithm measures the QT interval from a median complex using global fiducial points across all 12 leads, reducing noise and producing highly accurate, reproducible QTc values. When paired with the MUSE ECG management system, it performs serial comparison by automatically analyzing current and prior ECGs for the same patient to flag clinically significant changes. Additional capabilities include pace detection, which analyzes artificially paced rhythms at high sampling rates to identify underlying rhythms and paced chambers, and a hookup advisor that uses signal-quality indicators to verify electrode impedance before acquisition.
+
+The algorithm is integrated into GE devices such as the MAC 2000, MAC 600, and PC-based CardioSoft systems, reaching up to 99% accuracy on certain metrics. All computer-generated interpretations are intended as decision-support aids and must be reviewed and confirmed by a qualified physician.
