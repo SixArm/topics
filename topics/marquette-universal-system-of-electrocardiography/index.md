@@ -1,0 +1,11 @@
+# Marquette Universal System of Electrocardiography
+
+The Marquette Universal System of Electrocardiography (MUSE) is a cardiology information system developed by GE HealthCare. It acquires, stores, analyzes, and manages 12-lead electrocardiogram (ECG) data across hospital departments. The system serves as a centralized digital repository for electrocardiograph, stress test, and catheterization lab reports, consolidating cardiac diagnostic data that would otherwise be scattered across disparate clinical systems.
+
+MUSE integrates with the Marquette 12SL interpretation algorithm, which provides automated ECG analysis with gender-specific and age-specific criteria for both adult and pediatric patients. This algorithm increases sensitivity for detecting acute myocardial infarction while reducing false positives, giving clinicians a reliable first-pass interpretation before their own review.
+
+A key capability is serial comparison: the system automatically compares a patient's current ECG against their prior recordings and flags clinically significant changes. This longitudinal view accelerates diagnosis by surfacing subtle trends that a single snapshot would miss. Clinicians can overread and approve the automated interpretations, and the system stores both the original tracing and the physician's final assessment together.
+
+The platform supports 3, 6, 12, and 15-lead ECG configurations and operates across emergency departments, outpatient clinics, and remote monitoring environments. By centralizing records from these diverse sources, MUSE reduces redundant testing and enables any authorized clinician to retrieve a patient's full cardiac history from a single interface.
+
+For technology professionals, MUSE represents a domain-specific data management platform that solves integration, storage, and retrieval challenges common in healthcare IT. It combines real-time signal acquisition with algorithmic analysis and longitudinal data warehousing, all within the regulatory and interoperability constraints of clinical environments. Its architecture reflects the broader pattern of consolidating specialized diagnostic data into unified, query-ready systems that support both operational workflows and clinical decision-making.
