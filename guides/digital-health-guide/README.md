@@ -52,6 +52,41 @@ Digital Health Guide: this book explains one topic per page, like a big glossary
 - [Value Set Authority Center (VSAC)](value-set-authority-center)
 - [United States National Library of Medicine (NLM)](united-states-national-library-of-medicine)
 
+### Heart health
+
+- [Marquette 12SL algorithm](topics/marquette-12sl-algorithm/)
+- [Marquette Universal System of Electrocardiography (MUSE)](topics/marquette-universal-system-of-electrocardiography)
+
+- [ECG QT interval](topics/ecg-qt-interval/)
+- [Holter monitor](topics/holter-monitor/)
+
+- [Heart rate variability (HRV)](topics/heart-rate-variability/)
+- [Heart rate variability (HRV) metrics](topics/heart-rate-variability-metrics/)
+
+- [Electrocardiogram](topics/electrocardiogram/)
+- [Electrocardiogram data file formats](topics/electrocardiogram-data-file-formats/)
+
+- [Electrocardiography](topics/electrocardiography/)
+- [Photoplethysmography](topics/photoplethysmography/)
+- [Electrocardiography vs photoplethysmography](topics/electrocardiography-vs-photoplethysmography)
+
+### [GE HealthCare](topics/ge-healthcare/)
+
+- [GE HealthCare MUSE NX](topics/ge-healthcare-muse-nx)
+- [GE HealthCare MAC 5 Resting ECG](topics/ge-healthcare-mac-5-resting-ecg/)
+- [GE HealthCare Venue Sprint Ultrasound](topics/ge-healthcare-venue-sprint-ultrasound)
+
+### [Spacelabs](topics/spacelabs/)
+
+- [Spacelabs Eclipse Mini](topics/spacelabs-eclipse-mini/)
+- [Spacelabs Eclipse Pro](topics/spacelabs-eclipse-pro/)
+- [Spacelabs LifeScreen Pro](topics/spalifescreen-pro/)
+
+### [AliveCor](topics/alivecor/)
+
+- [AliveCor KardiaMobile 6L](topics/alivecor-kardiamobile-6l/)
+- [AliveCor Kardia 12L](topics/alivecor-kardia-12l/)
+
 ### TODO
 
 - SNOMED CT
