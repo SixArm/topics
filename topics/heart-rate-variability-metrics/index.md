@@ -1,0 +1,11 @@
+# Heart rate variability metrics
+
+Heart rate variability (HRV) metrics quantify the variation in time intervals between consecutive heartbeats. These metrics are derived from electrocardiogram (ECG) or photoplethysmography (PPG) data and serve as indicators of autonomic nervous system function, stress levels, and cardiovascular health. HRV analysis spans three primary domains: time-domain, frequency-domain, and non-linear methods.
+
+Time-domain metrics are the most straightforward. SDNN measures the standard deviation of normal-to-normal (NN) intervals, reflecting overall HRV. RMSSD calculates the root mean square of successive differences between heartbeats, capturing short-term variability linked to parasympathetic activity. PNN50 reports the percentage of successive intervals differing by more than 50 milliseconds. SDSD measures the standard deviation of successive differences. Together, these metrics provide a statistical profile of beat-to-beat variation.
+
+Frequency-domain metrics decompose HRV into spectral components using methods such as Welch's periodogram. Very low frequency (VLF, below 0.04 Hz) reflects thermoregulation and hormonal cycles. Low frequency (LF, 0.04-0.15 Hz) represents a mix of sympathetic and parasympathetic influence. High frequency (HF, 0.15-0.4 Hz) corresponds primarily to parasympathetic (vagal) tone and respiratory sinus arrhythmia. The LF/HF ratio is commonly used as an estimate of sympathovagal balance, though its interpretation remains debated.
+
+Non-linear and geometric methods capture complexity and regularity in heart rhythm patterns. The Triangular Index and TINN (triangular interpolation of the NN interval histogram) estimate overall HRV from the shape of the interval distribution. Sample entropy (SampEn) quantifies signal regularity, where lower values indicate more predictable patterns. Detrended fluctuation analysis (DFA) assesses fractal correlation properties across timescales. Lempel-Ziv complexity (LZC) measures the randomness of the signal.
+
+Preprocessing steps such as filtering, denoising, and peak detection are essential for reliable metric computation. Modern implementations support real-time windowed analysis, making HRV metrics practical for wearable devices and embedded health-monitoring systems.
