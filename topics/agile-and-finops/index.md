@@ -1,0 +1,9 @@
+# Agile and finops
+
+Agile and FinOps (Cloud Financial Operations) complement each other as essential disciplines in modern enterprise technology. While Agile focuses on speed of development and DevOps focuses on speed of delivery, FinOps ensures that this velocity does not lead to uncontrolled cloud costs. Together they form a balanced approach to building software quickly, delivering reliably, and spending responsibly.
+
+The relationship between Agile and FinOps is built on decentralized accountability. In Agile environments, developers have the power to provision cloud resources instantly. FinOps provides the framework to ensure they do so with cost awareness. This pairing works because both disciplines share structural similarities: FinOps follows a cyclical lifecycle of Inform, Optimize, and Operate that mirrors Agile's iterative Plan, Do, Check, Act loops.
+
+Integrating FinOps into Agile practice means treating cost as a first-class metric. Just as a Definition of Done might include testing and documentation, an Agile FinOps team integrates cost-efficiency into the sprint backlog. Cross-functional collaboration is central to both disciplines. FinOps breaks down silos between Finance, Engineering, and Product teams, much like Agile unites developers and business stakeholders.
+
+The combination delivers three key benefits. First, balanced velocity ensures that rapid feature releases remain financially sustainable. Second, data-driven decisions emerge as teams use real-time cloud spend data to prioritize the product roadmap based on return on investment rather than functionality alone. Third, shared responsibility moves cost management away from a central finance function and toward the engineering teams who actually trigger the spend. This alignment creates a culture where speed and fiscal discipline reinforce each other.
