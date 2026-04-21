@@ -1,0 +1,9 @@
+# Who is the customer and what do they want?
+
+"Who is the customer and what do they want?" is a foundational question in agile development that forces teams to clarify who they are building for and what outcomes matter most. The answer is rarely simple because most products serve multiple customer types with overlapping but distinct needs.
+
+Agile distinguishes several customer roles. The client is the paying entity that funds the work. The end user is the person who actually interacts with the software to accomplish tasks, and their satisfaction ultimately determines product success. The Product Owner acts as a proxy within the team, representing the interests of all stakeholders and translating business needs into prioritized work. Internal stakeholders such as support staff or operations teams are also customers whose needs must be addressed.
+
+What these customers want converges on outcomes over outputs. They seek business value through features that solve real problems and provide competitive advantage. They want continuous delivery in small, frequent increments rather than waiting for a single large release. They expect collaboration, wanting to participate in sprint reviews and priority discussions. They demand flexibility to change direction as they learn. And they require quality and reliability in the delivered software.
+
+Agile teams use specific techniques to identify and articulate these needs. User stories capture requirements in the format "As a persona, I want to, so that" to preserve the who, what, and why. User personas create empathy with real users. User story mapping visualizes the customer journey to identify the most critical paths through the product. Together, these tools keep the team focused on delivering what customers actually need rather than what the team assumes they want.
