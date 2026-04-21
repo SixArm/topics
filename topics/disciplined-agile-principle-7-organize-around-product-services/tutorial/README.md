@@ -1,0 +1,1 @@
+/Users/jph/git/sixarm/topics/topics/disciplined-agile-principle-7-organize-around-product-services/tutorial/claude-opus-4-6.md
