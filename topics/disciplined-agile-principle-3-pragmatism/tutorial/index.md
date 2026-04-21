@@ -1,0 +1,1 @@
+/Users/jph/git/sixarm/topics/topics/disciplined-agile-principle-3-pragmatism/tutorial/claude-opus-4-6.md
