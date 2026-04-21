@@ -1,0 +1,9 @@
+# Agile and risk management
+
+Agile risk management treats uncertainty as a continuous concern addressed throughout a project's lifecycle, not a one-time upfront exercise. Instead of relying on heavy documentation and fixed plans, agile embeds risk identification and response directly into daily practices and ceremonies, making risk management lightweight, visible, and iterative.
+
+Agile frameworks naturally de-risk projects through built-in feedback loops. Customer interactions help teams brainstorm immediate risks and assess delivery confidence. Continuous visibility through standups surfaces impediments and blockers early. Frequent demonstrations of working software minimize the risk of building the wrong product. Retrospectives allow teams to reflect on how risks were handled and improve their approach. Technical spikes provide timeboxed investigations into specific uncertainties before full implementation begins.
+
+For larger organizations, the ROAM model provides a structured way to categorize risks during planning sessions. Risks are classified as Resolved (no longer a threat), Owned (assigned to a specific person for ongoing management), Accepted (acknowledged with contingencies built in), or Mitigated (a plan developed to reduce likelihood or impact). This keeps risk conversations focused and actionable rather than abstract.
+
+Teams maintain visibility into project health using lightweight visual tools. A risk-adjusted priority queue ranks user stories by both business value and associated risk. A risk matrix scores threats on probability and impact. RAID logs provide a centralized record of Risks, Assumptions, Issues, and Dependencies. These tools keep risk management proportional to project complexity without introducing bureaucratic overhead that slows delivery.
