@@ -1,0 +1,1 @@
+/Users/jph/git/sixarm/topics/topics/disciplined-agile-principle-5-choice-is-good/index.md
