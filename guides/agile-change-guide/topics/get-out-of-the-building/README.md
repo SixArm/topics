@@ -1,0 +1,1 @@
+/Users/jph/git/sixarm/topics/topics/get-out-of-the-building/index.md

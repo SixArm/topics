@@ -1,0 +1,1 @@
+/Users/jph/git/sixarm/topics/topics/see-things-in-the-present-even-if-they-are-in-the-future/tutorial/claude-opus-4-6.md

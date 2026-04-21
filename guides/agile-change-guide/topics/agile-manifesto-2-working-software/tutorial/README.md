@@ -1,0 +1,1 @@
+/Users/jph/git/sixarm/topics/topics/agile-manifesto-2-working-software/tutorial/claude-opus-4-6.md

@@ -1,0 +1,1 @@
+/Users/jph/git/sixarm/topics/topics/perfect-is-the-enemy-of-good/tutorial/claude-opus-4-6.md

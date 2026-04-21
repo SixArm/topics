@@ -1,0 +1,1 @@
+/Users/jph/git/sixarm/topics/topics/agile-manifesto-3-customer-collaboration/tutorial/claude-opus-4-6.md

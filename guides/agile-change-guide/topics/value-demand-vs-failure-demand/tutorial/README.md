@@ -1,0 +1,1 @@
+/Users/jph/git/sixarm/topics/topics/value-demand-vs-failure-demand/tutorial/claude-opus-4-6.md

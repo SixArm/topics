@@ -1,0 +1,9 @@
+# Agile with Large-Scale Scrum (LeSS)
+
+Large-Scale Scrum (LeSS) is an agile scaling framework designed to extend Scrum principles and practices to multiple teams working on a single product. LeSS maintains the simplicity and empirical nature of Scrum while addressing the complexities of coordinating larger development efforts.
+
+The framework operates on the principle of "more with less," emphasizing the elimination of unnecessary organizational complexity rather than adding new roles, artifacts, or ceremonies. LeSS preserves the core Scrum roles of Product Owner, Scrum Master, and Development Team, but scales them across multiple teams working from a single Product Backlog. This approach ensures unified product vision and prioritization while allowing teams to maintain their autonomy and self-organization.
+
+LeSS comes in two variants: Basic LeSS for 2-8 teams and LeSS Huge for larger implementations with potentially hundreds of developers. The framework introduces minimal additional practices, such as Overall Retrospectives and Scrum of Scrums meetings, to facilitate coordination and learning across teams. Sprint Planning is conducted in two parts, with all teams participating in Part 1 to understand priorities and coordinating in Part 2 for detailed planning.
+
+Key principles include customer-centricity, transparency, and continuous improvement at scale. LeSS emphasizes feature teams over component teams, promoting cross-functional capabilities and reducing dependencies. The framework also advocates for organizational redesign, recognizing that scaling agile practices often requires changes to existing hierarchical structures and management approaches. By focusing on descaling organizational complexity rather than adding process overhead, LeSS aims to maintain agility while enabling coordinated delivery across larger product development initiatives.

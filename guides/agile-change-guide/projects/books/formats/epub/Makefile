@@ -1,9 +1,11 @@
 top = $(shell git rev-parse --show-toplevel)
-key = $(shell basename ${top})
+sub = $(shell pwd | sed 's/\/projects\/books\/formats\/.*//' )
+key = $(shell basename "${sub}")
 
 links=tmp/links.md
 bound=tmp/bound.md
-output=${top}/${key}.epub
+index=${sub}/index.md
+output=${sub}/${key}.epub
 pandoc=pandoc-from-markdown-to-epub
 
 all: ${output}
@@ -17,7 +19,7 @@ open:
 	open "${output}"
 
 ${output}:
-	"${top}/bin/sync-topics"
-	"${top}/bin/links" > "${links}"
-	book-binder start.yml "${links}" "${bound}" "${top}/topics"
+#	"${top}/bin/sync-topics-to-guides"
+	"${top}/bin/parse-contents-file-to-markdown-links" "${index}" > "${links}"
+	book-binder start.yml "${links}" "${bound}" "${sub}/topics"
 	${pandoc} "${bound}" -o "${output}"

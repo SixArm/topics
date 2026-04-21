@@ -1,0 +1,1 @@
+/Users/jph/git/sixarm/topics/topics/definition-of-technical-value/tutorial/claude-opus-4-6.md

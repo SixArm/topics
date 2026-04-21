@@ -1,0 +1,1 @@
+./topics/agile-principle-10-simplicity/more/tutorial-by-claude-opus-4-5-520251101.md

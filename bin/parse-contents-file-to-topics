@@ -1,0 +1,5 @@
+#!/bin/sh
+set -euf
+file="$1"
+grep '(topics/' "$file" |
+sed 's/.*(topics\///; s/).*//;'

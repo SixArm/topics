@@ -81,7 +81,7 @@ Agile Change Guide: this book explains one topic per page, like a big glossary, 
 - [Disciplined Agile principle 7: Organize around products/services](topics/disciplined-agile-principle-7-organize-around-products-services)
 - [Disciplined Agile principle 8: Enterprise awareness](topics/disciplined-agile-principle-8-enterprise-awareness)
 - [Disciplined Agile promises](topics/disciplined-agile-promises)
-- [Disciplined Agile guidelines](topics/disciplined-agile-guidlines)
+- [Disciplined Agile guidelines](topics/disciplined-agile-guidelines)
 
 ### [Scaled Agile Framework (SAFe) principles](topics/scaled-agile-framework-principles)
 
@@ -168,7 +168,7 @@ For much more, see our [Test Automation Guide](https://github.com/sixarm/test-au
 
 - [Agile and product management](topics/agile-and-product-management)
 - [Agile and programme management](topics/agile-and-programme-management)
-- [Agile and enterprise change management](topics/agile-and-change-management)
+- [Agile and enterprise change management](topics/agile-and-enterprise-change-management)
 - [Agile and enterprise project portfolio management (EPPM)](topics/agile-and-enterprise-project-portfolio-management)
 - [Agile and resource management](topics/agile-and-resource-management)
 - [Agile and risk management](topics/agile-and-risk-management)
@@ -247,10 +247,10 @@ For much more, see our [Test Automation Guide](https://github.com/sixarm/test-au
 - [Agile without retrospectives](topics/agile-without-retrospectives)
 - [Agile without Scrum](topics/agile-without-scrum)
 
-### [Volatile Uncertain Complex Ambiguous (VUCA)](volatile-uncertain-complex-ambiguous)
+### [Volatile Uncertain Complex Ambiguous (VUCA)](topics/volatile-uncertain-complex-ambiguous)
 
-- [Volatile Uncertain Complex Ambiguous (VUCA) Prime](volatile-uncertain-complex-ambiguous-prime)
-- [Volatile Uncertain Complex Ambiguous (VUCA) Themes](volatile-uncertain-complex-ambiguous-themes)
+- [Volatile Uncertain Complex Ambiguous (VUCA) Prime](topics/volatile-uncertain-complex-ambiguous-prime)
+- [Volatile Uncertain Complex Ambiguous (VUCA) Themes](topics/volatile-uncertain-complex-ambiguous-themes)
 
 ### [Silicon Valley Product Group (SVPG)](topics/silicon-valley-product-group)
 

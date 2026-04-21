@@ -1,0 +1,7 @@
+# Agile vs Scrumban
+
+The primary difference between Agile and Scrumban lies in scope and flexibility. Agile serves as the overarching philosophy that guides multiple methodologies, while Scrumban is a specific implementation that addresses particular team needs. Agile methodologies generally provide more prescriptive structures, whereas Scrumban offers greater adaptability for teams transitioning from Scrum or those requiring more fluid workflows.
+
+Scrumban represents a hybrid approach that combines elements of Scrum's structured framework with Kanban's flexible workflow management. It emerged as teams sought to maintain Scrum's beneficial ceremonies and roles while incorporating Kanban's continuous flow and visual management capabilities. Scrumban typically retains Scrum's sprints and retrospectives but adopts Kanban's pull-based system and work-in-progress limits, creating a more adaptable framework than traditional Scrum.
+
+Teams often choose Scrumban when they need more flexibility than Scrum provides but want more structure than pure Kanban offers. It works particularly well for maintenance teams, support organizations, or projects with unpredictable requirements. The choice between broader Agile methodologies and Scrumban ultimately depends on team maturity, project characteristics, and organizational constraints, with Scrumban serving as an excellent middle ground for teams seeking evolutionary rather than revolutionary change.

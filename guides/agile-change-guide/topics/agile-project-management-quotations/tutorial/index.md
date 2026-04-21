@@ -1,0 +1,1 @@
+/Users/jph/git/sixarm/topics/topics/agile-project-management-quotations/tutorial/claude-opus-4-6.md

@@ -1,4 +1,0 @@
-#!/bin/sh
-set -euf
-top="$1"
-sed -n '/^## Contents/, /About related projects/p' "$top/index.md" | sed 's/(topics/(/'

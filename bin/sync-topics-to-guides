@@ -1,0 +1,11 @@
+#!/bin/sh
+set -euf
+top="$(git rev-parse --show-toplevel)"
+"$top/bin/guides" |
+while read -r guide; do 
+    echo "$guide"
+    "$top/bin/parse-contents-file-to-topics" "$top/guides/$guide/index.md" | 
+    while read -r topic; do 
+        rsync -avq "$top/topics/$topic/" "$top/guides/$guide/topics/$topic/"
+    done
+done

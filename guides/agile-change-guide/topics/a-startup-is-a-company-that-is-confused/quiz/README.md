@@ -1,0 +1,1 @@
+./topics/a-startup-is-a-company-that-is-confused/quiz/quiz-by-claude-opus-4-5-20251101.md

@@ -1,0 +1,1 @@
+/Users/jph/git/sixarm/topics/topics/specification-driven-development/tutorial/claude-opus-4-6.md

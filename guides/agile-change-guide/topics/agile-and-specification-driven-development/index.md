@@ -1,0 +1,9 @@
+# Agile and specification-driven development (SDD)
+
+Agile and specification-driven development (SDD) combines structured upfront requirements with iterative, AI-assisted coding to prevent hallucinations and costly errors. It treats specifications as contracts that define scope, constraints, and testable acceptance criteria, which AI agents then implement to produce high-quality, maintainable code.
+
+SDD rests on several core principles. Specifications are written primarily for AI agents to follow, reducing guesswork and unauthorized deviations. Unlike traditional rigid documents, these specs are living documentation maintained in Markdown and continually updated as development proceeds. Work is divided into small, manageable tasks, often following lightweight frameworks such as openspec or spec kit. Each specification clearly states how the work will be verified, frequently using Behavior-Driven Development techniques like Given/When/Then scenarios.
+
+The workflow in AI-assisted SDD follows a research-plan-execute cycle. First, the AI reviews the current codebase to understand context. Then a detailed plan outlining constraints and goals is written and reviewed by a human. Finally, the AI agent uses the approved spec to generate functional code, with the specification acting as a guardrail that corrects wandering implementations.
+
+Critics sometimes characterize SDD as a return to Waterfall thinking, but proponents argue it is a modern evolution of Agile. Traditional Agile minimized documentation because humans could hold context and make judgment calls. AI agents cannot. Providing structured specifications gives AI the clarity it needs while preserving iterative delivery, frequent feedback, and the ability to adapt. The result is faster iteration with the necessary structure for AI to generate not just code quickly, but the correct code.
