@@ -1,0 +1,1 @@
+/Users/jph/git/sixarm/topics/topics/agile-ways-of-working/tutorial/claude-opus-4-6.md
