@@ -1,0 +1,9 @@
+# Disciplined Agile principle 4: Context counts
+
+Disciplined Agile principle 4, "Context Counts," states that every team and organization is unique, so your Way of Working must reflect your specific environment and evolve over time. There is no single process that works for everyone. Instead, you must understand your situation and tailor your approach accordingly.
+
+This principle is the logical partner to Disciplined Agile principle 3, "Pragmatism." It builds on the observation that every team, project, and organization faces a distinct set of challenges. A five-person startup building a greenfield application operates in a fundamentally different reality than a hundred-person department maintaining a legacy mainframe inside a heavily regulated bank. Treating them the same guarantees failure for at least one of them.
+
+Disciplined Agile identifies several scaling factors that shape context. Team size affects communication patterns and coordination overhead. Geographic distribution determines whether people can collaborate in real time or must work asynchronously across time zones. Organizational complexity introduces governance, compliance, and cross-team dependencies that smaller organizations simply do not face. Technical debt dictates how much freedom a team has to change direction quickly versus how much effort goes toward maintaining existing systems.
+
+Because context varies so widely, Disciplined Agile does not prescribe a single recipe. Instead, it provides a toolkit of strategies and decision frameworks. Rather than dictating "do X," it asks "what is your context?" and then guides you toward the options most likely to succeed in your specific scenario. Teams choose their own practices, revisit those choices as conditions change, and continuously refine their Way of Working. The goal is a process that fits the work, not work forced to fit a process.
