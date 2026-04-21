@@ -1,1 +1,1 @@
-/Users/jph/git/sixarm/topics/topics/agile-with-showcases/tutorial/claude-opus-4-6.md
+index.md

@@ -1,1 +1,1 @@
-/Users/jph/git/sixarm/topics/topics/pay-what-you-want/tutorial/claude-opus-4-6.md
+index.md

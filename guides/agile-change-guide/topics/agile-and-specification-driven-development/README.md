@@ -1,1 +1,1 @@
-/Users/jph/git/sixarm/topics/topics/agile-and-specification-driven-development/index.md
+index.md

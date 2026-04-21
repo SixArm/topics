@@ -1,1 +1,1 @@
-/Users/jph/git/sixarm/topics/topics/software-architecture/tutorial/claude-opus-4-6.md
+index.md

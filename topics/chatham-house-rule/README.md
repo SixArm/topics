@@ -1,1 +1,1 @@
-/Users/jph/git/sixarm/topics/topics/chatham-house-rule/index.md
+index.md

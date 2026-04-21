@@ -1,1 +1,1 @@
-/Users/jph/git/sixarm/topics/topics/s-corporation/tutorial/claude-opus-4-6.md
+index.md

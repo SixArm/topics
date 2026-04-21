@@ -1,1 +1,1 @@
-/Users/jph/git/sixarm/topics/topics/silicon-valley-product-group/tutorial/claude-opus-4-6.md
+index.md

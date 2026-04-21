@@ -1,1 +1,1 @@
-/Users/jph/git/sixarm/topics/topics/premature-optimization-is-the-root-of-all-evil/tutorial/claude-opus-4-6.md
+index.md

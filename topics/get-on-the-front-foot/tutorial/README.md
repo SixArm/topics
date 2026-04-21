@@ -1,1 +1,1 @@
-/Users/jph/git/sixarm/topics/topics/get-on-the-front-foot/tutorial/claude-opus-4-6.md
+index.md

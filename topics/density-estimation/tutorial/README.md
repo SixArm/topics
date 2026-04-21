@@ -1,1 +1,1 @@
-/Users/jph/git/sixarm/topics/topics/density-estimation/tutorial/claude-opus-4-6.md
+index.md

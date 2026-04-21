@@ -1,1 +1,1 @@
-/Users/jph/git/sixarm/topics/topics/strategic-alliance/tutorial/claude-opus-4-6.md
+index.md

@@ -1,1 +1,1 @@
-/Users/jph/git/sixarm/topics/topics/agile-principle-8-sustainable-pace/tutorial/claude-opus-4-6.md
+index.md

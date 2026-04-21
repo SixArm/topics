@@ -1,1 +1,1 @@
-/Users/jph/git/sixarm/topics/topics/get-out-of-the-building/tutorial/claude-opus-4-6.md
+index.md

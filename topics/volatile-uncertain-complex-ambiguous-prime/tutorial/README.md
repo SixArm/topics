@@ -1,1 +1,1 @@
-/Users/jph/git/sixarm/topics/topics/volatile-uncertain-complex-ambiguous-prime/tutorial/claude-opus-4-6.md
+index.md

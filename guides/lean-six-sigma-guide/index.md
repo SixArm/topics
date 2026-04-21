@@ -9,7 +9,7 @@
 
 # Lean Six Sigma Guide
 
-<img src="README.jpg" alt="splash" style="width: 100%;"/>
+<img src="index.jpg" alt="splash" style="width: 100%;"/>
 
 Lean Six Sigma Guide: this book explains one topic per page, like a big glossary, easy wiki, quick encyclopedia, or summary notes.
 

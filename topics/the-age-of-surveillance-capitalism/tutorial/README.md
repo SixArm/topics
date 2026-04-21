@@ -1,1 +1,1 @@
-/Users/jph/git/sixarm/topics/topics/the-age-of-surveillance-capitalism/tutorial/claude-opus-4-6.md
+index.md

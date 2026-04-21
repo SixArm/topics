@@ -1,1 +1,1 @@
-/Users/jph/git/sixarm/topics/topics/homomorphic-encryption/tutorial/claude-opus-4-6.md
+index.md

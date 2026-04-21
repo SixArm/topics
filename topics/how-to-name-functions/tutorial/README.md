@@ -1,1 +1,1 @@
-/Users/jph/git/sixarm/topics/topics/how-to-name-functions/tutorial/claude-opus-4-6.md
+index.md

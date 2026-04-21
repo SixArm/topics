@@ -1,1 +1,1 @@
-/Users/jph/git/sixarm/topics/topics/quantitative-fallacy/tutorial/claude-opus-4-6.md
+index.md

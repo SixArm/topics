@@ -1,1 +1,1 @@
-/Users/jph/git/sixarm/topics/topics/three-point-estimating/index.md
+index.md

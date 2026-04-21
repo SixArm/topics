@@ -1,1 +1,1 @@
-/Users/jph/git/sixarm/topics/topics/work-for-hire-agreement/tutorial/claude-opus-4-6.md
+index.md

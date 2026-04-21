@@ -1,1 +1,1 @@
-/Users/jph/git/sixarm/topics/topics/disciplined-agile-principle-8-enterprise-awareness/index.md
+index.md

@@ -1,1 +1,1 @@
-/Users/jph/git/sixarm/topics/topics/low-fidelity-prototype/tutorial/claude-opus-4-6.md
+index.md

@@ -1,1 +1,1 @@
-/Users/jph/git/sixarm/topics/topics/agile-and-finops/index.md
+index.md

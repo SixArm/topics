@@ -1,1 +1,1 @@
-/Users/jph/git/sixarm/topics/topics/stub-test-double/tutorial/claude-opus-4-6.md
+index.md

@@ -1,1 +1,1 @@
-/Users/jph/git/sixarm/topics/topics/disciplined-agile-principle-7-organize-around-product-services/index.md
+index.md

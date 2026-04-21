@@ -1,1 +1,1 @@
-/Users/jph/git/sixarm/topics/topics/social-value-orientation/tutorial/claude-opus-4-6.md
+index.md

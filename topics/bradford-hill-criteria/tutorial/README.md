@@ -1,1 +1,1 @@
-/Users/jph/git/sixarm/topics/topics/bradford-hill-criteria/tutorial/claude-opus-4-6.md
+index.md

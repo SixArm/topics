@@ -1,1 +1,1 @@
-/Users/jph/git/sixarm/topics/topics/vision-statement/tutorial/claude-opus-4-6.md
+index.md

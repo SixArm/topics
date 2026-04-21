@@ -1,1 +1,1 @@
-/Users/jph/git/sixarm/topics/topics/majority-voting/tutorial/claude-opus-4-6.md
+index.md

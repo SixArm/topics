@@ -1,1 +1,1 @@
-/Users/jph/git/sixarm/topics/topics/agile-change-and-artificial-intelligence/tutorial/claude-opus-4-6.md
+index.md

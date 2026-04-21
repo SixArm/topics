@@ -1,1 +1,1 @@
-/Users/jph/git/sixarm/topics/topics/boyer-moore-algorithm/tutorial/claude-opus-4-6.md
+index.md

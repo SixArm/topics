@@ -1,1 +1,1 @@
-/Users/jph/git/sixarm/topics/topics/partnership-life-cycle/tutorial/claude-opus-4-6.md
+index.md

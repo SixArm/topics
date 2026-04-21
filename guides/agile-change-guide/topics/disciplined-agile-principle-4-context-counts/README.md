@@ -1,1 +1,1 @@
-/Users/jph/git/sixarm/topics/topics/disciplined-agile-principle-4-context-counts/index.md
+index.md

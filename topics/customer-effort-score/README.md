@@ -1,1 +1,1 @@
-/Users/jph/git/sixarm/topics/topics/customer-effort-score/index.md
+index.md

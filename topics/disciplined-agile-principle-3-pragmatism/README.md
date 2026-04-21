@@ -1,1 +1,1 @@
-/Users/jph/git/sixarm/topics/topics/disciplined-agile-principle-3-pragmatism/index.md
+index.md

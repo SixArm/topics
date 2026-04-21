@@ -1,1 +1,1 @@
-/Users/jph/git/sixarm/topics/topics/agile-work-in-progress/index.md
+index.md

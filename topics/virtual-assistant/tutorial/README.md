@@ -1,1 +1,1 @@
-/Users/jph/git/sixarm/topics/topics/virtual-assistant/tutorial/claude-opus-4-6.md
+index.md

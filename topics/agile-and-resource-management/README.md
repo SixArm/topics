@@ -1,1 +1,1 @@
-/Users/jph/git/sixarm/topics/topics/agile-and-resource-management/index.md
+index.md

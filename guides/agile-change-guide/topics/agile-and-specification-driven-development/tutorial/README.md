@@ -1,1 +1,1 @@
-/Users/jph/git/sixarm/topics/topics/agile-and-specification-driven-development/tutorial/claude-opus-4-6.md
+index.md

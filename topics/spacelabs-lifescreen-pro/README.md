@@ -1,1 +1,1 @@
-/Users/jph/git/sixarm/topics/topics/spacelabs-lifescreen-pro/index.md
+index.md

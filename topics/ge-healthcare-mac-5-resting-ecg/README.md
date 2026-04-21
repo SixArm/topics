@@ -1,1 +1,1 @@
-/Users/jph/git/sixarm/topics/topics/ge-healthcare-mac-5-resting-ecg/index.md
+index.md
