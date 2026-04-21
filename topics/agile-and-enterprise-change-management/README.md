@@ -1,0 +1,1 @@
+/Users/jph/git/sixarm/topics/topics/agile-and-enterprise-change-management/index.md
