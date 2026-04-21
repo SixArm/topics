@@ -1,0 +1,1 @@
+/Users/jph/git/sixarm/topics/topics/definition-of-customer/index.md
