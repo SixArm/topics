@@ -1,0 +1,9 @@
+# Definition of User (DoU)
+
+A user is the person who ultimately uses or is intended to use a product to perform a task or achieve a goal. Users are distinguished from customers, who pay for or purchase the product, and from operators such as administrators or maintenance staff who support the system. Understanding this distinction matters because optimizing for the buyer rather than the actual user is one of the most common ways teams build the wrong thing.
+
+Users are the primary value target of any product effort. They have hands-on, daily interaction with the product to solve specific real-world problems, and they focus on usability and functionality rather than underlying technical details or architectural assumptions. Their feedback is the strongest indicator of a product's actual performance and real-world value.
+
+In the software development lifecycle, users shape the work at every stage. Requirements are written from the user's perspective through user stories, ensuring features align with real goals rather than internal assumptions. Users provide input during sprint reviews, surveys, and direct communication to fuel ongoing improvements. They participate in user acceptance testing and usability studies to surface bugs or missing features that the development team may have overlooked. In some teams, knowledgeable end users work directly with the delivery team to refine user stories and define acceptance criteria.
+
+A clear Definition of User gives teams a shared reference point for prioritization, design decisions, and scope conversations. Without it, teams risk building features that satisfy stakeholders or pass technical review but fail the people who depend on the product daily. Making the user explicit and visible keeps the team aligned on who they are actually serving.
