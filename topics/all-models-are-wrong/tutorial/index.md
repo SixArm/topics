@@ -1,0 +1,1 @@
+/Users/jph/git/sixarm/topics/topics/all-models-are-wrong/tutorial/claude-opus-4-6.md
