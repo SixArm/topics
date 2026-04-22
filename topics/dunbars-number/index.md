@@ -1,0 +1,9 @@
+# Dunbar's Number
+
+Dunbar's Number is the cognitive limit of approximately 150 stable relationships that one person can maintain. Beyond this threshold, our brains struggle to track who people are, what they do, and how they relate to one another. The concept comes from anthropologist Robin Dunbar, who found a correlation between primate neocortex size and social group size, and predicted the human limit at roughly 150. Historical village sizes, military company units, and communal groups consistently hover around this figure.
+
+For technology organizations, the implications are direct. An engineering department of 150 people might still function with informal communication, where everyone knows who to ask about a given system or problem. Once headcount grows past that point, informal knowledge breaks down. Teams feel impersonal, coordination overhead rises sharply, and organizations need formal rules, dedicated communication channels, and additional management layers to stay effective.
+
+Dunbar also proposed smaller social layers within the 150 limit: about 5 intimate relationships, 15 trusted collaborators, 50 close working relationships, and 150 stable social connections. This maps well to software teams. High-trust collaboration happens in groups of 5 to 10. Teams larger than 10 to 15 begin losing cohesion. The 150 limit applies to departments or communities, not day-to-day working groups.
+
+Many startups report a cultural shift around the 150-employee mark, when you no longer know everyone's name and all-hands meetings become necessary. Large open-source projects like the Linux kernel handle scale by structuring contributors into small subsystem teams. Amazon's two-pizza teams of 5 to 10 people reflect the same principle: even within a 150-person organization, effective work happens in small units.
