@@ -1,0 +1,1 @@
+/Users/jph/git/sixarm/topics/topics/you-aint-gonna-need-it/tutorial/claude-opus-4-6.md
