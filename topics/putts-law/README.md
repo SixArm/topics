@@ -1,0 +1,1 @@
+/Users/jph/git/sixarm/topics/topics/putts-law/index.md
