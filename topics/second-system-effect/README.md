@@ -1,0 +1,1 @@
+/Users/jph/git/sixarm/topics/topics/second-system-effect/index.md
