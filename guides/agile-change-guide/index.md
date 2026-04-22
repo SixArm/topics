@@ -129,29 +129,37 @@ Agile Change Guide: this book explains one topic per page, like a big glossary, 
 - [Agile meetings](topics/agile-meetings)
 - [Agile coaching](topics/agile-coaching)
 
-### [Project managment](topics/project-management)
+## [You Ain't Gonna Need It (YAGNI)](topics/you-aint-gonna-need-it)
+
+Selections from [Business Lingo Guide](https://github.com/sixarm/business-lingo-guide)
+
+- [The Law of Demos (Kapor's Law)](topics/the-law-of-demos)
+- [The Law of Conservation of Complexity (Tesler's Law)](topics/the-law-of-conservation-of-complexity)
+- [All Models Are Wrong (George Box's Law)](topics/all-models-are-wrong)
+
+### [Project management](topics/project-management)
+
+Selections from [Project Management Guide](https://github.com/sixarm/project-management-guide)
 
 - [T-shirt size task estimation](topics/t-shirt-size-task-estimation)
 - [Burndown chart](topics/burndown-chart)
 - [Critical chain project management](topics/critical-chain-project-management)
 
-For much more, see our [Project Management Guide](https://github.com/sixarm/project-management-guide)
-
 ### [User-centered design (UCD)](topics/user-centered-design)
+
+Selections from [UI/UX Design Guide](https://github.com/sixarm/ui-ux-design-guide)
 
 - [Customer experience (CX)](topics/customer-experience)
 - [Developer experience (DX)](topics/developer-experience)
 - [Creative thinking techniques](topics/creative-thinking-techniques)
 
-For much more, see our [UI/UX Design Guide](https://github.com/sixarm/ui-ux-design-guide)
-
 ## [Acceptance testing](topics/acceptance-testing)
+
+Selections from [Test Automation Guide](https://github.com/sixarm/test-automation-guide)
 
 - [Good Enough For Now (GEFN)](topics/good-enough-for-now)
 - [Shift-left testing](topics/shift-left-testing)
 - [Specification-driven development (SDD)](topics/specification-driven-development)
-
-For much more, see our [Test Automation Guide](https://github.com/sixarm/test-automation-guide)
 
 ### [Agile and practices](topics/agile-and-practices)
 
@@ -220,6 +228,7 @@ For much more, see our [Test Automation Guide](https://github.com/sixarm/test-au
 ### [Agile perspectives](topics/agile-perspectives)
 
 - [Voice of Customer (VOC)](topics/voice-of-customer)
+- [Continuous improvement](topics/continuous-improvement)
 - [The Three Amigos](topics/the-three-amigos)
 - [The 7 Dimensions for agile product development](topics/the-7-dimensions-for-agile-product-development)
 - [The 5 C's of agile management](topics/the-5-c-s-of-agile-management)
