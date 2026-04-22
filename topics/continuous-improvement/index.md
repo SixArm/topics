@@ -1,1 +1,9 @@
-TODO
+# Continuous improvement
+
+Continuous improvement is a long-term strategy that focuses on making small, ongoing, incremental changes to products, services, or processes to increase efficiency and quality. Rather than waiting for a major overhaul, it emphasizes that steady refinement leads to significant long-term results. Several core methodologies drive this approach.
+
+Kaizen is a Japanese philosophy meaning "change for the better" that empowers every employee, from leadership to the front line, to identify and solve problems daily. Lean focuses on identifying and eliminating waste, meaning anything that does not add value to the customer, to streamline workflows. Six Sigma is a data-driven approach that uses statistical methods to reduce defects and minimize process variation. The PDCA Cycle is a four-step model for carrying out change: Plan the opportunity, Do a small-scale test, Check by evaluating data, then Act by implementing widely or adjusting.
+
+These methodologies deliver concrete benefits. Streamlining processes reduces cycle time and allows teams to accomplish more with the same resources. Creating a culture of continuous improvement gives staff ownership over their work, which reduces turnover and boosts morale. Eliminating redundant tasks and wasteful steps directly improves the bottom line. Constant refinement ensures products and services better meet evolving customer needs.
+
+In practice, a software team might adopt a Kanban board to visualize workflow and surface bottlenecks. Regular retrospectives can refresh processes and ensure teams maintain relevant skills. Workplace organization techniques such as 5S (Sort, Straighten, Shine, Standardize, Sustain) reduce friction and errors. Internal feedback loops using surveys or polls identify pain points early, enabling small targeted fixes that compound into large cultural and operational gains.
