@@ -1,0 +1,9 @@
+# Zawinski's Law
+
+Zawinski's Law states that every program attempts to expand until it can read mail. Coined by Jamie Zawinski (jwz) around 1995 during his time at Netscape, it is a humorous but incisive observation about the relentless tendency of software to grow beyond its original scope. "Reading mail" was the chosen example because in the mid-90s, users often had to exit their current application and launch a separate mail program, making email integration a common demand.
+
+The law captures the phenomenon of feature creep. As an application attracts users, it faces mounting pressure to add capabilities. Users and product managers continually request "just one more feature," and there is constant incentive to incorporate popular functionality to prevent users from leaving for competing tools. A lean, minimal application that gains popularity will steadily accumulate features until it becomes as complex as its competitors.
+
+Zawinski's deeper point was about platformization. Once users spend a significant part of their day inside an application, pressure builds for that application to become a platform that does everything. Netscape Navigator grew from a slim browser into Netscape Communicator, a bloated suite bundling email, news, and web editing. It became sluggish and over-complicated, opening the door for Firefox, which deliberately stripped back to just a fast browser. Slack set out to replace email but absorbed voice calls, video meetings, file sharing, bots, and app plugins. GitHub started hosting code, then expanded into issue tracking, wikis, project boards, CI pipelines, and package registries.
+
+The takeaway for technology professionals is clear: unchecked expansion can sabotage a product's original value. Adding features is easy. Adding only the right features and saying "no" to the rest is what preserves focus and quality.
