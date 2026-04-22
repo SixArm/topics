@@ -1,0 +1,1 @@
+/Users/jph/git/sixarm/topics/topics/the-law-of-leaky-abstractions/tutorial/claude-opus-4-6.md
