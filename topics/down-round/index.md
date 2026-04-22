@@ -1,1 +1,9 @@
-TODO
+# Down round
+
+A down round is a venture capital funding round where a company issues new shares at a lower valuation, and thus a lower price per share, than in its previous financing round. While typically seen as a negative signal, it is often a necessary reset for companies that were previously overvalued or are facing difficult market conditions.
+
+Down rounds happen for several reasons. A company may have missed growth, revenue, or product development milestones set in earlier stages. Macroeconomic shifts such as broad economic downturns, rising interest rates, or sector-specific declines can compress valuations across an entire market. Increased competition from new rivals can reduce a company's market share or erode its competitive edge. Sometimes the cause is simply a cash crunch, where the urgent need for capital to maintain operations leaves the company with little negotiating leverage.
+
+The impacts of a down round are significant. To raise the same amount of capital at a lower price, the company must issue more shares, severely diluting existing shareholders. Preferred investors often hold anti-dilution protections, such as full-ratchet or weighted-average provisions, that grant them extra shares to preserve their value, further diluting founders and employees. Employee stock options may become underwater, meaning the strike price exceeds the current fair market value, making those options effectively worthless and hurting retention. The negative signal can also damage market confidence, making future fundraising and hiring more difficult.
+
+Companies facing a potential down round have strategic alternatives. Bridge financing through convertible notes or SAFEs can delay a fully priced round. Reducing burn rate through cost-cutting or layoffs extends existing runway. Founders can also negotiate with current investors to waive anti-dilution rights or adjust terms in exchange for participating in new capital.
