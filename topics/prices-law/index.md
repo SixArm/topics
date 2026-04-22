@@ -1,0 +1,9 @@
+# Price's Law
+
+Price's Law states that the square root of the total number of contributors produces roughly half of the total output. In a 100-person engineering organization, approximately 10 people generate half the results. Derek de Solla Price discovered this pattern in 1963 while studying scientific publication rates among academics, and the principle has since been applied broadly across industries.
+
+For technology teams, this has direct implications for hiring and retention strategy. Simply adding headcount does not scale output linearly. Beyond a certain size, many contributors work on peripheral tasks or make incremental contributions, while a small core drives the majority of meaningful progress. This makes a strong case for prioritizing hiring quality over quantity: one exceptional engineer often delivers more value than several average ones.
+
+The law also highlights a significant retention risk. If your top contributors leave, you lose a disproportionate share of productivity. Identifying these key people and actively preventing their burnout is essential. When Twitter reduced its workforce from roughly 7,500 to about half after its acquisition in 2022, the platform continued operating, consistent with Price's Law predicting that around 87 core contributors could sustain it. However, the company later asked some laid-off employees to return, demonstrating that the law does not predict which specific skills are critical or account for the redundancy needed in areas like reliability engineering and security.
+
+Price's Law is best treated as a useful model rather than an absolute rule. It is similar to the Pareto principle but grows more extreme at larger scales. It provides a practical lens for workforce planning, resource allocation, and understanding why losing specific individuals can have an outsized impact on a team's effectiveness.
