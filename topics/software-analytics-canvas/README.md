@@ -1,0 +1,1 @@
+/Users/jph/git/sixarm/topics/topics/software-analytics-canvas/index.md
