@@ -43,17 +43,6 @@ out() {     printf %s%s%s\\n "${STDOUT_COLOR_START:-}" "$*" "${STDOUT_COLOR_STOP
 err() { >&2 printf %s%s%s\\n "${STDERR_COLOR_START:-}" "$*" "${STDERR_COLOR_STOP:-}"; }
 die() { n="$1" ; shift ; err "$*"; exit "$n"; }
 
-# topics
-# 
-# Return a list of topic directory names, one per line.
-# We shuffle the list because this helps reduce collisions.
-#
-topics() {
-    find "$HOME/git/sixarm/topics/topics" -type d -depth 1 |
-    xargs -n1 basename |
-    shuf
-}
-
 # vacuum
 # 
 # Clean up the topic files by deleting any extranous generated files.
@@ -280,14 +269,62 @@ EOF
     ln -sfn "$target_file" "$target_dir/README.md"
 }
 
+# create_guide_summary
+# 
+# Use Claude to create a guide summary page.
+# 
+# This function saves the output to a specific file name,
+# currently "summary.md".
+#
+create_guide_summary() {
+    #echo "create_guide_summary $1"
+
+    # Set inputs
+    guide="$1"
+    guide_dir="$top/guides/$guide"
+    guide_file="$guide_dir/index.md"
+    target_file="$guide_dir/summary.md"
+    
+    # Does the target file already exist? If so, skip creating it.
+    if [ -f "$target_file" ]; then continue; fi
+
+    # Create a specific prompt that generates the phrasing that we prefer.
+    # We ensure claude prints to stdout, and doesn't try to write a file.
+    prompt=$(cat<<-EOF
+Create summary explaining guide **$guide** for a technology professional.
+Read input file "$guide_file"
+1. H1 title
+2. Format body text using paragraphs.
+No body text headers
+Between 900 and 1000 words
+Be decisive. 
+No ASCII diagrams. No source code. No emoji.
+Print the markdown directly. Do not modify files. Do not use the Write tool.
+EOF
+    )
+    echo "create_guide_summary $guide $target_file"
+    claude \
+    --print "$prompt" \
+    --add-dir "$guide_dir" \
+    --model "$model" \
+    --allowedTools "Read" \
+    --no-session-persistence \
+    </dev/null \
+    >>"$target_file"
+}
+
 main() {
     vacuum
-    topics |
+    "$top/bin/topics" | shuf |
     while read -r topic; do
         vet_topic "$topic" || continue
         create_topic_index "$topic"
         create_topic_tutorial "$topic"
         #create_topic_quiz "$topic"
+    done
+    "$top/bin/guides" | shuf |
+    while read -r guide; do
+        create_guide_summary "$guide"
     done
 }
 
