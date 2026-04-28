@@ -1,0 +1,9 @@
+# Software Architecture Canvas
+
+The Software Architecture Canvas is a collaborative technique for defining the architectural playground of a software initiative. It helps product teams lay the groundwork for software architecture in an efficient, iterative, and time-saving manner, treating architecture as a team sport rather than an individual exercise.
+
+Software development teams frequently fall into a common trap at the start of a new project: jumping straight into low-level technical decisions. Teams debate microservices versus monoliths, choose between programming languages, argue over cloud providers, and compare frontend frameworks before establishing the foundational context that should drive those choices. These discussions, while appealing to technology enthusiasts, are premature without first defining the engineering playground.
+
+The canvas addresses this by structuring the essential questions that a product team must discuss and answer before diving into implementation details. Without understanding the playground, teams lack the context needed to justify technical decisions. Choosing between event-driven architecture and a serverless approach means nothing if the team has not first aligned on the system's core purpose, constraints, quality attributes, and stakeholder concerns.
+
+Developed from years of experience leading product teams through new software initiatives, the canvas captures the recurring questions that consistently arise across projects. It provides a structured framework that prevents teams from skipping foundational alignment and jumping to premature technology choices. By working through the canvas collaboratively, teams build shared understanding of what they are building and why, which then gives them the grounding to make well-reasoned technical and architectural decisions. The result is faster, more confident progress once implementation begins.
