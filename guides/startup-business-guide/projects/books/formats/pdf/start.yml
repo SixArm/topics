@@ -8,8 +8,8 @@ description: >
   discovery, product-market fit (PMF), minimum viable product (MVP), industries
   and sectors, roles and responsibilities, sales and marketing, and venture
   capital (VC).
-cover-image: "../../README.jpg"
-logo: "../README.jpg"
+cover-image: "../../../../index.jpg"
+logo: "../../../../index.jpg"
 logo-width: 100
 page-background:
 page-background-opacity:

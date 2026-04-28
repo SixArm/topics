@@ -14,8 +14,8 @@ titlepage-color: "FFFFFF"
 titlepage-text-color: "000000"
 titlepage-rule-color: "CCCCCC"
 titlepage-rule-height: 4
-cover-image: "../../README.jpg"
-logo: "../README.jpg"
+cover-image: "../../../../index.jpg"
+logo: "../../../../index.jpg"
 logo-width: 100
 page-background:
 page-background-opacity:

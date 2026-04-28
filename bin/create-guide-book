@@ -1,0 +1,46 @@
+#!/bin/sh
+
+# convert-guide-to-book - Convert a guide to a book format (e.g. PDF, EPUB)
+#
+# Syntax:
+#
+#     convert-guide-to-book <guide> <format>
+#
+# Examples:
+#
+#     convert-guide-to-book agile-change-guide epub
+#     convert-guide-to-book agile-change-guide pdf 
+
+set -euf
+
+## https://github.com/sixarm/unix-shell-script-kit
+
+err() { >&2 printf %s\\n "Error: ${*}"; }
+
+directory_exists_or_err() { test -d "$1" || err "Directory should exist: $1"; }
+file_exists_or_err() { test -f "$1" || err "File should exist: $1"; }
+
+top="$(git rev-parse --show-toplevel)"
+
+guide="$1"
+format="$2"
+
+guide_dir="$top/guides/$guide" && directory_exists_or_err "$guide_dir"
+guide_topics="$guide_dir/topics" && directory_exists_or_err "$guide_topics"
+guide_index="$guide_dir/index.md" && file_exists_or_err "$guide_index"
+guide_output="$guide_dir/$guide.$format"
+
+book_dir="$guide_dir/projects/books/formats/$format" && directory_exists_or_err "$book_dir"
+book_start="$book_dir/start.yml" && file_exists_or_err "$book_start"
+book_links="$book_dir/tmp/links.md"
+book_bound="$book_dir/tmp/bound.md"
+pandoc="pandoc-from-markdown-to-$format"
+
+## clean
+rm -f "$book_links" "$book_bound" "$guide_output"
+
+cd "$book_dir"
+"$top/bin/parse-contents-file-to-markdown-links" "$guide_index" > "$book_links"
+book-binder "$book_start" "$book_links" "$book_bound" "$guide_topics"
+"$pandoc" "$book_bound" -o "$guide_output"
+file_exists_or_err "$guide_output"
