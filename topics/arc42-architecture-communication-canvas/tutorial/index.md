@@ -1,0 +1,1 @@
+/Users/jph/git/sixarm/topics/topics/arc42-architecture-communication-canvas/tutorial/claude-opus-4-6.md
