@@ -1,0 +1,1 @@
+/Users/jph/git/sixarm/topics/topics/agile-adjacent-methodologies/index.md
