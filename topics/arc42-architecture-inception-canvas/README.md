@@ -1,0 +1,1 @@
+/Users/jph/git/sixarm/topics/topics/arc42-architecture-inception-canvas/index.md
