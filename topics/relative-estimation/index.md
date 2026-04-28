@@ -1,1 +1,9 @@
-TODO
+# Relative Estimation
+
+Relative estimation is a technique for assessing work by comparing items to one another rather than using absolute units such as hours, days, or weeks. This approach leverages a fundamental human strength: people are naturally better at comparing two things than predicting exact durations, especially under the high uncertainty common in software development.
+
+Instead of asking "How long will this task take?", a team asks "Is this task more or less complex than the one we just completed?" The process starts by establishing a baseline task that everyone understands and assigning it a middle value on a chosen scale. Every subsequent task is then anchored to that baseline. Common scales include Fibonacci numbers (1, 2, 3, 5, 8, 13), T-shirt sizes (S, M, L, XL), and similar unitless measures.
+
+Relative estimation speeds up planning because precise time estimates are frequently wrong, while relative sizing is faster and directs attention toward delivery rather than false precision. It also uncovers hidden complexity, since comparing tasks forces discussions that surface unknown risks before they derail a sprint. The technique focuses on effort rather than hours, which accounts for differences in team member experience. A senior developer might finish a three-point task in two hours while a junior developer takes a full day, but the inherent complexity remains the same.
+
+Over two or three sprints, a team can observe how many points it typically completes. This velocity metric enables more accurate roadmap forecasting than guessing dates. Techniques such as Planning Poker, where team members simultaneously reveal point estimates to avoid anchoring bias, and Affinity Estimating, where tasks are silently sorted on a wall from easier to harder, are widely used to run relative estimation sessions effectively.
