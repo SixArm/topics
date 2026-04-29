@@ -5,7 +5,7 @@ top="$(git rev-parse --show-toplevel)"
 # Find guide directory names sorted by recency,
 # because this makes it more efficient to update
 # changes when we're working on one of the guides.
-find "$top/guides" -type f -depth 2 -name index.md -exec stat -f %Fm%t%N {} + |
+find "$top/guides" -type f -depth 2 -maxdepth 2 -name index.md -exec stat -f %Fm%t%N {} + |
 LC_ALL=C sort -rn | 
 cut -f2- |
 xargs dirname |
