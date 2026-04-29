@@ -1,4 +1,4 @@
 #!/bin/sh
 set -euf
 top="$(git rev-parse --show-toplevel)"
-find "$top/topics" -type d -depth 1 | xargs basename | sort
+find "$top/topics" -maxdepth 1 -type d -print0 | xargs -0 basename | sort
