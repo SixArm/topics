@@ -1,0 +1,1 @@
+/Users/jph/git/sixarm/topics/topics/systematized-nomenclature-of-medicine-clinical-terms/index.md
