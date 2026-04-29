@@ -91,12 +91,16 @@ Digital Health Guide: this book explains one topic per page, like a big glossary
 
 - [Systematized Nomenclature of Medicine - Clinical Terms (SNOMED CT)](topics/systematized-nomenclature-of-medicine-clinical-terms/)
 - [Logical Observation Identifiers Names and Codes (LOINC)](topics/logical-observation-identifiers-names-and-codes/)
-- RxNorm
-- ICD-10
-- OPCS-4
+- [Unified Medical Language System (UMLS)](topics/unified-medical-language-system/)[international-statistical-classification-of-diseases-and-related-health-problems (ICD)](topics/international-statistical-classification-of-diseases-and-related-health-problems/)
+- [United States National Drug Code (US NDC)](topics/united-states-national-drug-code/)
+- [RxNorm](topics/rx-norm/)
+- [RxNorm Concept Unique Identifier (RXCUI)](topics/rx-norm-concept-unique-identifier/)
+- [Office of Population Censuses and Surveys (OPCS) Classification of Interventions and Procedures](office-of-population-censuses-and-surveys-classification-of-interventions-and-procedures)
 - CPT/HCPCS
 - Centers for Medicare & Medicaid Services (CMS)
 - electronic Clinical Quality Measures (eCQMs)
+- Micromedex
+- First Databank
 
 ### [Heart rate variability (HRV)](topics/heart-rate-variability/)
 
