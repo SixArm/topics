@@ -1,0 +1,1 @@
+/Users/jph/git/sixarm/topics/topics/how-to-find-startup-validation/index.md
