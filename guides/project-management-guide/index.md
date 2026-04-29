@@ -84,6 +84,8 @@ Project Management Guide: this book explains one topic per page, like a big glos
 - [Planning poker estimation](topics/planning-poker-estimation)
 - [T-shirt size task estimation](topics/t-shirt-size-task-estimation)
 - [Fibonacci task estimation](topics/fibonacci-task-estimation)
+- [Relative estimation](topics/relative-estimation)
+- [Affinity estimation](topics/affinity-estimation)
 
 ### [Resource leveling](topics/resource-leveling)
 
@@ -143,8 +145,16 @@ Project Management Guide: this book explains one topic per page, like a big glos
 - Fishbone diagram: see cause-and-effect diagram
 - Ishikawa diagram: see cause-and-effect diagram
 - [Unified Modeling Language (UML)](topics/unified-modeling-language)
+- [Software architecture canvas](topics/software-architecture-canvas)
+- [Software analytics canvas](topics/software-analytics-canvas)
+- [Tech stack canvas](topics/tech-stack-canvas)
 - [PlantUML](topics/plantuml)
 - [Mermaid.js](topics/mermaid-js)
+
+### [Arc42](topics/arc42)
+
+- [Arc42 architecture inception canvas](topics/arc42-architecture-inception-canvas)
+- [Arc42 architecture communication canvas](topics/arc42-architecture-communication-canvas)
 
 ## Teams
 

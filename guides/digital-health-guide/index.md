@@ -87,13 +87,24 @@ Digital Health Guide: this book explains one topic per page, like a big glossary
 - [AliveCor KardiaMobile 6L](topics/alivecor-kardiamobile-6l/)
 - [AliveCor Kardia 12L](topics/alivecor-kardia-12l/)
 
-### TODO
+### [Clinical Coding](topics/clinical-coding/)
 
-- SNOMED CT
+- [Systematized Nomenclature of Medicine - Clinical Terms (SNOMED CT)](topics/systematized-nomenclature-of-medicine-clinical-terms/)
+- [Logical Observation Identifiers Names and Codes (LOINC)](topics/logical-observation-identifiers-names-and-codes/)
 - RxNorm
-- LOINC
+- ICD-10
+- OPCS-4
+- CPT/HCPCS
 - Centers for Medicare & Medicaid Services (CMS)
 - electronic Clinical Quality Measures (eCQMs)
+
+### [Heart rate variability (HRV)](topics/heart-rate-variability/)
+
+- [Heart rate variability (HRV) metrics](topics/heart-rate-variability-metrics/)
+- [Heart rate variability (HRV) algorithms](topics/heart-rate-variability-algorithms/)
+- [Heart rate variability (HRV) SDNN](topics/heart-rate-variability-sdnn/)
+- [Heart rate variability (HRV) RMSDD](topics/heart-rate-variability-rmsdd/)
+- [Heart rate variability (HRV) lnRMSDD](topics/heart-rate-variability-lnrmsdd/)
 
 ## All our guides
 

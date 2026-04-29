@@ -187,6 +187,8 @@ Selections from [Test Automation Guide](https://github.com/sixarm/test-automatio
 
 ### [Agile alternatives](topics/agile-alternatives)
 
+- [Agile-adjacent methodologies](topics/agile-adjacent-methodologies)
+- [Agile-adjacent ceremonies](topics/agile-adjacent-ceremonies)
 - [Extreme Programming (XP)](topics/extreme-programming)
 - [Lean software development methodology](topics/lean-software-development-methodology)
 - [Waterfall software development methodology](topics/waterfall-software-development-methodology)
