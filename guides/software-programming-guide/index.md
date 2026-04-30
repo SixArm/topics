@@ -204,10 +204,10 @@ Software Programming Guide: this book explains one topic per page, like a big gl
 - [Microservice architecture](topics/microservice-architecture)
 - [Service-oriented architecture (SOA)](topics/service-oriented-architecture)
 - [Event-Driven Architecture (EDA)](topics/event-driven-architecture)
-- [Representational State Transfer (REST)](topics/representational-state-transfer)
-- [Simple Object Access Protocol (SOAP)](topics/simple-object-access-protocol)
-- [Remote procedure call (RPC)](topics/remote-procedure-call)
 - [Durable execution](topics/durable-execution)
+- [LIFESPAR principles](topics/lifespar-principles/)
+- [Hexagonal architecture](topics/hexagonal-architecture/)
+- [Onion architecture](topics/onion-architecture/)
 
 ### [Software development methodologies](topics/software-development-methodologies)
 
@@ -229,7 +229,7 @@ Software Programming Guide: this book explains one topic per page, like a big gl
 - [Localization testing](topics/localization-testing)
 - [Performance testing](topics/performance-testing)
 - [Benchmark testing](topics/benchmark-testing)
-- [Security testing](topics/security-testing)
+- [Security testing](topics/security-testingS)
 - Fuzz testing
 - [Penetration testing](topics/penetration-testing)
 - [Shift-left testing](topics/shift-left-testing)
@@ -306,6 +306,16 @@ Software Programming Guide: this book explains one topic per page, like a big gl
 - [Financial Products Markup Language (FPML)](topics/financial-products-markup-language)
 - [Geography Markup Language (GML)](topics/geography-markup-language)
 - [Strategy Markup Language (StratML)](topics/strategy-markup-language)
+
+### [API protocols](topics/api-protocols)
+
+- [API protocols comparisons](topics/api-protoctols-comparisons)
+- [Representational State Transfer (REST)](topics/representational-state-transfer)
+- [Simple Object Access Protocol (SOAP)](topics/simple-object-access-protocol)
+- [Remote procedure call (RPC)](topics/remote-procedure-call)
+- [Google remote procedure call (gRPC)](topics/google-remote-procedure-call/)
+- [Message Queuing Telemetry Transport (MQTT)](topics/message-queuing-telemetry-transport/)
+- [WebSockets](topics/websockets/)
 
 ### [Query language](topics/query-language)
 
