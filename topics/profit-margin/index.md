@@ -1,0 +1,9 @@
+# Profit margin
+
+Profit margin measures how much of each dollar of revenue a company retains as profit after covering its costs. It is one of the most direct indicators of a business's financial health and operational efficiency. For technology professionals evaluating business models, pricing strategies, or investment opportunities, profit margin provides a clear signal of whether a company's revenue translates into sustainable earnings.
+
+There are two primary types. Gross profit margin reflects production efficiency by comparing revenue to the cost of goods sold, which includes direct costs like infrastructure, hosting, and labor required to deliver a product. Net profit margin captures total business health by accounting for all expenses, including rent, taxes, interest, and marketing. A SaaS company might show a high gross margin because software delivery costs are low, yet a thin net margin if it spends aggressively on customer acquisition.
+
+Businesses routinely navigate the trade-off between margin and volume. High-margin, low-volume models work for premium products where each sale generates significant profit. Low-margin, high-volume models depend on massive scale to compensate for thin per-unit earnings. Most technology companies start with negative margins while pursuing growth, then aim to expand margins as they reach scale.
+
+There are three fundamental ways to improve profit margin. First, adjust pricing: raising prices directly increases margin if demand holds. Second, reduce variable costs by improving operational efficiency, negotiating better vendor contracts, or automating processes. Third, leverage fixed costs by spreading overhead like engineering salaries and office space across a larger revenue base. This is why scale matters so much in technology: the marginal cost of serving an additional user is often near zero, creating the potential for margin expansion that few other industries can match.

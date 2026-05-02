@@ -1,0 +1,1 @@
+/Users/jph/git/sixarm/topics/topics/profit-margin/index.md
