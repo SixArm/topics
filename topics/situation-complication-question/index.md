@@ -1,0 +1,9 @@
+# Situation Complication Question (SCQ)
+
+The Situation Complication Question (SCQ) framework is a narrative method for structuring complex information into a compelling story. Developed by Barbara Minto at McKinsey & Company, it is widely used in consulting, strategy, and technology leadership to define problems clearly and persuade decision-makers toward action.
+
+The framework functions by establishing a shared starting point, introducing tension, then directing attention toward a resolution. It has three components. The Situation is a factual, non-controversial description of the status quo that provides context the audience already knows and agrees with. The Complication is what changed or what went wrong, introducing a problem, threat, or opportunity that makes the current situation unsustainable. The Question is the core problem statement that arises logically from the complication, clarifying exactly what needs to be solved.
+
+For example, a technology team might frame an initiative as follows. Situation: "Our platform serves two million daily active users with an average response time under 200 milliseconds." Complication: "A recent spike in traffic from a new integration partner has pushed p99 latency above one second during peak hours, triggering SLA violations." Question: "How do we scale our infrastructure to handle partner traffic without degrading performance for existing users?"
+
+SCQ works because it mimics natural storytelling. Starting with a familiar situation builds consensus, the complication creates tension that captures attention, and the question focuses the audience on a single decision point. This structure prevents sprawling discussions and respects the time of busy stakeholders. It pairs naturally with the Minto Pyramid Principle, where the answer to the question leads the rest of the communication.
