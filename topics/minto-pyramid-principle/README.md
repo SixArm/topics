@@ -1,0 +1,1 @@
+/Users/jph/git/sixarm/topics/topics/minto-pyramid-principle/index.md
