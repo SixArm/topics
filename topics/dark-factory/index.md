@@ -1,0 +1,9 @@
+# Dark factory
+
+A dark factory, also known as lights-out manufacturing, is a highly automated production facility or software pipeline that operates with minimal or no human intervention. The term originates from the idea that machines do not need light to function, so the facility can run with the lights turned off.
+
+In traditional manufacturing, dark factories rely on artificial intelligence, robotics, and automated material handling systems to produce goods continuously around the clock. Companies like FANUC in Japan operate plants where robots build other robots, and major manufacturers in China use dark factories to scale electric vehicle and appliance production with a fraction of their usual workforce. The approach delivers substantial reductions in overhead costs, eliminates many human safety risks, and allows facilities to be located in remote areas rather than near labor markets.
+
+The concept has expanded into software engineering, where it describes fully automated, AI-driven development workflows. In this context, a dark factory takes high-level goals or specifications and uses AI agents to write, test, debug, and deploy code directly to production without requiring human involvement at each step. Human engineers shift their focus to architecture, specification planning, and governance rather than writing and reviewing every line of code.
+
+The core tradeoff in both physical and software dark factories is between efficiency and control. Automation dramatically increases throughput and reduces costs, but it demands robust monitoring, well-defined quality gates, and clear escalation paths for edge cases that fall outside the system's training or programming. Organizations adopting dark factory approaches typically start with highly repeatable, well-understood processes and expand automation incrementally as confidence in the system grows.
