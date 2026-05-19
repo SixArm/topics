@@ -1,0 +1,9 @@
+# AI LLM tokens
+
+Tokens are the fundamental units that large language models use to process text. Rather than reading words or sentences the way humans do, LLMs break all input and output into tokens, which may correspond to whole words, subwords, individual characters, or even bytes in the case of Unicode text. For Claude, one token represents approximately 3.5 English characters, though this ratio varies by language and content type.
+
+Tokenization is the process of encoding raw text into a sequence of tokens that the model can process. This step is normally invisible to end users interacting at the text level, but it becomes critical when working with model APIs, managing context windows, or optimizing costs. Every prompt you send and every response you receive is measured in tokens, and most providers bill accordingly.
+
+The design of a tokenizer involves deliberate tradeoffs. Larger tokens improve data efficiency during both pretraining and inference, allowing the model to represent common words and phrases compactly. Smaller tokens give the model the flexibility to handle rare, misspelled, or never-before-seen words by decomposing them into recognizable subunits. Most modern tokenizers use algorithms like byte-pair encoding (BPE) to strike this balance, building a vocabulary that covers frequent patterns with single tokens while still handling arbitrary input gracefully.
+
+Token limits define the context window, which is the maximum number of tokens a model can consider in a single interaction. This window must accommodate both the input prompt and the generated output. Understanding token counts is essential for designing effective prompts, managing conversation history, controlling costs, and avoiding truncation. Tools for estimating token counts are available from most model providers and should be part of any production workflow that integrates LLM capabilities.
