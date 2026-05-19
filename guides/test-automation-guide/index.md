@@ -84,6 +84,8 @@ Test Automation Guide: this book explains one topic per page, like a big glossar
 - [Penetration testing](topics/penetration-testing)
 - [Boundary testing](topics/boundary-testing)
 - [Fuzz testing](topics/fuzz-testing)
+- [Static Application Security Testing (SAST)](topics/static-application-security-testing)
+- [Dynamic Application Security Testing (DAST)](topics/dynamic-application-security-testing)
 
 ## Test terminology
 
