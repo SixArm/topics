@@ -1,0 +1,9 @@
+# Retrieval augmented generation (RAG)
+
+Retrieval augmented generation (RAG) is a technique that combines information retrieval with language model generation to produce responses grounded in external evidence. Rather than relying solely on knowledge encoded during training, a RAG system fetches relevant documents from an external knowledge base at query time and provides them to the model as additional context for generating its answer.
+
+The process follows three steps. First, when a user submits a query, the system searches an external data source, such as a vector database or document repository, for information relevant to the question. Second, the retrieved content is appended to the original prompt as supplementary context. Third, the language model generates a response informed by both its internal knowledge and the retrieved material, producing output that is anchored in specific source data.
+
+RAG offers several practical advantages. It reduces hallucinations by grounding responses in retrieved evidence rather than parametric memory alone. It enables real-time knowledge updates, since the external data source can be refreshed without retraining the model. It supports data privacy by allowing organizations to connect models to proprietary or sensitive internal information that was never part of public training data. It also improves transparency, because responses can include citations that let users verify claims against original sources.
+
+Common applications include customer support systems that answer questions about company-specific policies, legal and healthcare tools that surface the latest case law or medical research, and internal knowledge management platforms that let employees search large document collections using natural language. The effectiveness of RAG depends on the quality of the external knowledge base and the relevance of the documents retrieved at runtime.
