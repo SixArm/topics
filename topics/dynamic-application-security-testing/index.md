@@ -1,0 +1,9 @@
+# Dynamic Application Security Testing (DAST)
+
+Dynamic Application Security Testing (DAST) is a black-box security methodology that evaluates an application while it is actively running. Unlike static analysis, which examines source code from the inside, DAST mimics a real-world attacker by probing the application from the outside through its web front-end or APIs.
+
+A DAST tool follows a multi-step process. First, a crawler or spider explores the application to map all pages, links, and entry points such as forms and API endpoints. Next, the tool sends malicious payloads to these entry points, including SQL injection strings and cross-site scripting attempts. It then analyzes the application's responses for anomalies, such as error messages that leak information or evidence that a payload executed successfully. Finally, it generates a report detailing the vulnerabilities found, their severity, and recommendations for remediation.
+
+DAST offers several advantages. It provides runtime visibility, catching flaws that only appear in a live environment such as server misconfigurations, authentication issues, and broken access controls. It is language-agnostic, interacting only via HTTP/HTTPS regardless of the underlying technology stack. Its findings tend to have low false-positive rates because they demonstrate that a vulnerability is actually exploitable in the running application.
+
+DAST also has limitations. It cannot pinpoint the exact line of source code where a bug exists, so developers must trace findings back manually. Because it requires a running application, it is typically used later in the software development lifecycle, making fixes more costly than if caught earlier. It can only test exposed surfaces of an application, meaning hidden logic or unreachable code paths will be missed. For comprehensive coverage, organizations pair DAST with static analysis and other complementary testing approaches.
